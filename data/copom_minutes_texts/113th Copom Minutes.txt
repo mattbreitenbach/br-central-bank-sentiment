@@ -1,0 +1,519 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the 
+Brazilian and international economies under the monetary policy framework, which is designed to comply with the 
+inflation targets established by the government. 
+ 
+Recent Economic Developments 
+  
+1. 
+IPCA monthly inflation doubled in September (0.35%) as against August (0.17%). Despite this increase, the 
+IPCA quarterly moving average remained at low levels by historical standards, down to 0.26%, versus 0.64% 
+recorded in September 2004. The acceleration in monthly inflation was expected, as it was driven primarily by the 
+mid-September fuel price increase (responsible for 40% of the IPCA change). The effect of the fuel price increase 
+is also expected to carry over into the October inflation results. The behavior of the IPCA diffusion index provides 
+further evidence that the September up-tick in inflation was due to one-off factors – it remained at 51.4%, the third 
+lowest level since the floating of the currency, in January 1999, albeit slightly up from 48.4% in August. Market 
+prices posted virtually no change, for the third consecutive month. Among its components, tradable goods prices 
+fell for the fourth consecutive month, while non-tradable goods recorded monthly average inflation of 0.22% in the 
+four months ended in September, versus 0.78% in the preceding four-month period. As mentioned in prior Copom 
+Minutes, the uncharacteristically sharp and lasting reduction in food prices in recent months has helped the 
+favorable consumer price inflation trend. However, the contribution of the food price effect to inflation is declining at 
+the margin. Regulated prices recorded average inflation of 0.57% in the four months through September, versus 
+0.71% in the February-May period.  
+  
+ 
+1
+
+2. 
+Recent core inflation trends also suggest an accommodation to levels below those prevailing at the start of 
+the year. Core inflation by exclusion, smoothed trimmed means and non-smoothed trimmed means core inflation 
+rose 0.30%, 0.51%, and 0.34%, respectively, in September. The more moderate increase in core by exclusion, 
+versus the headline index, reflects the fact that the IPCA increase in September was largely due to the increase in 
+fuel prices and to the more moderate reduction in food prices, both of which are excluded from this core inflation 
+measure. In the four months through September, core inflation by exclusion, smoothed trimmed means and non-
+smoothed trimmed means cores averaged 0.32%, 0.45%, and 0.30%, respectively, versus 0.66%, 0.64%, and 
+0.52% in the four months ending in May. While the September result broke the steady downward trend in monthly 
+core inflation observed since April, twelve-month trailing inflation under the three core measures has continued to 
+decline since May.  
+ 
+3. 
+The General Price Index (IGP-DI) fell 0.13% in September, declining for the fifth consecutive month and 
+approaching levels observed at the start of the year. The drop in the IGP-DI was again driven by deflation in the 
+Wholesale Price Index (-0.28%). IGP-DI inflation in the year through September reached a modest 0.19%, while 
+twelve-month trailing inflation came to only 2.08%. The IPA-DI, which also declined for the fifth consecutive month, 
+posted deflation of 1.84% in the year-to-date, and twelve-month trailing inflation of only 0.22%. The atypical, 
+ongoing stability of wholesale prices reflects the behavior of consumer (excluding durables) and producer prices. Of 
+particular note, the stability of the IPA-DI is attributable to the sharp 9.91% trailing twelve-month fall in wholesale 
+agricultural prices, in conjunction with the moderate 3.89% increase in wholesale industrial prices (the lowest 
+increase since January 1999). Leading IGP-10 data for October suggest continued wholesale agricultural price 
+deflation, but an increase in wholesale industrial prices, driven mainly by the fuel price increase. In both the year-to-
+date and the twelve months through September, the General Price Indices have recorded inflation below that of the 
+IPCA – underscoring the consistent accommodation of wholesale prices and the potential positive spillovers to 
+consumer prices in the coming quarters. As emphasized in prior Copom Minutes, the intensity and continuity of this 
+pass-through in the coming months will depend on demand conditions and price-setters’ expectations for the future 
+inflation path.   
+ 
+4. 
+After the 1.9% reduction in July, in line with revised data released by the Brazilian Institute of Statistics and 
+Geography (IBGE), industrial production rose a seasonally adjusted 1.1% in August, as previewed by leading and 
+coincident indicators. The August result brought industrial production growth to 4.3% in the year-to-date and 5.1% 
+over the past twelve months. Over the course of the year, the monthly values in the seasonally adjusted series 
+alternated periods of growth, stability and contraction but, in general, industrial production has remained at 
+elevated levels by historical standards. The more stable three-month moving average series underscores the 
+strong performance of industrial production, rising in August for the fifth consecutive month and reaching a new 
+record high, 3.6% above the value observed in August 2004. Leading and coincident indicators suggest a 
+slowdown in industrial activity in September.  
+  
+5. 
+In August, all use categories of industrial production recorded seasonally adjusted growth. Capital goods 
+production rose the most (3.1%), followed by consumer and intermediate goods, up 1.3% and 0.1%, respectively. 
+The three-month moving average series showed stability in capital goods production, a modest decline in 
+intermediate goods production, and a 0.6% increase in consumer goods production. In contrast to prior months, the 
+greater dynamism of consumer goods production was due to the production of semi- and non-durables, which rose 
+1.6% relative to July, while durable goods production fell 1.7%. Semi- and non-durable consumer goods production 
+rose 6.4% in the year-to-date, and 5.7% over the past twelve months, reflecting the growing importance of income 
+gains in the current expansion. Despite the drop in August, consumer durable goods production is up 15.7% in the 
+year-to-date and over the past twelve months, well above the average overall industrial production result.  
+  
+6. 
+The labor market remained firm in August, in step with the more stable macroeconomic environment and 
+the historically elevated levels of economic activity. The unemployment rate measured by the IBGE was 9.4% in 
+August, unchanged for the third consecutive month, two percentage points below the level registered in August 
+2004, and the lowest level for the series as measured since October 2001. The number of employed persons rose 
+3.4% in the year, compared to the same period of 2004. Workers continued to recover purchasing power, with real 
+average incomes rising 3.7%, relative to August 2004, the largest year-on-year increase in the series - 
+underscoring the positive effect of the drop in inflation on real wages. According to the National Industry 
+Confederation (CNI), manufacturing employment rose 5.6% year-to-date through August, and 5.9% in the twelve 
+ 
+2
+
+months through August, while real payrolls increased 8.9% and 9.5% in the same periods, thus evidencing that the 
+increase in jobs is being accompanied by an improvement in the quality of industrial employment. Formal 
+employment, measured by the Ministry of Labor and Employment (MTE), also continued to rise. With the creation 
+of 189,458 positions in September, year-to-date formal job creation exceeded 1.4 million positions.  
+  
+7. 
+Seasonally adjusted data from the IBGE showed a 0.4% reduction in retail sales in August. This contraction 
+was wholly attributable to the 2.4% drop in fabric, clothing, and shoe sales, as all other categories posted growth. 
+Of note, the month-on-month reduction in fabric, clothing, and shoe sales in August followed a robust 7.1% 
+expansion in July. Despite the August drop, the three-month moving average for overall retail sales shows an 
+expansion of 0.3%, the fifth consecutive increase. Furthermore, retail sales are up 4.86% in the year-to-date and 
+6.30% in the past twelve months. The performance largely reflects positive labor market developments, as 
+described above, and credit growth. Despite the lack of detailed current data, available indicators suggest that retail 
+sales will continue to expand in the coming months. 
+ 
+8. 
+Installed capacity utilization in the manufacturing industry, as measured by the CNI and seasonally 
+adjusted by the BCB, rose to 82.0% in August, from 81.6% in July. Capacity utilization remains at elevated levels 
+by historical standards, although dropping below the record levels reached in the second half of 2004. As 
+emphasized in prior Copom Minutes, the relative stability of capacity utilization could be due to the maturation of 
+investments, given that industrial production growth has outpaced installed capacity utilization in recent months. 
+The persistence of historically high levels of installed capacity utilization makes the inflation path more dependent 
+on the capacity of current and prospective supply increases to meet demand conditions. With regard to investment, 
+capital goods absorption registered an expansion of 4.7% in the year through August, driven largely by the rise in 
+capital goods imports (up 30.2% in volume terms over the same period of the previous year). While there is 
+stronger evidence of a recovery in investment, the performance of aggregate supply in the coming quarters 
+remains a key point of concern with regard to future inflation dynamics. 
+  
+9. 
+Recent data confirm that external trade performance in 2005 will outpace that of last year. In September, 
+twelve-month cumulative exports exceeded US$112 billion, driven primarily by the growth in manufactured exports. 
+In addition, the twelve-month cumulative trade balance exceeded US$41 billion, with imports totaling US$72 billion. 
+Exports rose 24.7% in value terms over the preceding twelve months, while imports rose 22.5%. Export and import 
+(excluding capital goods) growth has decelerated at the margin, despite the rise in oil prices. Capital goods imports 
+rose 31.9% in September compared to the same month of 2004, for a cumulative 29.2% expansion in 2005 and 
+25.6% over the past twelve months. Therefore, throughout the course of 2005, the relative participation of capital 
+goods imports in total imports has risen, to the detriment of raw material and intermediate goods imports. In line 
+with preliminary data, the strong performance of the trade accounts in the twelve months through September 
+contributed to a current account surplus of US$13 billion, or 1.8% of GDP. While the contribution of external 
+demand to the ongoing economic expansion has diminished somewhat in recent months, it remains important and 
+above that expected at the start of the year. 
+  
+10. 
+International financial markets remained characterized by relatively high volatility; however, there was not a 
+significant change in the scenario considered by the Copom at its September meeting. In the final week of 
+September, Brazilian country risk fell close to the historic lows reached in 1997, only to partially retrace those gains 
+in October, despite the improved sovereign credit outlook communicated by two ratings agencies. These favorable 
+developments were counterbalanced by concerns about the path of U.S. inflation, mainly in the wake of fuel price 
+increases. In the short term, liquidity conditions and financial market stability remain tied to macroeconomic 
+conditions in the U.S., and to the Fed’s potential monetary policy response. In general, recent indications suggest 
+that the Fed will probably continue to raise interest rates at a measured pace. An additional point of concern is the 
+external account imbalances in some of the largest economies and the possibility that eventual adjustments will 
+result in significant currency movements. Despite these concerns, about which there is a significant degree of 
+uncertainty and scope for an increase in short-term volatility, the Copom continues to assign a low probability to a 
+significant deterioration in international financial market conditions.  
+ 
+11. 
+International oil prices have fallen from the peak levels recorded in August. Meanwhile, international 
+gasoline prices have recently de-linked from oil prices to reach record highs, due to the damage to refining capacity 
+in the Gulf of Mexico caused by Hurricane Katrina. In both cases, while there has been a considerable reduction 
+ 
+3
+
+from peak levels, prices remain high and may remain at higher-than-expected levels for an extended period of time. 
+On the domestic front, the fuel price increase implemented in mid-September, which will still carry over into the 
+October IPCA, prompted the Copom to work with a domestic fuel price scenario in which there is no further 
+gasoline price increases in 2005. Nevertheless, given the uncertainties surrounding the path of international oil 
+prices, rising oil prices continue to represent a risk factor for the future inflation path, given that these prices can be 
+passed through to the domestic economy via their effects on oil-intensive products as well as private sector inflation 
+expectations.  
+ 
+Assessment of Inflation Trends 
+ 
+12. 
+The inflation shocks and their impacts were reassessed according to newly available information. The 
+scenario considered in the simulations utilized the following assumptions: 
+ 
+a) The projection for gasoline price adjustments in 2005 remained unchanged at 7.5%. The projection for 
+bottled gas prices was increased to –1.2% from –1.7%; 
+ 
+b) The projection for fixed line telephone rate and household electricity adjustments in 2005 remained 
+unchanged at 6.7% and 7.6%, respectively;  
+ 
+c) For all regulated prices, which represented a total weight of 29.9% in the September IPCA, the Copom 
+maintained its projection for 2005 adjustments at 7.8%; 
+ 
+d) The projection for regulated price adjustments in 2006 was reduced to 5.1% from 5.3%. There was an 
+increase in the number of items for which price changes were individually projected, contributing to greater 
+precision in the 2006 projections. For the remaining items, the projection continued to follow the model of 
+endogenous determination, which takes into account seasonal components, the exchange rate, market 
+price inflation, and the change in the IGP;  
+ 
+e) The projection for the six-month spread over the Selic rate, using a Vector Autoregressive model based 
+on the Selic and swap rates on the eve of the Copom meeting, increases from an average of –86 basis 
+points in the last quarter of 2005, to 33 basis points in the last quarter of 2006. 
+ 
+13. 
+Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of 
+GDP for 2005 and 2006 will be achieved. The related assumptions considered in the September meeting were 
+maintained. 
+  
+14. 
+Since the September Copom meeting, median IPCA inflation expectations for 2005, compiled by the 
+Investor Relations Group at the BCB, rose slightly, from 5.19% to 5.24%. The increase is mainly due to the fact that 
+the September surveys did not fully capture the effects of the mid-September fuel price increases. Despite the 
+recent slight rise, expectations remain close to the 5.1% inflation objective pursued by the Central Bank. For 2006, 
+expectations have fallen more markedly, to 4.6% from 4.8%, but nevertheless remain slightly above the 4.5% target 
+established by the National Monetary Council (CMN). As mentioned in prior Copom Minutes, these developments 
+suggest that the recent monetary policy stance has both contained short-term inflationary pressures and 
+contributed to the consolidation of a more favorable longer-term macroeconomic scenario.  
+ 
+15. 
+The 2005 inflation forecast under the benchmark scenario – which assumes the maintenance of the Selic 
+rate at 19.50% p.a. and the exchange rate at R$/US$ 2.25 during the forecast period – remained unchanged from 
+the prior Copom meeting, falling below the 5.1% inflation objective for the year. The forecasts based on the market 
+scenario – which incorporates the consensus exchange rate and Selic rate trajectories on the eve of the Copom 
+meeting – declined relative to the September Copom meeting and are now in line with the 5.1% inflation objective. 
+For 2006, the benchmark forecast declined, remaining below the 4.5% target established by the CMN. The forecast 
+under the market scenario was unchanged, above the inflation target.  
+  
+16. 
+The Copom also analyzed inflation forecasts for the twelve-month periods ending in March, June, and 
+September 2006. The forecasts for these periods are more responsive to current monetary policy decisions than 
+ 
+4
+
+those for calendar year 2005, and also more reliable than those for calendar year 2006. The benchmark scenario 
+forecasts for these periods were below the target inflation path values interpolated from the 5.1% objective for 2005 
+and the 4.5% target for 2006. 
+ 
+Monetary Policy Decision 
+ 
+17. 
+The Copom reaffirms the view expressed in prior Minutes, that actual and expected inflation results 
+demonstrate that the monetary tightening cycle begun in September 2004 has contained short-term inflationary 
+pressures and consolidated a more favorable long-term macroeconomic environment. Economic activity continues 
+to expand, but at a pace more compatible with supply conditions, such that it will not exert significant inflationary 
+pressures. In addition, despite the recent increase in financial market volatility and the persistence of high oil 
+prices, the external environment remains favorable, particularly with regard to external financing conditions for the 
+country. There are, therefore, more definite signs of a benign inflationary environment. As in the September 
+meeting, the Committee emphasizes that the main challenge for monetary policy is to ensure the consolidation of 
+these favorable developments. 
+ 
+18. 
+The Copom considers that the recent spike in short-term inflation is being driven largely by the domestic 
+fuel price adjustment implemented in mid-September, as well as by the partial reversal of the favorable food price 
+dynamics. The effects of these factors have not been fully reflected in September inflation results and will therefore 
+affect inflation measures to be released in the coming weeks. Since these are transitory pressures, it is expected 
+that they will fade over time without necessarily contaminating longer time horizons. Nevertheless, the Copom will 
+continue to direct its policy actions toward ensuring that the gains achieved in reducing inflation are made 
+permanent. To this end, in the coming months, the Copom will closely follow the evolution of headline and core 
+inflation, distinguishing between one-off and more generalized price adjustments, and quickly adapting its monetary 
+policy stance to the circumstances. 
+ 
+19. 
+The uninterrupted convergence of inflation to the target path and the resulting consolidation of a more 
+robust and lasting macroeconomic stability will contribute to the progressive reduction in perceived macroeconomic 
+risk, a process already underway for several years in Brazil. The scope for a reduction in real interest rates in the 
+future will naturally follow. The Copom considers that its cautious monetary policy stance has been critical in 
+increasing the probability of inflation convergence to the target path. For this to materialize, however, it is important 
+that forward-looking inflation indicators remain compatible with the more recent benign inflation outlook. Therefore, 
+the easing of monetary policy will not compromise the important achievements made in recent months in lowering 
+inflation and preserving economic growth with job creation and rising real incomes.  
+ 
+20. 
+The Copom therefore unanimously decided to reduce the Selic target to 19.00% p.a., without bias. Given 
+the uncertainties surrounding the monetary policy transmission mechanisms and the risks associated to the 
+outlined scenarios, the Committee considers that it will be necessary to closely follow the evolution of the inflation 
+outlook until its next meeting, at which time it will define the next steps in its monetary policy strategy. 
+ 
+21. 
+At the conclusion of the meeting, it was announced that the Copom would reconvene on November 22 for 
+technical presentations, and on the following day to discuss the monetary policy decision, as established in 
+Communiqué 12,631 of October 29, 2004. 
+ 
+5
+
+SUMMARY OF DATA ANALYZED BY THE COPOM 
+ 
+Inflation 
+ 
+22. 
+The IPCA rose 0.35% in September, bringing year-to-date inflation to 3.95% and twelve-month trailing 
+inflation to 6.04%. The rise in the IPCA in the month was primarily due to the increase in regulated prices, which 
+rose 0.92%, contributing 0.28 p.p. to the monthly result - gasoline prices individually contributed 0.14 p.p. Market 
+prices rose 0.1% and, again, the fall in food and beverage prices (-0.25%) counterweighed the impact of other price 
+increases.  
+ 
+23. 
+The IGP-DI fell 0.13% in September, its fifth consecutive monthly decline. Considering the September 
+result, year-to-date IGP-DI inflation was 0.19%, and twelve-month trailing inflation was 2.08%. Among its 
+components, the Consumer Price Index-Brasil (IPC-Br) rose 0.09% in the month, mainly due to the 4.75% rise in 
+gasoline prices. Food prices fell 1.03%, in line with recent declines. The National Index of Civil Construction (INCC) 
+rose 0.24%, reflecting generalized increases in service and input prices, and labor cost increases in the city of 
+Belém. The Wholesale Price Index (IPA-DI), the sub-index with the largest weight in the IGP-DI, fell for the fifth 
+consecutive month (-0.28%), bringing the year-to-date result to -1.84% and the twelve-month trailing result to 
+0.22%.  
+  
+24. 
+While wholesale prices declined again in September, the pace of their decline has eased, mainly due to the 
+reversal in the path of industrial prices. The contraction in wholesale agricultural prices intensified to –3.17% in 
+September, from –2.47% in August, driven by the sharp drop in the prices of animals and animal derivatives and 
+crops for export. Meanwhile, industrial prices rose 0.67%, after declining for four consecutive months, reflecting 
+primarily the performance of chemical prices, which rose 2.94% in September versus -0.67% in August, due to the 
+increase in fuel and plastics prices. Other important manufacturing segments, such as foodstuffs and metals, 
+continue to post declining prices, albeit less so than in the previous month. The IPA-DI by production stage 
+registered a reversal in intermediate goods prices, with an increase of 0.91%, a deceleration in decline of final 
+goods prices, and a sharper drop in raw materials prices, compared to the results of August. 
+ 
+25. 
+All IPCA core inflation measures rose in September, compared to August. Smoothed trimmed means core 
+inflation rose to 0.51% in September (versus 0.36% in August), for a twelve-month trailing increase of 7.15%. Non-
+smoothed trimmed means core inflation rose to 0.34% in September (from 0.28% in August), bringing twelve-month 
+trailing inflation to 5.78%. Core inflation calculated by the exclusion of household food and regulated prices also 
+rose in September, to 0.30% from 0.26% in August, for twelve-month trailing inflation of 6.44%.  
+ 
+26. 
+The IPCA diffusion index (measuring the number of items in the IPCA registering price increases) was 
+51.4%, the third lowest level since the floating of the currency, in January 1999.   
+ 
+27. 
+IPC-Br core inflation, calculated by the Getúlio Vargas Foundation (FGV) under the symmetric trimmed 
+means method, rose to 0.29% in September, from 0.07% in August. Year-to-date through September, IPC-Br 
+inflation was 3.99%, with a trailing twelve-month increase of 5.37%. 
+ 
+28. 
+Consumer price inflation is expected to rise in October, due to the lingering impact of the fuel price increase 
+implemented on September 10. Other regulated prices, such as health plans and water and sewage fees, should 
+also contribute to a rise in inflation. Food prices are also expected to begin rising, after a prolonged period of 
+contraction. 
+ 
+Economic Activity 
+  
+29. 
+According to the IBGE’s survey, retail sales fell 0.4% in September relative to August. All categories rose, 
+except for fabric, clothing and shoes, which contracted 2.4% in the month. Retails sales have risen 4.9% year-to-
+date, and 6.3% on a cumulative 12-month basis. 
+ 
+ 
+6
+
+30. 
+São Paulo Trade Association (ACSP) data showed a seasonally adjusted 0.6% decline in database 
+consultations for credit sales in September, compared to August, while the number of consultations of the 
+Telecheque system fell 2.5%. In the year through September, these indicators rose 5.6% and 2.8%, respectively, 
+compared to the same period of the previous year.  
+ 
+31. 
+Net delinquency rates for retail credit, measured by the ACSP, increased to 4.9% in September, from 4.7% 
+in August, for a cumulative 13.4% rise in the year through September.  
+ 
+32. 
+Investment indicators expanded in August. Domestic production of capital goods and construction inputs 
+increased 3.1% and 0.5%, respectively, on a month-on-month seasonally adjusted basis. In the year through 
+August, compared to the same period of 2004, these indicators increased 2.7% and 1.0%, respectively. According 
+to the Fundação Centro de Estudos do Comércio Exterior (Funcex), the volume of capital goods imports rose 
+41.8% in August and 30.2% in the year through August. Medium- and long- term loans disbursed by the Banco 
+Nacional de Desenvolvimento Econômico (BNDES), reached R$28.8 billion in the year through August, exceeding 
+by 18.4% those disbursed in the same period of 2004. 
+ 
+33. 
+According to the IBGE’s Monthly Industrial Survey (PIM), industrial production increased a month-on-month 
+seasonally adjusted 1.1% in August. This result was due to the 1.2% increase in manufacturing output. Mining fell 
+0.3%. In the year through August, industrial production rose 4.3%, due to the 4.0% increase in manufacturing and 
+the 10.1% increase in mining. 
+ 
+34. 
+Seasonally adjusted data for industrial production showed that 11 of the 23 sectors surveyed increased in 
+August, with tobacco, medicine, machinery and equipment, oil refining and alcohol production as the main drivers 
+of the result. Except for consumer durable goods production, all use categories expanded in August, following the 
+broad-based decline in July. Capital goods production registered the sharpest monthly increase (3.1%). Semi- and 
+non-durable consumer goods grew 1.6%, showing the important role of domestic demand in the overall 
+manufacturing result. Intermediate goods production, with the largest weight in the industrial production index, grew 
+0.1%, for a 1.6% cumulative increase in the year through August. 
+ 
+35. 
+CNI manufacturing data showed a decline of 0.9% in real sales and an increase of 0.2% in hours worked in 
+August, respectively, on a month-on-month seasonally adjusted basis. In the year through August, these indicators 
+increased 1.8% and 6.2%, respectively. Installed capacity utilization reached a seasonally adjusted 82.0% in 
+August, up 0.4 p.p. relative to July. Without seasonal adjustments, installed capacity utilization reached 82.9%, 
+1.2% below that posted in August 2004.   
+ 
+36. 
+Sector leading indicators point to a fall in industrial activity in September. Data related to automobile 
+production, highway tolls, and energy consumption confirm this trend. 
+ 
+Surveys and Expectations 
+  
+37. 
+The Fecomercio-SP survey showed a 0.99% month-on-month decline in the Consumer Confidence Index 
+in September, due to the 3.28% fall in the index of current economic conditions and the 0.41% improvement in 
+consumer expectations.  
+ 
+38. 
+According to FGV, consumer confidence rebounded in September, after a three-month decline. Five out of 
+the eight main items of the survey improved, in comparison to August, while one remained stable and only two 
+worsened. Results related to the current situation were better than those of August, on average, and in relation to 
+the future, pessimism declined. 
+ 
+39. 
+Preliminary data related to the next quarterly FGV Industrial Survey show that the evaluation of the current 
+and future business environment is improving, in comparison to the results of July. Regarding the current situation, 
+global demand and inventory levels were viewed more favorably. Forecasts for the coming months show the 
+continuity of the expansion of domestic demand, a reduction of external demand, and higher levels of employment.  
+ 
+ 
+7
+
+Labor Market 
+ 
+40. 
+According to the Ministry of Labor and Employment, formal employment increased 0.4% in September 
+(month-on-month, seasonally adjusted). All sectors but agriculture showed employment expansion. With the net 
+creation of 1.3 million jobs, the overall index rose 5.1% in comparison to September 2004, increasing 7.3% in 
+commerce, 5.6% in services, 6.0% in civil construction and 4.2% in industry.  
+ 
+41. 
+According to the IBGE survey in the six main metropolitan regions of the country, the unemployment rate 
+remained stable in August, at 9.4% of the labor force. This level is 2 p.p. below that of August 2004. Total of 
+employed individuals, estimated at 19.9 million, increased 0.4%, the same rate observed for the labor force. 
+Purchasing power continued to recover in August. Real average earnings of employed individuals, estimated at 
+R$973.20, rose 0.7% and 3.7% in comparison to July and August 2004, respectively.  
+ 
+42. 
+According to the BCB’s seasonal adjustment of the CNI indices, real industrial payrolls rose 0.5% in 
+August, on a monthly basis, while industrial employment remained stable. In the year through August, these 
+indicators rose 8.9% and 5.6%, respectively. 
+ 
+External Environment 
+ 
+43. 
+International financial markets have continued to reflect the uncertainties related to higher oil prices and the 
+effects of Hurricane Katrina on the global economy. While oil prices fell to lows in mid-October that were not seen 
+since June, they remain elevated and represent a risk to global economic growth. The effects of Hurricane Katrina 
+should be restricted to the U.S. economy, with only short-term consequences for the broader global economy.  
+ 
+44. 
+The Federal Reserve is expected to continue increasing interest rates at a measured pace, keeping 
+inflation expectations under control. Despite the fact that the September consumer inflation result exceeded market 
+expectations, driven by high energy prices, the favorable core inflation reading could help to reduce uncertainties 
+about the pace of interest rate increases, as it suggests that price pressures are not broadly disseminated 
+throughout the economy.   
+ 
+45. 
+Inflation concerns are persistent in the other developed countries, in line with the high levels and volatility of 
+oil prices. However, despite concerns about the scope for current oil prices to contaminate medium term inflation 
+expectations, there were no changes in Euro Area or United Kingdom interest rates. Chinese GDP grew 9.4% on 
+an annualized basis in the third quarter, compared to the same period of the previous year, while consumer and 
+producer price indices have decelerated. 
+ 
+Foreign trade and international reserves 
+ 
+46. 
+Results for the external trade accounts in September confirmed the sustainability of the strong external 
+position observed recently, with practically all measures of external trade exceeding record highs. In September, 
+the trade balance reached US$ 4.3 billion and total external trade reached US$16.9 billion. Year-to-date, the trade 
+surplus reached US$ 32.7 billion and, in the twelve months through September, stood at US$ 41.3 billion. For the 
+same periods, total external trade reached US$ 140.8 billion and US$ 184.6 billion, respectively. In the first nine 
+working days of October, the trade balance reached US$ 1.7 billion.  For the same period, exports and imports 
+grew 24.3% and 2.6%, respectively, over the average daily levels reached for the same period of 2004.  
+ 
+47. 
+Exports reached US$ 10.6 billion in September, with growth of 19.2% over the average daily levels reached 
+in September 2004. Manufacturing exports, totaling US$ 5.9 billion, reached a record high for the month, growing 
+21.9% over the average daily level. Of particular note, were increases in exports of radio transmitters, fuel oil, 
+earth-moving machines, cargo vehicles, tractors, auto parts, passenger cars, airplanes and vehicle engines. 
+Manufacturing exports also showed signs of greater increases of exported goods with a traditionally small 
+participation in total exports, furthering the export diversification process. The 22.8% increase in raw material 
+exports was due, primarily, to the 68.9% increase in crude oil exports. Coffee bean, meat, and iron ore exports also 
+ 
+8
+
+posted above average growth. Sales of semi-manufactured goods decreased 3.1% over the average daily levels 
+reached in September 2004, due to the performance of soybean oil and iron and steel products.  
+ 
+48. 
+Imports totaled US$6,3 billion in September, a 9.6% increase in daily average terms, compared to 
+September 2004. Except for raw materials and intermediate goods imports, which fell 0.9%, all import categories 
+expanded in the month. Of note were increases of 31.9% and 21.4% in capital and consumer goods imports, 
+respectively. In the year through September, there was a 29.2% increase in capital goods imports, 20.5% for 
+consumer goods, 20.3% for fuel and lubricants and 15.7% for raw material and intermediate goods, all measured in 
+daily averages compared to the same period last year. 
+ 
+49. 
+At the end of September, preliminary information showed international reserves and net adjusted reserves 
+of US$57 billion and US$ 42.9 billion, an increase of US$1.9 billion and US$2.5 billion in the month, respectively, 
+relative to end-August. 
+ 
+Money Market and Open Market Operations  
+  
+50. 
+In the period following the September Copom meeting, the yield curve shifted downward for tenors less 
+than 1 year, on the back of the drop in actual and expected inflation. In contrast, rates shifted upward in the long 
+end of the curve, driven by the worsening of the external outlook: concerns about U.S. inflation led to increases in 
+U.S. Treasury yields and to volatility in global equity indices. Between September 14 and October 19, one-, three-, 
+and six-month interest rates fell 0.37 p.p., 0.42 p.p. and 0.27 p.p., respectively. Meanwhile, the one-year rate 
+remained unchanged, and the two- and three-year interest rates rose 0.30 p.p., and 0.58 p.p., respectively. Real 
+interest rates measured by the differential between the one-year forward nominal interest rate and twelve-month 
+ahead inflation expectations increased to 12.64% on October 19 from 12.55% on September 14. 
+ 
+51. 
+From September 15 to October 19, the net redemption of FX instruments, including interest payments, 
+totaled US$252 million, and US$15.3 billion in the year through October.  
+ 
+52. 
+Since the September meeting, the National Treasury raised a total of R$30.3 billion via fixed-rate securities 
+issuance: R$29.3 billion via issuance of LTNs maturing in 2006, 2007, and 2008; and R$1 billion via issuance of 
+NTN-Fs maturing in 2010 and 2012. Issuance of floating-rate LFTs, with maturities in 2008 and 2009, totaled 
+R$17.8 billion. 
+ 
+53. 
+The BCB continued to conduct 3-month weekly repo operations and also introduced 5-month repo 
+operations in October, aiming at a better distribution of redemptions. In addition, the BCB conducted twenty-two 
+shorter-term repo operations (twelve of which were overnight lending, and ten of which were overnight borrowings). 
+The BCB also conducted daily liquidity management operations. The excess liquidity sterilized from the banking 
+reserves market via operations with tenors of three- and five-months averaged R$49.3 billion. Shorter-term 
+operations averaged R$1.4 billion. 
+ 
+54. 
+Aimed at reducing excess liquidity projected for the fourth quarter, the BCB sold LTNs from its portfolio and 
+purchased, at a pre-established price, LTNs of shorter tenors. On September 14 and September 21, the BCB sold 
+LTNs maturing in January 2006, and bought LTNs maturing in October 2005. These operations totaled R$3.8 
+billion. On October 5 and October 13, the BCB also sold LTNs maturing in April 2006, and bought LTNs maturing in 
+January 2006. These operations totaled R$2.8 billion. 
+ 
+55. 
+In September, net securitized public sector debt increased 1.3%, to R$933 billion, due to the accrual of 
+interest and the net placement of R$2.1 billion in securities. The fixed-rate share of net domestic debt rose to 
+25.8% from 23.9% in August. 
+ 
+9

@@ -1,0 +1,652 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the 
+Brazilian and international economies under the monetary policy framework, which is designed to comply with the 
+inflation targets established by the government. 
+ 
+Recent Economic Developments 
+  
+ 
+1
+
+1. 
+IPCA inflation accelerated in the last quarter of 2006, averaging 0.37% up from 0.15% in the third quarter 
+and 0.03% in the second quarter of last year. In December, inflation reached 0.48%, above the 0.31% recorded in 
+November and slightly above expectations registered on the eve of the IPCA release, and also above the 
+expectations that prevailed at the end of December. Twelve-month trailing inflation also accelerated in December, 
+compared to 3.02% in November. Favorable developments in the last months contributed to reach an inflation of 
+3.14% in 2006, down from 5.69% in 2005, the lowest annual inflation since the adoption of the inflation targeting 
+regime, in 1999. Market prices increased 2.57% in 2006 (tradable prices contributed 1.31%, while non-tradable 
+prices accounted for 3.99%), whilst regulated prices increased 4.27%. Therefore, for the third consecutive year, 
+inflation stood within the tolerance intervals established by the National Monetary Council. Inflation acceleration in 
+December was due to the increase in regulated prices (0.83% up from 0.00% in November), mainly driven by the 
+urban bus fares, and not completely offset by the decrease in market prices inflation (0.32% down from 0.45% in 
+November). Amongst market prices, tradable prices inflation decreased to 0.40% in December down from 0.54% in 
+November, while non-tradable prices decreased to 0.24% down from 0.37%. Services inflation stood at 0.19% in 
+December, unchanged relative to November, and slightly below the 0.22% observed in December 2005. In 2006, 
+services inflation decreased to 5.48%, down from 6.78% in 2005. Partial January data, already captured by the 
+IPCA-15 and underlying inflation measures, suggest that the short-term increasing IPCA trend should intensify. 
+Despite the recent inflation acceleration in the last months, the most likely scenario is that inflation evolves 
+according to the targets path. 
+  
+2. 
+Similarly to the headline result, IPCA core inflation measures calculated by the BCB also increased in 
+December, on a month-on-month basis. Core inflation by exclusion of household food items and regulated prices 
+increased to 0.34% in December, up from 0.23% in November and 0.30% in October. Smoothed trimmed means 
+core increased to 0.38%, up from 0.27% in November and 0.32% in October, and continued to record the strongest 
+rigidity among the three core measures. Conversely, after registering reduction in November to 0.12% down from 
+0.19% in October, the non-smoothed trimmed means core increased to 0.27% in December. Despite the recent 
+increases, the cores continue to present a downward trend on a twelve-month basis, except for the core by 
+exclusion, which slightly increased. According to the same comparison basis, the inflation cores recorded 3.56%, 
+4.63% and 2.76%, respectively, in December, compared to 3.52%, 4.68% and 2.83% in November. Similarly to the 
+headline result, both the core inflation by exclusion and the non-smoothed trimmed means core stood below the 
+central target in 2006. On the other hand, the smoothed core inflation has converged more slowly to the target, 
+reaching 4.63% in 2006, and therefore, above the central target for the year. 
+  
+3. 
+The General Price Index (IGP-DI) inflation decelerated in the last two months of 2006, to 0.26% in 
+December, down from 0.57% in November and 0.81% in October. This deceleration was mainly driven by 
+wholesale price inflation. The Wholesale Price Index (IPA-DI) inflation cooled to 0.11% in December, down from 
+0.75% in November. On the other hand, both the INCC-DI and the IPC-DI increased in December, month-on-
+month. The downturn in IPA-DI was due to the deflation in agricultural prices in December (-0.66% down from 
+2.39% in November), after several consecutive increases, whilst industrial prices accelerated. As a consequence, 
+the IGP-DI increased 3.79% in 2006, up from 1.22% in 2005. This acceleration was driven by wholesale price 
+inflation, and more specifically, by the significant upturn in agricultural prices in the second half of the year. After 
+several months of deflation (reaching -3.14% in the twelve months through April), the IPA-DI reached 4.29% in 
+2006. After recording –13.19% in the twelve months through March, the Agricultural IPA totaled 6.92% in the year. 
+As highlighted in previous Copom Minutes, the effects of wholesale prices over consumer inflation will depend on 
+prospective demand conditions and price-setters’ expectations for the future inflation path. 
+ 
+4. 
+Industrial production, according to IBGE month-on-month seasonally adjusted data, expanded by 1.0% in 
+October and 0.8% in November. Compared to the same months last year, the increases totaled 4.9% and 4.2%, 
+respectively. In the year through November, industrial production reached 3.1%, while on a twelve-month trailing 
+basis, industrial output reached 3.0%, the third positive result according to the same comparison basis, and 
+indicating industrial activity acceleration. On a three-month moving average basis, industrial production increased 
+for the eightieth consecutive month in November. The expansion in manufacturing activity in November reached 14 
+out of the 23 activities with seasonally adjusted data, with highlights to other transportation equipment (10.1%) and 
+beverages (4.8%). For December, leading and coincident indicators suggest accommodation of the trend, which 
+should not surprise in light of the strong increment recorded in the preceding months. However, several incentive 
+ 
+2
+
+factors, including the monetary easing already implemented and the fiscal impulses, suggest that the expanding 
+trend in industry shall accelerate in 2007.   
+  
+5. 
+Disaggregated industrial data showed month-on-month seasonally adjusted expansions of 2.2% in capital 
+goods production and 1.6% in intermediate goods production, after two months of contraction, but a 0.1% reduction 
+in durable consumer goods production in November. Compared to the same month last year, all categories 
+increased, with highlights to the expansions of durable consumer goods production (10.4%) and capital goods 
+production (7.9%). In the year through November these use categories increased by 7.3% and 5.7%, respectively. 
+The strong growth of durable consumer goods production reflects, among other factors, the recovery of real 
+earnings and the expansion of credit. The expansion of capital goods production is due to positive prospects for 
+domestic demand growth, and also to the influence of favorable international prices in the purchase of capital 
+goods destined to several industrial sectors. 
+ 
+6. 
+Labor market performance remains positive, with decreasing unemployment rate, creation of formal jobs 
+and higher purchase power of workers. The unemployment rate in the six main metropolitan areas reached 9.5% in 
+November, compared to 9.8% in October and 9.6% in November 2005. Rio de Janeiro, Belo Horizonte and Porto 
+Alegre metropolitan areas recorded the lowest unemployment rates for November months since the beginning of 
+the IBGE series. The unemployment rate contracted in all the six metropolitan areas surveyed, except for Rio de 
+Janeiro, which recorded stability. As a result, the average unemployment rate in the year through November was 
+0.2 percentage points higher than that of the same period last year, notwithstanding the 2.4% expansion in labor 
+force. The number of employed people grew 2.2% in the year through November and 3.0% in the month, compared 
+to the same month last year, indicating that the pace of jobs creation remains robust. Still in November, the 
+purchase power of workers increased a month-on-month 0.6% and 5.7% over the same month last year, for a 4.3% 
+expansion in the year through November. In addition, real payrolls increased 6.6% in the same period, an important 
+factor for the growth of aggregate demand. According to the National Industry Confederation (CNI), manufacturing 
+employment increased a month-on-month seasonally adjusted 0.5% both in October and in November, 
+consolidating a five-consecutive-month expansion. Compared to the same months last year, manufacturing 
+employment grew 3.2% and 3.9%, respectively. In the year through November, it reached 2.1%, compared to the 
+same period last year. Regarding formal employment, data from the Ministry of Labor and Employment (MTE) 
+confirm the continuity of the ongoing expansion. In November, the number of jobs increased 0.4%, on a month-on-
+month seasonally adjusted basis. In the year through November, the number of jobs expanded by 4.9%, the same 
+rate observed in the last twelve months, mainly driven by the expansions of 9.4% in civil construction and 6.0% in 
+the retail sector. With the creation of 32,579 jobs in November, formal job creation reached 1,546,179 in 2006. In 
+the twelve months through November, 1,259,460 jobs were created. 
+ 
+7. 
+Retail sales continued to expand in November 2006. IBGE data recorded a month-on-month seasonally 
+adjusted 0.6% in retail sales for November and 0.5% for October. Compared to the same months of last year, retail 
+sales grew 7.0% in October and 9.2% in November. In the year through November, retail sales expanded by 6.2%, 
+mainly driven by furniture and domestic appliances sales (10.9%) and hyper- and supermarket sales (7.6%). The 
+positive performance of retail sales is not restricted to income- and labor-sensitive items, but also comprises credit-
+sensitive items. Expanded retail sales, which include the sales of construction material and vehicles, motorcycles, 
+parts and pieces, increased 10.2%, compared to November 2005 results, reflecting expansions of 10.4% and 
+12.2%, respectively, in the sales of these segments, fostered by positive credit conditions. In the year through 
+November, expanded retail sales expanded by 6.5%. Retail sales expansion is expected to continue in 2007, 
+boosted by positive labor market and income developments, credit expansion and the effects of the monetary 
+easing cycle, as well as by the recovery in consumer confidence. 
+ 
+8. 
+Installed capacity utilization in the manufacturing industry reached 82.1% in November up from 82.0% in 
+October, according to CNI data seasonally adjusted by the BCB. Considering non-seasonally adjusted data, the 
+average installed capacity utilization through November stood 0.2 p.p. below that of the same period last year. 
+Since July, utilization rates have been at higher levels than those observed in the same months of 2005. 
+Disaggregated indicators compiled by the FGV show utilization rates at historically high levels for civil construction 
+and capital goods, whose production has vigorously expanded. Despite industrial production growth, average 
+utilization has shown relative stability, which reflects the improvements in the productive capacity. In fact, recent 
+data regarding output and absorption of capital goods suggest a robust ongoing expansion of investments. In the 
+ 
+3
+
+year through November, the absorption of capital goods expanded by 9.2%, mainly driven by the increases in 
+capital goods imports volume (24.0%) and in capital goods production (5.7%). Civil construction inputs expanded 
+by 4.9%, according to the same comparison basis. Therefore, despite the ongoing aggregate demand expansion, 
+relevant aggregate supply imbalances that could jeopardy the inflation targets are not anticipated in the coming 
+quarters. As stressed in previous Copom Minutes, the inflation trajectory is closely linked to current and prospective 
+developments with regard to the expansion of supply to adequately meet demand conditions. 
+  
+9. 
+The trade balance continues to present robust results, confirming previous Copom assessments regarding 
+important structural changes in the Brazilian external trade. In 2006, the trade balance reached US$46.1 billion, 3% 
+above the level reached in 2005. This result was driven by the record results of exports (US$137.5 billion) and 
+imports (US$91.4 billion). Despite significant, twelve-month trailing surplus through December was lower than the 
+US$46.3 billion record high observed in October. As a result of domestic demand recovery, imports have 
+outperformed on the margin, gradually compressing trade balance results. As a consequence, external results in 
+2007 are expected to be lower than those observed in 2005-2006, but still high for the Brazilian historical 
+standards. The current account surplus stood at US$1.5 billion in November, reaching US$13.2 billion in the year, 
+or 1.6% of GDP, for a US$14.0 billion surplus in the twelve months through November, or 1.5% of GDP. 
+  
+10. 
+Regarding the international scenario, the uncertainties regarding the monetary policy stance in the US 
+persist. Although additional interest rate increases cannot be discarded, the consensus points to the fact that the 
+tightening cycle may have already ended. On the other hand, even though the recession scenario in the US 
+economy seems to be less plausible, there are uncertainties about the magnitude of the US economy deceleration. 
+The uncertainties regarding monetary policy in Europe and Japan also persist. However, it bears emphasizing, so 
+far, the limited effects of the less clear international outlook observed in the last months, when the concerns stated 
+above were already present, particularly with regard to the increased risk aversion, commodities prices trajectory, 
+and lower international liquidity. In fact, after an up-tick in May, the sovereign risk reached historically low levels in 
+the last months. This fact corroborates recurrent analysis, expressed in previous Press Releases and Inflation 
+Reports, that the Brazilian economy is more resilient to external shocks. In this context, the Copom reaffirms that 
+the continued disinflation, robust and persistent trade surpluses, adequate public sector's primary surpluses, the 
+buildup of international reserves, improved public sector's debt profile and buyback of external debt have 
+strengthened the domestic resilience to external shocks. Therefore, the Copom continues to assign low probability 
+to a significant deterioration in international financial market conditions that could affect Brazilian external financing. 
+  
+11. 
+Another concern regarding the international outlook, oil prices, has continued to dampen. Oil prices slightly 
+decreased since the last Copom meeting, contributing to cool down uncertainties associated with its evolution and 
+effects on the world economy. Oil prices are below the lowest prices observed in the last 18 months, due to the 
+exceptionally mild winter in the Northern Hemisphere and apparent difficulties that Opec faced to control supply. In 
+spite of the recent decrease, oil prices still present high volatility, reflecting, among other factors, geopolitical 
+tensions and weather conditions. However, the scenario considered by the Copom, which attributes no change to 
+domestic gasoline prices in 2007, has become more likely to occur, and the risks related to its materialization have 
+decreased significantly. Despite the stability in domestic gasoline prices, changes in international oil prices affect 
+domestic oil prices, for instance, through productive chains, such as the petrochemical, as well as through the 
+deterioration of market inflation expectations. 
+ 
+Assessment of Inflation Trends 
+ 
+12. 
+The identified shocks and their impacts were reassessed according to newly available information. The 
+scenario considered in the simulations utilized the following assumptions: 
+  
+a) Compared to the values considered in the December Inflation Report, the projection for gasoline and 
+bottled gas prices adjustments in 2007 were both changed to 0%;  
+  
+b) Considering the same comparison basis, the projections for household electricity and fixed telephone 
+prices adjustments in 2007 were changed to 4.6% and 3.9%, respectively; 
+  
+ 
+4
+
+c) The projection for regulated prices inflation in 2007 decreased to 4.5% from 4.8% (December Inflation 
+Report). These items, according to the weights released by the IBGE, represent 31.04% of the total December 
+IPCA; 
+  
+d) The projection for regulated prices inflation in 2008 was maintained at 5.6%, as presented in the 
+December Inflation Report. This projection for regulated prices is based on the endogenous determination model. 
+This model considers the effects of seasonal components, exchange rate change, market prices inflation and the 
+IGP; 
+  
+e) The projection for the spreads over the Selic rate, using a Vector Autoregressive model based on the 
+Selic and 180-day swap rates on the eve of the meeting, stood at 53 b.p. in the fourth quarter of 2007, reaching 70 
+b.p. in the last quarter of 2008. 
+  
+13. 
+Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of 
+GDP in 2007 and 2008 will be achieved, adjusted by the possibility of a 0.5 p.p. reduction in this percentage due to 
+the implementation of PPI (Investment Pilot Plan). The related assumptions considered in the previous meeting 
+were maintained. 
+  
+14. 
+Since the November Copom meeting, median IPCA inflation expectations for 2007, compiled by the BCB’s 
+Investor Relations Group (Gerin), decreased slightly to 4.07% from 4.10%. This decrease was mainly driven by 
+lower inflation projected for the second and third quarters of the year. The twelve-month ahead inflation 
+expectations decreased to 4.04% from 4.17%. For 2008, inflation expectations decreased to 4.0% from 4.3%. As 
+mentioned in previous Minutes, these developments suggest the consolidation of a more favorable long-term 
+macroeconomic scenario. 
+ 
+15. 
+The 2007 inflation forecast under the benchmark scenario – which assumes the maintenance of the Selic 
+rate at 13.25% and the exchange rate at R$/US$2.15 during the forecast period – decreased compared to the 
+values considered at the November Copom meeting, remaining below the 4.50% target established by the CMN for 
+the year. The forecast based on the market scenario – which incorporates the consensus exchange and Selic rates 
+trajectories collected by Gerin on the eve of the Copom meeting – also remained below the values considered in 
+the November Copom meeting, and below the central target for the year. The projections for 2008, according to 
+both scenarios, reduced relative to the November projections, remaining below the 4.50% target in the benchmark 
+scenario, and above the 4.50% target in the market scenario. 
+ 
+Monetary Policy Decision 
+ 
+16. 
+The Copom reaffirms the view expressed in previous Minutes, that besides containing short-term 
+inflationary pressures, monetary policy has also contributed significantly for the consolidation of a favorable long-
+term macroeconomic environment. Economic activity data still do not suggest high likelihood of important pressures 
+over short-run inflation. Imports expansion has contributed significantly to this process, complementing domestic 
+production and, therefore, limiting potential inflationary effects of aggregate demand sustained growth. In addition, 
+despite the prospects of lower liquidity in international markets, due to the interest rates increase in industrialized 
+economies, the external outlook, particularly regarding Brazilian external financing, remains favorable even in a 
+context of moderation in international growth. The favorable external outlook strengthened as international oil 
+prices decreased significantly in the last weeks. Therefore, the prospects for the inflation trajectory remain benign. 
+As in the November meeting, the Copom emphasizes that the main challenge of the monetary policy in this context 
+is to guarantee the consolidation of future positive developments. 
+ 
+17. 
+The Copom evaluates that pressures stemming from food and regulated prices, mainly public 
+transportation fares in some state capitals, have driven the short-term inflation increase. Since these effects have 
+not exhausted yet, upcoming inflation indicators will likely reflect those increases. Due to the nature of such 
+pressures, they are expected to be temporary, with decreasing intensity throughout time, without necessarily 
+affecting longer-time horizons. However, the Copom will continue to manage the monetary policy stance so that the 
+gains obtained in inflation control in recent years become permanent. In this respect, the Copom will carefully 
+monitor the evolution of inflation and the several core inflation measures in the upcoming months, discriminating 
+ 
+5
+
+between one-off and persistent or generalized price increases, and promptly adjusting the monetary policy stance 
+to the circumstances.  
+ 
+18. 
+The preservation of inflation rates in line with the targets path and the consolidation of a long-lasting stable 
+macroeconomic scenario will contribute to the progressive reduction of macroeconomic risk perception underway. 
+The scope for a reduction in real interest rates in the future will naturally follow as a consequence of this improved 
+perception. The Copom evaluates that its cautious monetary policy stance has been critical to increasing the 
+probability of inflation convergence to the targets path. For this to materialize, however, it is important that forward-
+looking inflation indicators remain consistent with the recent benign inflation outlook observed in the last quarters.  
+ 
+19. 
+The Copom emphasizes, once again, that there are important time lags in the transmission of monetary 
+policy stance to economic activity and inflation. Since the beginning of the monetary easing cycle, in September 
+2005, the Selic rate has already been reduced by 650 b.p., with the greater part of the reduction concentrated in 
+the second half of 2006. Consequently, the activity level has not completely mirrored the effects of the interest rates 
+cuts, as well as the effects of the economic activity resumption on inflation have not completely materialized. 
+Therefore, the evaluation of alternative monetary policy stances should necessarily focus on the prospective 
+inflation scenario and its risks, instead of current inflation indicators.  
+ 
+20. 
+During the coming months, employment and income expansions and credit growth will continue to bolster 
+economic activity. As mentioned in the November Copom Minutes, activity level should also reflect the effects of 
+governmental transfers and other fiscal impulses occurred in 2006 and expected for this year. Consequently, the 
+lagged effects of interest rates cuts on an increasingly robust aggregate demand will add up to other factors that 
+will continue to contribute to this expansion. 
+ 
+21. 
+Given the reasons stated above, the Copom considered again, as in its three previous meetings, the 
+convenience of reducing the Selic target by 25 basis points. The Copom members consensually concluded that 
+several factors would justify such decision, and that it would contribute to increase the total adjustment to be 
+implemented. However, there was no consensus that the lower pace of the monetary easing should start at the 
+present meeting. Three members of the Committee voted for a 50-basis-point reduction in the Selic target, 
+considering that the current balance of risks justified such decision.  
+ 
+22. 
+On the other hand, the majority of the members of the Copom emphasized that the information available at 
+that moment justified a change in the pace of the ongoing monetary easing process. Given the existing incentives 
+for expanding aggregate demand, the uncertainties surrounding the monetary policy transmission mechanisms, the 
+lower distance between the current Selic rate and the medium-term equilibrium interest rates, and the interest rate 
+cuts implemented since September 2005, these Copom members understood that the preservation of important 
+achievements in disinflation and in preserving economic growth, with job creation and rising real income, 
+demanded a more cautious monetary easing stance. This argument is even more relevant considering the signs of 
+heated aggregate demand, the short-term inflation pressures and the fact that the monetary policy decisions should 
+have concentrated effects in the second half of 2007 and 2008, progressively.  
+ 
+23. 
+Therefore, the Copom decided to reduce in the Selic target by 25 basis points to 13.00% p.a., without bias. 
+Five votes were for the Copom monetary policy action, while three votes were in favor of reducing the Selic target 
+by 50 basis points. 
+ 
+24. 
+Under an inflation-targeting regime, the monetary authority decides according to inflation prospects, 
+analyzing alternative scenarios for the main variables that determine price dynamics. The international scenario 
+remains favorable, but new elements of uncertainty came up. On the other hand, a set of price pressures, 
+apparently temporary, arises when domestic demand already expands robustly. In such an environment, the 
+monetary authority must remain vigilant, so that short-term uncertainties do not contaminate longer time horizons. 
+Evidently, in case of an exacerbation of the risk factors monitored by the Copom, the monetary policy strategy will 
+be promptly adapted to the circumstances. 
+ 
+ 
+6
+
+25. 
+At the conclusion of the meeting, it was announced that the Copom would reconvene on March 6th 2007, 
+for technical presentations, and on the following day to discuss the monetary policy decision, as established in 
+Communiqué 15,011 of October 31, 2006.  
+ 
+ 
+SUMMARY OF DATA ANALYZED BY THE COPOM 
+ 
+Inflation 
+ 
+26. 
+IPCA inflation increased 0.48% in December, up from 0.31% in the previous month. Such acceleration was 
+mainly driven by an upturn in transports prices, which contributed 0.24 p.p. for the monthly result. Other groups 
+also showed price elevations, with highlights to clothing (1%); personal outlays (0.44%); and food and beverages 
+(0.39%), the last two with lower changes than in the previous month. IPCA inflation totaled 3.14% in 2006, the 
+lowest variation since 1998, when it reached 1.65%. Comparing the two semesters of 2006, the index performed 
+similarly, posting 1.54% and 1.58% in the first and second semesters, respectively. Food and beverages increased 
+by 1.23% in 2006, far below the IPCA change. 
+ 
+27. 
+Market prices variation decreased to 0.32% in December, down from 0.45% in November, for a 2.57% 
+change in 2006. In the year, tradable and non-tradable goods prices rose by 1.31% and 3.99%, respectively. 
+Regulated prices had a punctual contribution for the IPCA acceleration in December, which did not affect the 
+declining trend observed during the year. Regulated prices variation stood at 4.27% in 2006, compared to 8.96% in 
+the previous year.  
+ 
+28. 
+The IGP-DI increased 0.26% in December, totaling 3.79% in 2006. The IPA (Wholesale Prices Index, the 
+sub-index with the largest weight in the IGP-DI) decelerated to 0.11% in December from 0.75% in November, for a 
+4.29% increase in the year. The IPC-Br reached 0.63% in the month, up from 0.24% in November, mainly due to 
+the elevation of urban bus fares; the index totaled 2.05% in 2006. The INCC increased 0.36% in December, up 
+from 0.23% in November, for a 5.04% elevation in the year.  
+ 
+29. 
+The deceleration in wholesale price inflation in December reflected the fall of agricultural prices and the 
+slight acceleration in industrial prices. The Agricultural IPA reduced 0.66%, down from 2.39% in November, with 
+highlights to the reduction in the prices of bovines, rice and sugar cane; in the year, the index rose by 6.92%. The 
+Industrial IPA increased 0.36% in December, up from 0.22% in the previous month, for a 3.46% elevation in the 
+year. According to the processing stages of production, only intermediate goods recorded price increase in 
+December (0.37%). The prices of final goods declined 0.15%, after a 0.37% elevation in November. The prices of 
+raw materials decelerated in December, falling 0.05% after the 3.03% increase in the previous month. In the year, 
+the prices of raw materials increased by 10.07%, pressuring the IPA result; prices of intermediate and final goods 
+rose by 3.49% and 1.22%, respectively.   
+ 
+30. 
+All IPCA core inflation measures increased in December on a month-on-month basis, but sustained their 
+declining trend on a twelve-month trailing basis, including the December results, except for the stability recorded in 
+the core by exclusion of household food items and regulated prices. The non-smoothed trimmed means core 
+reached 0.27% in December, up from 0.12% posted in November, increasing to 2.76% in twelve months. The core 
+under the smoothed trimmed means method stood at 0.38% in December, up from 0.27% in November, totaling 
+4.63% in 2006. The core excluding household food and regulated prices reached 0.34% in December, up from 
+0.23% in the previous month, for a 3.56% expansion in 2006.  
+ 
+31. 
+The IPC-Br core inflation, calculated by the FGV under the symmetric trimmed means method, increased to 
+0.31% in December, for a 2.82% expansion in the year. 
+  
+   
+Economic Activity 
+ 
+ 
+7
+
+32. 
+According to IBGE’s monthly survey, retail sales increased a month-on-month seasonally adjusted 0.6% in 
+November. The four activities with seasonally adjusted data increased, with highlights to the increases observed in 
+fabric, clothing and shoes (5.7%) and fuel and lubricants (2.0%). 
+ 
+33. 
+Retail sales increased 9.2% in November, compared to November 2005, mainly driven by the increases in 
+furniture and home appliances (14.9%) and hyper- and super-market sales (9.7%). Expanded retail sales, including 
+civil construction inputs and vehicles, motorcycles, parts and pieces, grew 10.2%, according to the same 
+comparison basis, evidencing increases of 10.4% and 12.2% of these segments, respectively, driven by favorable 
+credit conditions. In the year through November, retail sales increased by 6.2%, while expanded retail sales 
+reached 6.5%.  
+ 
+34. 
+São Paulo Trade Association (ACSP) data in December, seasonally adjusted by the BCB, showed a 0.4% 
+decline in database consultations for credit sales and a 3.5% increase in consultations to the Usecheque system, 
+on a month-on-month basis. In 2006, these indicators expanded by 3.3% and 5.6%, respectively. 
+ 
+35. 
+Regarding investment indicators, capital goods and civil construction inputs production grew a month-on-
+month seasonally adjusted 2.2% and 1%, respectively, in November. Capital goods imports fell 7.2%, according to 
+the same comparison basis. In the year through November, these indicators increased by 5.7%, 4.9% and 24.0%, 
+respectively, compared to the same period of the previous year. Also in the year through November, capital goods 
+production for energy increased 26.7%, for construction, 9.3%, and of mixed use, 11.4%, while capital goods 
+production for agriculture fell 18.7%.  
+ 
+36. 
+According to the IBGE’s Monthly Industrial Survey (PIM), industrial production increased a month-on-month 
+seasonally adjusted 0.8% in November, reaching a record high for the series.  Industrial production expanded by 
+4.2%, compared to the same month of 2005, and 3.1% in the year through November, for a 3% growth on a twelve-
+month trailing basis, respectively. 
+ 
+37. 
+According to IBGE’s monthly survey, the 0.8% growth in industrial production in November reflected 
+monthly expansions of 2.2% and 0.8% in mining and manufacturing industry, respectively. Regarding use 
+categories, capital goods and intermediate output increased by 2.2% and 1.6%, respectively, while consumer 
+goods production fell 0.1%, driven by the decreases in durable goods (0.1%) and non-durable goods production 
+(0.6%). 
+ 
+38. 
+Seasonally adjusted data for industrial production showed that 14 of the 23 sectors surveyed increased in 
+November, mainly in other transportation equipment (10.1%), beverages (4.9%) and oil and alcohol refine (4.6%). 
+Clothing and accessories, perfume and cleansing products and vehicles recorded declines of 2.1%, 1.4% and 1%, 
+respectively. 
+ 
+39. 
+The 3.1% growth in industrial output, in the year through November, compared to the same period of 2005, 
+was driven by the expansions of 7.3% in mining and 2.8% in manufacturing industry. All use categories grew in 
+November, with highlights to durable consumer goods production (7.3%).  Capital goods, semi- and non-durable 
+goods and intermediate goods production increased by 5.7%, 2.9% and 2.1%, respectively, according to the same 
+comparison basis.  
+ 
+40. 
+Seasonally adjusted data for industrial production showed an increase in production in 21 of the 26 sectors 
+surveyed, boosted by the 52.8% expansion in the production of office machines and data equipment, such as 
+computers and monitors. It bears emphasizing the increases of 10.4% in machines production, electrical materials 
+and devices, mainly transformers and the 7.3% growth in mining output, particularly iron ore and oil.  
+ 
+41. 
+CNI manufacturing data showed decreases of 0.6% in hours worked in production and 0.8% in real 
+industrial sales in November, on a month-on-month seasonally adjusted basis. In the year through November, 
+these two indicators increased by 1.8% and 1.5%, respectively, compared to the same period of 2005. Installed 
+capacity utilization reached a month-on-month seasonally adjusted 82.1% in November, up from 82.0% in the 
+previous month. Without seasonal adjustments, installed capacity utilization leveled at 82.5%, 0.4 p.p. above the 
+November 2005 result.   
+ 
+8
+
+42. 
+Vehicles production totaled 185 thousand units in December, decreasing 4.6% on a month-on-month 
+seasonally adjusted basis. Domestic sales grew 7.8% and exports, 6.4%, according to the same comparison basis. 
+Year-on-year vehicles production expanded by 3.1%; domestic sales increased by 11.1%, while exports declined 
+by 5.8%.  
+ 
+ 
+Surveys and Expectations 
+                
+43. 
+The Fecomercio-SP survey showed a 5.1% month-on-month expansion in the Consumer Confidence Index 
+(ICC) in January. Both ICC components increased: Current Economic Conditions Index (Icea) rose 12.7%, while 
+the Consumer Expectation Index (IEC) increased by 0.3%. The ICC expanded by 1.6%, compared to the same 
+month last year.  
+ 
+44. 
+According to the FGV survey, which encompassed 2,000 homes in the seven main state capitals of the 
+country, the ICC increased 2.2% month-on-month in December, recording a 3.3% increase in the present situation 
+assessment and a 1.5% improvement in the 6-month ahead expectations. 
+ 
+45. 
+Still according to FGV, the Industry Confidence Index (ICI), which encompasses six items of the 
+Manufacturing Industry Survey, declined 0.8% month-on-month in December, but expanded by 9.5% compared to 
+December 2005. On a month-on-month basis, there was stability in the assessment about the present situation and 
+deterioration of 1.4% in the expectations for the upcoming months.   
+ 
+Labor Market 
+ 
+46. 
+According to the Ministry of Labor and Employment, 32,579 new jobs were created in November, with 
+expansion in the commerce and services sectors and contraction in the manufacturing industry, agriculture and civil 
+construction. On a month-on-month seasonally adjusted basis, formal employment increased 0.4%. In the year 
+through November, 1,546 thousand new jobs were created, corresponding to a 4.9% expansion compared to the 
+same period of 2005, with highlights to the 9.4% increase in civil construction.   
+  
+47. 
+According to the IBGE survey (PME) in the six main metropolitan areas of the country, the unemployment 
+rate reached 9.5% in November, down from 9.8% in October, standing 0.1 p.p. below the observed in November 
+2005. Average unemployment rate stood at 10.1% in the year through November, 0.2 p.p. above the level 
+registered in the same period of 2005, as a result of the increases of 2.2% in the number of employed workers and 
+2.4% in labor force. Real average earnings reached R$1,065.38 in November, with a 0.6% month-on-month 
+increase and a 5.7% expansion in comparison to November 2005. Real payrolls, defined as the product of real 
+average earnings and the number of employed workers, expanded 1.0% in November, month-on-month, and 8.8% 
+compared to November 2005. In the year through November, these indicators rose by 4.3% and 6.6%, 
+respectively.     
+ 
+48. 
+According to CNI, industrial employment increased 0.5% in November, seasonally adjusted, totaling a 2.1% 
+growth in the year.   
+ 
+ 
+Credit and Delinquency Rates 
+ 
+49. 
+Credit operations in the financial system increased 2.3% in December, for a 20.7% expansion in 2006. 
+Non-earmarked credit increased 2.1% month-on-month and 23.8% in twelve months, while earmarked credit 
+operations expanded by 2.7% and 14.6%, respectively, according to the same comparison bases.      
+ 
+50. 
+Non-earmarked credit, used as reference for interest rates, decreased 0.1% month-on-month in December, 
+for a 23.6% expansion in 2006. Credit for individuals increased 1.4% in the month and 25.2% in the last twelve 
+months. Corporate credit operations with domestic funding increased 4.3% in the month and 20.4% in twelve 
+months, while externally funded operations decreased 1.9% and expanded by 9.4%, according to the same 
+ 
+9
+
+comparison bases, respectively. Still regarding non-earmarked credit, leasing operations for individuals and for 
+overall corporate credit operations expanded by 76.1% and 42.1%, respectively, in the in the last twelve months. 
+ 
+51. 
+The average interest rate on credit operations decreased again in December, reaching 39.8% p.a., 6.1 p.p. 
+below the December 2005 level. The average rate on credit for individuals reached 52.1% p.a., compared to 59.3% 
+p.a. in the same month of 2005, while the average rate on corporate credit decreased 5.5 p.p., to 26.2% p.a., in the 
+same period. 
+  
+52. 
+Delinquency rates in financial system (non-earmarked loans in arrears for more than ninety days) reached 
+5% in December, decreasing 0.1 p.p. in the month and increasing 0.8 p.p. in the year. Delinquency rates for 
+corporate credit operations decreased 0.1 p.p. in the month and expanded 0.7 p.p. compared to December 2005, 
+reaching 2.7%. Delinquency rates for credit operations with individuals stood at 7.6%, decreasing 0.1 p.p. in the 
+month and increasing 0.9 p.p. in twelve months.  
+ 
+53. 
+Net delinquency rates for retail credit, measured by the ACSP, reached -0.6% in December, repeating a 
+seasonal phenomenon caused by the reduction of new registers and the expressive increase in canceled registers 
+in December. In the year, the number of new and canceled registers increased 5.0% and 3.3%, respectively, while 
+the average default rate reached 5.3%, compared to 5.0% in 2005. 
+ 
+External Environment 
+ 
+54. 
+Global growth should remain robust in 2007, despite some deceleration relative to 2006.  
+ 
+55. 
+Although risks to the concretization of this scenario persist, the stability observed in the US real estate 
+market, the support to domestic demand in Japan stemming from the heated labor market and high private 
+investment levels and the continued expansion of consumption and investment in Europe shall not only assure 
+output expansion close to potential levels in the main economic areas, but also support one more year of consistent 
+expansion in international trade. 
+  
+56. 
+Although the cooling of domestic demand in the main economic areas and of international trade expansion 
+and the economic reforms in course in China can decelerate the country’s economy, the Chinese GDP growth may 
+remain high, favoring the demand for intermediate goods and services produced in other Asian countries and also 
+the demand for commodities produced in other regions. In the same way, the continued substitution of alternative 
+energy sources for oil, driven by oil prices elevation in the last years, should contribute to keep the international 
+prices of these products at high levels.  
+  
+57. 
+The main risk to this favorable scenario in 2007 is the increase of inflationary pressures driven by an 
+eventual elevation in international oil prices, mainly related to geopolitical factors and to cost pressures stemming 
+from US low unemployment rates. 
+ 
+Foreign Trade and International Reserves 
+ 
+58. 
+In December, Brazilian foreign trade continued to expand, with new record highs in exports and imports for 
+the month. Total external trade reached US$19.5 billion in the month, for a US$ 5 billion trade surplus, a record 
+high for December and the second highest monthly level for the series. All 2006 results are historical records, 
+indicating the improvement in Brazilian foreign trade. Exports totaled US$137.5 billion, imports reached US$91.4 
+billion, and total external trade totaled US$228.9 billion, for a US$46.1 billion trade surplus. In the three first week of 
+January (fourteen working days), the trade surplus reached US$1.7 billion, a result of US$7.3 billion exports and 
+US$5.6 billion imports. 
+  
+59. 
+World economic growth favored the increase in the demand for goods and international prices, mainly 
+commodities prices. In the year, the elevation in prices prevailed over the expansion of shipped volumes, resulting 
+in growth in the three exports categories. Moreover, it bears emphasizing the ongoing diversification process, with 
+ 
+10
+
+generalized increase in shipping, particularly with regard to manufactured goods with low weight in total exports, 
+and the expansion of exports destination.   
+  
+60. 
+Exports reached US$12.2 billion in December, with a daily average of US$611.8 million, a 23.5% increase 
+over December 2005. In 2006, the exports of manufactured, semi-manufactured and primary products recorded 
+record highs. Manufactured goods external sales reached US$74.7 billion, a 15.6% increase in the year, 
+considering the daily average. Primary products exports totaled US$40.3 billion, and semi-manufactured ones, 
+US$19.5 billion, with respective increases of 16.9% and 23.3% in 2006.  
+  
+61. 
+Imports totaled US$7.2 billion in December, a 21.0% increase considering daily averages, compared to 
+December 2005. Fuel and lubricants imports decreased 13.7%, while other imports expanded in the period, 
+particularly consumer goods imports (49.7%). In 2006, imports expanded by 25.2%, measured in daily averages, 
+compared to 2005, with increases in all categories: consumer goods (42.6%), mainly automobiles (136.0%); fuels 
+and lubricants (28.2%); capital goods (23.9%); and raw materials and intermediate goods (20.8%).  
+  
+62. 
+In December, international reserves totaled US$85.8 billion, increasing US$2.7 billion in the month and 
+US$32.0 billion in the year. 
+ 
+Money Market and Open Market Operations  
+ 
+63. 
+After the November Copom meeting, the yield curve shifted downward, particularly the long-tenure ones. 
+This movement began immediately after the meeting, reflecting the Committee decision to reduce the Selic rate by 
+0.50 p.p., and lasted for all December, in light of good results for domestic inflation. External conditions also 
+favored this reduction, such as prospects of cooling in the US economy and the favorable outlook for inflows to 
+emerging countries. In the beginning of January, however, the FOMC Minutes raised concerns about the US 
+economy developments. Employment and activity data released right after that reinforced those concerns and, in 
+addition to the fall in the prices of commodities in international markets, caused a temporary increase in the long-
+term rates in local market. Since January 18, however, data regarding inflation in the US, in line with expectations, 
+contributed to a downturn in the yield curve. Between November 27 and January 22, one-, three- and six-month 
+rates declined 0.46 p.p., 0.55 p.p. and 0.53 p.p., respectively. One-, two- and three-year rates reduced 0.59 p.p., 
+0.82 p.p. and 0.96 p.p., respectively. The real interest rate measured by the differential between the one-year 
+forward nominal interest rate and the smoothed twelve-month ahead inflation expectations decreased to 7.99% on 
+January 22, down from 8.41% on November 27.  
+ 
+64. 
+Between November 28 and January 23, the BCB conducted two reverse exchange rate swap auctions. The 
+first one, on December 14, anticipated the redemption of the swap due January 2nd and reached US$1.6 billion. 
+The February 1st maturity rollover was accomplished on January 23 and totaled US$742 million.  
+  
+65. 
+In its open market operations, the BCB carried out, from November 28 to January 22, weekly five- and 
+seven-month long fixed rate repo operations. The average daily balance of these operations amounted R$55.3 
+billion, of which R$28.0 billion were five-month operations. In the same period, the BCB also conducted 37 
+overnight repo operations, 35 of which aimed at draining the excess liquidity from the market. The BCB also 
+conducted daily liquidity management operations with tenures up to two-working days. Operations with tenors less 
+than thirty days, including the daily liquidity management operations, averaged R$32.0 billion, borrowing. 
+  
+66. 
+Between November 28 and January 22, the National Treasury raised a total of R$59.7 billion, of which 
+R$37.1 billion in fixed-rate securities: R$17.9 billion via issuance of LTNs maturing in 2007, 2008 and 2009 and 
+R$19.2 billion in NTN-Fs maturing in 2010, 2012, 2014 and 2017. Issuance of LFTs totaled R$13.5 billion, for 
+securities maturing in 2010 and 2012. Issuance of inflation-linked NTN-Bs and NTN-Cs reached, respectively, 
+R$7.4 billion, for securities maturing in 2009, 2011, 2015, 2024, 2035 and 2045, and R$ 1.7 billion, for securities 
+maturing in 2017, 2021 and 2031. 
+  
+67. 
+In the same period, the Treasury conducted auctions to sell LTNs maturing in July and October 2007 and, 
+later, in October 2007 and April 2008, conjugated to the purchase of shorter-term LTN or LFT maturing in 2006, 
+totaling R$12.2 billion. The Treasury also conducted auctions to sell LFTs maturing in 2010 and 2012, totaling 
+ 
+11
+
+R$1.5 billion, accepting as payment LFTs maturing in 2006 or in the first half of 2007. Still, the Treasury conducted 
+auctions to buy LTNs maturing in January and April 2007 and NTN-Bs with several maturities, totaling R$6.2 billion 
+and R$180 million, respectively. 
+ 
+12
