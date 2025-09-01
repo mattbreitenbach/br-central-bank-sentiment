@@ -1,219 +1,57 @@
- 
-A) Update of the economic outlook and the Copom’s scenario1 
-1. The global environment remains challenging due to the economic policy and outlook 
-in the United States, mainly due to the uncertainty about trade policy and its effects. 
-This scenario poses even more questions about the pace of economic deceleration, 
-disinflation and, consequently, about the Fed’s monetary policy stance and the pace of 
-growth in other countries. 
-2. The central banks of major economies remain committed to bringing inflation back 
-to its targets in a context characterized by labor market pressures. The Committee 
-judges that the external environment continues to require caution from emerging 
-market economies. 
-3. Regarding the domestic scenario, the set of indicators on economic activity and labor 
-market has been exhibiting strength, even though we observe signals that suggest an 
-incipient moderation in growth. 
-4. Headline inflation and measures of underlying inflation remain above the inflation 
-target and have again increased in recent releases. Inflation expectations for 2025 and 
-2026 collected by the Focus survey increased significantly and stand at 5.7% and 4.5%, 
-respectively. 
- 
-B) Scenarios and risk analysis  
-5. The inflation outlook remains challenging in several dimensions. The Committee 
-analyzed economic activity, aggregate demand, inflation expectations, current 
-inflation, and the international scenario. Copom then discussed inflation projections 
-and expectations before deliberating on the current decision and future 
-communication. 
-6. The Committee continues to evaluate that the prospective baseline scenario involves 
-a slowdown in economic activity, which is part of the monetary policy transmission 
-process and an element necessary for the convergence of inflation to the target. Data 
-for the last few months continue to sign an incipient moderation in growth, in line with 
-the Copom's baseline scenario. The Committee reinforced that some more recent 
-indicators, such as those for services, industry, or the employed population, have 
-pointed to a moderation in growth after extraordinary resilience in the labor market 
-and economic activity. The seasonally adjusted Gross Domestic Product (GDP) grew by 
-0.2% in 2024Q4 over 2024Q3, following expansions of 1.3% and 0.7% in the second and 
-third quarters of the year, respectively. On the same comparison basis, on the 
-aggregate demand side, household consumption declined, after a sequence of thirteen 
-consecutive increases. That said, there are still few conclusions in the understanding of 
-(i) the past, which is subject to revisions and seasonality; (ii) the present, with mixed 
-contemporaneous data that are not unequivocal in one direction and; (iii) the future, in 
-light, for example, of anticipated strong agricultural growth in the first quarter with 
-possible consequences for other sectors. The Committee also emphasized that soft 
-data, such as those from confidence indicators and credit sentiment surveys, have 
-suggested a greater slowdown than that observed in the hard data. Moreover, 
-coincident hard data have shown mixed results depending on the sector or the 
-indicator. Lastly, in the labor market, in addition to inherent data volatility, employed 
-population has declined at the margin, but in an environment of low unemployment 
-and high income. Although recent data suggests some moderation, the labor market 
-remains heated. The Committee will continue to monitor economic activity and 
-reiterates that the aggregate demand slowdown is an essential element of supply-
-demand rebalancing in the economy and inflation convergence to the target.  
- 
-1 Unless explicitly stated otherwise, this update considers changes since the January Copom meeting (268th 
-meeting). 
+A) Update of the economic outlook and the Copom’s scenario1
 
- 
-7. The credit market has also remained strong in recent quarters due to the dynamism 
-of the labor market and economic activity. However, in line with the current scenario of 
-tighter financial conditions and higher risk premiums, bank credit has shown some 
-inflection more recently, with an increase in interest rates, lower risk appetite in the 
-credit supply, and a slower pace of credit granting. Therefore, one expects a scenario 
-marked, on the one hand, by a high household service-to-income ratio, but, on the other 
-hand, the continuity of the dynamism in the private securities market. 
-8. Regarding economic policy more broadly, the most emphasized issue was the 
-relevance of maintaining unobstructed monetary policy channels, with no elements 
-mitigating its action. Monetary policy acts through different channels, including credit, 
-leading the volume of loans to react to financial conditions and to expectations, as 
-prospective assessments impact current consumption and investment. In order to fulfill 
-its mandate and the convergence of inflation to the target at the lowest cost, monetary 
-policy must be able to act with all channels unobstructed.  
-9. The Committee remained firmly convinced that policies must be predictable, 
-credible, and countercyclical. In particular, the Committee's debate once again 
-highlighted the need for harmonious fiscal and monetary policies. More recently, 
-agents' perception about the fiscal regime and debt sustainability continued to impact 
-asset prices and expectations significantly. Copom reinforced its view that the 
-slowdown in structural reform efforts and fiscal discipline, the increase in earmarked 
-credit, and uncertainties over the public debt stabilization have the potential to raise 
-the economy's neutral interest rate, with deleterious impacts on the power of monetary 
-policy and, consequently, on the cost of disinflation in terms of activity. 
-10. Inflation expectations, measured by different instruments and obtained from 
-different groups of agents, have risen again in all terms, indicating further deanchoring 
-and thus making the inflation scenario more adverse. Deanchored inflation 
-expectations is a factor of discomfort shared by all Committee members and must be 
-tamed. Copom highlighted that environments with deanchored expectations increase 
-the disinflation cost in terms of activity. The scenario of inflation convergence to the 
-target becomes more challenging with deanchored expectations for longer horizons 
-and requires higher rates and for a longer period than would be otherwise appropriate. 
-11. Short-term inflation scenario remains adverse. Services inflation, which has greater 
-inertia, remains above the level required to meet the inflation target and has 
-accelerated in the most recent readings, in a context of a positive output gap. As for 
-industrialized goods, the recent movement of the exchange rate has pressured prices 
-and margins, already materialized in a rise in wholesale prices, suggesting that it will 
-pass through to retail prices in the coming months. Food prices remain high and tend 
-to spread over other prices on the medium term given the presence of important 
-inertial mechanisms in the Brazilian economy. Lastly, in the short-term analysis it was 
-highlighted that, if confirmed the reference scenario projections, the 12-month 
-inflation will remain above the upper limit of the inflation target tolerance interval for 
-six consecutive months as of January 2025. Therefore, there would be a target breach 
-with the June 2025 inflation under the new inflation-targeting framework. 
-12. Prospectively, the Committee will monitor the pace of economic activity, which is 
-fundamental in determining inflation, particularly services inflation; the exchange rate 
-pass-through to inflation, after a process of increased exchange rate volatility; and 
-inflation expectations, which have shown further deanchoring and are drivers of the 
-future inflation behavior. It was emphasized that inflationary vectors remain adverse, 
-such as a positive output gap, higher current inflation, and more deanchored inflation 
-expectations.  
-13. The external environment remains challenging, with significant economic and 
-geopolitical uncertainties. It is assessed that there is a concomitant increase in 
-uncertainty and a deterioration of the global growth scenario compared with the 
-previous Copom meeting. Copom's baseline scenario continues to predict a gradual and 
+1. The global environment remains challenging due to the economic policy and outlook in the United States, mainly due to the uncertainty about trade policy and its effects. This scenario poses even more questions about the pace of economic deceleration, disinflation and, consequently, about the Fed’s monetary policy stance and the pace of growth in other countries.
 
- 
-orderly slowdown of the U.S. economy, but, in addition to the inherent uncertainties of 
-the economic outlook, there are doubts about the conduct of economic policy in various 
-dimensions, such as possible fiscal stimuli; labor supply restrictions; scope and intensity 
-of the import tariffs rising; and significant changes in relative prices resulting from shifts 
-in the energy matrix, which could negatively impact financial conditions and capital 
-flows to emerging market economies. The uncertainty surrounding these policies is 
-already restricting new investments and affects activity. Similarly, uncertainty about the 
-implementation of tariffs also affects expectations, price determination, and inflation. 
-Therefore, part of this scenario deterioration, also discussed in recent meetings, is 
-already starting to materialize. Moreover, there is renewed pressure in Europe to 
-expand public spending, financed by debt issuance. Such movements tend to tighten 
-global financial conditions, raising rates and potentially pressuring the exchange rate in 
-emerging market economies. The Committee reinforced that the central banks' 
-commitment to achieving their targets is a fundamental ingredient in the disinflationary 
-process, corroborated by recent indications of cautious monetary easing cycles in 
-several countries. As usual, the Committee will focus on the transmission mechanisms 
-from the external environment to the domestic inflation dynamics and their impact on 
-the outlook. It was also emphasized that a context of greater global uncertainty and 
-more abrupt exchange rate movements requires greater caution in the conduct of 
-domestic monetary policy. 
-14. Copom then addressed the projections. In the reference scenario, the interest rate 
-path is extracted from the Focus survey, and the exchange rate starts at USD/BRL 5.802 
-and evolves according to the purchasing power parity (PPP). The Committee assumes 
-that oil prices follow approximately the futures market curve for the following six 
-months and then start increasing 2% per year. Moreover, the energy tariff flag is 
-assumed to be “green” in December 2025. 
-15. In the reference scenario, four-quarter inflation projections for 2025 and for the 
-third quarter of 2026 – the current relevant monetary policy horizon – are 5.1% and 
-3.9%, respectively (Table 1).  
-16. The balance of risks remains asymmetrical, indicating a greater probability of higher 
-inflation than that in the baseline scenario. Among the upside risks for the inflation 
-outlook and inflation expectations, it should be emphasized (i) a more prolonged period 
-of deanchoring of inflation expectations; (ii) a stronger-than-expected resilience of 
-services inflation due to a more positive output gap; and (iii) a conjunction of internal 
-and external economic policies with a stronger-than-expected inflationary impact, for 
-example, through a persistently more depreciated currency. Among the downside risks, 
-it should be noted (i) impacts on the inflation scenario in the case of a greater-than-
-projected deceleration of domestic economic activity; and (ii) a less inflationary scenario 
-for emerging market economies arising from shocks on international trade or global 
-financial conditions. 
- 
-C) Discussion of the conduct of monetary policy 
-17. Copom then discussed the conduct of monetary policy, considering the set of 
-projections evaluated, as well as the balance of risks for prospective inflation. 
-18. In the Committee's analysis, the scenario unfolded in such a way that the previous 
-indication of a 1.00 p.p. increase in the Selic rate deemed to be the right decision. It was 
-assessed that monetary tightening was required for the convergence of inflation to the 
-target in a scenario marked by deanchored expectations, high inflation projections, and 
-resilient activity.  
- 
-2 It corresponds to the rounded value of the average exchange rate observed over the ten working days 
-ending on the last day of the week prior to the Copom meeting, according to the procedure adopted since 
-the 258th meeting. 
+2. The central banks of major economies remain committed to bringing inflation back to its targets in a context characterized by labor market pressures. The Committee judges that the external environment continues to require caution from emerging market economies.
 
- 
-19. In its communication, the Committee chose to combine three indications regarding 
-the conduct of monetary policy, should the expected scenario be confirmed. Firstly, it 
-assessed that, given the adverse scenario for inflation dynamics, it was appropriate to 
-indicate that the cycle has not come to an end. Secondly, due to the lags inherent to the 
-ongoing monetary cycle, the Committee also deemed appropriate to communicate that 
-the next move would be of a smaller magnitude. Furthermore, given the heightened 
-uncertainty, it decided to indicate only the direction of the next move.  
-20. Beyond the next meeting, the total magnitude of the tightening cycle will be 
-determined by the firm commitment of reaching the inflation target and will depend 
-on the inflation dynamics, especially the components that are more sensitive to 
-monetary policy and economic activity, on the inflation projections, on the inflation 
-expectations, on the output gap, and on the balance of risks. 
- 
-D) Monetary policy decision 
-21. The current scenario is marked by additional deanchoring of inflation expectations, 
-high inflation projections, resilience on economic activity, and labor market pressures, 
-which requires a more contractionary monetary policy. 
-22. Copom therefore decided to increase the Selic rate by 1.00 p.p. to 14.25% p.a., and 
-judges that this decision is consistent with the strategy for inflation convergence to a 
-level around its target throughout the relevant monetary policy horizon. Without 
-compromising its fundamental objective of ensuring price stability, this decision also 
-implies smoothing economic fluctuations and fostering full employment. 
-23. In light of the continuation of the adverse scenario for inflation convergence, the 
-heightened uncertainty and the lags inherent to the ongoing monetary tightening 
-cycle, the Committee anticipates an adjustment of lower magnitude in the next 
-meeting, if the scenario evolves as expected. Beyond the next meeting, the Committee 
-reinforces that the total magnitude of the tightening cycle will be determined by the 
-firm commitment of reaching the inflation target and will depend on the inflation 
-dynamics, especially the components that are more sensitive to monetary policy and 
-economic activity, on the inflation projections, on the inflation expectations, on the 
-output gap, and on the balance of risks. 
-24. The following members of the Committee voted for this decision: Gabriel Muricca 
-Galípolo (Governor), Ailton de Aquino Santos, Diogo Abry Guillen, Gilneu Francisco 
-Astolfi Vivan, Izabela Moreira Correa, Nilton José Schneider David, Paulo Picchetti, 
-Renato Dias de Brito Gomes, and Rodrigo Alves Teixeira. 
- 
-Table 1 
-Inflation projections in the reference scenario 
-Year-over-year IPCA change (%) 
- 
-Price Index 
-2025 
-2026Q3 
-IPCA 
-5.1 
-3.9 
-IPCA market prices 
-5.4 
-3.8 
-IPCA administered prices 
-4.3 
-4.2 
- 
+3. Regarding the domestic scenario, the set of indicators on economic activity and labor market has been exhibiting strength, even though we observe signals that suggest an incipient moderation in growth.
+
+4. Headline inflation and measures of underlying inflation remain above the inflation target and have again increased in recent releases. Inflation expectations for 2025 and 2026 collected by the Focus survey increased significantly and stand at 5.7% and 4.5%, respectively.
+
+B) Scenarios and risk analysis
+
+5. The inflation outlook remains challenging in several dimensions. The Committee analyzed economic activity, aggregate demand, inflation expectations, current inflation, and the international scenario. Copom then discussed inflation projections and expectations before deliberating on the current decision and future communication.
+
+6. The Committee continues to evaluate that the prospective baseline scenario involves a slowdown in economic activity, which is part of the monetary policy transmission process and an element necessary for the convergence of inflation to the target. Data for the last few months continue to sign an incipient moderation in growth, in line with the Copom's baseline scenario. The Committee reinforced that some more recent indicators, such as those for services, industry, or the employed population, have pointed to a moderation in growth after extraordinary resilience in the labor market and economic activity. The seasonally adjusted Gross Domestic Product (GDP) grew by 0.2% in 2024Q4 over 2024Q3, following expansions of 1.3% and 0.7% in the second and third quarters of the year, respectively. On the same comparison basis, on the aggregate demand side, household consumption declined, after a sequence of thirteen consecutive increases. That said, there are still few conclusions in the understanding of
+
+(i) the past, which is subject to revisions and seasonality; (ii) the present, with mixed contemporaneous data that are not unequivocal in one direction and; (iii) the future, in light, for example, of anticipated strong agricultural growth in the first quarter with possible consequences for other sectors. The Committee also emphasized that soft data, such as those from confidence indicators and credit sentiment surveys, have suggested a greater slowdown than that observed in the hard data. Moreover, coincident hard data have shown mixed results depending on the sector or the indicator. Lastly, in the labor market, in addition to inherent data volatility, employed population has declined at the margin, but in an environment of low unemployment and high income. Although recent data suggests some moderation, the labor market remains heated. The Committee will continue to monitor economic activity and reiterates that the aggregate demand slowdown is an essential element of supply- demand rebalancing in the economy and inflation convergence to the target.
+
+7. The credit market has also remained strong in recent quarters due to the dynamism of the labor market and economic activity. However, in line with the current scenario of tighter financial conditions and higher risk premiums, bank credit has shown some inflection more recently, with an increase in interest rates, lower risk appetite in the credit supply, and a slower pace of credit granting. Therefore, one expects a scenario marked, on the one hand, by a high household service-to-income ratio, but, on the other hand, the continuity of the dynamism in the private securities market.
+
+8. Regarding economic policy more broadly, the most emphasized issue was the relevance of maintaining unobstructed monetary policy channels, with no elements mitigating its action. Monetary policy acts through different channels, including credit, leading the volume of loans to react to financial conditions and to expectations, as prospective assessments impact current consumption and investment. In order to fulfill its mandate and the convergence of inflation to the target at the lowest cost, monetary policy must be able to act with all channels unobstructed.
+
+9. The Committee remained firmly convinced that policies must be predictable, credible, and countercyclical. In particular, the Committee's debate once again highlighted the need for harmonious fiscal and monetary policies. More recently, agents' perception about the fiscal regime and debt sustainability continued to impact asset prices and expectations significantly. Copom reinforced its view that the slowdown in structural reform efforts and fiscal discipline, the increase in earmarked credit, and uncertainties over the public debt stabilization have the potential to raise the economy's neutral interest rate, with deleterious impacts on the power of monetary policy and, consequently, on the cost of disinflation in terms of activity.
+
+10. Inflation expectations, measured by different instruments and obtained from different groups of agents, have risen again in all terms, indicating further deanchoring and thus making the inflation scenario more adverse. Deanchored inflation expectations is a factor of discomfort shared by all Committee members and must be tamed. Copom highlighted that environments with deanchored expectations increase the disinflation cost in terms of activity. The scenario of inflation convergence to the target becomes more challenging with deanchored expectations for longer horizons and requires higher rates and for a longer period than would be otherwise appropriate.
+
+11. Short-term inflation scenario remains adverse. Services inflation, which has greater inertia, remains above the level required to meet the inflation target and has accelerated in the most recent readings, in a context of a positive output gap. As for industrialized goods, the recent movement of the exchange rate has pressured prices and margins, already materialized in a rise in wholesale prices, suggesting that it will pass through to retail prices in the coming months. Food prices remain high and tend to spread over other prices on the medium term given the presence of important inertial mechanisms in the Brazilian economy. Lastly, in the short-term analysis it was highlighted that, if confirmed the reference scenario projections, the 12-month inflation will remain above the upper limit of the inflation target tolerance interval for six consecutive months as of January 2025. Therefore, there would be a target breach with the June 2025 inflation under the new inflation-targeting framework.
+
+12. Prospectively, the Committee will monitor the pace of economic activity, which is fundamental in determining inflation, particularly services inflation; the exchange rate pass-through to inflation, after a process of increased exchange rate volatility; and inflation expectations, which have shown further deanchoring and are drivers of the future inflation behavior. It was emphasized that inflationary vectors remain adverse, such as a positive output gap, higher current inflation, and more deanchored inflation expectations.
+
+13. The external environment remains challenging, with significant economic and geopolitical uncertainties. It is assessed that there is a concomitant increase in uncertainty and a deterioration of the global growth scenario compared with the previous Copom meeting. Copom's baseline scenario continues to predict a gradual and orderly slowdown of the U.S. economy, but, in addition to the inherent uncertainties of the economic outlook, there are doubts about the conduct of economic policy in various dimensions, such as possible fiscal stimuli; labor supply restrictions; scope and intensity of the import tariffs rising; and significant changes in relative prices resulting from shifts in the energy matrix, which could negatively impact financial conditions and capital flows to emerging market economies. The uncertainty surrounding these policies is already restricting new investments and affects activity. Similarly, uncertainty about the implementation of tariffs also affects expectations, price determination, and inflation. Therefore, part of this scenario deterioration, also discussed in recent meetings, is already starting to materialize. Moreover, there is renewed pressure in Europe to expand public spending, financed by debt issuance. Such movements tend to tighten global financial conditions, raising rates and potentially pressuring the exchange rate in emerging market economies. The Committee reinforced that the central banks' commitment to achieving their targets is a fundamental ingredient in the disinflationary process, corroborated by recent indications of cautious monetary easing cycles in several countries. As usual, the Committee will focus on the transmission mechanisms from the external environment to the domestic inflation dynamics and their impact on the outlook. It was also emphasized that a context of greater global uncertainty and more abrupt exchange rate movements requires greater caution in the conduct of domestic monetary policy.
+
+14. Copom then addressed the projections. In the reference scenario, the interest rate path is extracted from the Focus survey, and the exchange rate starts at USD/BRL 5.802 and evolves according to the purchasing power parity (PPP). The Committee assumes that oil prices follow approximately the futures market curve for the following six months and then start increasing 2% per year. Moreover, the energy tariff flag is assumed to be “green” in December 2025.
+
+15. In the reference scenario, four-quarter inflation projections for 2025 and for the third quarter of 2026 – the current relevant monetary policy horizon – are 5.1% and 3.9%, respectively (Table 1).
+
+16. The balance of risks remains asymmetrical, indicating a greater probability of higher inflation than that in the baseline scenario. Among the upside risks for the inflation outlook and inflation expectations, it should be emphasized (i) a more prolonged period of deanchoring of inflation expectations; (ii) a stronger-than-expected resilience of services inflation due to a more positive output gap; and (iii) a conjunction of internal and external economic policies with a stronger-than-expected inflationary impact, for example, through a persistently more depreciated currency. Among the downside risks, it should be noted (i) impacts on the inflation scenario in the case of a greater-than- projected deceleration of domestic economic activity; and (ii) a less inflationary scenario for emerging market economies arising from shocks on international trade or global financial conditions.
+
+C) Discussion of the conduct of monetary policy
+
+17. Copom then discussed the conduct of monetary policy, considering the set of projections evaluated, as well as the balance of risks for prospective inflation.
+
+18. In the Committee's analysis, the scenario unfolded in such a way that the previous indication of a 1.00 p.p. increase in the Selic rate deemed to be the right decision. It was assessed that monetary tightening was required for the convergence of inflation to the target in a scenario marked by deanchored expectations, high inflation projections, and resilient activity.
+
+19. In its communication, the Committee chose to combine three indications regarding the conduct of monetary policy, should the expected scenario be confirmed. Firstly, it assessed that, given the adverse scenario for inflation dynamics, it was appropriate to indicate that the cycle has not come to an end. Secondly, due to the lags inherent to the ongoing monetary cycle, the Committee also deemed appropriate to communicate that the next move would be of a smaller magnitude. Furthermore, given the heightened uncertainty, it decided to indicate only the direction of the next move.
+
+20. Beyond the next meeting, the total magnitude of the tightening cycle will be determined by the firm commitment of reaching the inflation target and will depend on the inflation dynamics, especially the components that are more sensitive to monetary policy and economic activity, on the inflation projections, on the inflation expectations, on the output gap, and on the balance of risks.
+
+D) Monetary policy decision
+
+21. The current scenario is marked by additional deanchoring of inflation expectations, high inflation projections, resilience on economic activity, and labor market pressures, which requires a more contractionary monetary policy.
+
+22. Copom therefore decided to increase the Selic rate by 1.00 p.p. to 14.25% p.a., and judges that this decision is consistent with the strategy for inflation convergence to a level around its target throughout the relevant monetary policy horizon. Without compromising its fundamental objective of ensuring price stability, this decision also implies smoothing economic fluctuations and fostering full employment.
+
+23. In light of the continuation of the adverse scenario for inflation convergence, the heightened uncertainty and the lags inherent to the ongoing monetary tightening cycle, the Committee anticipates an adjustment of lower magnitude in the next meeting, if the scenario evolves as expected. Beyond the next meeting, the Committee reinforces that the total magnitude of the tightening cycle will be determined by the firm commitment of reaching the inflation target and will depend on the inflation dynamics, especially the components that are more sensitive to monetary policy and economic activity, on the inflation projections, on the inflation expectations, on the output gap, and on the balance of risks.
+
+24. The following members of the Committee voted for this decision: Gabriel Muricca Galípolo (Governor), Ailton de Aquino Santos, Diogo Abry Guillen, Gilneu Francisco Astolfi Vivan, Izabela Moreira Correa, Nilton José Schneider David, Paulo Picchetti, Renato Dias de Brito Gomes, and Rodrigo Alves Teixeira. Table 1 Inflation projections in the reference scenario Year-over-year IPCA change (%) Price Index 2025 2026Q3 IPCA 5.1 3.9 IPCA market prices 5.4 3.8 IPCA administered prices 4.3 4.2

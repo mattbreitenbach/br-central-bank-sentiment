@@ -1,481 +1,117 @@
-The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the 
-Brazilian and international economies under the monetary policy framework, which is designed to comply with the 
-inflation targets established by the government. 
- 
-Recent Evolution of Inflation 
-  
-1. 
-Consumer price inflation cooled in May, mainly due to the deceleration in food and regulated prices. May 
-wholesale price inflation was negative, driven by the drop in both agricultural and industrial prices.  
-  
-2. 
-In May, the IPCA rose 0.49%, after rising 0.87% in April. The accumulated increases in the year and in the 
-twelve months through May reached 3.18% and 8.05%, respectively. Market prices rose 0.59% (0.76% in April), 
-accounting for 0.42 p.p. of the monthly IPCA change, while regulated prices rose 0.25% (1.14% in April), 
-accounting for the remaining 0.07 p.p. The highest individual contribution came from electricity rate adjustments 
-(0.08 p.p.), followed by medicine prices (0.07 p.p.). Other noticeable price increases were in clothing, due to 
-seasonality, and in bread, pressured by the price of wheat. On the other hand, the largest contractions were fuel 
-alcohol prices (-5.42%) and gasoline (-0.64%), the latter indirectly driven by the reduction in the price of alcohol.  
- 
-3. 
-The General Price Index (IGP-DI) dropped 0.25% in May, compared to a 0.51% increase in April, for an 
-accumulated 1.99% increase in the first five months of the year, and an 8.36% increase in twelve months. Among 
- 
-1
+1. Consumer price inflation cooled in May, mainly due to the deceleration in food and regulated prices. May wholesale price inflation was negative, driven by the drop in both agricultural and industrial prices.
 
-the IGP-DI components, the Wholesale Price Index (IPA-DI) dropped 0.98% (0.33% increase in April), 
-accumulating a twelve-month increase of 8.48%, and 0.94% in the year. The Consumer Price Index – Brazil (IPC-
-Br) rose 0.79% (0.88% in April), mainly reflecting food and transport price deceleration. The National Index of Civil 
-Construction (INCC) rose 2.09% (0.72% in April), due to labor cost adjustments in 4 out of the 12 capitals in the 
-index.   
- 
-4. 
-The negative variation of IPA-DI inflation in May reflected declines in both industrial and agricultural prices. 
-Agricultural wholesale prices dropped 2.76% in May, compared to a 1.60% decline in April, across most items in 
-the index. The 0.38% decline in industrial wholesale prices reflected the behavior in important segments, such as 
-food products, chemicals and metallurgy. The decline of raw material prices was sharper, influenced by agricultural 
-prices. IPA inflation for both final and intermediate goods was also negative in May, after the increases observed 
-from January to April.  
-  
-5. 
-IPCA core inflation decelerated in May. The core calculated under the smoothed trimmed means method 
-reached 0.65%, and totaled 7.61% in the twelve months through May. The non-smoothed core fell to 0.46%, with 
-an accumulated twelve-month increase of 6.62%. Core inflation calculated by the exclusion of household food and 
-regulated prices fell to 0.57%, accumulating 7.15% in twelve months. In April, all the three core measures had 
-posted a change of around 0.7%.  
-  
-6. 
-IPC-Br core inflation, calculated by the Getúlio Vargas Foundation (FGV) under the symmetric trimmed 
-means method, reached 0.73% in May from 0.65% in April, for a cumulative twelve-month increase of 5.98%.   
-  
-7. 
-The IPCA diffusion index fell to 65.8% in May, compared to 67.2% in April. 
- 
-Assessment of Inflation Trends 
- 
-8. 
-The inflation shocks and their impacts were reassessed according to newly available information. The 
-scenario considered in the simulations utilized the following assumptions: 
-  
-a) The projection for the adjustment of both gasoline and bottled gas prices for 2005 remained unchanged 
-at 0%; 
- 
-b) Projections for adjustments of fixed telephone rates and household electricity for 2005 were kept at 8.6% 
-and 10.8%, respectively;  
- 
-c) For all regulated prices, which represented a total weight of 29.7% in the May IPCA, a 7.3% increase is 
-projected for 2005 (the same as the prior month); 
- 
-d) The projection for regulated price adjustments in 2006, following the model of endogenous 
-determination, which takes into account seasonal components, the exchange rate, market price inflation, 
-and the change in the IGP-DI, rose to 5.7% from 5.1%. The revision was due to the fact that new 2006 
-projections were made for those items for which the 2005 adjustment data is available;  
- 
-e) The projection for the 6-month spread over the Selic rate, following the specification of a Vector 
-Autoregressive model based on the Selic and the swap rates on the eve of the Copom meeting, increases 
-from -2 basis points in the third quarter of 2005 to 40 basis points in the last quarter of 2006. 
- 
-9. 
-Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of 
-GDP for 2005 and 2006 will be achieved. The related assumptions considered in the previous Copom meeting 
-were maintained. 
-  
-10. 
-Assuming the maintenance of the Selic rate at 19.75% p.a. and the exchange rate at the level prevailing on 
-the eve of the Copom meeting (R$/US$2.47), the IPCA inflation rate was projected above the 5.1% objective for 
-2005, but below the 4.5% central target for 2006. Using the consensus Selic rate and exchange rate expectations 
- 
-2
+2. In May, the IPCA rose 0.49%, after rising 0.87% in April. The accumulated increases in the year and in the twelve months through May reached 3.18% and 8.05%, respectively. Market prices rose 0.59% (0.76% in April), accounting for 0.42 p.p. of the monthly IPCA change, while regulated prices rose 0.25% (1.14% in April), accounting for the remaining 0.07 p.p. The highest individual contribution came from electricity rate adjustments (0.08 p.p.), followed by medicine prices (0.07 p.p.). Other noticeable price increases were in clothing, due to seasonality, and in bread, pressured by the price of wheat. On the other hand, the largest contractions were fuel alcohol prices (-5.42%) and gasoline (-0.64%), the latter indirectly driven by the reduction in the price of alcohol.
 
-compiled by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation was projected 
-above the 2005 objective and above the 2006 central target.  
- 
-Monetary Policy Decision 
-  
- 
-11. 
-After reaching 0.87% in April – the highest level since July 2004 and the third consecutive monthly increase 
-– IPCA inflation fell to 0.49% in May, the sharpest reduction since October 2003. The drop in IPCA inflation owed in 
-large part to slower regulated price inflation (despite pressure from rising electricity rates, regulated prices as a 
-whole registered only a small increase, due to the decline in fuel prices), and occurred despite the acceleration in 
-clothing prices.  
- 
-12. 
-IPCA core inflation decelerated in May, under all measures monitored by the Copom – by exclusion and 
-trimmed means (smoothed and non-smoothed). The deceleration of the core by exclusion of household food items 
-and regulated prices, which presented the largest change in April among the three measures, reflected the 
-deceleration in market price inflation (for both tradable and non-tradable goods). Non-smoothed trimmed means 
-core inflation decelerated the most, in line with the broad deceleration in the index. In turn, smoothed trimmed 
-means core inflation slowed the least, reflecting its implicit inertial component – this is the core measure that posted 
-the highest accumulated inflation over the last twelve months. Despite the deceleration in the IPCA cores, they 
-have not yet reached levels compatible with the inflation target path. 
- 
-13. 
-IGP-DI inflation fell 0.25% in May, continuing the strong deceleration registered in April, and driven largely 
-by the sharp decline in the wholesale component, which fell 0.98% (after rising 0.33% in April). This reflected, in 
-part, a drop in agricultural prices (reversing the strong agricultural price increases registered in February and March 
-due to the drought in Southern Brazil). In addition, contrary to prior months, the industrial IPA was also negative in 
-May. IGP-M data for the first ten days of June suggest stable agricultural prices in the period, but a stronger 
-reduction in industrial prices. Overall, there is more evidence of a consistent accommodation of wholesale prices. 
-As emphasized in prior Copom Minutes, the more stable industrial IPA in recent months reflects, in part, exchange 
-rate appreciation and the effects of the monetary tightening, and could have positive spillovers for the future 
-performance of consumer prices. The strength of this pass-through will depend on prospective demand conditions 
-and price-setters’ expectations for the future inflation path. 
-  
-14. 
-GDP grew 0.3% in the first quarter of 2005, in quarter-on-quarter seasonally adjusted terms, confirming the 
-accommodation of economic growth, but nevertheless completing an eighth consecutive quarter of growth. The 
-accommodation observed since the last quarter of 2004 followed a period of accelerated economic growth, during 
-which record levels of economic activity were attained. Growth in the first quarter was driven by the agricultural 
-sector, which registered a 2.6% quarter-on-quarter seasonally adjusted expansion, while manufacturing and 
-services fell 1.0% and 0.2%, respectively. Accommodation in the pace of growth was most visible in the 
-components of domestic demand. Gross fixed capital formation contracted 3.0%, the second consecutive quarterly 
-decline, after five quarters of uninterrupted, strong growth (since mid-2003). Household consumption fell 0.6%, 
-after growing steadily throughout 2004. Exports of goods and services grew 3.5% and imports grew 2.3%, in 
-quarter-on-quarter terms, confirming the increase, in the period, of the relative importance of external demand as a 
-factor sustaining economic growth. Considering the behavior of leading economic activity indicators and the 
-progressive consolidation of the monetary adjustment process implemented since September 2004, growth is 
-expected to accelerate in the coming quarters.  
- 
-15. 
-Industrial production was stable in April, in seasonally adjusted terms, and near the historical high reached 
-in December 2004. The stability in April followed the seasonally adjusted growth of 1.5% in March, and could be 
-reflecting the correction of inherent fluctuations in the series due to seasonal adjustment for moving holidays 
-(timing of Easter). The three-month moving average series remained steady in April, at the elevated level observed 
-since end-2004. For May, leading and coincident indicators suggest continued stability in industrial production.  
-  
-16. 
-Intermediate goods were the only industrial category to register output growth in April. There was a decline 
-in the production of consumer goods – durables as well as semi- and non-durables. Capital goods production also 
-declined, after rising sharply in March. Three-month moving averages, however, suggest that consumer durable 
-goods production continued to grow at levels close to those registered in recent months, while consumer semi- and 
- 
-3
+3. The General Price Index (IGP-DI) dropped 0.25% in May, compared to a 0.51% increase in April, for an accumulated 1.99% increase in the first five months of the year, and an 8.36% increase in twelve months. Among 1 the IGP-DI components, the Wholesale Price Index (IPA-DI) dropped 0.98% (0.33% increase in April), accumulating a twelve-month increase of 8.48%, and 0.94% in the year. The Consumer Price Index – Brazil (IPC- Br) rose 0.79% (0.88% in April), mainly reflecting food and transport price deceleration. The National Index of Civil Construction (INCC) rose 2.09% (0.72% in April), due to labor cost adjustments in 4 out of the 12 capitals in the index.
 
-non-durable goods production declined. There was also a decline in the production of capital goods. Finally, 
-intermediate goods broke the downward trend registered since September. The continuation of April trends would 
-suggest a change in the pattern of the previous two months, in which more credit-sensitive items (like consumer 
-durables) posted robust growth, while more income-sensitive items lost dynamism - more data will be necessary to 
-better characterize potential changes in the pattern of industrial activity. 
- 
-17. 
-Recent labor market data remains favorable. The IBGE survey showed the unemployment rate holding 
-steady in April (at 10.8%), unlike the pattern observed in 2003 and 2004, when there was an increase in the 
-unemployment rate. In addition, in the first four months of 2005, the unemployment rate was below that of the same 
-period in 2004. The number of employed workers rose 0.1% versus March, but there was a reduction in both real 
-payrolls and average earnings. Manufacturing employment, measured by the National Industry Confederation (CNI) 
-and seasonally adjusted by the BCB, continued to increase (as it has since the first quarter of 2003). Real 
-manufacturing payrolls have been somewhat uneven, falling at the beginning of the year, rising in March, and 
-falling again in April. Formal employment, measured by the Ministry of Labor and Employment (MTE), continued to 
-expand, with the creation of 266,095 jobs in April, the highest value for this month since the creation of the series. 
-With this result, more than 500,000 new formal sector jobs were created in the first four months of 2005. 
-  
-18. 
-Retail sales fell 0.2% in April, according to month-on-month seasonally adjusted data from IBGE. The April 
-result could be attributed, in part, to the same moving holidays effect that influenced industrial production. Fabric, 
-clothing, and shoes posted the strongest performance, rising 13.7%, followed by furniture and household 
-appliances, which grew 1.0%. The other components declined relative to March. In three-month moving average 
-terms, there are signs of an accommodation in sales growth, after a period of strong expansion since mid-2003. 
-Sales of furniture and household appliances, along with fabric, clothing, and shoes, continued to rise; however, this 
-growth is counterbalanced by the decline in hyper- and supermarket sales. The Fecomercio-SP consumer 
-confidence index declined again in June, but remains at historic high levels. 
- 
-19. 
-As emphasized in prior Copom minutes, despite a recent modest decline, capacity utilization (measured by 
-CNI data, seasonally adjusted by the BCB) remains at historic highs – such that the inflation path remains largely 
-tied to current and prospective supply increase, to adequately meet demand conditions. In this vein, capital goods 
-production accumulated growth of 13.0% in the twelve months ending in April, while capital goods absorption rose 
-1.8% in the first four months of the year. The slower growth registered at the margin reflects the sharp drop in 
-agricultural machinery investment and a considerably higher comparison base (due to the strong investment 
-expansion through 2004, at the highest pace since 1994). While it does not appear likely that the recent 
-accommodation in the pace of investment growth will persist, a key concern with regard to prospective inflation 
-dynamics continues to be the performance of aggregate supply in the coming quarters. 
- 
-20. 
-Strong trade surpluses (and robust export and import growth) continued in May, reinforcing the more 
-favorable outlook for the year. In the twelve months through May, exports grew 32.6% in value terms, relative to the 
-same period last year, while imports grew 30.5% (reflecting, in part, higher oil prices; imports excluding oil rose 
-roughly 27.0%). With exports growing at a faster pace than imports, the trade balance rose to US$ 38.1 billion in 
-the twelve months through May, representing a 36.3% increase over the twelve months through May 2004. The 
-strong trade balance result contributed to an accumulated current account surplus of US$13.4 billion in the twelve 
-months through May (equivalent to 2.1% of GDP). The expansion of external trade registered in recent months has 
-also been accompanied by export diversification (both in terms of products and destinations). 
- 
-21. 
-While international financial markets have remained volatile, there was an improvement vis-à-vis the 
-scenario considered at the last Copom meeting. After rising steadily earlier this year, at end-May US treasury yields 
-(particularly the 10-year note) hit lows not seen since April 2004 (prior to the beginning of the U.S. monetary 
-tightening cycle). There also appears to have been at least a partial absorption of the shocks related to the 
-deterioration in U.S. corporate credit quality. In Brazil, these developments were accompanied by a decline in 
-Brazilian country risk and currency appreciation. Nevertheless, liquidity conditions and market stability remain tied 
-to macroeconomic conditions in the industrialized countries, especially the United States, and to the Fed’s potential 
-monetary policy response to economic developments. An additional point of concern is the current account 
-imbalances in some of the largest economies, and the possibility that eventual adjustments will result in significant 
- 
-4
+4. The negative variation of IPA-DI inflation in May reflected declines in both industrial and agricultural prices. Agricultural wholesale prices dropped 2.76% in May, compared to a 1.60% decline in April, across most items in the index. The 0.38% decline in industrial wholesale prices reflected the behavior in important segments, such as food products, chemicals and metallurgy. The decline of raw material prices was sharper, influenced by agricultural prices. IPA inflation for both final and intermediate goods was also negative in May, after the increases observed from January to April.
 
-currency movements. Despite these concerns, about which there is a significant degree of uncertainty, the Copom 
-continues to assign a low probability to a significant deterioration in international financial markets. 
- 
-22. 
-Oil prices have continued to fluctuate significantly. After reaching record highs at end-March and early-
-April, oil prices declined through mid-May and then rose again in recent weeks. The increase in the level and 
-volatility of oil prices occurred in response to new information on demand conditions, potential supply restrictions 
-among producer countries, and inventory data for the main consumer countries. Oil price projections remain 
-subject to a considerable degree of uncertainty, particularly regarding the scope and persistence of recent price 
-behavior. The Copom has therefore maintained its baseline scenario, which assumes that there will not be an 
-adjustment in domestic fuel prices in 2005. Nevertheless, while the recent increase in international oil prices has 
-not translated into an increase in domestic gasoline prices, international oil price trends continue to represent a risk 
-to the future inflation path via its effects on the prices of oil-intensive products as well as private sector inflation 
-expectations. In the Copom’s view, the path of oil price now represents a more significant risk to future inflation 
-trajectory than it did in May.  
-  
-23. 
-Since the last Copom meeting, median IPCA inflation expectations for 2005 collected by Gerin declined to 
-6.2% from 6.4%. Inflation expectations for this year now appear more responsive to favorable developments that 
-are reducing inflationary pressures, such as signs of accommodation in economic growth, the reevaluation of 
-market expectations for the exchange rate path, and the more restrictive monetary stance. Twelve-month ahead 
-inflation expectations also declined in recent weeks, at a faster pace than expectations for full-year 2005. 
-Expectations for 2006 remained stable. These developments suggest that the monetary policy stance has both 
-contained short-term inflationary pressures and contributed to the consolidation of a more favorable longer-term 
-macroeconomic environment.  
-  
-24. 
-The 2005 inflation forecast under the benchmark scenario – which assumes the maintenance of the Selic 
-rate at 19.75% p.a. and the exchange rate at R$/US$ 2.47 during the forecast period – declined relative to the May 
-meeting forecast, but remained above the 5.1% inflation objective for the year. The decline was due mainly to the 
-change in inflation expectations, lower-than-expected May inflation, and the updating of the output gap estimate 
-with first quarter 2005 GDP data. The 2005 forecasts based on the market scenario – which incorporate the 
-consensus exchange rate and Selic rate trajectories on the eve of the Copom meeting – were above the 
-benchmark scenario, but also below that of May (for the same reasons cited above). For 2006, the benchmark 
-scenario inflation forecast remained constant, at a level below the central target established by the National 
-Monetary Council. Under the market scenario, there was a modest reduction in the projection, which, nevertheless, 
-remained above the central target. 
- 
-25. 
-The Copom also analyzed inflation forecasts for the twelve-month periods ending in March, June, and 
-September 2006. The forecasts for these periods will be more responsive to current monetary policy decisions than 
-those for calendar year 2005, and also more reliable than those for calendar year 2006. The forecast under the 
-benchmark scenario for the twelve months ending in March was above the value interpolated from the 5.1% 
-inflation objective for 2005 and the 4.5% target for 2006. Nevertheless, this forecast was below the forecast for the 
-same period made at the May Copom meeting. The forecasts under the benchmark scenario for the twelve months 
-ending in June and September 2006 were below the inflation target path for these periods.  
- 
-26. 
-The Copom reaffirms the view, expressed in prior Copom Minutes, that the effects of the interest rate 
-tightening cycle begun in September are being reflected in both year-to-date inflation results and forward-looking 
-inflation forecasts. Economic activity should continue to expand, but at a slower pace and more in line with supply 
-conditions, such that it will not exert significant inflationary pressures. In addition, the Copom estimates that there 
-was an easing of specific pressure points on current inflation and an improvement in the external environment, 
-despite the recent uptick in international oil prices. Therefore, the risks to convergence to the inflation target path 
-have declined relative to those prevailing at the time of the May Copom meeting.   
- 
-27. 
-The Copom assessed that maintaining interest rates at the level established in May, for a sufficiently long 
-period of time, would create the conditions necessary to assure inflation convergence to the target path, making it 
-unnecessary to continue the interest rate adjustment cycle. The Copom therefore unanimously decided to maintain 
- 
-5
+5. IPCA core inflation decelerated in May. The core calculated under the smoothed trimmed means method reached 0.65%, and totaled 7.61% in the twelve months through May. The non-smoothed core fell to 0.46%, with an accumulated twelve-month increase of 6.62%. Core inflation calculated by the exclusion of household food and regulated prices fell to 0.57%, accumulating 7.15% in twelve months. In April, all the three core measures had posted a change of around 0.7%.
 
-the Selic target unchanged at 19.75% p.a., without bias. Clearly, if there is an exacerbation of the risks to the 
-inflation outlook monitored by the Committee, the monetary stance will be quickly adapted to the circumstances. 
- 
-28. 
-At the conclusion of the meeting, it was announced that the Copom would reconvene on July 19 for 
-technical presentations, and on the following day to discuss the monetary policy decision, as established in 
-Communiqué 12,631 of October 29, 2004. 
- 
- 
-6
+6. IPC-Br core inflation, calculated by the Getúlio Vargas Foundation (FGV) under the symmetric trimmed means method, reached 0.73% in May from 0.65% in April, for a cumulative twelve-month increase of 5.98%.
 
-SUMMARY OF DATA ANALYZED BY THE COPOM 
- 
-Economic Activity 
- 
-29. 
-According to the IBGE nationwide survey (seasonally adjusted by the BCB), retail sales fell 0.2% in April, 
-compared to the previous month. Hypermarkets, supermarkets, food, beverages and tobacco sales dropped 0.5%, 
-driving the monthly result. Retail sales rose 3.4% compared to April 2004, driven by the 23.9% increase in furniture 
-and household appliance sales and the 14.8% rise in fabric, clothing and shoe sales. Hyper- and supermarket 
-sales fell 2.1% year-on-year, partially influenced by the timing of Easter (in March this year). Autos, motorcycles 
-and spare parts sales, which are not included in the general index, increased 5.6%. In the first four months of the 
-year, retail sales as a whole increased 5.0%, as compared to the same period of 2004.  
-  
-30. 
-In May, data from the São Paulo Trade Association (ACSP) showed increases of 2.7% and 0.4%, 
-respectively, for the number of consultations of the Usecheque system and of database consultations for credit 
-sales, on a month-on-month seasonally adjusted basis. In the first five months of the year, these indicators 
-increased 4.4% and 6.2%, respectively, in comparison to the same period of the previous year. 
-  
-31. 
-The Fecomercio SP survey showed a 0.8% month-on-month decline in the Consumer Confidence Index in 
-June, with a 1.8% drop in perceptions of current economic conditions and a 0.2% decline in consumer 
-expectations.  
-  
-32. 
-Construction input and domestic capital goods production declined 1.1% and 2.9% in April, respectively, on 
-a month-on-month seasonally adjusted basis. Capital goods imports rose 3%, in the same period. Following robust 
-growth in 2004 (19.7%), capital goods output decelerated in the first four months of 2005, rising only 2.8% 
-compared to the same period of the previous year. Capital goods imports, however, accelerated, up 21.3% in the 
-year through April, above the 10.2% expansion observed in 2004.     
-  
-33. 
-Industrial production remained stable in April, in month-on-month seasonally adjusted terms, close to the 
-peak level reached in December. Extractive industry production rose 7.4%, the highest level reached since survey 
-inception, driven mainly by the oil sector. Manufacturing output fell 0.5%, but rose 4.5% in the first four months of 
-the year. 
-  
-34. 
-Analysis of seasonally adjusted data for industrial production by activities shows that 12 of the 23 sectors 
-surveyed registered declines in production in April while 10 sectors expanded and 1 sector (clothes) remained 
-unchanged. The strongest performing sectors were food, mining, and vehicle production, while the weakest sectors 
-were machinery, pharmaceuticals, and metal products. In terms of use categories, only intermediate goods 
-production increased in April (1.3%). Capital goods output fell 2.9% and consumer goods output dropped 0.3% (for 
-durable, semi-, and non-durable goods).  
-  
-35. 
-CNI manufacturing data showed 1.0% and 0.6% increases, respectively, for real sales and hours worked in 
-April, on a month-on-month seasonally adjusted basis. Compared to the same month of 2004, real sales increased 
-2.9% and hours worked, 9.1%. Installed capacity utilization reached 81.9% in April, in the seasonally adjusted 
-series, decreasing 0.9 p.p. compared to the previous month and 0.3 p.p. above the April 2004 result.  
-  
-36. 
-For May, leading indicators of industrial activity showed opposite trends after seasonal adjustment. While 
-corrugated paper shipments increased, the heavy vehicle tolls index remained stable, and energy consumption fell. 
-Combined, these variables point to industrial production stable in May, in line with the tendency of recent months.  
- 
-Labor Market 
- 
-37. 
-Formal employment rose 0.6% in April (month-on-month, seasonally adjusted), according to the Ministry of 
-Labor and Employment. Compared to the same month of 2004, there was a 6.5% expansion in formal employment, 
-with the net creation of over 1.5 million jobs, driven by significant increases in commerce and manufacturing.  
- 
- 
-7
+7. The IPCA diffusion index fell to 65.8% in May, compared to 67.2% in April. Assessment of Inflation Trends
 
-38. 
-According to the IBGE survey in the six main metropolitan regions of the country, the unemployment rate 
-reached 10.8% in April, stable in relation to March and 2.3 p.p. lower than the rate observed in April 2004. The 
-month-on-month stability reflected the relative stability in the number of unemployed individuals and in the labor 
-force. The labor force increased by 10 thousand individuals, to an estimated 21.9 million individuals. The number of 
-unemployed workers fell 0.5% in comparison to March, whereas the number of employed workers rose 0.1%, to 
-almost 19.6 million individuals. The same survey indicated that real average earnings fell 1.8%, in comparison to 
-March, and rose 0.8% in comparison to April 2004. 
-  
-39. 
-According to the BCB’s seasonal adjustment of the CNI indices, employment and real payrolls in the 
-industrial sector expanded 0.5% and fell 0.1%, respectively, in April in comparison to March. In comparison to April 
-2004, the same indicators expanded 6.6% and 8.7%, respectively. In the year through April, these indicators 
-showed increases of 6.9% and 9.0%, respectively, compared to the same period of 2004.   
- 
-Credit and Delinquency Rates 
- 
-40. 
-Non-earmarked credit grew 1% in May. Credit operations with individuals rose 3.5%, driven mainly by the 
-expansion of personal credit, reflecting the growth of payroll-deducted loans, especially those contracted by 
-retirees. Corporate credit with domestic funding decreased 0.2%, while corporate credit with external funding fell 
-3%, largely due to the write-down of the loan book of a specific bank under BCB intervention. 
- 
-41. 
-The average interest rate on non-earmarked credit rose in May. The average rate on personal credit 
-operations reached 77.2% p.a., due to higher demand (an increase of 2.2 p.p. relative to April), despite the 0.9 p.p. 
-drop in the average interest rate on payroll-deducted loans in the same period.  
- 
-External Environment 
- 
-42. 
-The external environment remains favorable and with abundant short-term liquidity. Several indicators 
-suggest that the cooling of U.S. and Chinese economic growth remains incipient, in contrast to the Euro Area, 
-where the growth outlook continues to disappoint (Italy already posted an economic contraction). Japan, whose 
-economic environment is more robust than it was two years ago, still posts modest growth.   
- 
-43. 
-Inflation data and expectations seem to remain favorable, reducing the probability of abrupt monetary 
-policy changes in the main global economies, particularly in the United States. 
- 
-44. 
-This scenario has been placing downward pressure on interest rates in the main markets and supporting a 
-recovery of the dollar vis-à-vis the main global currencies. In the Euro Area, the rejection of the Constitution by 
-France and the Netherlands increased short-term asset price volatility, including the exchange rate. However, this 
-did not affect market conditions for emerging market countries, which had already suffered the effect of the shock 
-from the credit downgrades of some large U.S. corporations.   
- 
-45. 
-Commodity prices remain volatile, dropping slightly in May but picking up again in June. Oil prices 
-remained under upward pressure in the period. Concerns about oil inventories in the United States, the tight margin 
-between supply and demand, and geopolitical factors suggest continued oil price volatility and the risk of further 
-upward price movements. 
- 
-Foreign Trade and Balance of Payments  
- 
-46. 
-New record highs for the trade balance were reached in the month of May and in the twelve-month period 
-ending in May. In the month, the trade balance registered a surplus of US$3.5 billion. For the twelve months, the 
-trade balance and total external trade reached US$38.1 billion and US$173.8 billion, respectively, with growth rates 
-of 36.3% and 31.8% over the previous twelve-month period. In the first 8 working days in June, the trade balance 
-reached US$1.6 billion, with export and import growth of 13.1% and 12.9%, respectively, over the average daily 
-levels reached in the same month of 2004. 
- 
- 
-8
+8. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions:
 
-47. 
-Exports totaled US$9.8 billion in May (new historical record) and posted the largest daily average ever 
-recorded (US$467.6 million), an increase of 23.6% compared to May 2004. All goods categories posted record 
-levels, in line with higher prices for important export products and an increase in export volumes. Strong growth has 
-been registered across export products, including traditionally low-participation items, confirming the export 
-diversification process that is underway. In addition, it is important to highlight the expansion of export destinations, 
-even to markets with a low participation in Brazilian exports. 
- 
- 
-48. 
-Imports totaled US$6.4 billion in the month (new historical record), growing 31.8% in terms of daily 
-averages to US$303.2 million, compared to daily averages in May 2004. All import product categories registered 
-year-on-year growth. In the first five months of the year, there was a 31.2% increase in imports of fuel and 
-lubricants, 27.4% of capital goods, 20.2% of consumer goods, and 20.4% of primary and intermediate goods, all 
-measured in daily averages compared to the same period last year.  
- 
-49. 
-At the end of May, international reserves totaled US$60.7 billion and net adjusted reserves totaled US$39.2 
-billion, a reduction of US$882 million and an increase of US$177 million, respectively, relative to end-April. 
- 
-Money Market and Open Market Operations  
- 
-50. 
-In the period following the May Copom meeting, the yield curve shifted upward in response to the 
-Committee’s monetary policy decision. Subsequently, up to the beginning of June, the medium- and long-term 
-interest rates fell, as a result of a favorable external outlook as well as domestic factors, such as the drop in current 
-inflation and the signs of economic activity accommodation. From June 6, the worsening of the political outlook 
-drove the increase in interest rate futures, especially for longer tenors. However, this behavior was reverted as a 
-result of the release of lower-than-expected inflation indices. Between May 18 and June 15, one- and three-month 
-interest rates rose 0.14 p.p. and 0.06 p.p., respectively, while six-month, one-year, and two-year rates fell 0.17 p.p., 
-0.54 p.p., and 0.32 p.p., respectively. The real interest rate, measured by the ratio between the one-year nominal 
-interest rate and the twelve-month-ahead inflation expectation, fell to 12.52% from 12.69%. 
- 
-51. 
-Since the last Copom meeting, the National Treasury carried out fixed rate security auctions totaling 
-R$17.2 billion, of which R$16.7 billion corresponded to the sale of LTNs maturing in 2006 and 2007, and R$459.6 
-million corresponded to the sale of NTN-Fs maturing in 2008, 2010 and 2012. The Treasury also conducted four 
-auctions of LFTs maturing in 2008 and 2009, for a total of R$6.7 billion. Aimed at reducing the volume of securities 
-maturing on July 1, 2005, the Treasury conducted a buy-back of LTNs totaling R$7.4 billion, via three auctions. 
- 
-52. 
-In its open market operations, the BCB conducted weekly repo operations, with three-month fixed rate 
-repos, as well as daily liquidity management operations. The BCB also conducted fourteen short-term repo 
-operations, eight of which were overnight lendings and six of which were overnight borrowings. The excess liquidity 
-sterilized from the banking reserves market via operations with tenors of three months averaged R$38.2 billion. 
-Operations with tenors less than thirty days averaged R$1.0 billion. 
- 
-53. 
-Aimed at reducing excess liquidity projected for the third quarter, the BCB sold, in four auctions, LTNs 
-maturing in October 2005 from its portfolio, and bought LTNs maturing in July 2005. These operations totaled 
-R$6.3 billion. 
- 
-54. 
-In May, net securitized public debt grew 1.6% compared to the previous month, due to the net placement of 
-R$3.8 billion in securities. The dollar-linked share of net domestic debt fell to 4.3% at end-May from 4.6% at end-
-April, mainly due to the effect of exchange rate appreciation. 
- 
- 
-9
+a) The projection for the adjustment of both gasoline and bottled gas prices for 2005 remained unchanged at 0%;
+
+b) Projections for adjustments of fixed telephone rates and household electricity for 2005 were kept at 8.6% and 10.8%, respectively;
+
+c) For all regulated prices, which represented a total weight of 29.7% in the May IPCA, a 7.3% increase is projected for 2005 (the same as the prior month);
+
+d) The projection for regulated price adjustments in 2006, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the change in the IGP-DI, rose to 5.7% from 5.1%. The revision was due to the fact that new 2006 projections were made for those items for which the 2005 adjustment data is available;
+
+e) The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Selic and the swap rates on the eve of the Copom meeting, increases from -2 basis points in the third quarter of 2005 to 40 basis points in the last quarter of 2006.
+
+9. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of GDP for 2005 and 2006 will be achieved. The related assumptions considered in the previous Copom meeting were maintained.
+
+10. Assuming the maintenance of the Selic rate at 19.75% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.47), the IPCA inflation rate was projected above the 5.1% objective for 2005, but below the 4.5% central target for 2006. Using the consensus Selic rate and exchange rate expectations 2 compiled by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation was projected above the 2005 objective and above the 2006 central target. Monetary Policy Decision
+
+11. After reaching 0.87% in April – the highest level since July 2004 and the third consecutive monthly increase – IPCA inflation fell to 0.49% in May, the sharpest reduction since October 2003. The drop in IPCA inflation owed in large part to slower regulated price inflation (despite pressure from rising electricity rates, regulated prices as a whole registered only a small increase, due to the decline in fuel prices), and occurred despite the acceleration in clothing prices.
+
+12. IPCA core inflation decelerated in May, under all measures monitored by the Copom – by exclusion and trimmed means (smoothed and non-smoothed). The deceleration of the core by exclusion of household food items and regulated prices, which presented the largest change in April among the three measures, reflected the deceleration in market price inflation (for both tradable and non-tradable goods). Non-smoothed trimmed means core inflation decelerated the most, in line with the broad deceleration in the index. In turn, smoothed trimmed means core inflation slowed the least, reflecting its implicit inertial component – this is the core measure that posted the highest accumulated inflation over the last twelve months. Despite the deceleration in the IPCA cores, they have not yet reached levels compatible with the inflation target path.
+
+13. IGP-DI inflation fell 0.25% in May, continuing the strong deceleration registered in April, and driven largely by the sharp decline in the wholesale component, which fell 0.98% (after rising 0.33% in April). This reflected, in part, a drop in agricultural prices (reversing the strong agricultural price increases registered in February and March due to the drought in Southern Brazil). In addition, contrary to prior months, the industrial IPA was also negative in May. IGP-M data for the first ten days of June suggest stable agricultural prices in the period, but a stronger reduction in industrial prices. Overall, there is more evidence of a consistent accommodation of wholesale prices. As emphasized in prior Copom Minutes, the more stable industrial IPA in recent months reflects, in part, exchange rate appreciation and the effects of the monetary tightening, and could have positive spillovers for the future performance of consumer prices. The strength of this pass-through will depend on prospective demand conditions and price-setters’ expectations for the future inflation path.
+
+14. GDP grew 0.3% in the first quarter of 2005, in quarter-on-quarter seasonally adjusted terms, confirming the accommodation of economic growth, but nevertheless completing an eighth consecutive quarter of growth. The accommodation observed since the last quarter of 2004 followed a period of accelerated economic growth, during which record levels of economic activity were attained. Growth in the first quarter was driven by the agricultural sector, which registered a 2.6% quarter-on-quarter seasonally adjusted expansion, while manufacturing and services fell 1.0% and 0.2%, respectively. Accommodation in the pace of growth was most visible in the components of domestic demand. Gross fixed capital formation contracted 3.0%, the second consecutive quarterly decline, after five quarters of uninterrupted, strong growth (since mid-2003). Household consumption fell 0.6%, after growing steadily throughout 2004. Exports of goods and services grew 3.5% and imports grew 2.3%, in quarter-on-quarter terms, confirming the increase, in the period, of the relative importance of external demand as a factor sustaining economic growth. Considering the behavior of leading economic activity indicators and the progressive consolidation of the monetary adjustment process implemented since September 2004, growth is expected to accelerate in the coming quarters.
+
+15. Industrial production was stable in April, in seasonally adjusted terms, and near the historical high reached in December 2004. The stability in April followed the seasonally adjusted growth of 1.5% in March, and could be reflecting the correction of inherent fluctuations in the series due to seasonal adjustment for moving holidays (timing of Easter). The three-month moving average series remained steady in April, at the elevated level observed since end-2004. For May, leading and coincident indicators suggest continued stability in industrial production.
+
+16. Intermediate goods were the only industrial category to register output growth in April. There was a decline in the production of consumer goods – durables as well as semi- and non-durables. Capital goods production also declined, after rising sharply in March. Three-month moving averages, however, suggest that consumer durable goods production continued to grow at levels close to those registered in recent months, while consumer semi- and 3 non-durable goods production declined. There was also a decline in the production of capital goods. Finally, intermediate goods broke the downward trend registered since September. The continuation of April trends would suggest a change in the pattern of the previous two months, in which more credit-sensitive items (like consumer durables) posted robust growth, while more income-sensitive items lost dynamism - more data will be necessary to better characterize potential changes in the pattern of industrial activity.
+
+17. Recent labor market data remains favorable. The IBGE survey showed the unemployment rate holding steady in April (at 10.8%), unlike the pattern observed in 2003 and 2004, when there was an increase in the unemployment rate. In addition, in the first four months of 2005, the unemployment rate was below that of the same period in 2004. The number of employed workers rose 0.1% versus March, but there was a reduction in both real payrolls and average earnings. Manufacturing employment, measured by the National Industry Confederation (CNI) and seasonally adjusted by the BCB, continued to increase (as it has since the first quarter of 2003). Real manufacturing payrolls have been somewhat uneven, falling at the beginning of the year, rising in March, and falling again in April. Formal employment, measured by the Ministry of Labor and Employment (MTE), continued to expand, with the creation of 266,095 jobs in April, the highest value for this month since the creation of the series. With this result, more than 500,000 new formal sector jobs were created in the first four months of 2005.
+
+18. Retail sales fell 0.2% in April, according to month-on-month seasonally adjusted data from IBGE. The April result could be attributed, in part, to the same moving holidays effect that influenced industrial production. Fabric, clothing, and shoes posted the strongest performance, rising 13.7%, followed by furniture and household appliances, which grew 1.0%. The other components declined relative to March. In three-month moving average terms, there are signs of an accommodation in sales growth, after a period of strong expansion since mid-2003. Sales of furniture and household appliances, along with fabric, clothing, and shoes, continued to rise; however, this growth is counterbalanced by the decline in hyper- and supermarket sales. The Fecomercio-SP consumer confidence index declined again in June, but remains at historic high levels.
+
+19. As emphasized in prior Copom minutes, despite a recent modest decline, capacity utilization (measured by CNI data, seasonally adjusted by the BCB) remains at historic highs – such that the inflation path remains largely tied to current and prospective supply increase, to adequately meet demand conditions. In this vein, capital goods production accumulated growth of 13.0% in the twelve months ending in April, while capital goods absorption rose 1.8% in the first four months of the year. The slower growth registered at the margin reflects the sharp drop in agricultural machinery investment and a considerably higher comparison base (due to the strong investment expansion through 2004, at the highest pace since 1994). While it does not appear likely that the recent accommodation in the pace of investment growth will persist, a key concern with regard to prospective inflation dynamics continues to be the performance of aggregate supply in the coming quarters.
+
+20. Strong trade surpluses (and robust export and import growth) continued in May, reinforcing the more favorable outlook for the year. In the twelve months through May, exports grew 32.6% in value terms, relative to the same period last year, while imports grew 30.5% (reflecting, in part, higher oil prices; imports excluding oil rose roughly 27.0%). With exports growing at a faster pace than imports, the trade balance rose to US$ 38.1 billion in the twelve months through May, representing a 36.3% increase over the twelve months through May 2004. The strong trade balance result contributed to an accumulated current account surplus of US$13.4 billion in the twelve months through May (equivalent to 2.1% of GDP). The expansion of external trade registered in recent months has also been accompanied by export diversification (both in terms of products and destinations).
+
+21. While international financial markets have remained volatile, there was an improvement vis-à-vis the scenario considered at the last Copom meeting. After rising steadily earlier this year, at end-May US treasury yields (particularly the 10-year note) hit lows not seen since April 2004 (prior to the beginning of the U.S. monetary tightening cycle). There also appears to have been at least a partial absorption of the shocks related to the deterioration in U.S. corporate credit quality. In Brazil, these developments were accompanied by a decline in Brazilian country risk and currency appreciation. Nevertheless, liquidity conditions and market stability remain tied to macroeconomic conditions in the industrialized countries, especially the United States, and to the Fed’s potential monetary policy response to economic developments. An additional point of concern is the current account imbalances in some of the largest economies, and the possibility that eventual adjustments will result in significant 4 currency movements. Despite these concerns, about which there is a significant degree of uncertainty, the Copom continues to assign a low probability to a significant deterioration in international financial markets.
+
+22. Oil prices have continued to fluctuate significantly. After reaching record highs at end-March and early- April, oil prices declined through mid-May and then rose again in recent weeks. The increase in the level and volatility of oil prices occurred in response to new information on demand conditions, potential supply restrictions among producer countries, and inventory data for the main consumer countries. Oil price projections remain subject to a considerable degree of uncertainty, particularly regarding the scope and persistence of recent price behavior. The Copom has therefore maintained its baseline scenario, which assumes that there will not be an adjustment in domestic fuel prices in 2005. Nevertheless, while the recent increase in international oil prices has not translated into an increase in domestic gasoline prices, international oil price trends continue to represent a risk to the future inflation path via its effects on the prices of oil-intensive products as well as private sector inflation expectations. In the Copom’s view, the path of oil price now represents a more significant risk to future inflation trajectory than it did in May.
+
+23. Since the last Copom meeting, median IPCA inflation expectations for 2005 collected by Gerin declined to 6.2% from 6.4%. Inflation expectations for this year now appear more responsive to favorable developments that are reducing inflationary pressures, such as signs of accommodation in economic growth, the reevaluation of market expectations for the exchange rate path, and the more restrictive monetary stance. Twelve-month ahead inflation expectations also declined in recent weeks, at a faster pace than expectations for full-year 2005. Expectations for 2006 remained stable. These developments suggest that the monetary policy stance has both contained short-term inflationary pressures and contributed to the consolidation of a more favorable longer-term macroeconomic environment.
+
+24. The 2005 inflation forecast under the benchmark scenario – which assumes the maintenance of the Selic rate at 19.75% p.a. and the exchange rate at R$/US$ 2.47 during the forecast period – declined relative to the May meeting forecast, but remained above the 5.1% inflation objective for the year. The decline was due mainly to the change in inflation expectations, lower-than-expected May inflation, and the updating of the output gap estimate with first quarter 2005 GDP data. The 2005 forecasts based on the market scenario – which incorporate the consensus exchange rate and Selic rate trajectories on the eve of the Copom meeting – were above the benchmark scenario, but also below that of May (for the same reasons cited above). For 2006, the benchmark scenario inflation forecast remained constant, at a level below the central target established by the National Monetary Council. Under the market scenario, there was a modest reduction in the projection, which, nevertheless, remained above the central target.
+
+25. The Copom also analyzed inflation forecasts for the twelve-month periods ending in March, June, and September 2006. The forecasts for these periods will be more responsive to current monetary policy decisions than those for calendar year 2005, and also more reliable than those for calendar year 2006. The forecast under the benchmark scenario for the twelve months ending in March was above the value interpolated from the 5.1% inflation objective for 2005 and the 4.5% target for 2006. Nevertheless, this forecast was below the forecast for the same period made at the May Copom meeting. The forecasts under the benchmark scenario for the twelve months ending in June and September 2006 were below the inflation target path for these periods.
+
+26. The Copom reaffirms the view, expressed in prior Copom Minutes, that the effects of the interest rate tightening cycle begun in September are being reflected in both year-to-date inflation results and forward-looking inflation forecasts. Economic activity should continue to expand, but at a slower pace and more in line with supply conditions, such that it will not exert significant inflationary pressures. In addition, the Copom estimates that there was an easing of specific pressure points on current inflation and an improvement in the external environment, despite the recent uptick in international oil prices. Therefore, the risks to convergence to the inflation target path have declined relative to those prevailing at the time of the May Copom meeting.
+
+27. The Copom assessed that maintaining interest rates at the level established in May, for a sufficiently long period of time, would create the conditions necessary to assure inflation convergence to the target path, making it unnecessary to continue the interest rate adjustment cycle. The Copom therefore unanimously decided to maintain 5 the Selic target unchanged at 19.75% p.a., without bias. Clearly, if there is an exacerbation of the risks to the inflation outlook monitored by the Committee, the monetary stance will be quickly adapted to the circumstances.
+
+28. At the conclusion of the meeting, it was announced that the Copom would reconvene on July 19 for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 6 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+
+29. According to the IBGE nationwide survey (seasonally adjusted by the BCB), retail sales fell 0.2% in April, compared to the previous month. Hypermarkets, supermarkets, food, beverages and tobacco sales dropped 0.5%, driving the monthly result. Retail sales rose 3.4% compared to April 2004, driven by the 23.9% increase in furniture and household appliance sales and the 14.8% rise in fabric, clothing and shoe sales. Hyper- and supermarket sales fell 2.1% year-on-year, partially influenced by the timing of Easter (in March this year). Autos, motorcycles and spare parts sales, which are not included in the general index, increased 5.6%. In the first four months of the year, retail sales as a whole increased 5.0%, as compared to the same period of 2004.
+
+30. In May, data from the São Paulo Trade Association (ACSP) showed increases of 2.7% and 0.4%, respectively, for the number of consultations of the Usecheque system and of database consultations for credit sales, on a month-on-month seasonally adjusted basis. In the first five months of the year, these indicators increased 4.4% and 6.2%, respectively, in comparison to the same period of the previous year.
+
+31. The Fecomercio SP survey showed a 0.8% month-on-month decline in the Consumer Confidence Index in June, with a 1.8% drop in perceptions of current economic conditions and a 0.2% decline in consumer expectations.
+
+32. Construction input and domestic capital goods production declined 1.1% and 2.9% in April, respectively, on a month-on-month seasonally adjusted basis. Capital goods imports rose 3%, in the same period. Following robust growth in 2004 (19.7%), capital goods output decelerated in the first four months of 2005, rising only 2.8% compared to the same period of the previous year. Capital goods imports, however, accelerated, up 21.3% in the year through April, above the 10.2% expansion observed in 2004.
+
+33. Industrial production remained stable in April, in month-on-month seasonally adjusted terms, close to the peak level reached in December. Extractive industry production rose 7.4%, the highest level reached since survey inception, driven mainly by the oil sector. Manufacturing output fell 0.5%, but rose 4.5% in the first four months of the year.
+
+34. Analysis of seasonally adjusted data for industrial production by activities shows that 12 of the 23 sectors surveyed registered declines in production in April while 10 sectors expanded and 1 sector (clothes) remained unchanged. The strongest performing sectors were food, mining, and vehicle production, while the weakest sectors were machinery, pharmaceuticals, and metal products. In terms of use categories, only intermediate goods production increased in April (1.3%). Capital goods output fell 2.9% and consumer goods output dropped 0.3% (for durable, semi-, and non-durable goods).
+
+35. CNI manufacturing data showed 1.0% and 0.6% increases, respectively, for real sales and hours worked in April, on a month-on-month seasonally adjusted basis. Compared to the same month of 2004, real sales increased 2.9% and hours worked, 9.1%. Installed capacity utilization reached 81.9% in April, in the seasonally adjusted series, decreasing 0.9 p.p. compared to the previous month and 0.3 p.p. above the April 2004 result.
+
+36. For May, leading indicators of industrial activity showed opposite trends after seasonal adjustment. While corrugated paper shipments increased, the heavy vehicle tolls index remained stable, and energy consumption fell. Combined, these variables point to industrial production stable in May, in line with the tendency of recent months. Labor Market
+
+37. Formal employment rose 0.6% in April (month-on-month, seasonally adjusted), according to the Ministry of Labor and Employment. Compared to the same month of 2004, there was a 6.5% expansion in formal employment, with the net creation of over 1.5 million jobs, driven by significant increases in commerce and manufacturing. 7
+
+38. According to the IBGE survey in the six main metropolitan regions of the country, the unemployment rate reached 10.8% in April, stable in relation to March and 2.3 p.p. lower than the rate observed in April 2004. The month-on-month stability reflected the relative stability in the number of unemployed individuals and in the labor force. The labor force increased by 10 thousand individuals, to an estimated 21.9 million individuals. The number of unemployed workers fell 0.5% in comparison to March, whereas the number of employed workers rose 0.1%, to almost 19.6 million individuals. The same survey indicated that real average earnings fell 1.8%, in comparison to March, and rose 0.8% in comparison to April 2004.
+
+39. According to the BCB’s seasonal adjustment of the CNI indices, employment and real payrolls in the industrial sector expanded 0.5% and fell 0.1%, respectively, in April in comparison to March. In comparison to April 2004, the same indicators expanded 6.6% and 8.7%, respectively. In the year through April, these indicators showed increases of 6.9% and 9.0%, respectively, compared to the same period of 2004. Credit and Delinquency Rates
+
+40. Non-earmarked credit grew 1% in May. Credit operations with individuals rose 3.5%, driven mainly by the expansion of personal credit, reflecting the growth of payroll-deducted loans, especially those contracted by retirees. Corporate credit with domestic funding decreased 0.2%, while corporate credit with external funding fell 3%, largely due to the write-down of the loan book of a specific bank under BCB intervention.
+
+41. The average interest rate on non-earmarked credit rose in May. The average rate on personal credit operations reached 77.2% p.a., due to higher demand (an increase of 2.2 p.p. relative to April), despite the 0.9 p.p. drop in the average interest rate on payroll-deducted loans in the same period. External Environment
+
+42. The external environment remains favorable and with abundant short-term liquidity. Several indicators suggest that the cooling of U.S. and Chinese economic growth remains incipient, in contrast to the Euro Area, where the growth outlook continues to disappoint (Italy already posted an economic contraction). Japan, whose economic environment is more robust than it was two years ago, still posts modest growth.
+
+43. Inflation data and expectations seem to remain favorable, reducing the probability of abrupt monetary policy changes in the main global economies, particularly in the United States.
+
+44. This scenario has been placing downward pressure on interest rates in the main markets and supporting a recovery of the dollar vis-à-vis the main global currencies. In the Euro Area, the rejection of the Constitution by France and the Netherlands increased short-term asset price volatility, including the exchange rate. However, this did not affect market conditions for emerging market countries, which had already suffered the effect of the shock from the credit downgrades of some large U.S. corporations.
+
+45. Commodity prices remain volatile, dropping slightly in May but picking up again in June. Oil prices remained under upward pressure in the period. Concerns about oil inventories in the United States, the tight margin between supply and demand, and geopolitical factors suggest continued oil price volatility and the risk of further upward price movements. Foreign Trade and Balance of Payments
+
+46. New record highs for the trade balance were reached in the month of May and in the twelve-month period ending in May. In the month, the trade balance registered a surplus of US$3.5 billion. For the twelve months, the trade balance and total external trade reached US$38.1 billion and US$173.8 billion, respectively, with growth rates of 36.3% and 31.8% over the previous twelve-month period. In the first 8 working days in June, the trade balance reached US$1.6 billion, with export and import growth of 13.1% and 12.9%, respectively, over the average daily levels reached in the same month of 2004. 8
+
+47. Exports totaled US$9.8 billion in May (new historical record) and posted the largest daily average ever recorded (US$467.6 million), an increase of 23.6% compared to May 2004. All goods categories posted record levels, in line with higher prices for important export products and an increase in export volumes. Strong growth has been registered across export products, including traditionally low-participation items, confirming the export diversification process that is underway. In addition, it is important to highlight the expansion of export destinations, even to markets with a low participation in Brazilian exports.
+
+48. Imports totaled US$6.4 billion in the month (new historical record), growing 31.8% in terms of daily averages to US$303.2 million, compared to daily averages in May 2004. All import product categories registered year-on-year growth. In the first five months of the year, there was a 31.2% increase in imports of fuel and lubricants, 27.4% of capital goods, 20.2% of consumer goods, and 20.4% of primary and intermediate goods, all measured in daily averages compared to the same period last year.
+
+49. At the end of May, international reserves totaled US$60.7 billion and net adjusted reserves totaled US$39.2 billion, a reduction of US$882 million and an increase of US$177 million, respectively, relative to end-April. Money Market and Open Market Operations
+
+50. In the period following the May Copom meeting, the yield curve shifted upward in response to the Committee’s monetary policy decision. Subsequently, up to the beginning of June, the medium- and long-term interest rates fell, as a result of a favorable external outlook as well as domestic factors, such as the drop in current inflation and the signs of economic activity accommodation. From June 6, the worsening of the political outlook drove the increase in interest rate futures, especially for longer tenors. However, this behavior was reverted as a result of the release of lower-than-expected inflation indices. Between May 18 and June 15, one- and three-month interest rates rose 0.14 p.p. and 0.06 p.p., respectively, while six-month, one-year, and two-year rates fell 0.17 p.p., 0.54 p.p., and 0.32 p.p., respectively. The real interest rate, measured by the ratio between the one-year nominal interest rate and the twelve-month-ahead inflation expectation, fell to 12.52% from 12.69%.
+
+51. Since the last Copom meeting, the National Treasury carried out fixed rate security auctions totaling R$17.2 billion, of which R$16.7 billion corresponded to the sale of LTNs maturing in 2006 and 2007, and R$459.6 million corresponded to the sale of NTN-Fs maturing in 2008, 2010 and 2012. The Treasury also conducted four auctions of LFTs maturing in 2008 and 2009, for a total of R$6.7 billion. Aimed at reducing the volume of securities maturing on July 1, 2005, the Treasury conducted a buy-back of LTNs totaling R$7.4 billion, via three auctions.
+
+52. In its open market operations, the BCB conducted weekly repo operations, with three-month fixed rate repos, as well as daily liquidity management operations. The BCB also conducted fourteen short-term repo operations, eight of which were overnight lendings and six of which were overnight borrowings. The excess liquidity sterilized from the banking reserves market via operations with tenors of three months averaged R$38.2 billion. Operations with tenors less than thirty days averaged R$1.0 billion.
+
+53. Aimed at reducing excess liquidity projected for the third quarter, the BCB sold, in four auctions, LTNs maturing in October 2005 from its portfolio, and bought LTNs maturing in July 2005. These operations totaled R$6.3 billion.
+
+54. In May, net securitized public debt grew 1.6% compared to the previous month, due to the net placement of R$3.8 billion in securities. The dollar-linked share of net domestic debt fell to 4.3% at end-May from 4.6% at end- April, mainly due to the effect of exchange rate appreciation. 9

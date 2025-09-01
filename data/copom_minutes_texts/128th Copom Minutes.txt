@@ -1,713 +1,163 @@
-The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the 
-Brazilian and international economies under the monetary policy framework, which is designed to comply with the 
-inflation targets established by the government. 
- 
-Recent Economic Developments 
-  
-1. 
-IPCA inflation totaled 0.28% in June, the same rate recorded in May, as regulated prices deceleration 
-offset market prices acceleration. As a consequence, average monthly inflation recorded 0.27% in the second 
-quarter of the year, down from 0.42% in the first quarter. On the other hand, IPCA inflation totaled 2.08% in the 
-year through June, down from 1.54% in the same period last year, with market prices recording 2.43%, and 
-regulated prices, 1.29%, compared to 0.92% and 2.76%, respectively, in the same period last year. Twelve-month 
- 
-1
+1. IPCA inflation totaled 0.28% in June, the same rate recorded in May, as regulated prices deceleration offset market prices acceleration. As a consequence, average monthly inflation recorded 0.27% in the second quarter of the year, down from 0.42% in the first quarter. On the other hand, IPCA inflation totaled 2.08% in the year through June, down from 1.54% in the same period last year, with market prices recording 2.43%, and regulated prices, 1.29%, compared to 0.92% and 2.76%, respectively, in the same period last year. Twelve-month 1 trailing inflation has steadily accelerated, totaling 3.69% in June, up from 3.18% in May, 3% in April and 2.96% in March. This acceleration was due to the substitution of more elevated inflation rates observed in the last months (0.27% monthly average) for reduced inflation rates observed in the second quarter of 2006 (0.03% monthly average). Since May, market prices inflation has exceeded regulated prices inflation on a twelve-month basis, interrupting a trend observed for a long time. In June, these indicators reached 4.10% and 2.78%, respectively, according to the same basis. Disaggregated data show that non-tradable prices have driven market prices inflation, with twelve-month figure through June reaching 5.02%, while tradable prices inflation stood at 3.14%. This fact occurred, despite significant deceleration in services inflation, totaling 4.95% in the twelve months through June, down from 6.27% observed in the same period of last year. Notwithstanding the inflationary acceleration in the first half of the year, compared to the same period of 2006, the Copom considers that inflation should continue to evolve according to the targets path.
 
-trailing inflation has steadily accelerated, totaling 3.69% in June, up from 3.18% in May, 3% in April and 2.96% in 
-March. This acceleration was due to the substitution of more elevated inflation rates observed in the last months 
-(0.27% monthly average) for reduced inflation rates observed in the second quarter of 2006 (0.03% monthly 
-average). Since May, market prices inflation has exceeded regulated prices inflation on a twelve-month basis, 
-interrupting a trend observed for a long time. In June, these indicators reached 4.10% and 2.78%, respectively, 
-according to the same basis. Disaggregated data show that non-tradable prices have driven market prices inflation, 
-with twelve-month figure through June reaching 5.02%, while tradable prices inflation stood at 3.14%. This fact 
-occurred, despite significant deceleration in services inflation, totaling 4.95% in the twelve months through June, 
-down from 6.27% observed in the same period of last year. Notwithstanding the inflationary acceleration in the first 
-half of the year, compared to the same period of 2006, the Copom considers that inflation should continue to 
-evolve according to the targets path. 
-  
-2. 
-IPCA core inflation measures did not reflect, in general, the declining headline inflation behavior in the 
-second quarter. Only one out of the three core inflation measures calculated by the BCB decreased, quarter-on-
-quarter. Core inflation by exclusion of household food items and regulated prices averaged 0.28% in the second 
-quarter, down from 0.39% in the first quarter of the year. On the other hand, smoothed trimmed means and non-
-smoothed trimmed means core inflation measures remained stable, averaging 0.31% and 0.27%, respectively. In 
-the first half of year, significant reductions are emphasized, when compared to the same period of 2006. Core 
-inflation by exclusion of household food items and regulated prices reached 2.03%, down from 2.15%, smoothed 
-trimmed means core inflation totaled 1.86%, down from 2.75%, while non-smoothed trimmed means core inflation 
-increased 1.63%, down from 1.84%. Al three core measures stood below the 2.08% headline inflation in the first 
-half of the year. In the last twelve months through June, compared to the same period of last year, all inflation core 
-measures showed significant drops: core inflation by exclusion increased 3.43%, down from 4.09%, smoothed 
-trimmed means core totaled 3.72%, down from 5.71%, and non-smoothed trimmed means core reached 2.55%, 
-down from 4.16%. Still on a twelve-month trailing basis, all three core inflation measures increased, compared to 
-the rates observed in May, but stood below the 4.5% central target for 2007. 
-  
-3. 
-The General Price Index (IGP-DI) inflation accelerated in the second quarter and reached 0.26% in June, 
-up from 0.16% in May and 0.14% in April. In the first half of the year, inflation reached 1.44%, up from 1.28% in the 
-same period of last year. This move was driven by the behavior of the Consumer Price Index-Brazil (IPC-Br), which 
-increased 2.51%, up from 0.62% in the same period of 2006, while the Civil Construction National Index (INCC) 
-remained virtually unchanged (3.51%, up from 3.36%), and the IPA-DI totaled 0.70% in 2007, down from 1.22% in 
-2006. In the last twelve months through June, the IGP-DI increased 3.96%, up from 0.98% in June 2006. 
-Throughout the second quarter, the IPA-DI remained stable, reflecting the increase in industrial prices and a 
-heterogeneous behavior of agricultural prices, which fell sharply from April through May, and recovered in June. 
-The behavior of wholesale price inflation continues to mirror, in short, contradictory pressures stemming from, on 
-the one hand, the elevation of international prices of commodities and foodstuff and, on the other hand, the 
-strengthening of the BRL. As highlighted in previous Copom Minutes, the effects of wholesale prices over 
-consumer inflation will depend on current and prospective demand conditions and price-setters’ expectations for 
-the future inflation path. 
- 
-4. 
-General industrial output, which encompasses extractivism and manufacturing industries, accelerated in 
-the last months. On a three-month moving average basis, according to data seasonally adjusted by the IBGE, 
-industrial output grew 0.8% in May, up from 0.6% in April. Considering the reviewed figures for April, general 
-industrial output recorded the eighth consecutive monthly expansion in May. Industrial output grew 4.9% in May, 
-compared to the same month last year, 4.4% in the year through June, and 3.3% in the last twelve months, with a 
-trend of acceleration at the margin under the two last criteria. IBGE data indicate that manufacturing industry also 
-outperforms. On a three-month moving average basis, the manufacturing industry output index increased by 0.4% 
-in February, 0.5% in March, 0.7% in April and 0.8% in May. In the last twelve months through May, manufacturing 
-industry expanded by 3.1%, while mining increased by 5.4%. Among use categories, capital goods production 
-outperformed in the year through May, growing strongly by 16.3%. In addition, the production of intermediate goods 
-increased by 3.9% in the same period, after growing below the average of general industrial output in the period 
-2005-2006. For June, the leading and coincident indicators available for industrial production suggest the continuity 
-of the growth cycle. Moreover, the several incentive factors to economic activity, including the monetary easing 
-already implemented, suggest that the expanding trend in industry shall continue in the upcoming quarters. 
- 
-2
+2. IPCA core inflation measures did not reflect, in general, the declining headline inflation behavior in the second quarter. Only one out of the three core inflation measures calculated by the BCB decreased, quarter-on- quarter. Core inflation by exclusion of household food items and regulated prices averaged 0.28% in the second quarter, down from 0.39% in the first quarter of the year. On the other hand, smoothed trimmed means and non- smoothed trimmed means core inflation measures remained stable, averaging 0.31% and 0.27%, respectively. In the first half of year, significant reductions are emphasized, when compared to the same period of 2006. Core inflation by exclusion of household food items and regulated prices reached 2.03%, down from 2.15%, smoothed trimmed means core inflation totaled 1.86%, down from 2.75%, while non-smoothed trimmed means core inflation increased 1.63%, down from 1.84%. Al three core measures stood below the 2.08% headline inflation in the first half of the year. In the last twelve months through June, compared to the same period of last year, all inflation core measures showed significant drops: core inflation by exclusion increased 3.43%, down from 4.09%, smoothed trimmed means core totaled 3.72%, down from 5.71%, and non-smoothed trimmed means core reached 2.55%, down from 4.16%. Still on a twelve-month trailing basis, all three core inflation measures increased, compared to the rates observed in May, but stood below the 4.5% central target for 2007.
 
-5. 
-The unemployment rate in the six main metropolitan regions stood at 10.1% in May for the third 
-consecutive month, 0.1 p.p. below the May 2006 result. In the year through May, the average unemployment rate 
-reduced by 0.2 p.p., compared to the same period last year. Despite the slow decline in the unemployment rate, the 
-number of employed workers increased 2.7% in the last twelve months through May, due to the growth of the 
-economically active population (PEA), a process usually present in moments of economic expansion. The 
-purchasing power of employed workers increased month-on-month 0.3% in May, unchanged relative to the 
-previous month, and 3.9% relative to May 2006. In the year through May, it reached 4.8%, which contributed for the 
-7.8% expansion of real payrolls. According to the National Industry Confederation (CNI) data seasonally adjusted 
-by the BCB, manufacturing employment increased month-on-month 0.4% in May and 3.5% compared to May 2006. 
-Consequently, in the year through May, manufacturing employment robustly grew 4.1%. Regarding formal 
-employment, data from the Ministry of Labor and Employment (MTE) confirm the continuity of strong expansion, 
-with the creation of 182 thousand new jobs, a record high for the month of June, since the start of the series in 
-1985. Job creation grew month-on-month seasonally adjusted 0.4%, expanding by 4.9% in the year through June 
-and 4.8% in the last twelve months. Therefore, 1,095.5 thousand jobs were created in the first half of the year, up 
-from 924 thousand jobs in the same period of last year (a 18.6% growth), and 1.4 million in the last twelve months. 
-The Copom considers that positive developments in the labor market will continue to be an important support 
-channel to aggregate demand in the upcoming quarters. 
- 
-6. 
-Retail sales increased 0.5% month-on-month in May, the fifth consecutive expansion, according to data 
-seasonally adjusted by the IBGE. In the quarter ended in May, relative to the same period of last year, retail sales 
-recorded 9.9% real growth, compared to 9.4% in the quarter ended in April, while expanded retail sales, which 
-include the sales of civil construction material and vehicles, motorcycles, parts and pieces, increased 13.7%, up 
-from 13.4% in April. In May, retail sales increased by 10.4%, compared to the same month of 2006, for a 9.5% 
-expansion in the year through May. In the last twelve months, expansion reached significant 7.5% and has 
-accelerated at the margin. Compared to May 2006, “furniture and domestic appliances” sales grew 10.3%, while 
-“fabric, clothing and shoes” grew by 16%. The steady performance of retail sales reflects both the expansion of 
-income and employment and the improvement of consumer credit conditions. Expanded retail sales recorded 13% 
-real growth in May, compared to the same month of 2006, the eleventh consecutive month that expanded retail 
-sales exceeded retail sales. For the rest of the year, it is expected the continuity of retail sales expansion, boosted 
-by the increase in employment and income (including through governmental transfers), credit expansion, the 
-monetary easing process and by the recovery of consumer confidence. Moreover, the performance of retail sales 
-suggests the continuity and likely strengthening of aggregate demand growth. 
- 
-7. 
-According to CNI data without seasonal adjustment, installed capacity utilization in the manufacturing 
-industry averaged 81.5% in the first five months of 2007, compared to 79.5%, 80.4% and 79.8% in the same period 
-of 2006, 2005 and 2004, respectively. The installed capacity utilization rate, according to CNI data seasonally 
-adjusted by the BCB, stood at 82.7% in May, 0.7 p.p. above that observed in April, reaching a new record high for 
-the series. Installed capacity utilization not only has grown significantly, but there are signs that the process has 
-become more generalized, with many sectors operating close to their maximum rates. Data compiled by the FGV 
-also show an upward trend for the utilization rates, which reached 84.7% in June, up from 82.3% in June 2006. 
-Such increase reflects, unmistakably, economic activity acceleration, despite the strong expansion of investment. In 
-fact, the absorption of capital goods in the year through May grew 16.1%, in line with the significant increase in 
-capital goods imports (30.7% in volume), as well as in capital goods production (16.3%).  Moreover, in the same 
-period, the production of civil construction inputs increased 3.7%. The most recent data indicate that, despite quite 
-robust, investment has not been sufficient to avoid a significant elevation of the capacity utilization rates in industry. 
-This situation may reflect lags in the maturing of projects aimed at expanding the installed capacity or higher-than-
-expected strengthening in economic activity. In this context, the expansion of investment will be fundamental to 
-avoid sharp mismatches regarding the evolution of aggregate supply and demand. As stressed in previous Copom 
-Minutes, the inflation trajectory is closely linked to current and prospective developments with regard to the 
-expansion of supply of goods and services to adequately meet demand conditions. 
- 
-8. 
-The trade balance continues to present robust performance, despite the strengthening of the BRL, 
-confirming the evaluations based upon Inflation Reports and previous Copom Minutes that depict important 
-structural changes in the Brazilian foreign trade. After reaching in 2006 a US$ 46.5 billion record high, a 3.4% 
- 
-3
+3. The General Price Index (IGP-DI) inflation accelerated in the second quarter and reached 0.26% in June, up from 0.16% in May and 0.14% in April. In the first half of the year, inflation reached 1.44%, up from 1.28% in the same period of last year. This move was driven by the behavior of the Consumer Price Index-Brazil (IPC-Br), which increased 2.51%, up from 0.62% in the same period of 2006, while the Civil Construction National Index (INCC) remained virtually unchanged (3.51%, up from 3.36%), and the IPA-DI totaled 0.70% in 2007, down from 1.22% in
 
-increase over the 2005 result, the trade balance continues to register strong positive performance. In the year 
-through June, the trade surplus reached US$20.6 billion, a 6.2% increase relative to the same period of 2006. 
-Exports rose 20.2%, to US$73.2 billion, while imports increased 26.7%, to US$52.6 billion. Imports have been 
-growing more rapidly than exports at the margin, due not only to higher level of economic activity, but also to the 
-strengthening of the BRL, which points to a healthy adjustment process of the trade balance. Moreover, the Copom 
-assesses that the demand for Brazilian exports has shown more intense than firstly anticipated, even resulting in 
-acceleration, at the margin, of the quantum exported. Therefore, similarly to the observed in previous years, the 
-most pessimistic expectations will be frustrated again in 2007, with the trade balance keeping a very positive 
-performance. 
-  
-9. 
-With regard to the international scenario, uncertainties surrounding the monetary policy stance in the US 
-persist. The prevailing opinion among international investors is that the start of an easing cycle this year seems to 
-be postponed to the next year, meaning that the Fed Funds rate would be kept stable for many months ahead. 
-However, interest rate increases in the US cannot be completely discarded. Similarly, the possibility of stronger-
-than-expected economic deceleration in the US cannot be ignored, especially if the effects of the present difficulties 
-in the real state sector over the financial institutions and the household consumption increase in intensity and 
-scope. On the other hand, the strengthening of economic activity in Europe and the continuity of robust expansion 
-in the major Asian countries have underpinned world growth at higher-than-expected levels, despite the economic 
-deceleration in the US. The maintenance of growth rates at historically high levels in many regions of the world has 
-led to inflationary pressures, especially over raw materials and food prices, to which a significant number of central 
-banks have answered by using monetary policy instruments. However, external demand for Brazilian goods, 
-services and financial assets has, so far, remarkably benefited from the stage of the economic cycle and the global 
-financial conditions. That demand also shows resilience to short-term fluctuations in both economic activity and 
-international market sentiment. This external scenario, which the Copom continues to consider favorable, has 
-helped the Brazilian economy to trail a growth cycle with price stability. 
- 
-10. 
-Oil prices, another external source of international uncertainty, rose since the last Copom meeting and still 
-presents high volatility. On one hand, this behavior reflects structural shifts in global demand for energy and, on the 
-other hand, recurrent episodes of geopolitical tensions. According to this perspective, if the trend observed in the 
-last weeks persists, the main scenario considered by the Copom, which attributes no change to domestic gasoline 
-prices in 2007, might become less plausible. Moreover, despite the eventual stability in domestic gasoline prices, 
-international oil prices swings inexorably affect the domestic economy, for instance, through productive chains, 
-such as the petrochemical, as well as through the impact over market inflation expectations. 
- 
-Assessment of Inflation Trends 
- 
-11. 
-The identified shocks and their impacts were reassessed according to newly available information. The 
-scenario considered in the simulations utilized the following assumptions: 
-  
-a) Compared to the values considered in the June Copom meeting, the projection for gasoline and bottled 
-gas prices adjustments in 2007 were both maintained at 0%; 
-  
-b) The projection for electricity price adjustments in 2007 was modified to –3.6%. The projection for fixed 
-telephone price adjustment was maintained at 3.3%; 
-  
-c) The projection for regulated prices inflation in 2007 decreased to 3.2%, down from 3.6% (projection of 
-the June Copom meeting). These items, according to the weights released by the IBGE, represent 31.01% of the 
-total June IPCA; 
-  
-d) The projection for regulated prices inflation in 2008 was also changed, to 4.5%. This projection is based 
-on the endogenous determination model for regulated prices. This model considers the effects of seasonal 
-components, exchange rate change, market prices inflation and the IGP;  
-e) The projection for the spreads over the Selic rate, using a Vector Autoregressive model based on the 
-Selic and 180-day swap rates on the eve of the meeting, estimates a -5 bps in the fourth quarter of 2007, reaching 
- 
-4
+2006. In the last twelve months through June, the IGP-DI increased 3.96%, up from 0.98% in June 2006. Throughout the second quarter, the IPA-DI remained stable, reflecting the increase in industrial prices and a heterogeneous behavior of agricultural prices, which fell sharply from April through May, and recovered in June. The behavior of wholesale price inflation continues to mirror, in short, contradictory pressures stemming from, on the one hand, the elevation of international prices of commodities and foodstuff and, on the other hand, the strengthening of the BRL. As highlighted in previous Copom Minutes, the effects of wholesale prices over consumer inflation will depend on current and prospective demand conditions and price-setters’ expectations for the future inflation path.
 
-71 bps in the last quarter of 2008. The identified shocks and their impacts were reassessed according to newly 
-available information. 
-  
-12. 
-Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 3.8% of 
-GDP in 2007 and 2008 will be achieved, adjusted by the possibility of a 0.45 p.p. reduction in this percentage due 
-to the implementation of the PPI (Investment Pilot Program). The related assumptions considered in the previous 
-meeting were maintained. 
- 
-13. 
-Since the June Copom meeting, median IPCA inflation expectations for 2007, compiled by the BCB’s 
-Investor Relations Group (Gerin), increased to 3.7% from 3.5%. This growth was mainly driven by the addition of 
-the inflation occurred in May and June. Twelve-month ahead inflation expectations reached 3.5%, up from 3.37%. 
-For 2008, inflation expectations remained at 4%. These developments continue to suggest the consolidation of a 
-favorable macroeconomic scenario. 
- 
-14. 
-Considering the hypotheses under the benchmark scenario – which assumes the maintenance of the Selic 
-rate at 12% and the exchange rate at R$1.90/US$ during the forecast period – the projection for the 2007 IPCA 
-increased compared to the value considered at the June Copom meeting, but remained below the 4.5% target 
-established by the CMN for the year. The forecast based on the market scenario – which incorporates the 
-consensus exchange and Selic rates trajectories collected by Gerin on the eve of the Copom meeting – IPCA 
-inflation forecast for 2007 also increased compared to the value considered at the June Copom meeting, but 
-remains below the central target for the year. On the other hand, the projections for 2008, based on both the 
-benchmark and the market scenarios, reduced in relation to June, remaining below the 4.5% target. 
- 
-Monetary Policy Decision 
- 
-15. 
-The Copom reaffirms the view expressed in previous Minutes, that in addition to containing short-term 
-inflationary pressures, monetary policy has also contributed significantly for the consolidation of a favorable long-
-term macroeconomic environment. Economic activity data point to a strengthening of possibly more intense 
-demand expansion, but still do not suggest high probability of important pressures over inflation in the short-run. In 
-addition to investment expansion, imports growth has remarkably contributed to this process, complementing 
-domestic production and, therefore, limiting potential inflationary effects of aggregate demand sustained growth. 
-Moreover, despite uncertainties regarding the continuity of the strong growth recently observed in the international 
-economy, prospects of additional monetary tightening in important international markets, and volatility increase in 
-global markets, the external outlook remains favorable. Particularly regarding Brazilian external financing, the 
-combination of significant trade surpluses and increasing capital inflows suggests that the balance of payments will 
-continue to perform robustly. Therefore, the prospects for the inflation trajectory remain benign. As in recent 
-meetings, the Copom emphasizes that the main challenge of the monetary policy in this context is to guarantee the 
-consolidation of positive developments anticipated for the future. 
-  
-16. 
-The Copom evaluates that the increase in global inflationary pressures still does not represent risks to 
-short-term domestic inflation trajectory, but a heated demand could increase the pass-through of wholesale prices 
-pressures to consumer price inflation. The Copom also observes that the increase of IPCA inflation expectations for 
-2007 and for the twelve months ahead, despite to levels below the targets established for 2007 and 2008, is a 
-process that must be monitored. In this sense, the Copom will continue to manage the monetary policy stance so 
-that the gains obtained in inflation control in recent years become permanent. In this respect, the Copom will 
-carefully monitor the evolution of inflation and the several core inflation measures, discriminating between one-off 
-and persistent or generalized price increases, analyzing the impacts over short- and medium-term inflation 
-expectations, and promptly adjusting the monetary policy stance to the circumstances. 
-  
-17. 
-The preservation of inflation rates in line with the targets path and the consolidation of a long-lasting stable 
-macroeconomic scenario will contribute to the progressive reduction of macroeconomic risk perception underway. 
-The scope for a reduction in real interest rates in the future will naturally follow as a consequence of this improved 
-perception. The Copom evaluates that its cautious monetary policy stance has been critical to increase the 
-probability of inflation convergence to the targets path. For this to materialize, however, it is important that forward-
-looking inflation indicators remain consistent with the recent benign inflation outlook observed in the last quarters.  
- 
-5
+4. General industrial output, which encompasses extractivism and manufacturing industries, accelerated in the last months. On a three-month moving average basis, according to data seasonally adjusted by the IBGE, industrial output grew 0.8% in May, up from 0.6% in April. Considering the reviewed figures for April, general industrial output recorded the eighth consecutive monthly expansion in May. Industrial output grew 4.9% in May, compared to the same month last year, 4.4% in the year through June, and 3.3% in the last twelve months, with a trend of acceleration at the margin under the two last criteria. IBGE data indicate that manufacturing industry also outperforms. On a three-month moving average basis, the manufacturing industry output index increased by 0.4% in February, 0.5% in March, 0.7% in April and 0.8% in May. In the last twelve months through May, manufacturing industry expanded by 3.1%, while mining increased by 5.4%. Among use categories, capital goods production outperformed in the year through May, growing strongly by 16.3%. In addition, the production of intermediate goods increased by 3.9% in the same period, after growing below the average of general industrial output in the period 2005-2006. For June, the leading and coincident indicators available for industrial production suggest the continuity of the growth cycle. Moreover, the several incentive factors to economic activity, including the monetary easing already implemented, suggest that the expanding trend in industry shall continue in the upcoming quarters. 2
 
-18. 
-The Copom emphasizes, once again, that there are important time lags in the transmission of monetary 
-policy stance to economic activity and inflation. Since the beginning of the monetary easing cycle, in September 
-2005, the Selic rate has already been reduced by 775 b.p., with the bulk of the reduction concentrated in the last 
-nine months. Consequently, the activity level has not completely mirrored the effects of the interest rates cuts yet, 
-as well as the effects of the economic activity on inflation have not completely materialized. Therefore, the 
-evaluation of alternative monetary policy stances should necessarily focus on the prospective inflation scenario and 
-its risks, instead of current inflation indicators.  
-  
-19. 
-During the coming months, employment and income expansions and credit growth will continue to bolster 
-economic activity. As mentioned in recent Copom Minutes, activity level should also reflect the effects of 
-governmental transfers and other fiscal impulses occurred in the first half of 2007 and expected for the next 
-quarters of the year. Consequently, the lagged effects of interest rates cuts on an increasingly robust aggregate 
-demand will add up to other factors that will continue to contribute to this expansion. These issues become even 
-more relevant considering the signs of heated aggregate demand, and the fact that the monetary policy decisions 
-will have limited effects in 2007 and predominant impacts in 2008. 
-  
-20. 
-In light of the existing incentives for expanding aggregate demand, the uncertainties surrounding the 
-monetary policy transmission mechanisms, the lower distance between the current Selic rate and the medium-term 
-equilibrium interest rates, and the interest rate cuts implemented since September 2005, the Copom members 
-understood that the preservation of important achievements in disinflation and in preserving economic growth, with 
-job creation and rising real income, will demand, at some moment, a more cautious monetary easing stance. 
-  
-21. 
-The Copom evaluated that, since the last meeting, influences of domestic and external factors over the 
-balance of risks for the expected inflation trajectory have continued to perform in opposite directions. The external 
-sector, acting importantly to increase aggregate supply, continues to influence inflation prospects in a 
-predominantly benign way. On the other hand, expansion of domestic demand may increase the risks to inflation 
-dynamics in the medium-term.  
-  
-22. 
-Some participants of the Committee understood that, considering the extension of the easing process 
-already implemented, the remaining uncertainties regarding the lagged impacts of the monetary easing, the 
-expected behavior of the other sustaining factors of expenditure, such as income growth, in a scenario of solid 
-expansion of domestic demand for tradable and non-tradable goods and services, and of economic activity 
-strengthening, deceleration in the reduction pace of the Selic target rate to 25 b.p. would contribute to extend the 
-easing process over time. 
- 
-23. 
-However, the majority of the Committee argued that the contribution of the external sector for the 
-consolidation of a benign outlook for inflation, especially by controlling the prices of tradable goods and by 
-increasing investments, in a heated demand environment, reduces the risks present in the prospective scenario for 
-inflation. Such contribution is favoring the equilibrium between aggregate demand and domestic supply growth 
-rates at a pace in line with monetary policy decisions, without compromising the convergence to the inflation targets 
-trajectory. Therefore, four members of the Committee understood that the risk balance to the evolution of future 
-inflation would justify a 50 b.p. reduction in the Selic target rate. 
- 
-24. 
-Given the reasons stated above, evaluating the prospects for inflation, the Copom decided to reduce the 
-Selic target rate to 11.50% p.a., without bias. Four votes were for the Copom monetary policy action, while three 
-votes were in favor of reducing the Selic target by 25 basis points. The Copom will assess the evolution of the 
-macroeconomic scenario until its next meeting, to define the next steps on its monetary policy stance. 
- 
-25. 
-Under an inflation-targeting regime, the monetary authority decides according to inflation prospects, 
-analyzing alternative scenarios for the main variables that determine price dynamics and its balance of risks. 
-Despite the remaining uncertainties regarding the US economy, the international scenario remains favorable, and 
-benefits the external sector contribution for the maintenance of a benign inflationary outlook. On the other hand, 
-domestic demand expands vigorously, backing-up the economic activity recovery. This expansion encompasses 
-some sectors little exposed to external competition, when the effects of important incentive factors, such as the 
- 
-6
+5. The unemployment rate in the six main metropolitan regions stood at 10.1% in May for the third consecutive month, 0.1 p.p. below the May 2006 result. In the year through May, the average unemployment rate reduced by 0.2 p.p., compared to the same period last year. Despite the slow decline in the unemployment rate, the number of employed workers increased 2.7% in the last twelve months through May, due to the growth of the economically active population (PEA), a process usually present in moments of economic expansion. The purchasing power of employed workers increased month-on-month 0.3% in May, unchanged relative to the previous month, and 3.9% relative to May 2006. In the year through May, it reached 4.8%, which contributed for the 7.8% expansion of real payrolls. According to the National Industry Confederation (CNI) data seasonally adjusted by the BCB, manufacturing employment increased month-on-month 0.4% in May and 3.5% compared to May 2006. Consequently, in the year through May, manufacturing employment robustly grew 4.1%. Regarding formal employment, data from the Ministry of Labor and Employment (MTE) confirm the continuity of strong expansion, with the creation of 182 thousand new jobs, a record high for the month of June, since the start of the series in
 
-monetary easing already implemented, are still not fully perceived. In such environment, the monetary authority 
-must remain vigilant, so that short-term uncertainties do not contaminate longer time horizons.  
- 
-26. 
-At the conclusion of the meeting, it was announced that the Copom would reconvene on September 4th 
-2007, for technical presentations, and on the following day to discuss the monetary policy decision, as established 
-in Communiqué 15,011 of October 31, 2006. 
- 
-SUMMARY OF DATA ANALYZED BY THE COPOM 
- 
-Inflation 
- 
-27. 
-The IPCA increased 0.28% in June, repeating the May result. This monthly variation reflected increases in 
-the prices of housing, clothing and, especially, food and beverages, and declines in the prices of other groups, 
-especially transportation and personal outlays. The prices of milk and milk by-products responded for 0.14 p.p. of 
-the monthly variation, up from 0.07 p.p. in May, again the drivers of the monthly IPCA. 
-    
-28. 
-Market prices increased 0.43% in June, up from 0.25% in May, while regulated prices totaled -0.05%, down 
-from 0.35%, in the same period. In the last twelve months, market prices increased 4.1%, and regulated prices, 
-2.78%. Among market prices, the prices of non-tradable goods increased by 5.02%, while the prices of tradable 
-goods prices increased by 3.14%.  
- 
-29. 
-The IPCA increased 2.08% in the first half of 2007, up from 1.54% in the same period of 2006, 
-accumulating 3.69% growth in twelve months through June, up from 3.14% in the same period of 2006. This rise in 
-the first half of the year reflected the continuity of the upturn in food prices started in the last quarter of 2006, due 
-mainly to the increase in international prices. In this context, food prices grew 1.23% in 2006, well below the IPCA, 
-but increased 2.34% in the last quarter of 2006. In the first half of 2007, the prices of the food and beverages rose 
-3.94%, totaling 3.94% in the last twelve months through June.  
- 
-30. 
-IPCA core inflation excluding household food and regulated prices, reached 0.22% in June, down from 
-0.33% in May, while the non-smoothed trimmed means core reached 0.23% down from 0.30% in May. In the last 
-twelve months, these inflation core measures totaled 3.43% and 2.55% in June, compared to 3.04% and 2.39% in 
-May. The smoothed trimmed means core increased 0.34% in the month, up from 0.30% in May, totaling 3.72% in 
-the twelve months through June, up from 3.68% in May. 
- 
-31. 
-The IGP-DI increased 0.26% in June, up from 0.16% in May, totaling 1.44% in the first half of 2007 and 
-3.96% in twelve months. Considering the main components of the index, the IPA-DI (Wholesale Prices Index) rose 
-0.09% in June, up from -0.04% in May, accumulating 0.70% in the year and 3.76% in twelve months. The IPC-Br 
-increased 0.42%, up from 0.25%, in the same period, totaling 2.51% in the first half and 3.98% in twelve months. 
-The INCC rose 0.92% in June, down from 1.15% in May, reflecting deceleration in the prices of materials and 
-services and labor force. This index accumulated increases of 3.51% in the year through June and 5.20% in the 
-last twelve months. 
- 
-32. 
-The increase in the variation of IPC-Br in June reflected the 1.02% increase in food prices, up from -0.01% 
-in May. The core of the index rose 0.34% in June, up from 0.30% in the previous month, accumulating 1.66% in the 
-year through June and 2.91% in the last twelve months.  
- 
-33. 
-The IPA-DI change in June reflected, on the one hand, the reversion in the downward trend of agricultural 
-prices, which increased 0.67%, up from –1.94% in May and, on the other hand, the deceleration in industrial prices, 
-which totaled –0.09% in June, down from 0.58% in May. The main positive drivers for agricultural prices were in 
-natura milk, grained soy, eggs and poultry, while the negative drivers were sugar cane, orange and manioc. Among 
-industrial prices, the upward pressures stemmed from the prices of fuel oil, oil and fats, and milk and milk by-
-products, whereas the downward pressures stemmed from moisturized ethylic alcohol, sugar and pig iron. The IPA 
-presented in June, according to the processing stages of production, stability in the prices of raw materials, 
-deceleration in the prices of intermediate goods and increase in the prices of final goods. In the first half of the year, 
-the prices of raw materials declined 3.62%, after substantial increase in 2006, while the prices of final and 
- 
-7
+1985. Job creation grew month-on-month seasonally adjusted 0.4%, expanding by 4.9% in the year through June and 4.8% in the last twelve months. Therefore, 1,095.5 thousand jobs were created in the first half of the year, up from 924 thousand jobs in the same period of last year (a 18.6% growth), and 1.4 million in the last twelve months. The Copom considers that positive developments in the labor market will continue to be an important support channel to aggregate demand in the upcoming quarters.
 
-intermediate goods slightly increased compared to the previous semester. In the last twelve months through June 
-these prices increased by 7.44%, 2.63% and 2.73%, respectively  
-  
-Economic Activity 
- 
-34. 
-Considering seasonally adjusted data, GDP increased quarter-on-quarter 0.8% in the first quarter of 2007, 
-compared to 1.1% in the last quarter of 2006. Compared to the same period of 2006, GDP increased by 4.3% in 
-the first quarter of 2007, and accumulated 3.8% in four quarters, up from 3.7% in 2006. 
- 
-35. 
-The GDP evolution follows closely the performance of domestic demand. Considering seasonally adjusted 
-data, gross fixed capital formation (FBCF) rose 2.1% in the first quarter of 2007, quarter-on-quarter, while 
-government consumption increased 3.5%; household consumption, 0.9%; exports, 1.2% and imports, 4.1%. 
-Compared to the first quarter of 2006, FBCF expanded by 7.2%; household consumption, 6%; government 
-consumption, 4%; exports, 5.9%; and imports, 19.9%. 
- 
-36. 
-On the supply side, considering seasonally adjusted data, agriculture production declined 2.4% in the first 
-quarter, quarter-on-quarter, while the production in industry and services rose 0.3% and 1.7%, respectively. 
-Compared to the same period of last year, in the first quarter of 2007 agriculture grew 2.1%, industry, 3% and 
-services, 4.6%. 
- 
-37. 
-Indicators related to the second quarter of 2007 suggest the continuity of economic activity growth.        
- 
-38. 
-According to IBGE’s monthly survey, retail sales increased 0.5% in May, on a month-on-month seasonally 
-adjusted basis. All activities expanded, with the exception of fuel and lubricants sales (-1.2%) and vehicles, 
-motorcycles, parts and pieces (-0.1%), which do not compose the general retail sales index.   
- 
-39. 
-Compared to May 2006, retail sales grew 10.3%, mainly driven by the increases in the sales of clothing and 
-shoes (16%) and furniture and domestic appliances (10.4%); segments influenced by both the continuity of 
-employment and income growth and better credit conditions.    
- 
-40. 
-Expanded retail sales, which incorporate the activities of vehicles, motorcycles, parts and pieces and civil 
-construction inputs, increased 13% in May, compared to the same period of the previous year. The sales of these 
-activities increased, 20% and 4.7%, respectively. The positive performance of these segments should persist 
-during 2007, as a result of incentive measures to the civil construction sector and better credit conditions. In the 
-year through May, expanded retail sales increased by 12.7%.  
- 
-41. 
-On a regional basis, 20 out of the 27 Brazilian states showed positive retail sales results in May, on month-
-to-month seasonally adjusted basis. The most significant expansions occurred in Pernambuco (6%), Sergipe 
-(5.6%), Rio Grande do Norte (5.1%); and Roraima (4.8%); while the main reductions were in Paraná (3.4%), 
-Tocantins (1.6%) and Minas Gerais (1.4%).  In the year through May, retail sales rose in all states, with highlights 
-to the performance of Alagoas (31%); Acre (17.4%) and Maranhão (15.8%). The evolution of retail sales in the 
-Northern and Northeastern regions partially reflects the impact of federal government social assistance programs in 
-these regions. 
- 
-42. 
-São Paulo Trade Association (ACSP) data, related to the city of São Paulo and seasonally adjusted by the 
-BCB, showed stability in database consultations for credit sales, and a month-on-month 1.2% increase in 
-consultations to the Usecheque system in June. Compared to June 2006, these indicators rose by 6.4% and 8.8%, 
-respectively.  
- 
-43. 
-Regarding investment indicators, civil construction inputs production expanded month-on-month 0.3% in 
-May, while capital goods production rose 5.1%, seasonally adjusted. The imports of capital goods declined month-
-on-month seasonally adjusted 4.9%. This contraction does not represent a trend change, in view of the intense 
-expansions in this cycle, evidenced by a 31.7% growth in the first five months of 2007 and 26.7% in the last twelve 
-months. In the year through May, domestic production of capital goods increased by 16.3%, with significant 
-elevations in the production of manufactured capital goods (18.6%), capital goods for mixed use (17.3%) and for 
- 
-8
+6. Retail sales increased 0.5% month-on-month in May, the fifth consecutive expansion, according to data seasonally adjusted by the IBGE. In the quarter ended in May, relative to the same period of last year, retail sales recorded 9.9% real growth, compared to 9.4% in the quarter ended in April, while expanded retail sales, which include the sales of civil construction material and vehicles, motorcycles, parts and pieces, increased 13.7%, up from 13.4% in April. In May, retail sales increased by 10.4%, compared to the same month of 2006, for a 9.5% expansion in the year through May. In the last twelve months, expansion reached significant 7.5% and has accelerated at the margin. Compared to May 2006, “furniture and domestic appliances” sales grew 10.3%, while “fabric, clothing and shoes” grew by 16%. The steady performance of retail sales reflects both the expansion of income and employment and the improvement of consumer credit conditions. Expanded retail sales recorded 13% real growth in May, compared to the same month of 2006, the eleventh consecutive month that expanded retail sales exceeded retail sales. For the rest of the year, it is expected the continuity of retail sales expansion, boosted by the increase in employment and income (including through governmental transfers), credit expansion, the monetary easing process and by the recovery of consumer confidence. Moreover, the performance of retail sales suggests the continuity and likely strengthening of aggregate demand growth.
 
-energy (16.4%). Production of capital goods for agriculture expanded by 23.3% in the same period, while the 
-negative twelve-month trailing production reached –0.6% in May, after –4.3% in April and –8.9% in March, 
-confirming the recovery of the production in this sector.    
- 
-44. 
-BNDES funding for medium- and long-term investment totaled R$19.1 billion in the first five months of 
-2007, 39.9% above the amount disbursed in the same period of 2006. In the twelve months through May, R$ 57,7 
-billion was disbursed, a 26% expansion compared to the same period of last year, corroborating the recent 
-acceleration of this investment indicator.   
- 
-45. 
-Industrial production grew 1.3% in May, according to IBGE’s Monthly Industrial Survey (PIM) seasonally 
-adjusted data, reaching a 2.2% expansion in the quarter ended in May. On a three-month moving average basis, 
-which attenuates punctual oscillations, industrial activity reached a record high for the fourteenth consecutive 
-month, in May. Industrial production rose by 4.9%, compared to May 2006, and expanded by 4.4% in the first five 
-months of 2007 and 3.3% in the last twelve months.  
- 
-46. 
-Considering seasonally adjusted data, manufacturing production expanded by 1.3%, while mining industry 
-production declined by 0.2%. All use categories increased in the month: capital goods production increased by 
-5.1%, while consumer goods and intermediate goods production rose by 1.5% and 0.6%, respectively. In the year 
-through May, production of capital goods expanded by 16.3%, leading industrial expansion, followed by 
-intermediate goods (3.9%), durable consumer goods (3.7%) and semi- and non-durable goods (2.5%). 
- 
-47. 
-Disaggregated data of seasonally adjusted industrial activity showed that 15 out of the 23 sectors surveyed 
-grew in May, with highlights to vehicles, pharmaceuticals, machines and equipment, and food, in order of 
-importance. The main negative drivers were chemical products and beverages.  
- 
-48. 
-Still considering the industrial activity, according to CNI data, seasonally adjusted by the BCB, hours 
-worked in production expanded by 0.3%, while real industrial sales declined 0.6% in May, month-on-month. In the 
-year through May, these indicators increased by 3.6% and 4%, respectively, compared to the same period of 2006. 
-After seasonal adjustment, installed capacity utilization reached 82.7% in May, up from 82% in April. Considering 
-observed data, utilization level reached 83.2%, 1.8 p.p. above the May 2006 figure.  
- 
-49. 
-According to Anfavea, vehicles production reached 246.4 thousand units in June. According to data 
-seasonally adjusted by the BCB, vehicles production expanded by 2.4%, on a month-on-month basis, and 9.6% 
-compared to June 2006. Considering the month-on-month seasonally adjusted series, domestic sales increased by 
-1.7%, while exports decreased by 7.1%. Compared to the first half of 2006, vehicles production increased by 6.3% 
-in 2007, while domestic sales increased by 19.1% and exports decreased 10.9%. According to the same 
-comparison basis, production of agricultural machines grew 20.6% and production of trucks grew 21.3%, mirroring 
-increases in investment and recovery of the agricultural sector in the current harvest. 
- 
-50. 
-According to the IBGE, the June estimate for the grains harvest pointed to a 14% increase in 2007, year-
-on-year. National production of grains should reach 133.4 million tons, due to good weather conditions and the 
-production incentive driven by the increase in international agricultural commodities prices. In the survey, the main 
-forecast production increases related to wheat (60.6%), cottonseed (31.2%), corn (21.4%), and soy (11.3%), while 
-the main production decreases related to coffee (15.1%) and rice (4.5%). It still bears emphasizing the increase in 
-land occupation for sugar cane production, in line with the growing interest in ethanol production. Sugar cane 
-plantations increased by 9.1% in 2007, and the production should expand by 12.7%, year-on-year. 
- 
-Surveys and Expectations 
- 
-51. 
- The Fecomercio-SP survey showed stability in the Consumer Confidence Index (ICC) in July, month-on-
-month. The two ICC components presented divergent behavior, with the Current Economic Conditions Index (Icea) 
-increasing month-on-month 1% in July, and the Consumer Expectation Index (IEC) declining by 0.8%. In fact, the 
-Icea remained above the IEC for the seventh consecutive month. Compared to July 2006, the ICC and IEC 
-declined by 3.1% and 10.9%, respectively, while the Icea increased by 9.5%. 
- 
- 
-9
+7. According to CNI data without seasonal adjustment, installed capacity utilization in the manufacturing industry averaged 81.5% in the first five months of 2007, compared to 79.5%, 80.4% and 79.8% in the same period of 2006, 2005 and 2004, respectively. The installed capacity utilization rate, according to CNI data seasonally adjusted by the BCB, stood at 82.7% in May, 0.7 p.p. above that observed in April, reaching a new record high for the series. Installed capacity utilization not only has grown significantly, but there are signs that the process has become more generalized, with many sectors operating close to their maximum rates. Data compiled by the FGV also show an upward trend for the utilization rates, which reached 84.7% in June, up from 82.3% in June 2006. Such increase reflects, unmistakably, economic activity acceleration, despite the strong expansion of investment. In fact, the absorption of capital goods in the year through May grew 16.1%, in line with the significant increase in capital goods imports (30.7% in volume), as well as in capital goods production (16.3%).  Moreover, in the same period, the production of civil construction inputs increased 3.7%. The most recent data indicate that, despite quite robust, investment has not been sufficient to avoid a significant elevation of the capacity utilization rates in industry. This situation may reflect lags in the maturing of projects aimed at expanding the installed capacity or higher-than- expected strengthening in economic activity. In this context, the expansion of investment will be fundamental to avoid sharp mismatches regarding the evolution of aggregate supply and demand. As stressed in previous Copom Minutes, the inflation trajectory is closely linked to current and prospective developments with regard to the expansion of supply of goods and services to adequately meet demand conditions.
 
-52. 
-According to the FGV survey, which encompasses two thousand homes in the seven main state capitals of 
-the country, the ICC increased 0.6% month-on-month in June. This result is due to the improvement in both the 
-assessment of the present situation (1.5%) and in the 6-month ahead expectations (0.1%). Compared to June 
-2006, the ICC rose 8%, mainly because of the 9.9% increase in the expectation index.  
- 
-53. 
-Still according to the FGV, the Industry Confidence Index (ICI), which encompasses six items of the 
-Manufacturing Industry Survey, declined 0.6% month-on-month in June, the second consecutive fall, after the 
-record high observed in April. The ICI rose 13.2% relative to June 2006, expanding by 10.5% in the first half of 
-2007, compared to the same period of 2006. This result is due to the positive assessments about the expected 
-level of demand and the predictions of higher hiring in industry. The level of installed capacity utilization reached 
-84.7% in June, up from 82.3% in June 2006. 
- 
-Labor Market 
- 
-54. 
-According to the Ministry of Labor and Employment, 182 thousand new formal jobs were created in June. 
-In the first half of the year, 1,095.5 thousand new jobs were created, a record high for the series, 18.6% above the 
-figure observed in the same period of 2006. These new hirings raised employment expansion by 4.9% in the 
-period, according to the same comparison basis. In the last twelve months, expansion reached 4.8%, with 
-highlights to the employment increases in civil construction (7.4%) and in commerce (5.8%). After seasonal 
-adjustment, employment expanded month-on-month 0.4% in June, with increases in all sectors.  
- 
-55. 
-According to the IBGE employment survey (PME) in the six main metropolitan areas of the country, the 
-unemployment rate remained unchanged at 10.1% in May 2007. The unemployment rate stability reflected mainly 
-the 0.1% change in both employed population and economically active population (PEA). The number of employers 
-declined 3.7%, while the number of self-employed workers expanded by 1.6%. In the first five months of 2007, the 
-average number of workers increased by 2.9%, relative to the same period of 2006, reflecting the expansion of 
-investment and recovery in the agricultural sector.  
- 
-56. 
-The number of workers in the private sector increased by 2.7%, with a 4.1% expansion in the number of 
-formal workers and a 1.4% decline in the number of informal workers, highlighting a qualitative improvement in the 
-labor market.     
- 
-57. 
-According to the same survey, real average earnings reached R$1,120.3 in May, a 0.3% month-on-month 
-increase and a 3.9% elevation compared to May 2006. Real payrolls, a result of the average earnings times the 
-number of occupied workers,  grew 0.4% month-on-month in May and 6.8% compared to the same month of last 
-year, for a 7.8% expansion in the year through May. 
- 
-58. 
-According to CNI data, seasonally adjusted by the BCB, the number of workers in industry increased 0.4% 
-in May, month-on-month. In the year through May, the number of workers in industry increased by 3.4%, while real 
-payrolls in the sector expanded 5.5%. 
- 
-Credit and Delinquency Rates 
- 
-59. 
-Non-earmarked credit, used as reference for interest rates, increased 1.4% in June and 20.3% in the last 
-twelve months. Credit for individuals increased 1% in June, totaling a 22.8% increase in twelve months. Corporate 
-credit operations with domestic funding increased 2.8% in the month and 19.6% in the last twelve months, while 
-externally funded operations decreased 1.3% in June, but increased by 27.7% in twelve months. 
- 
-60. 
-The average interest rate on credit operations reached 37% p.a. in June, a record low for the historical 
-series, 6.2 p.p. below the June 2006 result. The average rate on credit for individuals reached 48.4% p.a., down 
-from 55.8% p.a. in the same month of 2006. The average rate on corporate credit decreased 5.1 p.p. in the last 
-twelve months, reaching 23.7% p.a. 
-61. 
-The average tenure of credit operations for individuals, excluding overdraft account, reached 431 days in 
-June, compared to 356 in the same month of 2006. The average tenure of personal credit modality reached 433 
- 
-10
+8. The trade balance continues to present robust performance, despite the strengthening of the BRL, confirming the evaluations based upon Inflation Reports and previous Copom Minutes that depict important structural changes in the Brazilian foreign trade. After reaching in 2006 a US$ 46.5 billion record high, a 3.4% 3 increase over the 2005 result, the trade balance continues to register strong positive performance. In the year through June, the trade surplus reached US$20.6 billion, a 6.2% increase relative to the same period of 2006. Exports rose 20.2%, to US$73.2 billion, while imports increased 26.7%, to US$52.6 billion. Imports have been growing more rapidly than exports at the margin, due not only to higher level of economic activity, but also to the strengthening of the BRL, which points to a healthy adjustment process of the trade balance. Moreover, the Copom assesses that the demand for Brazilian exports has shown more intense than firstly anticipated, even resulting in acceleration, at the margin, of the quantum exported. Therefore, similarly to the observed in previous years, the most pessimistic expectations will be frustrated again in 2007, with the trade balance keeping a very positive performance.
 
-days, increasing 95 days compared to the previous year, reflecting the increasing weight of payroll-deducted in this 
-credit modality. 
- 
-62. 
-Delinquency rate in the financial system (non-earmarked loans in arrears for more than ninety days) 
-reached 4.7% in June, decreasing 0.1 p.p. in the month and remaining stable relative to June 2006. Delinquency 
-rate for corporate credit operations remained stable in the month (2.6%) and increased 0.3 p.p. in the last twelve 
-months. Delinquency rate for credit operations with individuals reached 7.1%, decreasing 0.1 p.p. in the month and 
-0.2 p.p. relative to the same month of 2006. 
- 
-63. 
-Net delinquency rate for retail credit, measured by the ACSP, reached 5.1% in June, compared to 5% in 
-the same month of 2006 and to the 5.3% average in 2006.  
- 
-External Environment 
- 
-64. 
-The global economic activity performance remains above the long-term trend, contradicting the cooling 
-expectations of the beginning of the year. The deceleration of the US economy is largely offset by the annualized 
-GDP growth of Euro Area (3.1%), Japan (3.3%) and China (11.1%) in the first quarter, compared to the same 
-period of 2006. The steady expansion in important economies also helped to offset the deceleration in the US 
-economy.  
- 
-65. 
-Global financial conditions remain favorable due to abundant liquidity, which reflects the positive 
-performance of stock exchange, the prices of emerging markets sovereign securities, and the steady corporate 
-profits. This outlook is reinforced by the strong recovery in the global industrial production, by the robust 
-employment growth, by the end of the US inventories adjustment process, and by the optimistic forecasts for global 
-expansion.  
- 
-66. 
-However, some risks threaten this favorable outlook. The main risky factors are the new rises in the oil 
-prices, which are close to the August 2006 record high; the probability of adoption of strong restrictive measures to 
-fight inflationary pressures and contain the overheating, specially in China; the maintenance of the adjustments in 
-the US real state market; and the contamination of the markets, specially in emerging countries, as a result of the 
-turmoils in the Asian financial market, in the subprime US real state market and in the hedge funds.     
- 
-Foreign Trade and International Reserves 
- 
-67. 
-In the first half of 2007, Brazilian foreign trade continued to expand. The trade surplus reached US$20.6 
-billion in the period, and US$47.6 billion in the last twelve months, while total external trade totaled US$125.8 
-billion and US$252.3 billion, according to the same comparison bases. 
- 
-68. 
-Exports reached US$13.1 billion in June, with a US$656 million daily record high average, a 20.2% 
-increase over June 2006. The expansion of shipped volumes and the prices increases drove the growth of Brazilian 
-exports in the three goods categories. Manufactured goods exports reached US$7 billion in the month, with a 
-US$350.8  million daily record high, a 19% increase over June 2006. Primary products exports totaled US$4 billion, 
-and semi-manufactured ones, US$1.8 billion, with respective increases of 26.8% and 10%, according to the same 
-comparison bases. Some important export products continued to present prices increases compared to June 2006, 
-with highlights to orange juice (64.1%); raw soy oil (41.6%); poultry (33.8%); iron and steel semi-manufactured 
-(31.5%); leather and skin (31.2%) and metal laminates (22.4%). Exports continued to show diversification in terms 
-of products, particularly regarding manufactured items with low share in total exports, and expansion of exports 
-destinations. 
- 
-69. 
-Imports totaled US$9.3 billion in June, with a US$465.2 million daily record high average, a 32.6% increase 
-over the same month of 2006. All import categories expanded: raw materials (38.7%); capital goods (32.1%); 
-consumer goods (31.8%); and fuel and lubricants (17%), according to the same comparison basis. Among the 
-imports of raw materials and intermediate goods, it is noticeable the acquisition of primary food goods, 
-transportation equipment, chemical and pharmaceutical products, non-food agricultural products and mineral 
-products. Among the consumer goods, the main import drivers were clothing, vehicles, beverages and tobacco, 
- 
-11
+9. With regard to the international scenario, uncertainties surrounding the monetary policy stance in the US persist. The prevailing opinion among international investors is that the start of an easing cycle this year seems to be postponed to the next year, meaning that the Fed Funds rate would be kept stable for many months ahead. However, interest rate increases in the US cannot be completely discarded. Similarly, the possibility of stronger- than-expected economic deceleration in the US cannot be ignored, especially if the effects of the present difficulties in the real state sector over the financial institutions and the household consumption increase in intensity and scope. On the other hand, the strengthening of economic activity in Europe and the continuity of robust expansion in the major Asian countries have underpinned world growth at higher-than-expected levels, despite the economic deceleration in the US. The maintenance of growth rates at historically high levels in many regions of the world has led to inflationary pressures, especially over raw materials and food prices, to which a significant number of central banks have answered by using monetary policy instruments. However, external demand for Brazilian goods, services and financial assets has, so far, remarkably benefited from the stage of the economic cycle and the global financial conditions. That demand also shows resilience to short-term fluctuations in both economic activity and international market sentiment. This external scenario, which the Copom continues to consider favorable, has helped the Brazilian economy to trail a growth cycle with price stability.
 
-beauty products, furniture and pharmaceutical products. The industrial machinery, office and scientific machines 
-and equipment and parts and pieces drove capital goods imports.  
- 
-70. 
-In June, international reserves reached US$147.1 billion, a US$10.7 billion increase in the month, US$61.3 
-billion in the year and US$84.4 billion compared to June 2006. 
- 
-Money Market and Open Market Operations 
- 
-71. 
-In the period between the June and July Copom meetings, the interest rate yield curve shifted downwards 
-for short-term tenors, mainly driven by the favorable domestic economic outlook and by the perspective of a 
-continuous monetary policy easing cycle. The June Copom decision (a 50 b.p. reduction of the Selic target), the 
-ongoing appreciation of the BRL against the dollar, and the release, at the beginning of July, of current inflationary 
-indices within the forecast intervals contributed to deepen the decline of the short-tenure side of the yield curve. 
-Uncertainties regarding the performance of the U.S. economy, the financial losses in the US high-risk mortgage 
-market and the expectation of monetary tightening in the main economies stimulated a migration movement of 
-investments towards lower-risk assets and contributed to an increase in the longer-tenure side of the yield curve. 
-Between June 4 and July 16, one-, three - and six-month and one-year rates reduced 0.55 p.p., 0.50 p.p., 0.39 p.p. 
-and 0.24 p.p., respectively. Two-, and three-year rates increased by 0.13 p.p. and 0.34 p.p., respectively. The real 
-interest rate measured by the differential between the one-year forward nominal interest rate and the smoothed 
-twelve-month ahead inflation expectations decreased to 6.95%, on July 16, down from 7.31%, on June 4. 
- 
-72. 
-On June 21, the BCB conducted a reverse exchange rate swap auction, aimed at anticipating the 
-redemption of the swaps due July 2, totaling US$1.5 billion. 
- 
-73. 
-In its open market operations, the BCB carried out, between June 5 and July 16, weekly five- and seven-
-month long repo operations. The average daily balance of these operations amounted R$79.4 billion, of which 
-R$56.4 billion were seven-month operations. In the same period, the BCB also conducted 27 overnight repo 
-operations, aimed at draining the excess liquidity from the market and a 29-working-day tenure long operation. The 
-BCB also conducted daily liquidity management operations with tenures up to two working days. Operations with 
-tenors less than thirty days, including daily liquidity management operations, averaged R$34.4 billion, borrowing. 
- 
-74. 
-Between June 5 and July 16, the National Treasury raised a total of R$56.3 billion, of which R$28.3 billion 
-in fixed-rate securities: R$14.1 billion via the issuance of LTNs maturing in 2008 and 2009 and R$14.2 billion in 
-NTN-Fs maturing in 2010, 2011, 2012, 2013 and 2017. The issuance of LFTs totaled R$6.4 billion, for securities 
-maturing in 2010, 2012 and 2013. The issuance of inflation-linked NTN-Bs reached R$21.6 billion, for securities 
-maturing in 2009, 2012, 2017, 2024, 2035 and 2045, of which R$8.1 billion were settled in other National Treasury 
-securities. 
- 
-75. 
-In the same period, the Treasury conducted auctions to sell LTNs maturing in April and October 2008, 
-conjugated to the purchase of shorter-term LTNs maturing in July and October 2007 and January 2008, totaling 
-R$4.9 billion. The Treasury also conducted auctions to sell LFTs maturing in 2010, 2012 and 2013, totaling R$4.7 
-billion, accepting as payment LFTs maturing in 2007. In addition, the Treasury conducted auctions to buy NTN-Bs, 
-totaling US$153 million. 
- 
- 
- 
- 
-12
+10. Oil prices, another external source of international uncertainty, rose since the last Copom meeting and still presents high volatility. On one hand, this behavior reflects structural shifts in global demand for energy and, on the other hand, recurrent episodes of geopolitical tensions. According to this perspective, if the trend observed in the last weeks persists, the main scenario considered by the Copom, which attributes no change to domestic gasoline prices in 2007, might become less plausible. Moreover, despite the eventual stability in domestic gasoline prices, international oil prices swings inexorably affect the domestic economy, for instance, through productive chains, such as the petrochemical, as well as through the impact over market inflation expectations. Assessment of Inflation Trends
+
+11. The identified shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions:
+
+a) Compared to the values considered in the June Copom meeting, the projection for gasoline and bottled gas prices adjustments in 2007 were both maintained at 0%;
+
+b) The projection for electricity price adjustments in 2007 was modified to –3.6%. The projection for fixed telephone price adjustment was maintained at 3.3%;
+
+c) The projection for regulated prices inflation in 2007 decreased to 3.2%, down from 3.6% (projection of the June Copom meeting). These items, according to the weights released by the IBGE, represent 31.01% of the total June IPCA;
+
+d) The projection for regulated prices inflation in 2008 was also changed, to 4.5%. This projection is based on the endogenous determination model for regulated prices. This model considers the effects of seasonal components, exchange rate change, market prices inflation and the IGP;
+
+e) The projection for the spreads over the Selic rate, using a Vector Autoregressive model based on the Selic and 180-day swap rates on the eve of the meeting, estimates a -5 bps in the fourth quarter of 2007, reaching 4 71 bps in the last quarter of 2008. The identified shocks and their impacts were reassessed according to newly available information.
+
+12. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 3.8% of GDP in 2007 and 2008 will be achieved, adjusted by the possibility of a 0.45 p.p. reduction in this percentage due to the implementation of the PPI (Investment Pilot Program). The related assumptions considered in the previous meeting were maintained.
+
+13. Since the June Copom meeting, median IPCA inflation expectations for 2007, compiled by the BCB’s Investor Relations Group (Gerin), increased to 3.7% from 3.5%. This growth was mainly driven by the addition of the inflation occurred in May and June. Twelve-month ahead inflation expectations reached 3.5%, up from 3.37%. For 2008, inflation expectations remained at 4%. These developments continue to suggest the consolidation of a favorable macroeconomic scenario.
+
+14. Considering the hypotheses under the benchmark scenario – which assumes the maintenance of the Selic rate at 12% and the exchange rate at R$1.90/US$ during the forecast period – the projection for the 2007 IPCA increased compared to the value considered at the June Copom meeting, but remained below the 4.5% target established by the CMN for the year. The forecast based on the market scenario – which incorporates the consensus exchange and Selic rates trajectories collected by Gerin on the eve of the Copom meeting – IPCA inflation forecast for 2007 also increased compared to the value considered at the June Copom meeting, but remains below the central target for the year. On the other hand, the projections for 2008, based on both the benchmark and the market scenarios, reduced in relation to June, remaining below the 4.5% target. Monetary Policy Decision
+
+15. The Copom reaffirms the view expressed in previous Minutes, that in addition to containing short-term inflationary pressures, monetary policy has also contributed significantly for the consolidation of a favorable long- term macroeconomic environment. Economic activity data point to a strengthening of possibly more intense demand expansion, but still do not suggest high probability of important pressures over inflation in the short-run. In addition to investment expansion, imports growth has remarkably contributed to this process, complementing domestic production and, therefore, limiting potential inflationary effects of aggregate demand sustained growth. Moreover, despite uncertainties regarding the continuity of the strong growth recently observed in the international economy, prospects of additional monetary tightening in important international markets, and volatility increase in global markets, the external outlook remains favorable. Particularly regarding Brazilian external financing, the combination of significant trade surpluses and increasing capital inflows suggests that the balance of payments will continue to perform robustly. Therefore, the prospects for the inflation trajectory remain benign. As in recent meetings, the Copom emphasizes that the main challenge of the monetary policy in this context is to guarantee the consolidation of positive developments anticipated for the future.
+
+16. The Copom evaluates that the increase in global inflationary pressures still does not represent risks to short-term domestic inflation trajectory, but a heated demand could increase the pass-through of wholesale prices pressures to consumer price inflation. The Copom also observes that the increase of IPCA inflation expectations for 2007 and for the twelve months ahead, despite to levels below the targets established for 2007 and 2008, is a process that must be monitored. In this sense, the Copom will continue to manage the monetary policy stance so that the gains obtained in inflation control in recent years become permanent. In this respect, the Copom will carefully monitor the evolution of inflation and the several core inflation measures, discriminating between one-off and persistent or generalized price increases, analyzing the impacts over short- and medium-term inflation expectations, and promptly adjusting the monetary policy stance to the circumstances.
+
+17. The preservation of inflation rates in line with the targets path and the consolidation of a long-lasting stable macroeconomic scenario will contribute to the progressive reduction of macroeconomic risk perception underway. The scope for a reduction in real interest rates in the future will naturally follow as a consequence of this improved perception. The Copom evaluates that its cautious monetary policy stance has been critical to increase the probability of inflation convergence to the targets path. For this to materialize, however, it is important that forward- looking inflation indicators remain consistent with the recent benign inflation outlook observed in the last quarters. 5
+
+18. The Copom emphasizes, once again, that there are important time lags in the transmission of monetary policy stance to economic activity and inflation. Since the beginning of the monetary easing cycle, in September 2005, the Selic rate has already been reduced by 775 b.p., with the bulk of the reduction concentrated in the last nine months. Consequently, the activity level has not completely mirrored the effects of the interest rates cuts yet, as well as the effects of the economic activity on inflation have not completely materialized. Therefore, the evaluation of alternative monetary policy stances should necessarily focus on the prospective inflation scenario and its risks, instead of current inflation indicators.
+
+19. During the coming months, employment and income expansions and credit growth will continue to bolster economic activity. As mentioned in recent Copom Minutes, activity level should also reflect the effects of governmental transfers and other fiscal impulses occurred in the first half of 2007 and expected for the next quarters of the year. Consequently, the lagged effects of interest rates cuts on an increasingly robust aggregate demand will add up to other factors that will continue to contribute to this expansion. These issues become even more relevant considering the signs of heated aggregate demand, and the fact that the monetary policy decisions will have limited effects in 2007 and predominant impacts in 2008.
+
+20. In light of the existing incentives for expanding aggregate demand, the uncertainties surrounding the monetary policy transmission mechanisms, the lower distance between the current Selic rate and the medium-term equilibrium interest rates, and the interest rate cuts implemented since September 2005, the Copom members understood that the preservation of important achievements in disinflation and in preserving economic growth, with job creation and rising real income, will demand, at some moment, a more cautious monetary easing stance.
+
+21. The Copom evaluated that, since the last meeting, influences of domestic and external factors over the balance of risks for the expected inflation trajectory have continued to perform in opposite directions. The external sector, acting importantly to increase aggregate supply, continues to influence inflation prospects in a predominantly benign way. On the other hand, expansion of domestic demand may increase the risks to inflation dynamics in the medium-term.
+
+22. Some participants of the Committee understood that, considering the extension of the easing process already implemented, the remaining uncertainties regarding the lagged impacts of the monetary easing, the expected behavior of the other sustaining factors of expenditure, such as income growth, in a scenario of solid expansion of domestic demand for tradable and non-tradable goods and services, and of economic activity strengthening, deceleration in the reduction pace of the Selic target rate to 25 b.p. would contribute to extend the easing process over time.
+
+23. However, the majority of the Committee argued that the contribution of the external sector for the consolidation of a benign outlook for inflation, especially by controlling the prices of tradable goods and by increasing investments, in a heated demand environment, reduces the risks present in the prospective scenario for inflation. Such contribution is favoring the equilibrium between aggregate demand and domestic supply growth rates at a pace in line with monetary policy decisions, without compromising the convergence to the inflation targets trajectory. Therefore, four members of the Committee understood that the risk balance to the evolution of future inflation would justify a 50 b.p. reduction in the Selic target rate.
+
+24. Given the reasons stated above, evaluating the prospects for inflation, the Copom decided to reduce the Selic target rate to 11.50% p.a., without bias. Four votes were for the Copom monetary policy action, while three votes were in favor of reducing the Selic target by 25 basis points. The Copom will assess the evolution of the macroeconomic scenario until its next meeting, to define the next steps on its monetary policy stance.
+
+25. Under an inflation-targeting regime, the monetary authority decides according to inflation prospects, analyzing alternative scenarios for the main variables that determine price dynamics and its balance of risks. Despite the remaining uncertainties regarding the US economy, the international scenario remains favorable, and benefits the external sector contribution for the maintenance of a benign inflationary outlook. On the other hand, domestic demand expands vigorously, backing-up the economic activity recovery. This expansion encompasses some sectors little exposed to external competition, when the effects of important incentive factors, such as the 6 monetary easing already implemented, are still not fully perceived. In such environment, the monetary authority must remain vigilant, so that short-term uncertainties do not contaminate longer time horizons.
+
+26. At the conclusion of the meeting, it was announced that the Copom would reconvene on September 4th 2007, for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 15,011 of October 31, 2006. SUMMARY OF DATA ANALYZED BY THE COPOM Inflation
+
+27. The IPCA increased 0.28% in June, repeating the May result. This monthly variation reflected increases in the prices of housing, clothing and, especially, food and beverages, and declines in the prices of other groups, especially transportation and personal outlays. The prices of milk and milk by-products responded for 0.14 p.p. of the monthly variation, up from 0.07 p.p. in May, again the drivers of the monthly IPCA.
+
+28. Market prices increased 0.43% in June, up from 0.25% in May, while regulated prices totaled -0.05%, down from 0.35%, in the same period. In the last twelve months, market prices increased 4.1%, and regulated prices, 2.78%. Among market prices, the prices of non-tradable goods increased by 5.02%, while the prices of tradable goods prices increased by 3.14%.
+
+29. The IPCA increased 2.08% in the first half of 2007, up from 1.54% in the same period of 2006, accumulating 3.69% growth in twelve months through June, up from 3.14% in the same period of 2006. This rise in the first half of the year reflected the continuity of the upturn in food prices started in the last quarter of 2006, due mainly to the increase in international prices. In this context, food prices grew 1.23% in 2006, well below the IPCA, but increased 2.34% in the last quarter of 2006. In the first half of 2007, the prices of the food and beverages rose 3.94%, totaling 3.94% in the last twelve months through June.
+
+30. IPCA core inflation excluding household food and regulated prices, reached 0.22% in June, down from 0.33% in May, while the non-smoothed trimmed means core reached 0.23% down from 0.30% in May. In the last twelve months, these inflation core measures totaled 3.43% and 2.55% in June, compared to 3.04% and 2.39% in May. The smoothed trimmed means core increased 0.34% in the month, up from 0.30% in May, totaling 3.72% in the twelve months through June, up from 3.68% in May.
+
+31. The IGP-DI increased 0.26% in June, up from 0.16% in May, totaling 1.44% in the first half of 2007 and 3.96% in twelve months. Considering the main components of the index, the IPA-DI (Wholesale Prices Index) rose 0.09% in June, up from -0.04% in May, accumulating 0.70% in the year and 3.76% in twelve months. The IPC-Br increased 0.42%, up from 0.25%, in the same period, totaling 2.51% in the first half and 3.98% in twelve months. The INCC rose 0.92% in June, down from 1.15% in May, reflecting deceleration in the prices of materials and services and labor force. This index accumulated increases of 3.51% in the year through June and 5.20% in the last twelve months.
+
+32. The increase in the variation of IPC-Br in June reflected the 1.02% increase in food prices, up from -0.01% in May. The core of the index rose 0.34% in June, up from 0.30% in the previous month, accumulating 1.66% in the year through June and 2.91% in the last twelve months.
+
+33. The IPA-DI change in June reflected, on the one hand, the reversion in the downward trend of agricultural prices, which increased 0.67%, up from –1.94% in May and, on the other hand, the deceleration in industrial prices, which totaled –0.09% in June, down from 0.58% in May. The main positive drivers for agricultural prices were in natura milk, grained soy, eggs and poultry, while the negative drivers were sugar cane, orange and manioc. Among industrial prices, the upward pressures stemmed from the prices of fuel oil, oil and fats, and milk and milk by- products, whereas the downward pressures stemmed from moisturized ethylic alcohol, sugar and pig iron. The IPA presented in June, according to the processing stages of production, stability in the prices of raw materials, deceleration in the prices of intermediate goods and increase in the prices of final goods. In the first half of the year, the prices of raw materials declined 3.62%, after substantial increase in 2006, while the prices of final and 7 intermediate goods slightly increased compared to the previous semester. In the last twelve months through June these prices increased by 7.44%, 2.63% and 2.73%, respectively Economic Activity
+
+34. Considering seasonally adjusted data, GDP increased quarter-on-quarter 0.8% in the first quarter of 2007, compared to 1.1% in the last quarter of 2006. Compared to the same period of 2006, GDP increased by 4.3% in the first quarter of 2007, and accumulated 3.8% in four quarters, up from 3.7% in 2006.
+
+35. The GDP evolution follows closely the performance of domestic demand. Considering seasonally adjusted data, gross fixed capital formation (FBCF) rose 2.1% in the first quarter of 2007, quarter-on-quarter, while government consumption increased 3.5%; household consumption, 0.9%; exports, 1.2% and imports, 4.1%. Compared to the first quarter of 2006, FBCF expanded by 7.2%; household consumption, 6%; government consumption, 4%; exports, 5.9%; and imports, 19.9%.
+
+36. On the supply side, considering seasonally adjusted data, agriculture production declined 2.4% in the first quarter, quarter-on-quarter, while the production in industry and services rose 0.3% and 1.7%, respectively. Compared to the same period of last year, in the first quarter of 2007 agriculture grew 2.1%, industry, 3% and services, 4.6%.
+
+37. Indicators related to the second quarter of 2007 suggest the continuity of economic activity growth.
+
+38. According to IBGE’s monthly survey, retail sales increased 0.5% in May, on a month-on-month seasonally adjusted basis. All activities expanded, with the exception of fuel and lubricants sales (-1.2%) and vehicles, motorcycles, parts and pieces (-0.1%), which do not compose the general retail sales index.
+
+39. Compared to May 2006, retail sales grew 10.3%, mainly driven by the increases in the sales of clothing and shoes (16%) and furniture and domestic appliances (10.4%); segments influenced by both the continuity of employment and income growth and better credit conditions.
+
+40. Expanded retail sales, which incorporate the activities of vehicles, motorcycles, parts and pieces and civil construction inputs, increased 13% in May, compared to the same period of the previous year. The sales of these activities increased, 20% and 4.7%, respectively. The positive performance of these segments should persist during 2007, as a result of incentive measures to the civil construction sector and better credit conditions. In the year through May, expanded retail sales increased by 12.7%.
+
+41. On a regional basis, 20 out of the 27 Brazilian states showed positive retail sales results in May, on month- to-month seasonally adjusted basis. The most significant expansions occurred in Pernambuco (6%), Sergipe (5.6%), Rio Grande do Norte (5.1%); and Roraima (4.8%); while the main reductions were in Paraná (3.4%), Tocantins (1.6%) and Minas Gerais (1.4%).  In the year through May, retail sales rose in all states, with highlights to the performance of Alagoas (31%); Acre (17.4%) and Maranhão (15.8%). The evolution of retail sales in the Northern and Northeastern regions partially reflects the impact of federal government social assistance programs in these regions.
+
+42. São Paulo Trade Association (ACSP) data, related to the city of São Paulo and seasonally adjusted by the BCB, showed stability in database consultations for credit sales, and a month-on-month 1.2% increase in consultations to the Usecheque system in June. Compared to June 2006, these indicators rose by 6.4% and 8.8%, respectively.
+
+43. Regarding investment indicators, civil construction inputs production expanded month-on-month 0.3% in May, while capital goods production rose 5.1%, seasonally adjusted. The imports of capital goods declined month- on-month seasonally adjusted 4.9%. This contraction does not represent a trend change, in view of the intense expansions in this cycle, evidenced by a 31.7% growth in the first five months of 2007 and 26.7% in the last twelve months. In the year through May, domestic production of capital goods increased by 16.3%, with significant elevations in the production of manufactured capital goods (18.6%), capital goods for mixed use (17.3%) and for 8 energy (16.4%). Production of capital goods for agriculture expanded by 23.3% in the same period, while the negative twelve-month trailing production reached –0.6% in May, after –4.3% in April and –8.9% in March, confirming the recovery of the production in this sector.
+
+44. BNDES funding for medium- and long-term investment totaled R$19.1 billion in the first five months of 2007, 39.9% above the amount disbursed in the same period of 2006. In the twelve months through May, R$ 57,7 billion was disbursed, a 26% expansion compared to the same period of last year, corroborating the recent acceleration of this investment indicator.
+
+45. Industrial production grew 1.3% in May, according to IBGE’s Monthly Industrial Survey (PIM) seasonally adjusted data, reaching a 2.2% expansion in the quarter ended in May. On a three-month moving average basis, which attenuates punctual oscillations, industrial activity reached a record high for the fourteenth consecutive month, in May. Industrial production rose by 4.9%, compared to May 2006, and expanded by 4.4% in the first five months of 2007 and 3.3% in the last twelve months.
+
+46. Considering seasonally adjusted data, manufacturing production expanded by 1.3%, while mining industry production declined by 0.2%. All use categories increased in the month: capital goods production increased by 5.1%, while consumer goods and intermediate goods production rose by 1.5% and 0.6%, respectively. In the year through May, production of capital goods expanded by 16.3%, leading industrial expansion, followed by intermediate goods (3.9%), durable consumer goods (3.7%) and semi- and non-durable goods (2.5%).
+
+47. Disaggregated data of seasonally adjusted industrial activity showed that 15 out of the 23 sectors surveyed grew in May, with highlights to vehicles, pharmaceuticals, machines and equipment, and food, in order of importance. The main negative drivers were chemical products and beverages.
+
+48. Still considering the industrial activity, according to CNI data, seasonally adjusted by the BCB, hours worked in production expanded by 0.3%, while real industrial sales declined 0.6% in May, month-on-month. In the year through May, these indicators increased by 3.6% and 4%, respectively, compared to the same period of 2006. After seasonal adjustment, installed capacity utilization reached 82.7% in May, up from 82% in April. Considering observed data, utilization level reached 83.2%, 1.8 p.p. above the May 2006 figure.
+
+49. According to Anfavea, vehicles production reached 246.4 thousand units in June. According to data seasonally adjusted by the BCB, vehicles production expanded by 2.4%, on a month-on-month basis, and 9.6% compared to June 2006. Considering the month-on-month seasonally adjusted series, domestic sales increased by 1.7%, while exports decreased by 7.1%. Compared to the first half of 2006, vehicles production increased by 6.3% in 2007, while domestic sales increased by 19.1% and exports decreased 10.9%. According to the same comparison basis, production of agricultural machines grew 20.6% and production of trucks grew 21.3%, mirroring increases in investment and recovery of the agricultural sector in the current harvest.
+
+50. According to the IBGE, the June estimate for the grains harvest pointed to a 14% increase in 2007, year- on-year. National production of grains should reach 133.4 million tons, due to good weather conditions and the production incentive driven by the increase in international agricultural commodities prices. In the survey, the main forecast production increases related to wheat (60.6%), cottonseed (31.2%), corn (21.4%), and soy (11.3%), while the main production decreases related to coffee (15.1%) and rice (4.5%). It still bears emphasizing the increase in land occupation for sugar cane production, in line with the growing interest in ethanol production. Sugar cane plantations increased by 9.1% in 2007, and the production should expand by 12.7%, year-on-year. Surveys and Expectations
+
+51. The Fecomercio-SP survey showed stability in the Consumer Confidence Index (ICC) in July, month-on- month. The two ICC components presented divergent behavior, with the Current Economic Conditions Index (Icea) increasing month-on-month 1% in July, and the Consumer Expectation Index (IEC) declining by 0.8%. In fact, the Icea remained above the IEC for the seventh consecutive month. Compared to July 2006, the ICC and IEC declined by 3.1% and 10.9%, respectively, while the Icea increased by 9.5%. 9
+
+52. According to the FGV survey, which encompasses two thousand homes in the seven main state capitals of the country, the ICC increased 0.6% month-on-month in June. This result is due to the improvement in both the assessment of the present situation (1.5%) and in the 6-month ahead expectations (0.1%). Compared to June 2006, the ICC rose 8%, mainly because of the 9.9% increase in the expectation index.
+
+53. Still according to the FGV, the Industry Confidence Index (ICI), which encompasses six items of the Manufacturing Industry Survey, declined 0.6% month-on-month in June, the second consecutive fall, after the record high observed in April. The ICI rose 13.2% relative to June 2006, expanding by 10.5% in the first half of 2007, compared to the same period of 2006. This result is due to the positive assessments about the expected level of demand and the predictions of higher hiring in industry. The level of installed capacity utilization reached 84.7% in June, up from 82.3% in June 2006. Labor Market
+
+54. According to the Ministry of Labor and Employment, 182 thousand new formal jobs were created in June. In the first half of the year, 1,095.5 thousand new jobs were created, a record high for the series, 18.6% above the figure observed in the same period of 2006. These new hirings raised employment expansion by 4.9% in the period, according to the same comparison basis. In the last twelve months, expansion reached 4.8%, with highlights to the employment increases in civil construction (7.4%) and in commerce (5.8%). After seasonal adjustment, employment expanded month-on-month 0.4% in June, with increases in all sectors.
+
+55. According to the IBGE employment survey (PME) in the six main metropolitan areas of the country, the unemployment rate remained unchanged at 10.1% in May 2007. The unemployment rate stability reflected mainly the 0.1% change in both employed population and economically active population (PEA). The number of employers declined 3.7%, while the number of self-employed workers expanded by 1.6%. In the first five months of 2007, the average number of workers increased by 2.9%, relative to the same period of 2006, reflecting the expansion of investment and recovery in the agricultural sector.
+
+56. The number of workers in the private sector increased by 2.7%, with a 4.1% expansion in the number of formal workers and a 1.4% decline in the number of informal workers, highlighting a qualitative improvement in the labor market.
+
+57. According to the same survey, real average earnings reached R$1,120.3 in May, a 0.3% month-on-month increase and a 3.9% elevation compared to May 2006. Real payrolls, a result of the average earnings times the number of occupied workers,  grew 0.4% month-on-month in May and 6.8% compared to the same month of last year, for a 7.8% expansion in the year through May.
+
+58. According to CNI data, seasonally adjusted by the BCB, the number of workers in industry increased 0.4% in May, month-on-month. In the year through May, the number of workers in industry increased by 3.4%, while real payrolls in the sector expanded 5.5%. Credit and Delinquency Rates
+
+59. Non-earmarked credit, used as reference for interest rates, increased 1.4% in June and 20.3% in the last twelve months. Credit for individuals increased 1% in June, totaling a 22.8% increase in twelve months. Corporate credit operations with domestic funding increased 2.8% in the month and 19.6% in the last twelve months, while externally funded operations decreased 1.3% in June, but increased by 27.7% in twelve months.
+
+60. The average interest rate on credit operations reached 37% p.a. in June, a record low for the historical series, 6.2 p.p. below the June 2006 result. The average rate on credit for individuals reached 48.4% p.a., down from 55.8% p.a. in the same month of 2006. The average rate on corporate credit decreased 5.1 p.p. in the last twelve months, reaching 23.7% p.a.
+
+61. The average tenure of credit operations for individuals, excluding overdraft account, reached 431 days in June, compared to 356 in the same month of 2006. The average tenure of personal credit modality reached 433 10 days, increasing 95 days compared to the previous year, reflecting the increasing weight of payroll-deducted in this credit modality.
+
+62. Delinquency rate in the financial system (non-earmarked loans in arrears for more than ninety days) reached 4.7% in June, decreasing 0.1 p.p. in the month and remaining stable relative to June 2006. Delinquency rate for corporate credit operations remained stable in the month (2.6%) and increased 0.3 p.p. in the last twelve months. Delinquency rate for credit operations with individuals reached 7.1%, decreasing 0.1 p.p. in the month and 0.2 p.p. relative to the same month of 2006.
+
+63. Net delinquency rate for retail credit, measured by the ACSP, reached 5.1% in June, compared to 5% in the same month of 2006 and to the 5.3% average in 2006. External Environment
+
+64. The global economic activity performance remains above the long-term trend, contradicting the cooling expectations of the beginning of the year. The deceleration of the US economy is largely offset by the annualized GDP growth of Euro Area (3.1%), Japan (3.3%) and China (11.1%) in the first quarter, compared to the same period of 2006. The steady expansion in important economies also helped to offset the deceleration in the US economy.
+
+65. Global financial conditions remain favorable due to abundant liquidity, which reflects the positive performance of stock exchange, the prices of emerging markets sovereign securities, and the steady corporate profits. This outlook is reinforced by the strong recovery in the global industrial production, by the robust employment growth, by the end of the US inventories adjustment process, and by the optimistic forecasts for global expansion.
+
+66. However, some risks threaten this favorable outlook. The main risky factors are the new rises in the oil prices, which are close to the August 2006 record high; the probability of adoption of strong restrictive measures to fight inflationary pressures and contain the overheating, specially in China; the maintenance of the adjustments in the US real state market; and the contamination of the markets, specially in emerging countries, as a result of the turmoils in the Asian financial market, in the subprime US real state market and in the hedge funds. Foreign Trade and International Reserves
+
+67. In the first half of 2007, Brazilian foreign trade continued to expand. The trade surplus reached US$20.6 billion in the period, and US$47.6 billion in the last twelve months, while total external trade totaled US$125.8 billion and US$252.3 billion, according to the same comparison bases.
+
+68. Exports reached US$13.1 billion in June, with a US$656 million daily record high average, a 20.2% increase over June 2006. The expansion of shipped volumes and the prices increases drove the growth of Brazilian exports in the three goods categories. Manufactured goods exports reached US$7 billion in the month, with a US$350.8  million daily record high, a 19% increase over June 2006. Primary products exports totaled US$4 billion, and semi-manufactured ones, US$1.8 billion, with respective increases of 26.8% and 10%, according to the same comparison bases. Some important export products continued to present prices increases compared to June 2006, with highlights to orange juice (64.1%); raw soy oil (41.6%); poultry (33.8%); iron and steel semi-manufactured (31.5%); leather and skin (31.2%) and metal laminates (22.4%). Exports continued to show diversification in terms of products, particularly regarding manufactured items with low share in total exports, and expansion of exports destinations.
+
+69. Imports totaled US$9.3 billion in June, with a US$465.2 million daily record high average, a 32.6% increase over the same month of 2006. All import categories expanded: raw materials (38.7%); capital goods (32.1%); consumer goods (31.8%); and fuel and lubricants (17%), according to the same comparison basis. Among the imports of raw materials and intermediate goods, it is noticeable the acquisition of primary food goods, transportation equipment, chemical and pharmaceutical products, non-food agricultural products and mineral products. Among the consumer goods, the main import drivers were clothing, vehicles, beverages and tobacco, 11 beauty products, furniture and pharmaceutical products. The industrial machinery, office and scientific machines and equipment and parts and pieces drove capital goods imports.
+
+70. In June, international reserves reached US$147.1 billion, a US$10.7 billion increase in the month, US$61.3 billion in the year and US$84.4 billion compared to June 2006. Money Market and Open Market Operations
+
+71. In the period between the June and July Copom meetings, the interest rate yield curve shifted downwards for short-term tenors, mainly driven by the favorable domestic economic outlook and by the perspective of a continuous monetary policy easing cycle. The June Copom decision (a 50 b.p. reduction of the Selic target), the ongoing appreciation of the BRL against the dollar, and the release, at the beginning of July, of current inflationary indices within the forecast intervals contributed to deepen the decline of the short-tenure side of the yield curve. Uncertainties regarding the performance of the U.S. economy, the financial losses in the US high-risk mortgage market and the expectation of monetary tightening in the main economies stimulated a migration movement of investments towards lower-risk assets and contributed to an increase in the longer-tenure side of the yield curve. Between June 4 and July 16, one-, three - and six-month and one-year rates reduced 0.55 p.p., 0.50 p.p., 0.39 p.p. and 0.24 p.p., respectively. Two-, and three-year rates increased by 0.13 p.p. and 0.34 p.p., respectively. The real interest rate measured by the differential between the one-year forward nominal interest rate and the smoothed twelve-month ahead inflation expectations decreased to 6.95%, on July 16, down from 7.31%, on June 4.
+
+72. On June 21, the BCB conducted a reverse exchange rate swap auction, aimed at anticipating the redemption of the swaps due July 2, totaling US$1.5 billion.
+
+73. In its open market operations, the BCB carried out, between June 5 and July 16, weekly five- and seven- month long repo operations. The average daily balance of these operations amounted R$79.4 billion, of which R$56.4 billion were seven-month operations. In the same period, the BCB also conducted 27 overnight repo operations, aimed at draining the excess liquidity from the market and a 29-working-day tenure long operation. The BCB also conducted daily liquidity management operations with tenures up to two working days. Operations with tenors less than thirty days, including daily liquidity management operations, averaged R$34.4 billion, borrowing.
+
+74. Between June 5 and July 16, the National Treasury raised a total of R$56.3 billion, of which R$28.3 billion in fixed-rate securities: R$14.1 billion via the issuance of LTNs maturing in 2008 and 2009 and R$14.2 billion in NTN-Fs maturing in 2010, 2011, 2012, 2013 and 2017. The issuance of LFTs totaled R$6.4 billion, for securities maturing in 2010, 2012 and 2013. The issuance of inflation-linked NTN-Bs reached R$21.6 billion, for securities maturing in 2009, 2012, 2017, 2024, 2035 and 2045, of which R$8.1 billion were settled in other National Treasury securities.
+
+75. In the same period, the Treasury conducted auctions to sell LTNs maturing in April and October 2008, conjugated to the purchase of shorter-term LTNs maturing in July and October 2007 and January 2008, totaling R$4.9 billion. The Treasury also conducted auctions to sell LFTs maturing in 2010, 2012 and 2013, totaling R$4.7 billion, accepting as payment LFTs maturing in 2007. In addition, the Treasury conducted auctions to buy NTN-Bs, totaling US$153 million. 12

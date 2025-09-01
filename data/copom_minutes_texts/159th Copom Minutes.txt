@@ -1,694 +1,151 @@
-The members of the Monetary Policy Committee analyzed the recent performance of and the prospects for the 
-Brazilian economy and for the international economy, under the monetary policy framework, which is designed to 
-comply with the inflation targets established by the government. 
- 
- 
+1. After recording 0.77% in April, monthly inflation measured by IPCA reached 0.47% in May. As a consequence, twelve-month trailing inflation reached 6.55% in May 2011 (6.51% in April and 6.30% in March), 1.33 p.p. above inflation registered in the twelve months through May 2010. The inflation increase in this period reflected both the behavior of market prices, which increased 6.80% (5.59% in the same period of 2010), as regulated prices, which increased 5.96% (4.32% in the same period of 2010). Regarding market prices, it bears highlighting that tradable goods inflation reached 5.96% and non-tradable goods 7.53%. Services price inflation continues at high levels and, in the twelve-month period through May 2011, it reached 8.54%, the highest level since August 1997. In short, the set of available information suggests that prices acceleration observed in 2010, process led by market prices, shows some persistence, in part because services inflation remains at high levels.
 
-2
-Recent Economic Developments 
-  
-1. 
-After recording 0.77% in April, monthly inflation measured by IPCA reached 0.47% in May. As a consequence, 
-twelve-month trailing inflation reached 6.55% in May 2011 (6.51% in April and 6.30% in March), 1.33 p.p. 
-above inflation registered in the twelve months through May 2010. The inflation increase in this period 
-reflected both the behavior of market prices, which increased 6.80% (5.59% in the same period of 2010), as 
-regulated prices, which increased 5.96% (4.32% in the same period of 2010). Regarding market prices, it 
-bears highlighting that tradable goods inflation reached 5.96% and non-tradable goods 7.53%. Services price 
-inflation continues at high levels and, in the twelve-month period through May 2011, it reached 8.54%, the 
-highest level since August 1997. In short, the set of available information suggests that prices acceleration 
-observed in 2010, process led by market prices, shows some persistence, in part because services inflation 
-remains at high levels. 
- 
-2. 
-In the first five months of 2011, IPCA increased 3.71%, 0.62p.p. above inflation observed in the same period 
-of 2010. The main contributors were education, transport and personal expenses, that increased 7.33%, 
-4.98% and 4.40%, respectively, compared to 5.53%, 1.71% and 3.40%, in the same period of 2010. These 
-items were responsible for 1.88 p.p. of the headline inflation in the period. Food and beverage inflation, 3.39%, 
-was below that observed for in the first five months of 2010 (5.48%).In the twelve months ended in May, food 
-and beverage prices continue to play a relevant role in the headline inflation dynamics, accumulating 8.20% 
-(7.83% in April). The recent increase in food prices reflected, in part, domestic and external supply shocks, 
-heightened by the high liquidity environment in international financial markets and by global demand increase. 
- 
-3. 
-Each of the three main underlying inflation measures calculated by the BCB performed similarly to the 
-headline inflation: while there was stability in the twelve-month accumulated inflation until May, as compared 
-to the previous month, average monthly rates retreated between March and May. The smoothed trimmed 
-means core inflation increased from 0.49% in March to 0.60% in April, and 0.62% in May. The double weight 
-core inflation, after registering 0.70% in March, decreased to 0.68% in April and to 0.59% in May, while the 
-core inflation by exclusion went from 0.70% in March to 0.52% in April and to 0.54% in May. Thus, the 
-average change of the three core measures changed from 0.63% in March to 0.60% in April, and to 0.58% in 
-May. In the twelve-month period until May, the three core measures registered 5.84%, 6.68% and 6.30%, 
-respectively, compared to 5.84%, 6.66% and 6.32% in April, and 5.73%, 6.39% and 6.22% in March. The 
-IPCA diffusion index, which had reached 68.23% in March, retreated to 59.38% in April, but increased again in 
-May (64.84%), and continues to show a spreading price acceleration.  
- 
-4. 
-The General Price Index (IGP-DI) inflation retreated strongly in May, registering 0.01%, compared to 0.50% in 
-April. In the twelve-month period through May it accumulated 9.14%, above the 4.38% registered in the same 
-period through May 2010. Under this criterion, the index has been slowing since December 2010, when it 
-recorded a 11.30% change. Inflation measured by its main component, the Wholesale Price Index (IPA-DI), 
-reached 10.30% in twelve months, reflecting an increase of 6.85% in the industrial IPA and 21.28% in the 
-agricultural IPA. In the breakdown according to the production phase, raw material prices accumulated 
-25.16% change, intermediate goods 5.66% and final goods 4.62% in the same basis. Inflation measured by 
-the Consumer Price Index (IPC-DI), another component of the IGP-DI, recorded 6.37% in the twelve months 
-through May 2011, above the 5.28% recorded until May 2010. According to the same comparison basis, the 
-Civil Construction National Index (INCC), component with the lowest weight in the IGP-DI, increased 8.52% 
-(6.07% in May 2010). The Producer Price Index/Manufacturing Industry, calculated by IBGE, that measures 
-the industry price level excluding freights and taxes, registered 0.34% increase in April, compared to 0.39% in 
-March and 0.60% in February. In twelve months, this index decreased to 6.73% in April, from 6.81% in March. 
-As emphasized in previous Copom Minutes, the Copom evaluates that the effects of wholesale prices over 
-consumer price inflation will depend, among other factors, on the current and prospective demand conditions, 
-the exposure of each sector to external and domestic competition, as well as on the price setters’ expectations 
-for the future inflation path. 
- 
-5. 
-The IBGE released information about 2011Q1 GDP. The data showed expansion in activity, which increased 
-4.2% in the first quarter, year-over-year, and 1.3% quarter-over-quarter, according to seasonally adjusted 
-data. On the aggregate demand side, household consumption and public administration consumption 
+2. In the first five months of 2011, IPCA increased 3.71%, 0.62p.p. above inflation observed in the same period of 2010. The main contributors were education, transport and personal expenses, that increased 7.33%, 4.98% and 4.40%, respectively, compared to 5.53%, 1.71% and 3.40%, in the same period of 2010. These items were responsible for 1.88 p.p. of the headline inflation in the period. Food and beverage inflation, 3.39%, was below that observed for in the first five months of 2010 (5.48%).In the twelve months ended in May, food and beverage prices continue to play a relevant role in the headline inflation dynamics, accumulating 8.20% (7.83% in April). The recent increase in food prices reflected, in part, domestic and external supply shocks, heightened by the high liquidity environment in international financial markets and by global demand increase.
 
-3
-increased, respectively, 5.9% and 2.1%, year-over-year. Gross fixed capital formation (FBCF) increased 8.8%, 
-whereas exports increased 4.3% and imports grew 13.1%, according to the same comparison basis. It is 
-noteworthy that the investment rate reached 18.4%, slightly higher than the rate recorded in the first quarter of 
-2010 (18.2%). The imports and domestic production of machinery and equipment contributed to higher 
-investment. According to the result accumulated in the last four quarters, the contribution of domestic demand 
-to GDP growth fell from 10.3 p.p. in the 2010Q4 to 8.8 p.p. in the 2011Q1, while the negative contribution of 
-external sector decreased from 2.8 p.p. to 2.5 p.p., respectively. On the aggregate supply side, according to 
-the year-over-year comparison basis, all the sectors expanded: the industry grew by 3.5%, agriculture 3.1% 
-and the services sector 4%. 
- 
-6. 
-The Economic Activity Index of the BCB (IBC-Br) incorporates estimates for the monthly production of the 
-three sectors of the economy, as well as for taxes on production, constituting, therefore, an important 
-coincident indicator of economic activity. Considering seasonally adjusted data, the IBC-Br grew 0.5% in 
-March, after increasing 0.4% in February and 0.7% in January and as consequence showed a 1.3% increase 
-in 2011Q1. A moderation in the growth rate trend persists in the IBC-Br accumulated in twelve months, 
-reducing from 7.3% in February to 6.5% in March, towards long-term sustainable levels. The Services 
-Confidence Index (ICS), from FGV, reduced,  in the margin, 1.4% in May, after increasing 3.0% in April and 
-retreating 1.9% in March. Therefore the level of this index in May was 0.1% higher than that measured in May 
-2010 and the average index in the first five months of 2011 was 0.4% below the average in the same period of 
-2010. 
- 
-7. 
-Industrial activity showed retraction in April, with a 2.1% decrease in the industrial output,  according to data 
-seasonally adjusted by the IBGE, after recording an increase of 1.1% in March - month when was hit a new 
-record high -, and 1.9% in February, month-on-month. The three-month moving average growth rate reached 
-0.3% in the period between February and April, standing at a level below the 1.1% growth measured in the 
-period from January to March. Year-over-year, the industrial output retreated 1.3% in April and in the last 
-twelve months, output increased 5.5% in April, down from 6.8% in March, continuing the process of growth 
-cooling. Since December 2008, month with the lowest output level during the 2008/09 crisis, the growth 
-accumulated until April 2011 was 25.1%. The post-crisis recovery dynamics was partially supported by the 
-growth of industrial activity financing by public financial institutions. 
- 
-8. 
-Among the industry use categories, according to data seasonally adjusted by the IBGE, all the output 
-categories in April showed retraction, month-on-month: intermediate goods decreased 0.6%; capital goods 
-2.9%; non-durable and semi-durable consumer goods 1.5%; durable consumer goods 10.1%. In twelve 
-months through April 2011, intermediate goods output increased 5.8%, non-durable and semi-durable 
-consumer goods output increased 2.6%, and durable consumer goods output grew 3.4%. According to the 
-same comparison basis, capital goods industry activity growth is the highest among use categories, with a 
-13.7% increase, evidencing the investment robustness, a relevant factor for economic recovery in the post-
-crisis period. 
- 
-9. 
-The unemployment rate in the six metropolitan regions covered by the IBGE Monthly Labor Survey (PME), 
-according to observed data, decreased from 6.5% in March 2011 to 6.4% in April, below the 7.3% level 
-registered in April 2010. After reaching 9.0% in March 2009, the observed data not only significantly reduced 
-until April 2011, but reached a record low for the month since the start of the series in March 2002. The 
-seasonally adjusted rate registered 6.0% in April, a 0.1 p.p. decrease compared to March. Employment, 
-measured by the number of employed workers in the six biggest metropolitan regions, year-over-year, 
-increased 2.3% in April. Data from the Ministry of Labor and Employment (MTE) indicate growth in formal 
-employment in eleven out of the twelve last months. In April, 272.2 thousand jobs were created (305.1 
-thousand in April 2010), while in March 92.7 thousand jobs were created. Services and Manufacturing Industry 
-were the sectors that mostly contributed for the formal employment increase in April. According to PME, real 
-average earnings observed in April decreased 1.8% month-on-month and increased 1.8% year-over-year. As 
-a consequence, real payroll, considering real average earnings in the six metropolitan regions, expanded 
-4.3% in April, year-over-year, continuing to constitute a key driver for the maintenance of domestic demand 
-growth.  
- 
+3. Each of the three main underlying inflation measures calculated by the BCB performed similarly to the headline inflation: while there was stability in the twelve-month accumulated inflation until May, as compared to the previous month, average monthly rates retreated between March and May. The smoothed trimmed means core inflation increased from 0.49% in March to 0.60% in April, and 0.62% in May. The double weight core inflation, after registering 0.70% in March, decreased to 0.68% in April and to 0.59% in May, while the core inflation by exclusion went from 0.70% in March to 0.52% in April and to 0.54% in May. Thus, the average change of the three core measures changed from 0.63% in March to 0.60% in April, and to 0.58% in May. In the twelve-month period until May, the three core measures registered 5.84%, 6.68% and 6.30%, respectively, compared to 5.84%, 6.66% and 6.32% in April, and 5.73%, 6.39% and 6.22% in March. The IPCA diffusion index, which had reached 68.23% in March, retreated to 59.38% in April, but increased again in May (64.84%), and continues to show a spreading price acceleration.
 
-4
-10. According to the retail monthly survey (PMC) from IBGE, expanded retail sales decreased 2.5% in March, 
-year-over-year, after recording a 14.7% growth in February and 11.2% in January. According to the seasonally 
-adjusted series, expanded retail sales showed month-on-month increase of 1.7% in March, after reducing 
-0.5% in February and 0.3% in January. Therefore, average sales growth rate in the first quarter of 2011 
-accelerated to 7.1%, quarter-over-quarter. It also bears noticing that 12-month accumulated growth rate 
-decelerated to 10.2% in March (from 12.4% in February), and, according to the last two comparison bases, all 
-ten sectors surveyed expanded  in March, with highlights, by importance, for vehicles and motorcycles, parts 
-and pieces (10.7%) and furniture and appliances (17.2%). In the next months, the retail trajectory will continue 
-to be benefited by governmental transfers, real payroll growth, consumer confidence and an even more 
-moderate credit expansion.  
- 
-11. The installed capacity utilization rate (Nuci) in the manufacturing industry, calculated by FGV, without seasonal 
-adjustment, changed from 84.0% in April to 84.1% in May. These values are 0.5p.p. lower than the levels 
-observed in the same period of 2010. According to the seasonally adjusted monthly series calculated by FGV, 
-the Nuci kept unchanged in 84.4% in May. The Nuci is higher at construction inputs (88.5%) and intermediate 
-goods (85.9%). At the margin, construction inputs, intermediate and capital goods showed increases in Nuci 
-(0.5p.p, 0.4 p.p. and 0.1 p.p., respectively), while consumer goods decreased 0.6p.p.. According to the 
-Confederation of National Industry (CNI) data seasonally adjusted by the BCB, the Nuci in April reached 
-82.1%, down from 82.6% in March. In fact, installed capacity utilization rates have shown relative stability, at 
-high levels. The high occupation level reflects the recent expansion in economic activity, whose effects have 
-not been totally offset by the maturity of investment projects. In this sense, the absorption of capital goods 
-grew 20.8% in the last twelve months through April, while construction inputs production for civil construction 
-increased 7.9%. As stressed in previous Copom Minutes, the inflation trajectory is closely linked to current and 
-prospective developments related to the expansion of supply of goods and services to adequately meet 
-demand conditions. 
- 
-12. The trade balance result in the last twelve months increased from US$23.1 billion in April to US$23.2 billion in 
-May. This result stemmed from US$224.4 billion in exports and US$201.3 billion in imports, equivalent to 
-32.3% and 36.0% changes, respectively, compared to the twelve-month period ended in May 2010. Current 
-account deficit accumulated in twelve months changed from US$50.0 billion in March to US$48.9 billion in 
-April, equivalent to 2.25% of GDP. On its turn, foreign direct investment reached US$63.7 billion in the twelve 
-months through April, equivalent to 2.93% of GDP, exceeding the needs for external funding. 
- 
-13. The global economy recovery follows different speeds and asymmetrical inflation pressures. There are 
-evidences, however, of activity moderation at the margin, due to the developments of the disaster in Japan, 
-the uncertainties about the US recovery, the high price of oil, as well as the effects of monetary tightening in 
-important emerging economies. In fact, the compound leading indicator released by the Organization for 
-Economic Co-Operation and Development (OECD), for example, signaled world recovery continuity in March, 
-but with a certain moderation in emerging markets. On the other hand, the Purchasing Managers Index (PMI) 
-for the global economy, that shows the industry and service sector activity level, after reaching, in February, 
-the highest level since 2006 (59.2), reduced to lower levels in March (54.5), April (51.8) and May (52.6). The 
-disaggregated PMI indicators evidence lower dynamism in the US and in the Euro Zone, without affecting the 
-positive trend. The macroeconomic prospects for the Euro Zone continue to exhibit strong asymmetries: while 
-some economies remain impacted by the insolvency risk and subject to strong fiscal adjustment, the pace of 
-expansion remains strong in other regions, like Germany. Regarding monetary policy, mature economies 
-continued to show very accommodative monetary stances. Inflation rate cores are still at moderate levels in 
-the G3 group (US, Euro Zone and Japan). For the emerging countries, there are widespread inflationary 
-pressures and since the last Copom meeting there were renewed monetary tightening in several emerging 
-markets. In particular, the People’s Bank of China raised reserve requirements to banks once again, reaching 
-the eighth increase in reserve requirements since October 2010, as well as four increases in the reference 
-interest rates for deposits and lending. 
- 
-14. Brent oil prices showed volatility and remains above US$115 (however, a level lower than the observed at the 
-Copom last meeting). This price level is consistent with a framework of apparent strengthening of the global 
-demand as well as of political instability in some countries of the Middle East and, especially, in North Africa. It 
+4. The General Price Index (IGP-DI) inflation retreated strongly in May, registering 0.01%, compared to 0.50% in April. In the twelve-month period through May it accumulated 9.14%, above the 4.38% registered in the same period through May 2010. Under this criterion, the index has been slowing since December 2010, when it recorded a 11.30% change. Inflation measured by its main component, the Wholesale Price Index (IPA-DI), reached 10.30% in twelve months, reflecting an increase of 6.85% in the industrial IPA and 21.28% in the agricultural IPA. In the breakdown according to the production phase, raw material prices accumulated 25.16% change, intermediate goods 5.66% and final goods 4.62% in the same basis. Inflation measured by the Consumer Price Index (IPC-DI), another component of the IGP-DI, recorded 6.37% in the twelve months through May 2011, above the 5.28% recorded until May 2010. According to the same comparison basis, the Civil Construction National Index (INCC), component with the lowest weight in the IGP-DI, increased 8.52% (6.07% in May 2010). The Producer Price Index/Manufacturing Industry, calculated by IBGE, that measures the industry price level excluding freights and taxes, registered 0.34% increase in April, compared to 0.39% in March and 0.60% in February. In twelve months, this index decreased to 6.73% in April, from 6.81% in March. As emphasized in previous Copom Minutes, the Copom evaluates that the effects of wholesale prices over consumer price inflation will depend, among other factors, on the current and prospective demand conditions, the exposure of each sector to external and domestic competition, as well as on the price setters’ expectations for the future inflation path.
 
-5
-bears highlighting that geopolitical complexity that involves the oil sector tends to heighten price volatility, 
-which is also a reflex of the low predictability of some global demand components and of the dependency of 
-supply growth on long term risky investment projects. Regarding the other commodities, it is noteworthy the 
-moderation of agricultural and metallic commodities prices, after months of relevant increases. In particular, 
-the pricing rules of major international mining companies for iron ore in the third quarter should lead to price 
-stability. The food price index, calculated by the Food and Agriculture Organization of the United Nations 
-(FAO), which considers 55 items, remained stable in May 2011, but remains at high levels compared to that 
-observed in the same month last year. In recent past, the high volatility observed in commodities prices was 
-strongly impacted by the abundant global liquidity, in a context where financial markets adjust to new 
-expectations of demand growth and to FX markets volatility.  
- 
-Assessment of Inflation Trends 
- 
-15. The identified shocks and their impacts were reassessed according to the new set of available information. 
-The scenario considered in the simulations was based on the following assumptions: 
- 
-a) 
-the projected adjustments for gasoline accumulated for 2011, grew to 4.0%, from the 2.2% considered in the 
-April Copom meeting, contemplating, therefore, partial reversal of the increase of 10.5% occurred up to May, 
-whereas the adjustments for bottled gas prices, for the same period,  were kept unchanged at 0%; 
-b) 
-the projected adjustments for fixed telephone and electricity rates in 2011 were kept at 2.9% and 2.8%, 
-respectively; 
-c) 
-the projection for regulated prices inflation in 2011, based on individual items, according to the benchmark 
-scenario, was increased to 4.6%, against 4.3% considered in the April meeting. This set of prices, according to 
-data released by the IBGE, accounted for 29.06% of the total May IPCA; 
-d) 
-the projection for regulated prices inflation in 2012, according to the benchmark scenario, was decreased to 
-4.3%, down from 4.4% considered in the April meeting. Such projection is based on endogenous 
-determination models for regulated prices, which compute, among other factors, seasonal components, 
-foreign exchange rate changes, market prices inflation and the IGP (General Price Index) change; and  
-e) 
-the projection for the spreads over the Selic rate, based on the 360-day swap rates, on the benchmark 
-scenario, estimates 41 bps and -44 bps spreads in the fourth quarters of 2011 and 2012, respectively 
- 
-16. Regarding fiscal policy, projections assume the achievement of the public sector primary surplus target of 
-R$117.9 billion (around 2.9% of GDP), without adjustments, in 2011 (according to parameters contained in the 
-Budget Guidelines Law - 2011). Moreover, a primary surplus of R$139.8 billion (or around 3.1% of GDP) is 
-considered for 2012, according to Budget Guidelines Law project - 2012 parameters, including the effect of the 
-minimum wage increase projected for 2012. 
- 
-17. The set of projections incorporated the estimated effects of the reserve requirements changes announced in 
-December 2010.  
- 
-18. Since the last Copom meeting, the median of the expectations compiled by the BCB’s Investor Relations and 
-Special Studies Department (Gerin) for the 2011 IPCA decreased from 6.29% to 6.22%. For 2012, the median 
-of inflation expectations moved from 5.00% to 5.10%. Specifically for banks, asset managers and other 
-institutions (real sector companies, brokers, consultancies and others), the medians for the 2011 IPCA 
-changed from 6.26%, 6.48% and 6.19% to 6.21%, 6.22% e 6.27%, respectively. For 2012, the medians 
-changed from 4.80%, 5.19% and 4.86% to 5%, 5.4% and 5%, in the same order.  
- 
-19. The benchmark scenario assumes the maintenance of the exchange rate at R$1.60/US$1.00 and the Selic 
-rate at 12% p.a. during the forecast period. Under this scenario, the projection for the 2011 inflation decreased 
-relatively to the figure considered at the April Copom meeting, and it stands above the 4.50% midpoint target 
-established by the National Monetary Council (CMN). According to the market scenario – which incorporates 
-the consensus exchange and Selic rates trajectories collected by Gerin in the period immediately prior to the 
-Copom meeting - IPCA inflation forecast for 2011 also decreased and stands above the inflation midpoint 
-target. For 2012, the projection remained stable in both the benchmark and the market scenarios, and 
+5. The IBGE released information about 2011Q1 GDP. The data showed expansion in activity, which increased 4.2% in the first quarter, year-over-year, and 1.3% quarter-over-quarter, according to seasonally adjusted data. On the aggregate demand side, household consumption and public administration consumption 3 increased, respectively, 5.9% and 2.1%, year-over-year. Gross fixed capital formation (FBCF) increased 8.8%, whereas exports increased 4.3% and imports grew 13.1%, according to the same comparison basis. It is noteworthy that the investment rate reached 18.4%, slightly higher than the rate recorded in the first quarter of 2010 (18.2%). The imports and domestic production of machinery and equipment contributed to higher investment. According to the result accumulated in the last four quarters, the contribution of domestic demand to GDP growth fell from 10.3 p.p. in the 2010Q4 to 8.8 p.p. in the 2011Q1, while the negative contribution of external sector decreased from 2.8 p.p. to 2.5 p.p., respectively. On the aggregate supply side, according to the year-over-year comparison basis, all the sectors expanded: the industry grew by 3.5%, agriculture 3.1% and the services sector 4%.
 
-6
-therefore remained above the midpoint target in both scenarios. In an alternative scenario, that considers the 
-maintenance of the exchange rate, during the forecast period, at levels observed in the recent past; and the 
-interest trend collected by Gerin, the projected inflation is above the target for 2011 and around this value for 
-2012. 
- 
-Monetary Policy Decision 
- 
-20. The Copom evaluates that monetary policy should contribute to the consolidation of a favorable longer-term 
-macroeconomic environment. In this respect, the Copom reassures that, under the inflation-targeting regime, it 
-guides its decisions according to BCB projected inflation and based on the analysis of alternative scenarios for 
-the evolution of the main variables that determine prices dynamics. The Committee also understands that low 
-risks for the underlying inflation in the short run tend to reduce uncertainties regarding the future behavior of 
-headline inflation, facilitate the assessment of scenarios by the monetary authority, as well as help the process 
-of coordination of economic agents’ expectations, particularly price setters’. Additionally, it is noteworthy that 
-low risks for the underlying inflation in the short run tend to reinforce the effects of monetary policy actions, 
-enabling them to affect in a more long-lasting manner the dynamics of headline inflation in the future. Although 
-the Copom recognizes that other actions of macroeconomic policy may influence the price trajectory, it 
-reaffirms its view that it is the responsibility of the monetary policy to remain especially vigilant to guarantee 
-that pressures detected in shorter horizons do not spread to longer horizons.  
- 
-21. International evidence, ratified by the Brazilian experience, indicates that high inflation rates lead to the 
-increase in risk premium, both for private and public funding, and to the shortening of planning horizons, both 
-for households and companies. Consequently, high inflation rates reduce investment and economic growth 
-potential, in addition to presenting regressive effects on income distribution. Moreover, high inflation rates do 
-not originate any lasting results for economic and employment growth; on the contrary, they create permanent 
-damage to these variables in the medium and long terms. Therefore, the strategy adopted by the Copom aims 
-to ensure the convergence of inflation towards the targets path, which requires that deviations from the target 
-path be promptly corrected. Such strategy takes into account the time lags in the transmission mechanism and 
-is the most adequate to deal with the uncertainty inherent to the process of monetary policy formulation and 
-implementation. 
- 
-22. As a consequence of the stabilization and correction of unbalances, which determined important structural 
-changes, the process of maturing of the inflation targeting regime stands at an advanced stage, and it reflects 
-favorably in the dynamics of neutral interest rate and in the power of monetary policy. Evidences under this 
-respect can be observed, among other factors, through the accomplishment of inflation targets in the last 
-seven years, at the same time that real interest rates have reduced. Progress in the financial markets 
-structure, the reduction of both FX and inflationary risk premia, among other factors, seem to have determined 
-significant reduction in the neutral rate. The generation of primary surpluses consistent with the maintenance 
-of the decreasing trend for the public debt/GDP ratio also contributed for it. From another point-of-view, some 
-of these developments, combined to others, such as the extension of contract tenures, also suggest that the 
-power of monetary policy in Brazil has been increasing in the last years, despite the substantial uncertainty 
-that surrounds the calculation of non-observable variables. The Committee also considers that there are 
-evidences that the traction of monetary policy increased in the recent past and, compared to what was 
-observed some years ago, currently inflationary pressures are contained with more efficiency by monetary 
-policy actions. 
- 
-23. The Copom observes that, in international markets, volatility and risk aversion have increased since the last 
-meeting, mostly fueled by the extraordinary levels of liquidity and increasing uncertainty regarding the 
-recovery of global activity. In this period, increased the concerns about European countries` sovereign and 
-banking debts and the possible slowdown in economic activity in China. Prices of important commodities 
-retreated, mainly agricultural and, at the same time, some stability in the US currency was observed. In 
-general, the perspectives for Brazilian economy external financing remain favorable. In other side, the price 
-indices path shows clear dissemination of inflation pressures in the main economies.  
- 
+6. The Economic Activity Index of the BCB (IBC-Br) incorporates estimates for the monthly production of the three sectors of the economy, as well as for taxes on production, constituting, therefore, an important coincident indicator of economic activity. Considering seasonally adjusted data, the IBC-Br grew 0.5% in March, after increasing 0.4% in February and 0.7% in January and as consequence showed a 1.3% increase in 2011Q1. A moderation in the growth rate trend persists in the IBC-Br accumulated in twelve months, reducing from 7.3% in February to 6.5% in March, towards long-term sustainable levels. The Services Confidence Index (ICS), from FGV, reduced,  in the margin, 1.4% in May, after increasing 3.0% in April and retreating 1.9% in March. Therefore the level of this index in May was 0.1% higher than that measured in May 2010 and the average index in the first five months of 2011 was 0.4% below the average in the same period of
 
-7
-24. The Copom evaluates that, although moderation of domestic demand growth is observed, yet at an uncertain 
-pace, prospects for economic activity are favorable as even suggested by preliminary information about the 
-pace of economic growth in this quarter. This assessment is supported by signs that, despite showing some 
-cooling, point to the fact that the expansion of credit supply tends to persist, both for individuals and corporate, 
-and by the fact that consumers and businessmen confidences stand at historically high levels, notwithstanding 
-some accommodation at the margin, among other factors. The Copom considers, additionally, that the 
-dynamism of domestic activity will continue to be benefited by the vigor of labor market, mirrored in historically 
-low unemployment rates and substantial growth of real wages. 
- 
-25. The Copom evaluates that the inflation prospective scenario show more favorable signs since the last 
-meeting. In the last quarter of 2010 and in the first quarter of 2011, inflation was strongly and negatively 
-impacted by domestic and external supply shocks. Evidences suggest that consumer prices have already 
-incorporated substantial part of the direct effects of these shocks. Also relevant were the direct effects of the 
-atypical concentration of regulated prices adjustments in the first quarter of the year that, in specific cases, 
-show signs of reversal. The Committee considers that these effects shall still impact consumer prices 
-dynamics, among other mechanisms, through inertia. At the same time, it evaluates, as relevant, risks derived 
-from the persistence of the mismatch between supply and demand growth rates, despite the signs that this 
-mismatch tends to retreat. Moreover, it highlights the narrow idleness margin of the production factors, 
-especially labor force, and analyzes that, in such circumstances, a very important risk stems from the 
-possibility of concession of nominal wages increases incompatible with productivity growth and its negative 
-impact on the inflation dynamics. It is also relevant to notice the risks associated to commodities prices 
-trajectory in international markets, which, despite recent signs of moderation, have been presenting 
-surrounded by great uncertainty. 
- 
-26. The Copom considers two distinct moments for inflation trajectory, according to the 2011 main scenario. In this 
-quarter and in the following, inflation accumulated in twelve months tends to remain at levels above those 
-observed in the first quarter. This, in great part, is explained by the high inertia that stemmed from 2010, by 
-the duration of the shocks that hit the economy at the end of last year, that extended to the first quarter of this 
-year, and by the fact that the projections of inflation for the quarter June/August 2011 point to average inflation 
-rates above those registered in the same period in 2010. However, from the fourth quarter on, the main 
-scenario indicates a downward trend for the inflation accumulated in twelve months, moving toward the target 
-direction. 
- 
-27. The Copom reaffirms that the inflation main scenario considers the materialization of its trajectories regarding 
-fiscal variables. It bears highlighting that the generation of primary surpluses in line with the hypotheses 
-considered for inflation projections, besides contributing to reduce the mismatches between supply and 
-demand growth rates, will strengthen the reduction trend in the public debt/GDP ratio. It bears highlighting 
-that, since the beginning of this year, important decisions have been taken and implemented, which reinforce 
-the view that a fiscal consolidation process is in place. 
- 
-28. The Copom highlights that its main scenario for inflation also considers moderation in credit expansion, for 
-which macroprudential and traditional monetary policy actions recently adopted contribute. Still about this 
-market, the Committee considers opportune the introduction of initiatives with the aim of moderating the 
-concession of subsidies regarding the credit operations. 
- 
-29. In short, the Copom recognizes an economic environment in which an above-than-usual uncertainty level 
-prevails, and identifies risks to the materialization of a scenario where inflation promptly converges to the 
-midpoint target. Since the last Copom meeting, at the external outlook, evidence shows moderation in the 
-recovery process experienced by the G3 economies and, in another perspective, still reveals ambiguous 
-influence on the behavior of domestic inflation. Regarding the domestic outlook, macroprudential actions and, 
-mainly, conventional monetary policy actions recently implemented will still have their effects incorporated to 
-price dynamics. Although growing uncertainties that surround the global outlook and, at a minor magnitude, 
-the domestic one, do not allow the clear identification of the degree of persistence of recent inflationary 
-pressures, the Committee evaluates that the inflation prospective scenario shows more favorable signs.  
- 
+2010.
 
-8
-30. In this context, continuing the process of monetary conditions gradual adjustment, the Copom decided, 
-unanimously, to increase the Selic rate to 12.25%, without bias. Considering the risks balance for the inflation, 
-the pace still uncertain of the domestic activity moderation, as well as the complexity that affects the 
-international environment, the Committee understands that the implementation of adjustments in monetary 
-conditions by a sufficiently prolongued period remains the most adequate strategy to guarantee the inflation 
-convergence to the target in 2012. 
- 
-31. Domestic demand is robust, largely due to the effects of stimulus factors, such as income growth and credit 
-expansion. Moreover, although recent initiatives point to constraint in public sector expenditures, fiscal and 
-credit incentives provided to the economy in the last quarters shall still contribute for the activity expansion 
-and, hence, for the maintenance of the idleness level of factors at low levels. The effects of these stimuli, 
-however, are counterbalanced by the effects of the reversal of initiatives taken during the recent 2008/09 
-financial crisis, by the recent macroprudential actions and, mainly, by conventional monetary policy actions 
-taken this year. These elements and the fiscal and quasi fiscal developments are an important part of the 
-context in which future monetary policy decisions will be taken, aiming to ensure the timely convergence of 
-inflation to the targets path. 
- 
-32. At the end of the meeting it was announced that the Committee will reconvene on July 19th, 2011, for 
-technical presentations and, on the following day, to discuss the monetary policy decision, as established in 
-Communiqué 20,223 of October 15th, 2010. 
- 
-SUMMARY OF DATA ANALYZED BY THE COPOM 
- 
-Inflation 
- 
-33. The IPCA rose 0.47% in May, from 0.77% in April, according to IBGE data. In the first five months of this year 
-the IPCA reached 3.71%, compared to 3.09% in the same period of last year. In the last twelve months 
-through May, the index changed 6.55%, compared to 6.51% in April. The growth in market prices declined 
-from 0.56% in April to 0.44% in May, reflecting the slowdown in the tradable prices, from 0.60% to 0.36% in 
-the same period. The prices of non-tradable goods varied 0.50% in May, compared to 0.52% in the previous 
-month. The segment of regulated prices changed by 0.55% in May, down from 1.29% in April, driven by a 
-reduction of 11.65% in the item airline tickets. Food and beverage and Housing groups presented the greatest 
-contributions to the increase of the index in the month, 0.15 p.p. and 0.13 p.p., respectively. The diffusion 
-index stood at 60.94% in May compared to 59.38% in April. 
- 
-34. Market prices increased 6.8% in the last twelve months through May, down from 6.84% in April, while 
-regulated prices increased 5.96% compared to 5.73% for the same period. Among market prices, the variation 
-in twelve months of tradable goods changed from 6.03% to 5.96% through May, while non-tradables changed 
-from 7.55% to 7.53%. The prices of the services segment, with a higher degree of persistence, reached 8.54% 
-in May, compared to 8.57% in April and 6.79% in May of last year. 
- 
-35. Out of the three IPCA core inflation measures calculated by the Central Bank, only one registered a slight 
-acceleration in the twelve months ending in May. In the monthly comparison, however, only the double weight 
-core inflation recorded a decrease, reaching 0.59% in May, down from 0.68% in April, accumulating 6.68% in 
-twelve months through May, up from 6.66% in previous month. The core inflation by exclusion, which excludes 
-ten items of household food and fuel, varied 0.54% in May, up from 0.52% in April, accumulating 6.30% in 
-twelve months, compared to 6.32% in April. The smoothed trimmed-means inflation core measure varied 
-0.62% in May, up from 0.60% last month, accumulating 5.84% increase in twelve months through May, the 
-same level reached until the previous month. 
- 
-36. The IGP-DI increased 0.01% in May, after growing 0.50% in April, accumulating 3.08% in the year and 9.14% 
-in twelve months, compared to 10.84% in April, according to FGV. In the month, the slowdown resulted from a 
-decrease in IPA and a cooling in the IPC. The INCC maintained an upward trend. 
- 
+7. Industrial activity showed retraction in April, with a 2.1% decrease in the industrial output,  according to data seasonally adjusted by the IBGE, after recording an increase of 1.1% in March - month when was hit a new record high -, and 1.9% in February, month-on-month. The three-month moving average growth rate reached 0.3% in the period between February and April, standing at a level below the 1.1% growth measured in the period from January to March. Year-over-year, the industrial output retreated 1.3% in April and in the last twelve months, output increased 5.5% in April, down from 6.8% in March, continuing the process of growth cooling. Since December 2008, month with the lowest output level during the 2008/09 crisis, the growth accumulated until April 2011 was 25.1%. The post-crisis recovery dynamics was partially supported by the growth of industrial activity financing by public financial institutions.
 
-9
-37. The IPA increased 0.63% month-on-month, up from 0.24% in April, accumulating 2.42% in the year and 
-3.07% in twelve months. Agricultural prices decreased 3.19% in May, compared to the 0.66% fall in April, 
-accumulating 1.63% in the year and 21.28% in twelve months. Industrial products prices increased 0.32% in 
-the month, down from 0.58% in April, accumulating increases of 2.71% in the year and 6.85% in twelve 
-months. Regarding agricultural prices, the slowdown was influenced by the sharp fall of cotton price, -25.46%, 
-compared to -10.35% in April, and by decreases in the prices of eggs and cattle, with variations of -11. 25% 
-and -2.33% in May, compared, in order, to an increase of 8.39% and a 1.05% drop in the previous month. 
-Among industrial products, the main contribution to the deceleration was due to the behavior of prices of 
-petroleum and alcohol with variation of -2.46% in May, down from 2.63% in April. 
- 
-38. The IPC-DI increased 0.51% in May, after rising 0.95% in April, accumulating increase of 3.98% in the year 
-and 6.37% in twelve months. In the month, there was a slowdown in six out of the seven groups that comprise 
-the index, especially the food group, which registered an increase of 0.47%, compared to 1.04% in the 
-previous month. The INCC-DI increased by 2.94% in the month, compared to 1.06% in April, responding to an 
-acceleration in the prices of labor, 5.48% up from 1.74%, and in the prices of materials construction, 0.51% up 
-from 0.42%. The INCC-DI accumulated variations of 5.21% in the year and 8.52% in twelve months. 
- 
-39. The Producer Price Index - Manufacturing Industry (IPP / IT) increased 0.34% in April, down from 0.39% in 
-March, accumulating 1.74% in the year and 6.73% in the last twelve months through April, down from 6.81% 
-in the last month. The variation of the index in twelve months reflected most sharply the increase in prices in 
-the sectors of food products, chemicals and petroleum products and biofuels. 
- 
-40. The commodities index Brazil (IC-Br) fell 1.64% in April and 4.47% in May, after increasing by 42.3% between 
-June 2010 and March 2011. In May, the decrease in the IC-Br reflected the decreases of 6.58%, 2.32% and 
-1.56% of sub-indices relating to agricultural, metal and energy segments, respectively. 
- 
-Economic Activity 
- 
-41. GDP grew 1.3% in the first quarter of 2011 quarter-on-quarter, considering seasonally adjusted data, 
-according to information released by the IBGE. Under the supply side, all sectors showed positive growth in 
-this comparison basis, with highlights to the growth of the primary sector, 3.3%, followed by industry, 2.2%, 
-and services, 1.1%. Under the aggregate demand side, the highlight was gross fixed capital formation, rising 
-1.2% at the margin. The two components of consumption also showed positive growth, with household 
-consumption increasing 0.6% and government consumption increasing 0.8%. In the components related to the 
-external sector, there was a decrease of 3.2% in exports and 1.6% in imports of goods and services.  
- 
-42. Compared to the first quarter of 2010, GDP grew 4.2%, reflecting increases of 4% in the service sector, 3.5% 
-in industry and 3.1% in agriculture. On the demand side, the highlight was the increase in investments, 8.8%. 
-Household consumption remained with a growth rate above GDP’s (5.9%), while government consumption 
-recorded a more moderate growth, 2.1%. The external accounts continue to show negative contribution to 
-GDP, -1.1 p.p., with exports rising 4.3%, in a less intense pace than in imports, which increased 13.1%. 
- 
-43. Expanded retail sales, including vehicles and construction material, increased 1.7% in March, month-on-
-month, according to data seasonally adjusted from IBGE’s monthly survey (PMC), after a contraction of 0.5% 
-in February. As a result, the average of the first quarter of the year increased 0.8%, quarter-over-quarter. 
-Sales increased in eight out of the ten sectors surveyed, with highlights for vehicles and motorcycles, parts 
-and pieces (3.8%), office equipment and material (3.5%) and construction material (2.7%). Retail sales 
-increased 1.2% in March, month-on-month, according to seasonally adjusted data, after an expansion of 0.3% 
-in February, while the average of the first quarter of the year increased 2.3%, quarter-over-quarter. 
- 
-44. Considering observed data, expanded retail sales decreased 2.5% in March, year-over-year, which is the first 
-retreat since April 2009, due to the 12.8% drop in auto sales. The performance of expanded retail sales in the 
-last twelve months presented an expansion of 10.2%, favored by the increase in sales for some segments: 
-office equipment and material (20.6%), furniture and house appliances (17.2%), and construction material 
-(15.3%).  
+8. Among the industry use categories, according to data seasonally adjusted by the IBGE, all the output categories in April showed retraction, month-on-month: intermediate goods decreased 0.6%; capital goods 2.9%; non-durable and semi-durable consumer goods 1.5%; durable consumer goods 10.1%. In twelve months through April 2011, intermediate goods output increased 5.8%, non-durable and semi-durable consumer goods output increased 2.6%, and durable consumer goods output grew 3.4%. According to the same comparison basis, capital goods industry activity growth is the highest among use categories, with a 13.7% increase, evidencing the investment robustness, a relevant factor for economic recovery in the post- crisis period.
 
-10
- 
-45. Automobile sales by dealers, including cars, light commercial vehicles, trucks and buses, expanded by 2.6% in 
-May, month-on-month, according to Fenabrave (Brazilian Federation of Automotive Vehicles Distribution) 
-data, seasonally adjusted by the BCB, increasing 0.8% in the quarter through May, quarter-over-quarter. 
-Automobile sales increased 8.8% in the year through May, with emphasis on the growth of sales of buses 
-(25.9%), light commercial vehicles (19%) and trucks (17.6%) and increased 9.7% in the twelve months 
-through May, with highlights for trucks (29.3%) and light commercial vehicles and buses (23.9%). 
- 
-46. Capital goods imports increased 11.6% in April, month-on-month, according to the Funcex quantum index, 
-seasonally adjusted by the BCB. The indicator rose 32% year-over-year, 28.3% in the first four months of the 
-year, and 44.4% on a twelve-month trailing basis, compared to the same periods of the previous year, based 
-on observed data. 
- 
-47. Capital goods production decreased 2.9% in April, month-on-month, and increased 4.6% in the quarter ended 
-in the month, compared to the quarter ended in January, according to data seasonally adjusted from the 
-Monthly Industrial Survey (PIM) by IBGE. The monthly increase mainly reflected falls in the production of 
-capital goods for agriculture (15%), construction (9.2%) and industry (7%), in contrast to the rises in the 
-production of equipment for power supply sector (5.1%) and agricultural pieces (2,3%). Capital goods 
-production increased 0.1% year-over-year, accumulating 6.2% in the year and 13.7% in the last twelve months 
-through April.  
- 
-48. Construction inputs production decreased by 2.7% in April, month-on-month, and presented stability in the 
-quarter ended in April, quarter-on-quarter, according to seasonally adjusted data. The segment registered a 
-1.9% decrease year-over-year, but increased 3.5% in the year and 7.9% in the last 12 months. 
- 
-49. Disbursements granted by the Brazilian Development Bank (BNDES) reached R$167.9 billion in the last 
-twelve months through March, increasing by 16.6% year-over-year, with emphasis in the expansions of 27.3% 
-in the resources headed to manufacturing industry and 15.1% in those marked for agriculture. In the first 
-quarter of the year, disbursements decreased 2.2%, year-over-year, shared by infrastructure, which 
-responded for 40% of the total, followed by industry, which accounted for 31%, commerce and services, 20%, 
-and agriculture, 9%. 
- 
-50. Industrial production decreased 2.1% in April, month-on-month, according to seasonally adjusted data from 
-the PIM-PF (IBGE), with highlight for the contraction of 10.1% in durable consumer goods. Year-over-year, 
-industrial production fell 1.3%, with emphasis in the production of durable consumer goods (-5.6%) and semi-
-durable and non-durable goods (-2%). In the year and on a twelve-month trailing basis through April, industrial 
-production increased by 1.6% and 5.4%, respectively, compared to the same previous periods, with highlights 
-for production of capital goods, which increased by 6.2%, and 13.7%, on the same basis of comparison. 
- 
-51. The Nuci in the manufacturing industry, calculated by FGV, remained stable in May, month-on-month, 
-reaching 84.4%, according to seasonally adjusted data. The result was driven by the expansions of 0.5% for 
-construction inputs, 0.4% for intermediate goods and 0.1% for capital goods, while the production of consumer 
-goods decreased 0.6% month-on-month. Considering observed data, the Nuci decreased 0.5% year-over-
-year, influenced by the retreat in the industries of construction inputs (-2.6 p.p.), consumer goods (-2.1 p.p.), 
-and intermediate goods (-0.3 p.p.), as well as by the 2.4 p.p. expansion in the capital goods industry. 
- 
-52. Vehicles output reached 303.5 thousand units in May, decreasing 0.9% month-on-month, according to data 
-released by the Anfavea and seasonally adjusted by the BCB. Output increased 2.1% year-over-year and 
-3.7% in the year through May. 
- 
-53. Vehicles licensing expanded 3.5% in May, month-on-month, according to Anfavea data seasonally adjusted by 
-the BCB, and 26.9% year-over-year. Exports presented changes of -13.5% and -5.2% on the same bases of 
-comparison. In the year through May, domestic licensing and exports increased by 8.9% and 5.7%, 
-respectively. In twelve months, the changes were 4.2% and 4.9%, respectively, on the same bases of 
-comparison. 
+9. The unemployment rate in the six metropolitan regions covered by the IBGE Monthly Labor Survey (PME), according to observed data, decreased from 6.5% in March 2011 to 6.4% in April, below the 7.3% level registered in April 2010. After reaching 9.0% in March 2009, the observed data not only significantly reduced until April 2011, but reached a record low for the month since the start of the series in March 2002. The seasonally adjusted rate registered 6.0% in April, a 0.1 p.p. decrease compared to March. Employment, measured by the number of employed workers in the six biggest metropolitan regions, year-over-year, increased 2.3% in April. Data from the Ministry of Labor and Employment (MTE) indicate growth in formal employment in eleven out of the twelve last months. In April, 272.2 thousand jobs were created (305.1 thousand in April 2010), while in March 92.7 thousand jobs were created. Services and Manufacturing Industry were the sectors that mostly contributed for the formal employment increase in April. According to PME, real average earnings observed in April decreased 1.8% month-on-month and increased 1.8% year-over-year. As a consequence, real payroll, considering real average earnings in the six metropolitan regions, expanded 4.3% in April, year-over-year, continuing to constitute a key driver for the maintenance of domestic demand growth. 4
 
-11
- 
-54. The LSPA survey carried out by the IBGE projected 161.2 million tons for the 2011 national harvest of cereals, 
-legumes and oilseed, a 7.8% increase relative to the 2010 harvest. Estimates point to increases in the 
-production of rice (18%), beans (19.2%), soybeans (8.4%), and corn (3.9%).  
- 
-Surveys and Expectations 
- 
-55. The Consumer Confidence Index (ICC) decreased by 2.4% in May, reaching 115.4 points, a record low since 
-March 2010, considering nationwide seasonally adjusted data from the Consumer Expectations Survey (FGV). 
-The result was driven by the same retreat in the Expectations Index (IE) and in the Current Situation Index 
-(ISA), by 2.4%. The ICC decreased 1.2% year-over-year, the first drop since October 2009, due to the 
-decrease of 5.8% in the IE, in opposition to the increase of 6% in the ISA.  
- 
-56. The Industry Confidence Index (ICI) reduced by 1.2% in May, reaching 109.9 points, considering seasonally 
-adjusted data from the Survey of Manufacturing Industry (SCIT-FGV). The result was driven by the drops of 
-1.7% in the ISA and 0.6% in the IE. The ICI performed unfavorably for the fifth consecutive month, falling by 
-5.3% year-over- year, due to the decreases of 6.4% in the ISA and 4.2% in the IE.  
- 
-57. The Services Confidence Index (ICS) from FGV reduced 1.4% in May, considering non-seasonally adjusted 
-data, presenting stability year-over-year. The result was driven by retreats in both the assessment of the 
-current moment and in expectations. The ISA decreased 2.1% and the IE decreased 0.7%, month-on-month. 
-The ISA-S retreated 0.2% and the IE-S increased 0.3%, year-over-year.  
- 
-Labor Market 
- 
-58. According to the General Record of Employment and Unemployment (Caged) of the Ministry of Labor and 
-Employment (MTE), 272.2 thousand formal jobs were created in April, a 0.4% increase month-on-month, 
-considering seasonally adjusted data. It bears emphasizing the hiring in the services sector, 114.4 thousand, 
-in the manufacturing industry, 51.3 thousand, and in the commerce sector, 41.6 thousand. In the year through 
-April, the balance increased to 797.8 thousand, below the 962.3 thousand jobs created in the same period of 
-2010. In the last twelve months through April, 1.97 million formal jobs were created, compared to 2 million jobs 
-created in the year through March. 
- 
-59. According to the IBGE employment survey (PME), carried out in the six main metropolitan regions of the 
-country, the unemployment rate decreased by 0.1 p.p. in April, month-on-month, reaching 6.4%, a historical 
-record low for the month, with a 0.9 p.p. fall year-over-year. Considering seasonally adjusted data, the 
-unemployment rate reached 6.0% in April, 0.1 p.p. below the March figure, as a result of increases of 0.2% in 
-occupation and 0.1% in the Economically Active Population (PEA). According to the same survey, average 
-real earnings usually earned by workers fell by 1.8% month-on-month and increased 1.9% year-over-year and 
-3.7% in the year through April. As a result, the expansion of payroll, calculated by the multiplication between 
-real earnings and occupied population, showed variations of -1.7%, 4.2% and 6.1%, respectively, in the same 
-periods. 
- 
-Credit and Delinquency Rates 
- 
-60. Outstanding credit in the financial system reached R$1,776.3 billion in April, equivalent to 46.6% of GDP, 
-increasing by 1.3% in the month, 4.1% in the year and 21% in twelve months. Non-earmarked credit 
-operations increased by 1.4%, 4.1% and 18.4%, respectively, according to the same comparison bases, 
-reflecting the respective increases of 1.1%, 4.1% and 18.2% for credit operations to individuals and 1.7%, 
-4.1% and 18.5% for credit operations to corporate, according to the same comparison bases. Earmarked 
-credit operations increased 1.0% in the month, 4.2% in the year and 26.3% in twelve months, with highlights 
-for the respective rises of 3.1%, 11.5% and 48.1% recorded in housing credit, according to the same 
-comparison bases.  
- 
+10. According to the retail monthly survey (PMC) from IBGE, expanded retail sales decreased 2.5% in March, year-over-year, after recording a 14.7% growth in February and 11.2% in January. According to the seasonally adjusted series, expanded retail sales showed month-on-month increase of 1.7% in March, after reducing 0.5% in February and 0.3% in January. Therefore, average sales growth rate in the first quarter of 2011 accelerated to 7.1%, quarter-over-quarter. It also bears noticing that 12-month accumulated growth rate decelerated to 10.2% in March (from 12.4% in February), and, according to the last two comparison bases, all ten sectors surveyed expanded  in March, with highlights, by importance, for vehicles and motorcycles, parts and pieces (10.7%) and furniture and appliances (17.2%). In the next months, the retail trajectory will continue to be benefited by governmental transfers, real payroll growth, consumer confidence and an even more moderate credit expansion.
 
-12
-61. The average interest rate on reference credit operations increased 0.8 p.p. in April, reaching 39.8%. The 
-average annual rates on credit for corporate reached 31% representing a decrease of 0.3 p.p. relative to 
-March, while for individuals reached 46.8%, an increase of 1.8 p.p.  
- 
-62. The average tenure on reference credit operations increased from 475 days in March to 476 days in April, 
-representing an increase of four days for tenures related to corporate segments and a decrease of one day for 
-tenures related to individuals, reaching 392 days and 567 days, respectively.  
- 
-63. The delinquency rate in the financial system (non-earmarked loans used as reference for interest rates, in 
-arrears for more than ninety days) increased 0.2 p.p., reaching 4.9% in April. The delinquency rate for credit 
-operations with both corporate and individuals increased by 0.1 p.p., reaching 3.7% and 6.1%, respectively. 
- 
-External Environment 
- 
-64. Global economic activity although growing, cooled due to high prices of oil and food, as well as to the 
-monetary and fiscal restrictions adopted by several countries. In the US, GDP of Q1 slowed to an annualized 
-rate of 1.8%, reflecting the cooling of consumption and negative contributions of government spending and 
-external sector. In China, economic activity showed an annualized growth rate of 8.7% compared to 10% in 
-the previous quarter. In Japan, reflecting the effects of the natural disasters and the nuclear accident, the GDP 
-in the Q1 contracted 3.7%, following a 3% decrease in the previous quarter. Conversely, the Euro Zone, 
-reflecting good performances of the region's two largest economies - Germany and France - grew 3.4%. 
-However, data on retail sales, available for the first quarter, suggest that consumption in the region remains 
-fragile. It is noteworthy that the latest indicators reinforce the prospects of a slowing economic activity. In the 
-US, unemployment rate reached 9.1% in May, reflecting the creation of 54,000 jobs in that month, compared 
-to an average of 217,000 in the previous three months. In the Euro Zone, the PMI for May fell to 55.4, the 
-lowest in five months, signaling a cooling pace of expansion for manufacturing and services. 
- 
-65. In May, the worsening fiscal situation in Europe and the release of economic indicators signaling slowdown in 
-global economic recovery fueled increases in risk aversion. The sovereign risk in European countries with 
-fiscal difficulties expanded, with Credit Default Swaps (CDS) for Greece pricing the risk of their sovereign debt 
-restructuring. Since the last Copom meeting, the majority of international commodity prices decreased, 
-reflecting, from the fundamentals point-of-view,  the slowdown in global economic activity and the prospect of 
-normalization of supply conditions, with the start of the 2011/2012 harvest, in the specific case of the 
-agricultural sector. The increase in risk aversion and the consequent appreciation of the dollar also contributed 
-to the reduction in commodity prices, with highlights for the significant corrections occurred in the first week of 
-May. Regarding agricultural commodities, remains the risk resulting from reduced inventory levels as a 
-proportion of consumption and the possibility that recent adverse weather conditions in the Northern 
-Hemisphere may affect the world supply in the new harvest. 
- 
-66. In April, inflation continued strongly conditioned by the evolution of prices of energy and agricultural 
-commodities. Annual CPI increased 2.8%, 3.2% and 4.5% in the US, Euro Zone and UK, respectively, the 
-highest changes since November 2008 for the first two and the highest since October 2008 for the latter. In 
-Japan, annual CPI increased 0.3%, after four consecutive months of stability. However, core inflation rates, 
-although rising, remained at comfortable levels, with the exception of the UK (3.7%). In China, the annual IPC 
-change decreased marginally to 5.3% in April, with deceleration in the annual rate for food prices, reaching 
-11.5%. Among the other emerging economies, the first figures for the annual CPI change in May signal 
-increases in Colombia, Thailand and Turkey and decreases in Peru and Indonesia, compared to the previous 
-month. 
- 
-67. Despite the rise in inflation, the central banks of the US, UK and Japan, maintained unchanged their 
-respective basic interest rates. In the Euro Zone, the European Central Bank maintained its policy rate at 
-1.25% in the May meeting, established at the previous meeting. In the emerging markets, the movement of 
-gradual normalization of the monetary policy rates prevailed, and the basic interest rates have increased in 
-Chile, China, Colombia, India, Philippines, Malaysia, Russia and Peru, among others.  
- 
+11. The installed capacity utilization rate (Nuci) in the manufacturing industry, calculated by FGV, without seasonal adjustment, changed from 84.0% in April to 84.1% in May. These values are 0.5p.p. lower than the levels observed in the same period of 2010. According to the seasonally adjusted monthly series calculated by FGV, the Nuci kept unchanged in 84.4% in May. The Nuci is higher at construction inputs (88.5%) and intermediate goods (85.9%). At the margin, construction inputs, intermediate and capital goods showed increases in Nuci (0.5p.p, 0.4 p.p. and 0.1 p.p., respectively), while consumer goods decreased 0.6p.p.. According to the Confederation of National Industry (CNI) data seasonally adjusted by the BCB, the Nuci in April reached 82.1%, down from 82.6% in March. In fact, installed capacity utilization rates have shown relative stability, at high levels. The high occupation level reflects the recent expansion in economic activity, whose effects have not been totally offset by the maturity of investment projects. In this sense, the absorption of capital goods grew 20.8% in the last twelve months through April, while construction inputs production for civil construction increased 7.9%. As stressed in previous Copom Minutes, the inflation trajectory is closely linked to current and prospective developments related to the expansion of supply of goods and services to adequately meet demand conditions.
 
-13
-Foreign Trade and International Reserves 
- 
-68. The Brazilian trade surplus reached US$3.5 billion in May. Exports reached US$23.2 billion and imports, 
-US$19.7 billion. In the first five months of 2011, the trade surplus totaled US$8.6 billion, 83.1% above the 
-registered in 2010, according to the daily average criterion, reflecting expansions of 30% in exports and 28.2% 
-in imports. In the year, total trade grew 29.1%, totaling US$180.7 billion in the first five months of 2011, 
-compared to US$138.6 billion in the same period of 2010. 
- 
-69. International reserves reached US$333 billion in May, increasing US$5 billion compared to April and US$44.4 
-billion compared to December 2010. The monetary authority's interventions accounted for net purchases of 
-US$4.3 billion in the domestic spot market in the month. 
- 
-Money Market and Open Market Operations 
- 
-70. Since the last Copom meeting, in April, the domestic interest rate yield curve slightly reduced its slope, with 
-elevation in the overnight rates and retreat in the rates higher than a year. The movement of the short part of 
-the curve reflected, mainly, the market expectation that the monetary tightening cycle will be longer. At the 
-long part of the curve, the drop in rates was influenced, domestically, by the deceleration of various indices of 
-prices, by the decrease observed in the collection of price data and by the dissemination of more moderate 
-activity data. In the external area, the signs of weakening global economy, particularly the U.S., and the retreat 
-in commodity prices also contributed to the reduction in domestic long-term rates. Between April 18th and 
-June 6th, one- three- and six-month interest rates increased 0.18 p.p., 0.17 p.p. and 0.14 p.p., respectively, 
-while two- and three-year rates fell, respectively, 0.21 p.p. and 0.24 p.p. Real interest rate, measured by the 
-ratio between the one-year forward nominal interest rate and the smoothed twelve-month-ahead inflation 
-expectations, increased to 7.1% on June 6th from 6.7% on April 18th.  
- 
-71. On April 29th, the Central Bank carried out a reverse exchange rate swap auction to aim at rolling over the 
-contracts maturing on May 2nd. This operation totaled the equivalent to US$1.3 billion in notional value. 
- 
-72. In its open market operations, the BCB carried out, between April 19th and June 6th, repo operations 
-borrowing R$28.4 billion for a six-month period. As a consequence, the average daily balance of the long 
-operations reached R$164.7 billion. In the same period, the BCB also borrowed money through repo 
-operations with tenures between thirteen and thirty-three working days, bringing the average daily balance of 
-short-term borrowing operations to R$144.9 billion. The BCB also borrowed money through 34 overnight repo 
-operations and, at the end of the day, conducted daily two-working-day tenure liquidity management 
-operations. The very short-term operations, including the two-working-day tenure liquidity management 
-operations, averaged a daily balance of R$51.7 billion in the period, borrowing. The average daily balance of 
-the total stock of repurchase agreements of the Central Bank decreased from R$385.6 billion between March 
-1st and April 18th, to R$361.3 billion, between April 19th and June 6th. Considering the operations for the most 
-recent period, there was a decrease in the daily balance of repurchase agreements totaling R$27.7 billion, 
-reducing the total stock from R$379.1 billion on April 18th to R$351.4 billion on June 6th. The main drivers of 
-liquidity contraction in the period were the net revenues of the Central Government and the issuance of net 
-securities by the National Treasury. 
- 
-73. Between April 19th and June 6th, the National Treasury issuance regarding the traditional auctions raised a 
-total of R$61.4 billion. The sale of fixed-rate securities reached R$44.7 billion, with R$41.0 billion via issuance 
-of LTNs maturing in 2011, 2012, 2013 and 2015, and R$3.7 billion via NTN-Fs maturing in 2017 and 2021. 
-Issuance of LFTs totaled R$7.1 billion, for securities maturing in 2017. Issuance of inflation-linked NTN-Bs 
-reached R$9.6 billion, for securities maturing in 2014, 2016, 2020, 2030, 2040 and 2050.  
- 
+12. The trade balance result in the last twelve months increased from US$23.1 billion in April to US$23.2 billion in May. This result stemmed from US$224.4 billion in exports and US$201.3 billion in imports, equivalent to 32.3% and 36.0% changes, respectively, compared to the twelve-month period ended in May 2010. Current account deficit accumulated in twelve months changed from US$50.0 billion in March to US$48.9 billion in April, equivalent to 2.25% of GDP. On its turn, foreign direct investment reached US$63.7 billion in the twelve months through April, equivalent to 2.93% of GDP, exceeding the needs for external funding.
+
+13. The global economy recovery follows different speeds and asymmetrical inflation pressures. There are evidences, however, of activity moderation at the margin, due to the developments of the disaster in Japan, the uncertainties about the US recovery, the high price of oil, as well as the effects of monetary tightening in important emerging economies. In fact, the compound leading indicator released by the Organization for Economic Co-Operation and Development (OECD), for example, signaled world recovery continuity in March, but with a certain moderation in emerging markets. On the other hand, the Purchasing Managers Index (PMI) for the global economy, that shows the industry and service sector activity level, after reaching, in February, the highest level since 2006 (59.2), reduced to lower levels in March (54.5), April (51.8) and May (52.6). The disaggregated PMI indicators evidence lower dynamism in the US and in the Euro Zone, without affecting the positive trend. The macroeconomic prospects for the Euro Zone continue to exhibit strong asymmetries: while some economies remain impacted by the insolvency risk and subject to strong fiscal adjustment, the pace of expansion remains strong in other regions, like Germany. Regarding monetary policy, mature economies continued to show very accommodative monetary stances. Inflation rate cores are still at moderate levels in the G3 group (US, Euro Zone and Japan). For the emerging countries, there are widespread inflationary pressures and since the last Copom meeting there were renewed monetary tightening in several emerging markets. In particular, the People’s Bank of China raised reserve requirements to banks once again, reaching the eighth increase in reserve requirements since October 2010, as well as four increases in the reference interest rates for deposits and lending.
+
+14. Brent oil prices showed volatility and remains above US$115 (however, a level lower than the observed at the Copom last meeting). This price level is consistent with a framework of apparent strengthening of the global demand as well as of political instability in some countries of the Middle East and, especially, in North Africa. It 5 bears highlighting that geopolitical complexity that involves the oil sector tends to heighten price volatility, which is also a reflex of the low predictability of some global demand components and of the dependency of supply growth on long term risky investment projects. Regarding the other commodities, it is noteworthy the moderation of agricultural and metallic commodities prices, after months of relevant increases. In particular, the pricing rules of major international mining companies for iron ore in the third quarter should lead to price stability. The food price index, calculated by the Food and Agriculture Organization of the United Nations (FAO), which considers 55 items, remained stable in May 2011, but remains at high levels compared to that observed in the same month last year. In recent past, the high volatility observed in commodities prices was strongly impacted by the abundant global liquidity, in a context where financial markets adjust to new expectations of demand growth and to FX markets volatility. Assessment of Inflation Trends
+
+15. The identified shocks and their impacts were reassessed according to the new set of available information. The scenario considered in the simulations was based on the following assumptions: a) the projected adjustments for gasoline accumulated for 2011, grew to 4.0%, from the 2.2% considered in the April Copom meeting, contemplating, therefore, partial reversal of the increase of 10.5% occurred up to May, whereas the adjustments for bottled gas prices, for the same period,  were kept unchanged at 0%; b) the projected adjustments for fixed telephone and electricity rates in 2011 were kept at 2.9% and 2.8%, respectively; c) the projection for regulated prices inflation in 2011, based on individual items, according to the benchmark scenario, was increased to 4.6%, against 4.3% considered in the April meeting. This set of prices, according to data released by the IBGE, accounted for 29.06% of the total May IPCA; d) the projection for regulated prices inflation in 2012, according to the benchmark scenario, was decreased to 4.3%, down from 4.4% considered in the April meeting. Such projection is based on endogenous determination models for regulated prices, which compute, among other factors, seasonal components, foreign exchange rate changes, market prices inflation and the IGP (General Price Index) change; and e) the projection for the spreads over the Selic rate, based on the 360-day swap rates, on the benchmark scenario, estimates 41 bps and -44 bps spreads in the fourth quarters of 2011 and 2012, respectively
+
+16. Regarding fiscal policy, projections assume the achievement of the public sector primary surplus target of R$117.9 billion (around 2.9% of GDP), without adjustments, in 2011 (according to parameters contained in the Budget Guidelines Law - 2011). Moreover, a primary surplus of R$139.8 billion (or around 3.1% of GDP) is considered for 2012, according to Budget Guidelines Law project - 2012 parameters, including the effect of the minimum wage increase projected for 2012.
+
+17. The set of projections incorporated the estimated effects of the reserve requirements changes announced in December 2010.
+
+18. Since the last Copom meeting, the median of the expectations compiled by the BCB’s Investor Relations and Special Studies Department (Gerin) for the 2011 IPCA decreased from 6.29% to 6.22%. For 2012, the median of inflation expectations moved from 5.00% to 5.10%. Specifically for banks, asset managers and other institutions (real sector companies, brokers, consultancies and others), the medians for the 2011 IPCA changed from 6.26%, 6.48% and 6.19% to 6.21%, 6.22% e 6.27%, respectively. For 2012, the medians changed from 4.80%, 5.19% and 4.86% to 5%, 5.4% and 5%, in the same order.
+
+19. The benchmark scenario assumes the maintenance of the exchange rate at R$1.60/US$1.00 and the Selic rate at 12% p.a. during the forecast period. Under this scenario, the projection for the 2011 inflation decreased relatively to the figure considered at the April Copom meeting, and it stands above the 4.50% midpoint target established by the National Monetary Council (CMN). According to the market scenario – which incorporates the consensus exchange and Selic rates trajectories collected by Gerin in the period immediately prior to the Copom meeting - IPCA inflation forecast for 2011 also decreased and stands above the inflation midpoint target. For 2012, the projection remained stable in both the benchmark and the market scenarios, and 6 therefore remained above the midpoint target in both scenarios. In an alternative scenario, that considers the maintenance of the exchange rate, during the forecast period, at levels observed in the recent past; and the interest trend collected by Gerin, the projected inflation is above the target for 2011 and around this value for
+
+2012. Monetary Policy Decision
+
+20. The Copom evaluates that monetary policy should contribute to the consolidation of a favorable longer-term macroeconomic environment. In this respect, the Copom reassures that, under the inflation-targeting regime, it guides its decisions according to BCB projected inflation and based on the analysis of alternative scenarios for the evolution of the main variables that determine prices dynamics. The Committee also understands that low risks for the underlying inflation in the short run tend to reduce uncertainties regarding the future behavior of headline inflation, facilitate the assessment of scenarios by the monetary authority, as well as help the process of coordination of economic agents’ expectations, particularly price setters’. Additionally, it is noteworthy that low risks for the underlying inflation in the short run tend to reinforce the effects of monetary policy actions, enabling them to affect in a more long-lasting manner the dynamics of headline inflation in the future. Although the Copom recognizes that other actions of macroeconomic policy may influence the price trajectory, it reaffirms its view that it is the responsibility of the monetary policy to remain especially vigilant to guarantee that pressures detected in shorter horizons do not spread to longer horizons.
+
+21. International evidence, ratified by the Brazilian experience, indicates that high inflation rates lead to the increase in risk premium, both for private and public funding, and to the shortening of planning horizons, both for households and companies. Consequently, high inflation rates reduce investment and economic growth potential, in addition to presenting regressive effects on income distribution. Moreover, high inflation rates do not originate any lasting results for economic and employment growth; on the contrary, they create permanent damage to these variables in the medium and long terms. Therefore, the strategy adopted by the Copom aims to ensure the convergence of inflation towards the targets path, which requires that deviations from the target path be promptly corrected. Such strategy takes into account the time lags in the transmission mechanism and is the most adequate to deal with the uncertainty inherent to the process of monetary policy formulation and implementation.
+
+22. As a consequence of the stabilization and correction of unbalances, which determined important structural changes, the process of maturing of the inflation targeting regime stands at an advanced stage, and it reflects favorably in the dynamics of neutral interest rate and in the power of monetary policy. Evidences under this respect can be observed, among other factors, through the accomplishment of inflation targets in the last seven years, at the same time that real interest rates have reduced. Progress in the financial markets structure, the reduction of both FX and inflationary risk premia, among other factors, seem to have determined significant reduction in the neutral rate. The generation of primary surpluses consistent with the maintenance of the decreasing trend for the public debt/GDP ratio also contributed for it. From another point-of-view, some of these developments, combined to others, such as the extension of contract tenures, also suggest that the power of monetary policy in Brazil has been increasing in the last years, despite the substantial uncertainty that surrounds the calculation of non-observable variables. The Committee also considers that there are evidences that the traction of monetary policy increased in the recent past and, compared to what was observed some years ago, currently inflationary pressures are contained with more efficiency by monetary policy actions.
+
+23. The Copom observes that, in international markets, volatility and risk aversion have increased since the last meeting, mostly fueled by the extraordinary levels of liquidity and increasing uncertainty regarding the recovery of global activity. In this period, increased the concerns about European countries` sovereign and banking debts and the possible slowdown in economic activity in China. Prices of important commodities retreated, mainly agricultural and, at the same time, some stability in the US currency was observed. In general, the perspectives for Brazilian economy external financing remain favorable. In other side, the price indices path shows clear dissemination of inflation pressures in the main economies. 7
+
+24. The Copom evaluates that, although moderation of domestic demand growth is observed, yet at an uncertain pace, prospects for economic activity are favorable as even suggested by preliminary information about the pace of economic growth in this quarter. This assessment is supported by signs that, despite showing some cooling, point to the fact that the expansion of credit supply tends to persist, both for individuals and corporate, and by the fact that consumers and businessmen confidences stand at historically high levels, notwithstanding some accommodation at the margin, among other factors. The Copom considers, additionally, that the dynamism of domestic activity will continue to be benefited by the vigor of labor market, mirrored in historically low unemployment rates and substantial growth of real wages.
+
+25. The Copom evaluates that the inflation prospective scenario show more favorable signs since the last meeting. In the last quarter of 2010 and in the first quarter of 2011, inflation was strongly and negatively impacted by domestic and external supply shocks. Evidences suggest that consumer prices have already incorporated substantial part of the direct effects of these shocks. Also relevant were the direct effects of the atypical concentration of regulated prices adjustments in the first quarter of the year that, in specific cases, show signs of reversal. The Committee considers that these effects shall still impact consumer prices dynamics, among other mechanisms, through inertia. At the same time, it evaluates, as relevant, risks derived from the persistence of the mismatch between supply and demand growth rates, despite the signs that this mismatch tends to retreat. Moreover, it highlights the narrow idleness margin of the production factors, especially labor force, and analyzes that, in such circumstances, a very important risk stems from the possibility of concession of nominal wages increases incompatible with productivity growth and its negative impact on the inflation dynamics. It is also relevant to notice the risks associated to commodities prices trajectory in international markets, which, despite recent signs of moderation, have been presenting surrounded by great uncertainty.
+
+26. The Copom considers two distinct moments for inflation trajectory, according to the 2011 main scenario. In this quarter and in the following, inflation accumulated in twelve months tends to remain at levels above those observed in the first quarter. This, in great part, is explained by the high inertia that stemmed from 2010, by the duration of the shocks that hit the economy at the end of last year, that extended to the first quarter of this year, and by the fact that the projections of inflation for the quarter June/August 2011 point to average inflation rates above those registered in the same period in 2010. However, from the fourth quarter on, the main scenario indicates a downward trend for the inflation accumulated in twelve months, moving toward the target direction.
+
+27. The Copom reaffirms that the inflation main scenario considers the materialization of its trajectories regarding fiscal variables. It bears highlighting that the generation of primary surpluses in line with the hypotheses considered for inflation projections, besides contributing to reduce the mismatches between supply and demand growth rates, will strengthen the reduction trend in the public debt/GDP ratio. It bears highlighting that, since the beginning of this year, important decisions have been taken and implemented, which reinforce the view that a fiscal consolidation process is in place.
+
+28. The Copom highlights that its main scenario for inflation also considers moderation in credit expansion, for which macroprudential and traditional monetary policy actions recently adopted contribute. Still about this market, the Committee considers opportune the introduction of initiatives with the aim of moderating the concession of subsidies regarding the credit operations.
+
+29. In short, the Copom recognizes an economic environment in which an above-than-usual uncertainty level prevails, and identifies risks to the materialization of a scenario where inflation promptly converges to the midpoint target. Since the last Copom meeting, at the external outlook, evidence shows moderation in the recovery process experienced by the G3 economies and, in another perspective, still reveals ambiguous influence on the behavior of domestic inflation. Regarding the domestic outlook, macroprudential actions and, mainly, conventional monetary policy actions recently implemented will still have their effects incorporated to price dynamics. Although growing uncertainties that surround the global outlook and, at a minor magnitude, the domestic one, do not allow the clear identification of the degree of persistence of recent inflationary pressures, the Committee evaluates that the inflation prospective scenario shows more favorable signs. 8
+
+30. In this context, continuing the process of monetary conditions gradual adjustment, the Copom decided, unanimously, to increase the Selic rate to 12.25%, without bias. Considering the risks balance for the inflation, the pace still uncertain of the domestic activity moderation, as well as the complexity that affects the international environment, the Committee understands that the implementation of adjustments in monetary conditions by a sufficiently prolongued period remains the most adequate strategy to guarantee the inflation convergence to the target in 2012.
+
+31. Domestic demand is robust, largely due to the effects of stimulus factors, such as income growth and credit expansion. Moreover, although recent initiatives point to constraint in public sector expenditures, fiscal and credit incentives provided to the economy in the last quarters shall still contribute for the activity expansion and, hence, for the maintenance of the idleness level of factors at low levels. The effects of these stimuli, however, are counterbalanced by the effects of the reversal of initiatives taken during the recent 2008/09 financial crisis, by the recent macroprudential actions and, mainly, by conventional monetary policy actions taken this year. These elements and the fiscal and quasi fiscal developments are an important part of the context in which future monetary policy decisions will be taken, aiming to ensure the timely convergence of inflation to the targets path.
+
+32. At the end of the meeting it was announced that the Committee will reconvene on July 19th, 2011, for technical presentations and, on the following day, to discuss the monetary policy decision, as established in Communiqué 20,223 of October 15th, 2010. SUMMARY OF DATA ANALYZED BY THE COPOM Inflation
+
+33. The IPCA rose 0.47% in May, from 0.77% in April, according to IBGE data. In the first five months of this year the IPCA reached 3.71%, compared to 3.09% in the same period of last year. In the last twelve months through May, the index changed 6.55%, compared to 6.51% in April. The growth in market prices declined from 0.56% in April to 0.44% in May, reflecting the slowdown in the tradable prices, from 0.60% to 0.36% in the same period. The prices of non-tradable goods varied 0.50% in May, compared to 0.52% in the previous month. The segment of regulated prices changed by 0.55% in May, down from 1.29% in April, driven by a reduction of 11.65% in the item airline tickets. Food and beverage and Housing groups presented the greatest contributions to the increase of the index in the month, 0.15 p.p. and 0.13 p.p., respectively. The diffusion index stood at 60.94% in May compared to 59.38% in April.
+
+34. Market prices increased 6.8% in the last twelve months through May, down from 6.84% in April, while regulated prices increased 5.96% compared to 5.73% for the same period. Among market prices, the variation in twelve months of tradable goods changed from 6.03% to 5.96% through May, while non-tradables changed from 7.55% to 7.53%. The prices of the services segment, with a higher degree of persistence, reached 8.54% in May, compared to 8.57% in April and 6.79% in May of last year.
+
+35. Out of the three IPCA core inflation measures calculated by the Central Bank, only one registered a slight acceleration in the twelve months ending in May. In the monthly comparison, however, only the double weight core inflation recorded a decrease, reaching 0.59% in May, down from 0.68% in April, accumulating 6.68% in twelve months through May, up from 6.66% in previous month. The core inflation by exclusion, which excludes ten items of household food and fuel, varied 0.54% in May, up from 0.52% in April, accumulating 6.30% in twelve months, compared to 6.32% in April. The smoothed trimmed-means inflation core measure varied 0.62% in May, up from 0.60% last month, accumulating 5.84% increase in twelve months through May, the same level reached until the previous month.
+
+36. The IGP-DI increased 0.01% in May, after growing 0.50% in April, accumulating 3.08% in the year and 9.14% in twelve months, compared to 10.84% in April, according to FGV. In the month, the slowdown resulted from a decrease in IPA and a cooling in the IPC. The INCC maintained an upward trend. 9
+
+37. The IPA increased 0.63% month-on-month, up from 0.24% in April, accumulating 2.42% in the year and 3.07% in twelve months. Agricultural prices decreased 3.19% in May, compared to the 0.66% fall in April, accumulating 1.63% in the year and 21.28% in twelve months. Industrial products prices increased 0.32% in the month, down from 0.58% in April, accumulating increases of 2.71% in the year and 6.85% in twelve months. Regarding agricultural prices, the slowdown was influenced by the sharp fall of cotton price, -25.46%, compared to -10.35% in April, and by decreases in the prices of eggs and cattle, with variations of -11. 25% and -2.33% in May, compared, in order, to an increase of 8.39% and a 1.05% drop in the previous month. Among industrial products, the main contribution to the deceleration was due to the behavior of prices of petroleum and alcohol with variation of -2.46% in May, down from 2.63% in April.
+
+38. The IPC-DI increased 0.51% in May, after rising 0.95% in April, accumulating increase of 3.98% in the year and 6.37% in twelve months. In the month, there was a slowdown in six out of the seven groups that comprise the index, especially the food group, which registered an increase of 0.47%, compared to 1.04% in the previous month. The INCC-DI increased by 2.94% in the month, compared to 1.06% in April, responding to an acceleration in the prices of labor, 5.48% up from 1.74%, and in the prices of materials construction, 0.51% up from 0.42%. The INCC-DI accumulated variations of 5.21% in the year and 8.52% in twelve months.
+
+39. The Producer Price Index - Manufacturing Industry (IPP / IT) increased 0.34% in April, down from 0.39% in March, accumulating 1.74% in the year and 6.73% in the last twelve months through April, down from 6.81% in the last month. The variation of the index in twelve months reflected most sharply the increase in prices in the sectors of food products, chemicals and petroleum products and biofuels.
+
+40. The commodities index Brazil (IC-Br) fell 1.64% in April and 4.47% in May, after increasing by 42.3% between June 2010 and March 2011. In May, the decrease in the IC-Br reflected the decreases of 6.58%, 2.32% and 1.56% of sub-indices relating to agricultural, metal and energy segments, respectively. Economic Activity
+
+41. GDP grew 1.3% in the first quarter of 2011 quarter-on-quarter, considering seasonally adjusted data, according to information released by the IBGE. Under the supply side, all sectors showed positive growth in this comparison basis, with highlights to the growth of the primary sector, 3.3%, followed by industry, 2.2%, and services, 1.1%. Under the aggregate demand side, the highlight was gross fixed capital formation, rising 1.2% at the margin. The two components of consumption also showed positive growth, with household consumption increasing 0.6% and government consumption increasing 0.8%. In the components related to the external sector, there was a decrease of 3.2% in exports and 1.6% in imports of goods and services.
+
+42. Compared to the first quarter of 2010, GDP grew 4.2%, reflecting increases of 4% in the service sector, 3.5% in industry and 3.1% in agriculture. On the demand side, the highlight was the increase in investments, 8.8%. Household consumption remained with a growth rate above GDP’s (5.9%), while government consumption recorded a more moderate growth, 2.1%. The external accounts continue to show negative contribution to GDP, -1.1 p.p., with exports rising 4.3%, in a less intense pace than in imports, which increased 13.1%.
+
+43. Expanded retail sales, including vehicles and construction material, increased 1.7% in March, month-on- month, according to data seasonally adjusted from IBGE’s monthly survey (PMC), after a contraction of 0.5% in February. As a result, the average of the first quarter of the year increased 0.8%, quarter-over-quarter. Sales increased in eight out of the ten sectors surveyed, with highlights for vehicles and motorcycles, parts and pieces (3.8%), office equipment and material (3.5%) and construction material (2.7%). Retail sales increased 1.2% in March, month-on-month, according to seasonally adjusted data, after an expansion of 0.3% in February, while the average of the first quarter of the year increased 2.3%, quarter-over-quarter.
+
+44. Considering observed data, expanded retail sales decreased 2.5% in March, year-over-year, which is the first retreat since April 2009, due to the 12.8% drop in auto sales. The performance of expanded retail sales in the last twelve months presented an expansion of 10.2%, favored by the increase in sales for some segments: office equipment and material (20.6%), furniture and house appliances (17.2%), and construction material (15.3%). 10
+
+45. Automobile sales by dealers, including cars, light commercial vehicles, trucks and buses, expanded by 2.6% in May, month-on-month, according to Fenabrave (Brazilian Federation of Automotive Vehicles Distribution) data, seasonally adjusted by the BCB, increasing 0.8% in the quarter through May, quarter-over-quarter. Automobile sales increased 8.8% in the year through May, with emphasis on the growth of sales of buses (25.9%), light commercial vehicles (19%) and trucks (17.6%) and increased 9.7% in the twelve months through May, with highlights for trucks (29.3%) and light commercial vehicles and buses (23.9%).
+
+46. Capital goods imports increased 11.6% in April, month-on-month, according to the Funcex quantum index, seasonally adjusted by the BCB. The indicator rose 32% year-over-year, 28.3% in the first four months of the year, and 44.4% on a twelve-month trailing basis, compared to the same periods of the previous year, based on observed data.
+
+47. Capital goods production decreased 2.9% in April, month-on-month, and increased 4.6% in the quarter ended in the month, compared to the quarter ended in January, according to data seasonally adjusted from the Monthly Industrial Survey (PIM) by IBGE. The monthly increase mainly reflected falls in the production of capital goods for agriculture (15%), construction (9.2%) and industry (7%), in contrast to the rises in the production of equipment for power supply sector (5.1%) and agricultural pieces (2,3%). Capital goods production increased 0.1% year-over-year, accumulating 6.2% in the year and 13.7% in the last twelve months through April.
+
+48. Construction inputs production decreased by 2.7% in April, month-on-month, and presented stability in the quarter ended in April, quarter-on-quarter, according to seasonally adjusted data. The segment registered a 1.9% decrease year-over-year, but increased 3.5% in the year and 7.9% in the last 12 months.
+
+49. Disbursements granted by the Brazilian Development Bank (BNDES) reached R$167.9 billion in the last twelve months through March, increasing by 16.6% year-over-year, with emphasis in the expansions of 27.3% in the resources headed to manufacturing industry and 15.1% in those marked for agriculture. In the first quarter of the year, disbursements decreased 2.2%, year-over-year, shared by infrastructure, which responded for 40% of the total, followed by industry, which accounted for 31%, commerce and services, 20%, and agriculture, 9%.
+
+50. Industrial production decreased 2.1% in April, month-on-month, according to seasonally adjusted data from the PIM-PF (IBGE), with highlight for the contraction of 10.1% in durable consumer goods. Year-over-year, industrial production fell 1.3%, with emphasis in the production of durable consumer goods (-5.6%) and semi- durable and non-durable goods (-2%). In the year and on a twelve-month trailing basis through April, industrial production increased by 1.6% and 5.4%, respectively, compared to the same previous periods, with highlights for production of capital goods, which increased by 6.2%, and 13.7%, on the same basis of comparison.
+
+51. The Nuci in the manufacturing industry, calculated by FGV, remained stable in May, month-on-month, reaching 84.4%, according to seasonally adjusted data. The result was driven by the expansions of 0.5% for construction inputs, 0.4% for intermediate goods and 0.1% for capital goods, while the production of consumer goods decreased 0.6% month-on-month. Considering observed data, the Nuci decreased 0.5% year-over- year, influenced by the retreat in the industries of construction inputs (-2.6 p.p.), consumer goods (-2.1 p.p.), and intermediate goods (-0.3 p.p.), as well as by the 2.4 p.p. expansion in the capital goods industry.
+
+52. Vehicles output reached 303.5 thousand units in May, decreasing 0.9% month-on-month, according to data released by the Anfavea and seasonally adjusted by the BCB. Output increased 2.1% year-over-year and 3.7% in the year through May.
+
+53. Vehicles licensing expanded 3.5% in May, month-on-month, according to Anfavea data seasonally adjusted by the BCB, and 26.9% year-over-year. Exports presented changes of -13.5% and -5.2% on the same bases of comparison. In the year through May, domestic licensing and exports increased by 8.9% and 5.7%, respectively. In twelve months, the changes were 4.2% and 4.9%, respectively, on the same bases of comparison. 11
+
+54. The LSPA survey carried out by the IBGE projected 161.2 million tons for the 2011 national harvest of cereals, legumes and oilseed, a 7.8% increase relative to the 2010 harvest. Estimates point to increases in the production of rice (18%), beans (19.2%), soybeans (8.4%), and corn (3.9%). Surveys and Expectations
+
+55. The Consumer Confidence Index (ICC) decreased by 2.4% in May, reaching 115.4 points, a record low since March 2010, considering nationwide seasonally adjusted data from the Consumer Expectations Survey (FGV). The result was driven by the same retreat in the Expectations Index (IE) and in the Current Situation Index (ISA), by 2.4%. The ICC decreased 1.2% year-over-year, the first drop since October 2009, due to the decrease of 5.8% in the IE, in opposition to the increase of 6% in the ISA.
+
+56. The Industry Confidence Index (ICI) reduced by 1.2% in May, reaching 109.9 points, considering seasonally adjusted data from the Survey of Manufacturing Industry (SCIT-FGV). The result was driven by the drops of 1.7% in the ISA and 0.6% in the IE. The ICI performed unfavorably for the fifth consecutive month, falling by 5.3% year-over- year, due to the decreases of 6.4% in the ISA and 4.2% in the IE.
+
+57. The Services Confidence Index (ICS) from FGV reduced 1.4% in May, considering non-seasonally adjusted data, presenting stability year-over-year. The result was driven by retreats in both the assessment of the current moment and in expectations. The ISA decreased 2.1% and the IE decreased 0.7%, month-on-month. The ISA-S retreated 0.2% and the IE-S increased 0.3%, year-over-year. Labor Market
+
+58. According to the General Record of Employment and Unemployment (Caged) of the Ministry of Labor and Employment (MTE), 272.2 thousand formal jobs were created in April, a 0.4% increase month-on-month, considering seasonally adjusted data. It bears emphasizing the hiring in the services sector, 114.4 thousand, in the manufacturing industry, 51.3 thousand, and in the commerce sector, 41.6 thousand. In the year through April, the balance increased to 797.8 thousand, below the 962.3 thousand jobs created in the same period of
+
+2010. In the last twelve months through April, 1.97 million formal jobs were created, compared to 2 million jobs created in the year through March.
+
+59. According to the IBGE employment survey (PME), carried out in the six main metropolitan regions of the country, the unemployment rate decreased by 0.1 p.p. in April, month-on-month, reaching 6.4%, a historical record low for the month, with a 0.9 p.p. fall year-over-year. Considering seasonally adjusted data, the unemployment rate reached 6.0% in April, 0.1 p.p. below the March figure, as a result of increases of 0.2% in occupation and 0.1% in the Economically Active Population (PEA). According to the same survey, average real earnings usually earned by workers fell by 1.8% month-on-month and increased 1.9% year-over-year and 3.7% in the year through April. As a result, the expansion of payroll, calculated by the multiplication between real earnings and occupied population, showed variations of -1.7%, 4.2% and 6.1%, respectively, in the same periods. Credit and Delinquency Rates
+
+60. Outstanding credit in the financial system reached R$1,776.3 billion in April, equivalent to 46.6% of GDP, increasing by 1.3% in the month, 4.1% in the year and 21% in twelve months. Non-earmarked credit operations increased by 1.4%, 4.1% and 18.4%, respectively, according to the same comparison bases, reflecting the respective increases of 1.1%, 4.1% and 18.2% for credit operations to individuals and 1.7%, 4.1% and 18.5% for credit operations to corporate, according to the same comparison bases. Earmarked credit operations increased 1.0% in the month, 4.2% in the year and 26.3% in twelve months, with highlights for the respective rises of 3.1%, 11.5% and 48.1% recorded in housing credit, according to the same comparison bases. 12
+
+61. The average interest rate on reference credit operations increased 0.8 p.p. in April, reaching 39.8%. The average annual rates on credit for corporate reached 31% representing a decrease of 0.3 p.p. relative to March, while for individuals reached 46.8%, an increase of 1.8 p.p.
+
+62. The average tenure on reference credit operations increased from 475 days in March to 476 days in April, representing an increase of four days for tenures related to corporate segments and a decrease of one day for tenures related to individuals, reaching 392 days and 567 days, respectively.
+
+63. The delinquency rate in the financial system (non-earmarked loans used as reference for interest rates, in arrears for more than ninety days) increased 0.2 p.p., reaching 4.9% in April. The delinquency rate for credit operations with both corporate and individuals increased by 0.1 p.p., reaching 3.7% and 6.1%, respectively. External Environment
+
+64. Global economic activity although growing, cooled due to high prices of oil and food, as well as to the monetary and fiscal restrictions adopted by several countries. In the US, GDP of Q1 slowed to an annualized rate of 1.8%, reflecting the cooling of consumption and negative contributions of government spending and external sector. In China, economic activity showed an annualized growth rate of 8.7% compared to 10% in the previous quarter. In Japan, reflecting the effects of the natural disasters and the nuclear accident, the GDP in the Q1 contracted 3.7%, following a 3% decrease in the previous quarter. Conversely, the Euro Zone, reflecting good performances of the region's two largest economies - Germany and France - grew 3.4%. However, data on retail sales, available for the first quarter, suggest that consumption in the region remains fragile. It is noteworthy that the latest indicators reinforce the prospects of a slowing economic activity. In the US, unemployment rate reached 9.1% in May, reflecting the creation of 54,000 jobs in that month, compared to an average of 217,000 in the previous three months. In the Euro Zone, the PMI for May fell to 55.4, the lowest in five months, signaling a cooling pace of expansion for manufacturing and services.
+
+65. In May, the worsening fiscal situation in Europe and the release of economic indicators signaling slowdown in global economic recovery fueled increases in risk aversion. The sovereign risk in European countries with fiscal difficulties expanded, with Credit Default Swaps (CDS) for Greece pricing the risk of their sovereign debt restructuring. Since the last Copom meeting, the majority of international commodity prices decreased, reflecting, from the fundamentals point-of-view,  the slowdown in global economic activity and the prospect of normalization of supply conditions, with the start of the 2011/2012 harvest, in the specific case of the agricultural sector. The increase in risk aversion and the consequent appreciation of the dollar also contributed to the reduction in commodity prices, with highlights for the significant corrections occurred in the first week of May. Regarding agricultural commodities, remains the risk resulting from reduced inventory levels as a proportion of consumption and the possibility that recent adverse weather conditions in the Northern Hemisphere may affect the world supply in the new harvest.
+
+66. In April, inflation continued strongly conditioned by the evolution of prices of energy and agricultural commodities. Annual CPI increased 2.8%, 3.2% and 4.5% in the US, Euro Zone and UK, respectively, the highest changes since November 2008 for the first two and the highest since October 2008 for the latter. In Japan, annual CPI increased 0.3%, after four consecutive months of stability. However, core inflation rates, although rising, remained at comfortable levels, with the exception of the UK (3.7%). In China, the annual IPC change decreased marginally to 5.3% in April, with deceleration in the annual rate for food prices, reaching 11.5%. Among the other emerging economies, the first figures for the annual CPI change in May signal increases in Colombia, Thailand and Turkey and decreases in Peru and Indonesia, compared to the previous month.
+
+67. Despite the rise in inflation, the central banks of the US, UK and Japan, maintained unchanged their respective basic interest rates. In the Euro Zone, the European Central Bank maintained its policy rate at 1.25% in the May meeting, established at the previous meeting. In the emerging markets, the movement of gradual normalization of the monetary policy rates prevailed, and the basic interest rates have increased in Chile, China, Colombia, India, Philippines, Malaysia, Russia and Peru, among others. 13 Foreign Trade and International Reserves
+
+68. The Brazilian trade surplus reached US$3.5 billion in May. Exports reached US$23.2 billion and imports, US$19.7 billion. In the first five months of 2011, the trade surplus totaled US$8.6 billion, 83.1% above the registered in 2010, according to the daily average criterion, reflecting expansions of 30% in exports and 28.2% in imports. In the year, total trade grew 29.1%, totaling US$180.7 billion in the first five months of 2011, compared to US$138.6 billion in the same period of 2010.
+
+69. International reserves reached US$333 billion in May, increasing US$5 billion compared to April and US$44.4 billion compared to December 2010. The monetary authority's interventions accounted for net purchases of US$4.3 billion in the domestic spot market in the month. Money Market and Open Market Operations
+
+70. Since the last Copom meeting, in April, the domestic interest rate yield curve slightly reduced its slope, with elevation in the overnight rates and retreat in the rates higher than a year. The movement of the short part of the curve reflected, mainly, the market expectation that the monetary tightening cycle will be longer. At the long part of the curve, the drop in rates was influenced, domestically, by the deceleration of various indices of prices, by the decrease observed in the collection of price data and by the dissemination of more moderate activity data. In the external area, the signs of weakening global economy, particularly the U.S., and the retreat in commodity prices also contributed to the reduction in domestic long-term rates. Between April 18th and June 6th, one- three- and six-month interest rates increased 0.18 p.p., 0.17 p.p. and 0.14 p.p., respectively, while two- and three-year rates fell, respectively, 0.21 p.p. and 0.24 p.p. Real interest rate, measured by the ratio between the one-year forward nominal interest rate and the smoothed twelve-month-ahead inflation expectations, increased to 7.1% on June 6th from 6.7% on April 18th.
+
+71. On April 29th, the Central Bank carried out a reverse exchange rate swap auction to aim at rolling over the contracts maturing on May 2nd. This operation totaled the equivalent to US$1.3 billion in notional value.
+
+72. In its open market operations, the BCB carried out, between April 19th and June 6th, repo operations borrowing R$28.4 billion for a six-month period. As a consequence, the average daily balance of the long operations reached R$164.7 billion. In the same period, the BCB also borrowed money through repo operations with tenures between thirteen and thirty-three working days, bringing the average daily balance of short-term borrowing operations to R$144.9 billion. The BCB also borrowed money through 34 overnight repo operations and, at the end of the day, conducted daily two-working-day tenure liquidity management operations. The very short-term operations, including the two-working-day tenure liquidity management operations, averaged a daily balance of R$51.7 billion in the period, borrowing. The average daily balance of the total stock of repurchase agreements of the Central Bank decreased from R$385.6 billion between March 1st and April 18th, to R$361.3 billion, between April 19th and June 6th. Considering the operations for the most recent period, there was a decrease in the daily balance of repurchase agreements totaling R$27.7 billion, reducing the total stock from R$379.1 billion on April 18th to R$351.4 billion on June 6th. The main drivers of liquidity contraction in the period were the net revenues of the Central Government and the issuance of net securities by the National Treasury.
+
+73. Between April 19th and June 6th, the National Treasury issuance regarding the traditional auctions raised a total of R$61.4 billion. The sale of fixed-rate securities reached R$44.7 billion, with R$41.0 billion via issuance of LTNs maturing in 2011, 2012, 2013 and 2015, and R$3.7 billion via NTN-Fs maturing in 2017 and 2021. Issuance of LFTs totaled R$7.1 billion, for securities maturing in 2017. Issuance of inflation-linked NTN-Bs reached R$9.6 billion, for securities maturing in 2014, 2016, 2020, 2030, 2040 and 2050.

@@ -1,527 +1,109 @@
-The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the 
-Brazilian and international economies under the monetary policy framework, which is designed to comply with the 
-inflation targets established by the government. 
- 
- 
-Recent Evolution of Inflation 
- 
-1. 
-Inflation rates in July reflected the lack of price pressures and confirmed the convergence to the 
-inflation targets. Wholesale prices registered a negative change for the third consecutive month, 
-although they fell by less than in the previous month. Consumer price indices increased slightly, as 
-a result of readjustments in specific regulated prices. 
- 
-2. 
-The IPCA increased 0.20% in July, after a decrease of 0.15% in the previous month, accumulating 
-increases of 6.85% and 15.43% in 2003 and in 12 months, respectively. The IGP-DI fell 0.20% in 
-July, compared to a decrease of 0.70% in June, reflecting an increase of the IPC-BR (to 0.34% in 
-July from –0.16% in June) and a decrease of the IPA-DI (to –0.59% from –1.16%). The 12-month 
-changes of the IGP-DI and IPA-DI decreased for the fourth consecutive month in July, reaching 
-24.14% and 29.12% respectively. 
-  
+1. Inflation rates in July reflected the lack of price pressures and confirmed the convergence to the inflation targets. Wholesale prices registered a negative change for the third consecutive month, although they fell by less than in the previous month. Consumer price indices increased slightly, as a result of readjustments in specific regulated prices.
 
-2
-3. 
-IPCA market price inflation slowed again in July (to -0.01% from 0.20% in June), as a 
-consequence of a larger decline of food prices. Regulated prices rose 0.73% in July, compared to 
-a decrease of 1.02% in the previous month, contributing 0.21 p.p. to the overall result of the IPCA 
-in July. The rise of 9% in national fixed telephone tariffs was the main reason for the increase of 
-regulated prices. In addition, there was an average increase of 2.1% in energy tariffs. Gasoline and 
-alcohol-based auto fuel prices fell again in July, -2.7% and -10.3% respectively, together 
-contributing -0.23 p.p. to the overall result of the IPCA. 
- 
-4. 
-Wholesale prices posted a negative change for the third consecutive month, as a consequence of 
-a decrease in both agricultural and industrial prices. The agricultural IPA fell 0.42% in July, after a 
-decrease of 1.04% in June. The industrial IPA decreased 0.66% in July, compared to a decrease 
-of 1.21% in June. 
- 
-5. 
-Core IPCA inflation calculated by excluding household food items and regulated prices, fell to 
-0.37% in July from 0.52% in June. The accumulated change in the last twelve months reached 
-10.83%, decreasing from the previous month for the first time this year. 
- 
-6. 
-Core IPCA inflation calculated under the trimmed-mean method (smoothed) reached 0.65% in 
-July, compared to 0.87% in June. In the last twelve months, the accumulated change increased to 
-12.67%, continuing to reflect the influence of higher inflation in the second half of 2002. Inflation 
-calculated without the smoothing procedure for pre-selected items resulted in rates of 0.40% and 
-11.71% in the month and in 12 months, respectively. 
- 
-7. 
-Core IPC-BR inflation calculated under the symmetric trimmed-mean method reached 0.53% in 
-July, accumulating an increase of 12.65% in the twelve months ending in July.  
- 
-8. 
-Despite some specific pressures, the trend indicates stable prices in August. The trajectory of food 
-prices should be less favorable mainly due to the increase of meat prices and to the deceleration of 
-the fall in the prices of beans, perishable foods and soybean products. Among regulated prices, 
-gasoline stopped contributing to the fall of inflation. In addition, the increase of energy tariffs in 
-Belém (August 7) and São Paulo (July 4) will contribute to an increase in inflation. On the other 
-hand, the effects of the increase in telephone prices, considering the current judicial stance, will 
-end in August. 
- 
- 
-Assessment of Inflation Trends 
- 
-9. 
-The identified shocks and their impacts were reassessed according to newly available information. 
-The scenario considered in the simulations assumes the following hypotheses:  
- 
-a. The projections for the readjustment of gasoline prices in the remainder of 2003 were 
-revised. The new projection for this year’s readjustment stands at 4.9%, a significant 
-increase if compared with 0.1% in July. This increase results from the exchange rate 
-depreciation in the last month and mainly the rise of international oil prices. The projections 
-for bottled cooking gas for the remainder of the year was stable. However, considering the 
-rise in prices that occurred in July, the projections for bottled cooking gas prices for the full 
-year rose to 5.8% from 2.3%; 
- 
-b. The projections for the readjustment of electricity tariffs increased to 22.3% from 21.0%. 
-The projections for the readjustment of telephone tariffs in 2003 were maintained at 25.5% 
-with a new distribution over the year. Due to the judicial injunction against the readjustment 
-of these tariffs according to the IGP-DI annual variation, this item registered a change that 
-was lower than expected in July. The Copom considered the hypothesis that differences 
-between the authorized by Anatel and the actual readjustment will be compensated in the 
-remainder of the year; 
+2. The IPCA increased 0.20% in July, after a decrease of 0.15% in the previous month, accumulating increases of 6.85% and 15.43% in 2003 and in 12 months, respectively. The IGP-DI fell 0.20% in July, compared to a decrease of 0.70% in June, reflecting an increase of the IPC-BR (to 0.34% in July from –0.16% in June) and a decrease of the IPA-DI (to –0.59% from –1.16%). The 12-month changes of the IGP-DI and IPA-DI decreased for the fourth consecutive month in July, reaching 24.14% and 29.12% respectively. 2
 
-3
- 
-c. Regulated prices, which had a 28.5% weight in the July IPCA, are forecasted to rise 14.0% 
-in 2003, a 0.9 p.p. increase compared to last month’s projection. The increase in this 
-projection is a consequence of the rise in oil derivatives prices (gasoline and bottled 
-cooking gas) and household electricity tariffs; 
- 
-d. For 2004, it is assumed that the readjustment of regulated prices will follow the 
-endogenous determination model of regulated prices. Under this methodology, which 
-considers the change in the exchange rate, free price inflation and the change in the IGP-
-DI, as well as seasonal factors, the projection for the readjustment of regulated prices in 
-2004 was reduced by 0.9 p.p., to 8.7%; 
- 
-e. The projection for the 6-month spread over the Selic rate, following the specification of the 
-VAR model using the Selic and the swap rate on the eve of the Copom meeting, was –260 
-b.p. for the third quarter of 2003, gradually rising to 50 b.p. at the end of 2004. 
- 
-10. 
-Regarding fiscal policy, it is assumed that the primary surplus target of 4.25% of the GDP for this 
-year and the following two years will be accomplished. The other related assumptions established 
-in the July meeting were maintained. 
- 
-11. 
-Considering the baseline scenario hypotheses, including the maintenance of the Selic interest rate 
-at 24.5% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting 
-(R$3.00), inflation is projected above the adjusted target of 8.5% for 2003 and below the target of 
-5.5% for 2004. 
- 
- 
-Monetary Policy Decision 
- 
-12. 
-The behavior of inflation in July proved over again that monetary policy has been able to establish 
-the convergence of the inflation rate to the path of the inflation targets. This assessment is based 
-not only on the 0.20% increase in the IPCA in July, but also on the persistent and quick fall of 
-inflation expectations, on the exchange rate stability and on the favorable evolution of other price 
-indices, both consumer and wholesale. These factors provide evidence of the effectiveness of 
-monetary policy – within a framework of consistent macroeconomic policies - in reducing inflation 
-persistence, and preventing the inflation rate from stabilizing at higher levels after it peaked in the 
-final months of 2002. 
- 
-13. 
-The rise of the IPCA from –0.15% in June to 0.20% in July is the result only of higher inflation in 
-regulated prices, which rose to 0.73% from –1.02%. It should be highlighted that this increase was 
-expected in the face of the readjustment of household electricity and telephone tariffs in this period. 
-Inflation in tradable goods has been falling in the last two months, from 0.95% in May to 0.38% in 
-June and –0.06% in July. This is a consequence of the exchange rate appreciation that occurred in 
-the second quarter of the year. Inflation in non-tradable goods was almost zero for the third 
-consecutive month. As a result, market prices inflation, a weighted sum of tradable and non-
-tradable price changes, has been falling since March and was zero in July. Another decline in the 
-number of items in the IPCA that suffered price increases also occurred, from 60.4% in June to 
-57.2% in July, the lowest share since May 2001. 
- 
-14. 
-The change in inflation dynamics is also captured by the behavior of core inflation and wholesale 
-price indices. Core IPCA inflation calculated under the trimmed-mean method with smoothing and 
-excluding regulated prices fell for the fourth consecutive month. 
- 
-15. 
-Deflation in wholesale prices occurred for the third consecutive month, although the degree of 
-deflation lessened in July. This behavior was observed for both industrial and agricultural prices. 
-Considering that the positive impact of the agricultural harvest on prices is almost exhausted and 
+3. IPCA market price inflation slowed again in July (to -0.01% from 0.20% in June), as a consequence of a larger decline of food prices. Regulated prices rose 0.73% in July, compared to a decrease of 1.02% in the previous month, contributing 0.21 p.p. to the overall result of the IPCA in July. The rise of 9% in national fixed telephone tariffs was the main reason for the increase of regulated prices. In addition, there was an average increase of 2.1% in energy tariffs. Gasoline and alcohol-based auto fuel prices fell again in July, -2.7% and -10.3% respectively, together contributing -0.23 p.p. to the overall result of the IPCA.
 
-4
-also that the exchange rate remained roughly stable in July, the deflation observed in July can be 
-attributed to the lagged effects of the exchange rate appreciation since March in an environment of 
-decelerating economic activity. Despite the small exchange rate depreciation that occurred since 
-the July Copom meeting, there is still room for the deflation of wholesale prices to contribute to 
-lower levels of inflation to consumers, especially in the case of tradable goods, even in the context 
-of a recovery of economic activity. 
- 
-16. 
-The exchange rate depreciated since the July Copom meeting, from a range between R$2.80 and 
-R$2.90 to R$3.00 per US$ in the weeks before the August meeting. Country risk measured by the 
-Embi+ rose from 730 b.p. to 900 b.p. in the beginning of August due to a rapid increase in long-
-term US interest rates and higher volatility in the domestic scenario in the last weeks of July. The 
-Embi+ then decreased to 750 b.p. on the eve of the August Copom meeting. The Brazilian external 
-accounts continued to post positive results, with records in the trade balance due to export growth, 
-a surplus in the current account, and a quick recovery of rollover rates for external loans. 
-Moreover, the negative short-term impact of the rise in long-term US interest rates will likely be 
-compensated by the positive effects of the faster growth of the US economy on the global 
-economy in the medium-run. 
- 
-17. 
-Due to the exchange rate depreciation observed since the July Copom meeting, the current level of 
-the exchange rate is equivalent to the average value during the second quarter of the year. 
-Additionally, according to BCB simulations, the exchange rate appreciation in the first semester of 
-2003 has not yet been totally passed through to prices. Thus, the recent exchange rate 
-depreciation is not expected to produce inflationary pressure. 
-18. 
-The level of economic activity continued to fall at the end of the second quarter. In June, industrial 
-production fell by more than expected. Retail sales continued to decrease and industrial 
-inventories were above desired levels. Installed capacity utilization stabilized around 80% and the 
-unemployment rate remains high, around 13%. This does not mean that economic activity is in 
-recession, since the deceleration is not generalized, and activity in some important sectors, such 
-as agriculture and exports, has been growing strongly. 
-19. 
-The prospects for economic activity in the second half of the year are better than the outcome in 
-the first half. Economic activity, particularly in the last quarter of 2003, may benefit from the effects 
-of the cuts in the Over-Selic rate at the last three Copom meetings and the recent reduction of 
-reserve requirements on demand deposits. The increase of real incomes, which may result from 
-the decrease in inflation, will be an important factor supporting economic activity. Due to the 
-behavior of the economy in the second quarter, growth during the second half will take place from 
-a lower base than was expected at the July Copom meeting, and with a large margin of idle 
-capacity. Thus, the recovery can be balanced, with the resumption of consumption and investment 
-without significant inflationary pressures. 
-20. 
-The BCB’s inflation forecasts, assuming the maintenance of the Over-Selic rate at 24.5% p.a. and 
-the exchange rate at R$3.00, point to inflation above the adjusted target of 8.5% for 2003. There 
-was no significant change in inflation forecast for 2003, as the lower–than-expected inflation results 
-in July were offset by the higher forecast for regulated prices through the end of the year. Thus, the 
-inflation forecast remains compatible with that presented in the Open Letter sent by the BCB 
-Governor to the Finance Minister on January 1, 2003. 
-21. 
-The BCB’s inflation forecasts for the next twelve months and for 2004, still assuming that the 
-exchange rate and the Over-Selic rate remain constant, point to values below the target trend. The 
-impact of the decrease in interest rates and the exchange rate depreciation observed in the last 
-month was compensated by the lower forecast for the readjustment of regulated prices in the next 
-year and by the significant decline of inflation expectations. 
+4. Wholesale prices posted a negative change for the third consecutive month, as a consequence of a decrease in both agricultural and industrial prices. The agricultural IPA fell 0.42% in July, after a decrease of 1.04% in June. The industrial IPA decreased 0.66% in July, compared to a decrease of 1.21% in June.
 
-5
-22. 
-The median of market inflation expectations has been behaving favorably. For 2003, market 
-expectations decreased to 9.7% from 10.6%. Regarding expectations for inflation in the next 
-twelve months, the decrease was to 6.4% from 7.0% between the weeks before the July and 
-August Copom meetings, continuing the declining trend that had already been observed in June 
-and July. With this reduction, inflation expectations for the next twelve months are below 6.75%, 
-the value that corresponds to the path for the inflation targets in July 2004. Finally, for 2004, 
-market expectations decreased to 6.2% from 6.5%, close to the target of 5.5% for the year. 
-23. 
-As in previous months, in an effort to evaluate the degree of inflation persistence, the Copom 
-compared its inflation forecasts from the model currently in use with an alternative model that 
-adopts a higher degree of inflation persistence. The inflation forecasts for July adopting the current 
-model were more precise, which again provides evidence that the degree of inflation persistence is 
-converging towards its historical mean. 
-24. 
-Monetary policy should be guided to make inflation converge to the target path. In the medium run, 
-there is a real interest rate yield curve that is consistent with the target. In periods of transition, 
-such as the current stage, it is up to the monetary authority to establish a short-term interest rate 
-trend that permits the gradual convergence of the real interest rate yield curve to the that the one 
-prevailing in the medium-run, guaranteeing that inflation converges to the target with the lowest 
-volatility in output. With the evidence that inflation is falling to the targeted path, it is natural that the 
-spreads between real interest rates and their medium-run equilibrium values diminishes. 
-25. 
-Considering the recent evolution of inflation and the perspectives for its future trend, as well as the 
-significant improvement of the fiscal scenario in the medium and long run as a consequence of the 
-reforms being discussed in Congress, the Copom believes that easing monetary policy is 
-appropriate, promoting an adjustment in the Over-Selic rate to bring it to a trend consistent with the 
-gradual convergence of the real interest rate yield curve to its equilibrium position. 
-26. 
-Thus, the Copom decided unanimously to fix the Over-Selic rate target at 22% p.a. 
-27. 
-At the close of the meeting, it was announced that the Copom would meet again on September 16 
-for technical presentations and on the following day, in order to discuss the monetary policy 
-decision, as established in the Communiqué 10,187, of October 2, 2002. 
- 
- 
- 
- 
- 
- 
- 
+5. Core IPCA inflation calculated by excluding household food items and regulated prices, fell to 0.37% in July from 0.52% in June. The accumulated change in the last twelve months reached 10.83%, decreasing from the previous month for the first time this year.
 
-6
-SUMMARY OF DATA ANALYZED BY THE COPOM  
- 
-Economic Activity  
- 
-28. 
-National retail sales fell 5.4% in June, compared to the same month of the previous year, 
-accumulating a decline of 5.6% in the first six months of the year according to the IBGE. The 
-sector that includes hypermarkets and supermarkets, food products, beverages and tobacco 
-continued to exert a negative influence on the overall retail results, with a decrease of 8.3% in 
-June, compared to the level observed in the same month of 2002, and accumulating a decline of 
-6.6% in the year. 
-29. 
-The statistics of the Fecomércio-SP show a seasonally adjusted decline of 4.2% in retail sales in 
-the metropolitan region of São Paulo in July (preliminary data), compared to June. Only semi-
-durable consumer goods sales increased in the month (1.2%). In the year up to July, sales 
-decreased 13.9% compared to the same period in 2002. Data on sales with checks and credit 
-purchases, released by the ACSP, show commercial activity in July continuing at a low level. 
-30. 
-The consumer confidence index surveyed by Fecomércio-SP remained at 104.5 in August, mainly 
-due to a 1.7 p.p. increase in consumers’ current intentions, which was offset by a 0.7 p.p. decline 
-in future intentions. It is important to highlight that the recovery of current intentions, partially 
-reversing the fall registered in the previous month, allowed the IIC to remain in the “optimistic” 
-range, above 100, on a scale ranging from 0 to 200. 
-31. 
-In June, the main investment indicators declined, continuing the negative performance observed 
-since the beginning of 2003. Capital goods production registered a major fall (–6.2%, s.a.). The 
-production of construction inputs and imports of capital goods registered declines of 1.7% and 
-0.5% in June, respectively. Also reflecting the unfavorable economic environment for investment, 
-medium and long term financing provided by BNDES decreased 16.8% year-on-year in the 
-January-June period.  
-32. 
-In June, industrial production registered a sharp decline (-2.6%, s.a.) compared to the previous 
-month, as a result of decreases in the mineral extraction industry (-9.3%) and manufacturing (-
-1.9%). In the first half of the year, industrial output was roughly stable (+0.1%) compared to the 
-same period of last year. The industrial sectors focused on the domestic market presented the 
-worst performance, mainly the pharmaceutical sector (-16.2%), clothing and shoes (-14.8%), 
-textiles (-8.5%) and electric material and communications (-6.9%). By categories of use, durable 
-goods were notable for registering a s.a. increase of 0.9% in June. The other categories posted 
-negative performance: capital goods (-6.2%); intermediate goods (-2.4%); and non-durable and 
-semi-durable goods (-1.7%).  
-33. 
-Data on industrial activity released by the CNI showed a slowdown in June, with reductions of 
-1.2% and 0.5% s.a. in real sales and hours worked, respectively. The consecutive falls of industrial 
-sales have created an undesirable buildup of inventories in industry, according to the quarterly CNI 
-survey. The index of inventories of final products reached 54.2 (values above 50 indicate higher 
-than expected inventories) in the second quarter of 2003. This plateau was a record in the series 
-that began in the second quarter of 1998.  
-34. 
-In the automotive sector, output and sales of vehicles recovered in July. Output and external sales 
-increased 4.4% and 0.8% s.a., respectively, while domestic sales increased 9.8%.  
- 
-Labor Market  
- 
+6. Core IPCA inflation calculated under the trimmed-mean method (smoothed) reached 0.65% in July, compared to 0.87% in June. In the last twelve months, the accumulated change increased to 12.67%, continuing to reflect the influence of higher inflation in the second half of 2002. Inflation calculated without the smoothing procedure for pre-selected items resulted in rates of 0.40% and 11.71% in the month and in 12 months, respectively.
 
-7
-35. 
-The index of employment increased 0.2% month-on-month in June s.a., and accumulated a 3.2% 
-year-on-year increase in the first half of the year, according to Ministry of Labor and Employment 
-data.  
-36. 
-According to the new methodology for the IBGE’s employment survey, the unemployment rate in 
-the six main metropolitan areas reached 13% in June, compared to 12.8% in May, mainly as the 
-result of a 0.26% expansion in the economically active population. The number of occupied people 
-increased 0.11% in the same period. 
-37. 
-According to the survey, average real wages of employed workers fell by 13.7% compared to the 
-same month of 2002. In the industrial sector, according to the CNI, real wages in June 2003 were 
-6.7% lower than in the same month of last year. 
- 
-Credit and Delinquency Rates  
- 
-38. 
-Total non-earmarked credit declined 0.8% in July, reaching R$213 billion, driven by decreases of 
-1.9% and 1% in domestic and externally funded credit to corporates, respectively. This result was 
-offset by an increase of 0.3% in loans to individuals in the month. Among credit to individuals, 
-personal credit and auto financing presented the best performance.  
-39. 
-The average interest rate on non-earmarked credits fell again (1.8 p.p.) in July, driven by the 
-reduction in the Over-Selic rate. Fixed rate lending to individuals registered the highest reduction (-
-3.5%). The delinquency rate on non-earmarked bank credits remained at 8.8% for the fourth 
-consecutive month.  
-40. 
-Regarding default rates on retail credit, although there was an increase in July, the level 
-nevertheless remained lower than the same period of 2002. ACSP data showed that the number of 
-cancelled registrations increased 20.8% compared to the previous month, signaling debtors 
-intentions to repay debts. The delinquency rate increased to 5.2% in July, compared to 4.9% 
-registered in June, but lower than the 7.2% registered in July 2002.  
- 
-External Environment  
- 
-41. 
-In the US, the latest indicators pointed to a stronger-than-expected economic recovery. In the 
-second quarter, real GDP increased 2.4% annualized (s.a.), with increases in consumption (3.3%), 
-gross private investment (1.3%) and government expenditures (7.5%). Retail sales and industrial 
-production registered increases of 1.4% and 0.5% in July, respectively. The unemployment rate 
-decreased to 6.2% in July from 6.4% in June, while the number of people receiving unemployment 
-benefits fell below 400 thousand, evidencing the likely recovery of the labor market.  
-42. 
-In Japan, there is also an optimistic environment regarding growth prospects this year. In the 
-second quarter, GDP registered annualized growth of 2.3%, above expectations. On the other 
-hand, the European economy posted zero growth in the second quarter. The German and Italian 
-economies have contracted for two consecutive quarters. There are risks that the European 
-contraction will be more severe due to the effects of the heat wave in that region, with negative 
-impacts on energy supplies and agricultural output, which could affect inflation indices. 
-43. 
-The weak performance of the industrialized economies is again affecting international trade in 
-2003, leading the WTO to revise the global trade growth to below 3% this year. However, the 
-recovery of some agricultural commodity prices and the growth of trade among southern 
-hemisphere emerging countries are improving their trade performances. 
+7. Core IPC-BR inflation calculated under the symmetric trimmed-mean method reached 0.53% in July, accumulating an increase of 12.65% in the twelve months ending in July.
 
-8
-44. 
-Business expectations are indicating a recovery in the US and Japan, while businessmen remain 
-pessimistic in Europe. In the US, the Institute of Supply Management’s indices point to a solid 
-recovery in the services sector, and expansion in the industrial sector. With respect to consumers, 
-in July there was a fall of confidence in the US and a slight improvement in Europe and Japan. 
-45. 
-In July, inflation increased in the major economies, although remaining at low levels. The yields of 
-US securities increased again in the international financial markets due to smaller risks of deflation 
-and a better prospect for activity in the second half of the year. The major global stock indices have 
-been rising since the end of the war in Iraq. The adjustment in equity capital of large US and 
-European corporations aimed at reducing short run default risk and the improvement of liquidity 
-have caused spreads to fall, benefiting corporate and sovereign securities.  
- 
-Foreign Sector 
- 
-46. 
-The trade surplus reached US$2.1 billion in July, accumulating US$12.5 billion in 2003 and 
-US$21.8 billion in the last 12 months. Exports increased 25% year-on-year in the first seven 
-months of 2003, while imports decreased 3%. In July, daily average exports decreased 9.6% 
-compared to the previous month and 1.9% compared to July 2002. Imports increased 0.1% and 
-decreased 19.4% considering the same bases. Up to the 3rd week of August (11 working days), 
-the trade surplus reached US$1 billion, with daily averages of exports and imports decreasing 
-1.1% and 13.6% year-on-year respectively. 
-47. 
-In July, manufactured exports reached US$3.4 billion, while semi-manufactured exports reached 
-US$981 million, record values for this month. Basic products exports reached US$1.7 billion, the 
-second highest level on record aside from July 2002. Up to July, exports registered record 
-amounts for the three categories of products. Considering daily averages, up to July, exports of 
-semi-manufactured products rose 37.1%, exports of basic products rose 36.9%, and manufactured 
-exports increased 20.5%, all on a year-on-year basis. These increases occurred for all regions, 
-with highlights to exports to China (+152.7%), Argentina (+87.7%), as well as the U.S. (+15.1%).  
-48. 
-Considering daily averages, during the first seven months of 2003 imports decreased 2.4% 
-compared to 2002, mainly due to the decrease in imports of capital goods (-19.4%) and consumer 
-goods (-9.4%). There was a 11.3% increase in fuel and oil imports and a 5.1% increase in raw 
-material and intermediate goods purchases. 
-49. 
-The current account posted a surplus of US$744 million in July, compared to a US$548 million 
-deficit in the same month of 2002. The deficit in the services and income accounts reached US$1.7 
-billion and unilateral transfers posted a US$417 million surplus. The 12-month current account 
-surplus reached US$2.6 billion, or 0.57% of GDP in July. The inflow of FDI totaled US$1.2 billion. 
-The global BoP result was positive: US$112 million. International reserves reached US$47.6 billion 
-while adjusted net reserves stood at US$14.4 billion. 
- 
-Money Market and Open Market Operations 
- 
-50. 
-The downward trend of inflation reinforced market expectations about the continuity of the fall of 
-the Over-Selic target rate. On the other hand, the increase in the yield on U.S. securities and the 
-resulting fall of prices of Brazilian securities abroad caused the long end of the local yield curve to 
-shift upwards. As a result, the yield curve became less inverted: the spread of 1-year rate moved to 
-–347 b.p. from -547 b.p., between July 23rd and August 19th. 
+8. Despite some specific pressures, the trend indicates stable prices in August. The trajectory of food prices should be less favorable mainly due to the increase of meat prices and to the deceleration of the fall in the prices of beans, perishable foods and soybean products. Among regulated prices, gasoline stopped contributing to the fall of inflation. In addition, the increase of energy tariffs in Belém (August 7) and São Paulo (July 4) will contribute to an increase in inflation. On the other hand, the effects of the increase in telephone prices, considering the current judicial stance, will end in August. Assessment of Inflation Trends
 
-9
-51. 
-In July, as a result of a decrease in demand for FX instruments, the BCB rolled over 39.7% of 
-maturing principal of FX securities and swaps through swaps with terms ranging from 4 to 30 
-months (9 months on average), in two auctions. In the first rollover, rates fell compared to the 
-previous auction. Rates increased in the second sale due to the increase in the FX coupon curve 
-that resulted from the mentioned increase in the yield on U.S. securities. 
-52. 
-The Treasury offered fixed rate LTNs four times in August, selling R$8.3 billion of these securities, 
-including the placement of a security maturing in January 2005, through firm offer. Higher volatility 
-in the interest rate futures market resulted in higher rates for these securities. The Treasury also 
-held two LFTs auctions totaling R$6.9 billion in the period. 
-53. 
-The settlement of securities between July 24th and August 20th caused an expansionary monetary 
-impact of R$1.4 billion, as a result of net redemptions of R$7.2 billion in LFTs and R$2.5 billion in 
-dollar-indexed securities, partially offset by net placements of R$8.3 billion in LTNs. 
-54. 
-The Central Bank intervened in the open market on a weekly basis with 2-week repo operations, 
-and conducted daily liquidity management operations with maturities of 2 working days. These 
-operations withdrew from the banking reserves market excess liquidity of R$48.7 billion on 
-average. 
-55. 
-In July, mainly as a result of the partial rollover of dollar-linked securities, the share of FX domestic 
-public debt decreased to 28.5% from 29.1%. Total domestic securitized public debt increased by 
-3.1% in the month. 
- 
- 
- 
+9. The identified shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumes the following hypotheses: a. The projections for the readjustment of gasoline prices in the remainder of 2003 were revised. The new projection for this year’s readjustment stands at 4.9%, a significant increase if compared with 0.1% in July. This increase results from the exchange rate depreciation in the last month and mainly the rise of international oil prices. The projections for bottled cooking gas for the remainder of the year was stable. However, considering the rise in prices that occurred in July, the projections for bottled cooking gas prices for the full year rose to 5.8% from 2.3%; b. The projections for the readjustment of electricity tariffs increased to 22.3% from 21.0%. The projections for the readjustment of telephone tariffs in 2003 were maintained at 25.5% with a new distribution over the year. Due to the judicial injunction against the readjustment of these tariffs according to the IGP-DI annual variation, this item registered a change that was lower than expected in July. The Copom considered the hypothesis that differences between the authorized by Anatel and the actual readjustment will be compensated in the remainder of the year; 3 c. Regulated prices, which had a 28.5% weight in the July IPCA, are forecasted to rise 14.0% in 2003, a 0.9 p.p. increase compared to last month’s projection. The increase in this projection is a consequence of the rise in oil derivatives prices (gasoline and bottled cooking gas) and household electricity tariffs; d. For 2004, it is assumed that the readjustment of regulated prices will follow the endogenous determination model of regulated prices. Under this methodology, which considers the change in the exchange rate, free price inflation and the change in the IGP- DI, as well as seasonal factors, the projection for the readjustment of regulated prices in 2004 was reduced by 0.9 p.p., to 8.7%; e. The projection for the 6-month spread over the Selic rate, following the specification of the VAR model using the Selic and the swap rate on the eve of the Copom meeting, was –260 b.p. for the third quarter of 2003, gradually rising to 50 b.p. at the end of 2004.
 
-10
-Acronyms 
- 
-ACSP  
-  
-São Paulo Trade Association 
-Anatel   
- 
-National Telecommunications Agency 
-BCB 
- 
- 
-Banco Central do Brasil 
-BNDES  
- 
-National Bank of Economic and Social Development 
-BoP 
- 
- 
-Balance of Payments 
-b.p.  
- 
- 
-basis points 
-CNI 
- 
- 
-National Confederation of Industry 
-Embi+   
- 
-Emerging market Bond Index Plus 
-Fecomércio-SP  
-São Paulo State’s Federation of Commerce 
-GDP 
- 
- 
-Gross Domestic Product 
-IBGE   
- 
-Brazilian Institute of Geography and Statistics 
-IGP–DI   
- 
-General Price Index – Domestic Supply 
-IIC 
- 
-  
-Consumer Intentions Index 
-IPA-DI  
- 
-Wholesale Price Index  
-IPCA   
- 
-Broad Consumer Price Index - Brazil 
-IPC–BR 
-  
-Consumer Price Index – Brazil 
-LFT  
- 
-  
-National Treasury Bills (floating) 
-LTN  
- 
- 
-National Treasury Bills (fixed rate)  
-p.a.  
- 
-  
-per annum 
-p.p. 
- 
-  
-percentage point 
-s.a.  
- 
- 
-seasonally adjusted 
-VAR 
- 
- 
-Vector AutoRegressive 
-WTO   
- 
-World Trade Organization 
- 
+10. Regarding fiscal policy, it is assumed that the primary surplus target of 4.25% of the GDP for this year and the following two years will be accomplished. The other related assumptions established in the July meeting were maintained.
+
+11. Considering the baseline scenario hypotheses, including the maintenance of the Selic interest rate at 24.5% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$3.00), inflation is projected above the adjusted target of 8.5% for 2003 and below the target of 5.5% for 2004. Monetary Policy Decision
+
+12. The behavior of inflation in July proved over again that monetary policy has been able to establish the convergence of the inflation rate to the path of the inflation targets. This assessment is based not only on the 0.20% increase in the IPCA in July, but also on the persistent and quick fall of inflation expectations, on the exchange rate stability and on the favorable evolution of other price indices, both consumer and wholesale. These factors provide evidence of the effectiveness of monetary policy – within a framework of consistent macroeconomic policies - in reducing inflation persistence, and preventing the inflation rate from stabilizing at higher levels after it peaked in the final months of 2002.
+
+13. The rise of the IPCA from –0.15% in June to 0.20% in July is the result only of higher inflation in regulated prices, which rose to 0.73% from –1.02%. It should be highlighted that this increase was expected in the face of the readjustment of household electricity and telephone tariffs in this period. Inflation in tradable goods has been falling in the last two months, from 0.95% in May to 0.38% in June and –0.06% in July. This is a consequence of the exchange rate appreciation that occurred in the second quarter of the year. Inflation in non-tradable goods was almost zero for the third consecutive month. As a result, market prices inflation, a weighted sum of tradable and non- tradable price changes, has been falling since March and was zero in July. Another decline in the number of items in the IPCA that suffered price increases also occurred, from 60.4% in June to 57.2% in July, the lowest share since May 2001.
+
+14. The change in inflation dynamics is also captured by the behavior of core inflation and wholesale price indices. Core IPCA inflation calculated under the trimmed-mean method with smoothing and excluding regulated prices fell for the fourth consecutive month.
+
+15. Deflation in wholesale prices occurred for the third consecutive month, although the degree of deflation lessened in July. This behavior was observed for both industrial and agricultural prices. Considering that the positive impact of the agricultural harvest on prices is almost exhausted and 4 also that the exchange rate remained roughly stable in July, the deflation observed in July can be attributed to the lagged effects of the exchange rate appreciation since March in an environment of decelerating economic activity. Despite the small exchange rate depreciation that occurred since the July Copom meeting, there is still room for the deflation of wholesale prices to contribute to lower levels of inflation to consumers, especially in the case of tradable goods, even in the context of a recovery of economic activity.
+
+16. The exchange rate depreciated since the July Copom meeting, from a range between R$2.80 and R$2.90 to R$3.00 per US$ in the weeks before the August meeting. Country risk measured by the Embi+ rose from 730 b.p. to 900 b.p. in the beginning of August due to a rapid increase in long- term US interest rates and higher volatility in the domestic scenario in the last weeks of July. The Embi+ then decreased to 750 b.p. on the eve of the August Copom meeting. The Brazilian external accounts continued to post positive results, with records in the trade balance due to export growth, a surplus in the current account, and a quick recovery of rollover rates for external loans. Moreover, the negative short-term impact of the rise in long-term US interest rates will likely be compensated by the positive effects of the faster growth of the US economy on the global economy in the medium-run.
+
+17. Due to the exchange rate depreciation observed since the July Copom meeting, the current level of the exchange rate is equivalent to the average value during the second quarter of the year. Additionally, according to BCB simulations, the exchange rate appreciation in the first semester of 2003 has not yet been totally passed through to prices. Thus, the recent exchange rate depreciation is not expected to produce inflationary pressure.
+
+18. The level of economic activity continued to fall at the end of the second quarter. In June, industrial production fell by more than expected. Retail sales continued to decrease and industrial inventories were above desired levels. Installed capacity utilization stabilized around 80% and the unemployment rate remains high, around 13%. This does not mean that economic activity is in recession, since the deceleration is not generalized, and activity in some important sectors, such as agriculture and exports, has been growing strongly.
+
+19. The prospects for economic activity in the second half of the year are better than the outcome in the first half. Economic activity, particularly in the last quarter of 2003, may benefit from the effects of the cuts in the Over-Selic rate at the last three Copom meetings and the recent reduction of reserve requirements on demand deposits. The increase of real incomes, which may result from the decrease in inflation, will be an important factor supporting economic activity. Due to the behavior of the economy in the second quarter, growth during the second half will take place from a lower base than was expected at the July Copom meeting, and with a large margin of idle capacity. Thus, the recovery can be balanced, with the resumption of consumption and investment without significant inflationary pressures.
+
+20. The BCB’s inflation forecasts, assuming the maintenance of the Over-Selic rate at 24.5% p.a. and the exchange rate at R$3.00, point to inflation above the adjusted target of 8.5% for 2003. There was no significant change in inflation forecast for 2003, as the lower–than-expected inflation results in July were offset by the higher forecast for regulated prices through the end of the year. Thus, the inflation forecast remains compatible with that presented in the Open Letter sent by the BCB Governor to the Finance Minister on January 1, 2003.
+
+21. The BCB’s inflation forecasts for the next twelve months and for 2004, still assuming that the exchange rate and the Over-Selic rate remain constant, point to values below the target trend. The impact of the decrease in interest rates and the exchange rate depreciation observed in the last month was compensated by the lower forecast for the readjustment of regulated prices in the next year and by the significant decline of inflation expectations. 5
+
+22. The median of market inflation expectations has been behaving favorably. For 2003, market expectations decreased to 9.7% from 10.6%. Regarding expectations for inflation in the next twelve months, the decrease was to 6.4% from 7.0% between the weeks before the July and August Copom meetings, continuing the declining trend that had already been observed in June and July. With this reduction, inflation expectations for the next twelve months are below 6.75%, the value that corresponds to the path for the inflation targets in July 2004. Finally, for 2004, market expectations decreased to 6.2% from 6.5%, close to the target of 5.5% for the year.
+
+23. As in previous months, in an effort to evaluate the degree of inflation persistence, the Copom compared its inflation forecasts from the model currently in use with an alternative model that adopts a higher degree of inflation persistence. The inflation forecasts for July adopting the current model were more precise, which again provides evidence that the degree of inflation persistence is converging towards its historical mean.
+
+24. Monetary policy should be guided to make inflation converge to the target path. In the medium run, there is a real interest rate yield curve that is consistent with the target. In periods of transition, such as the current stage, it is up to the monetary authority to establish a short-term interest rate trend that permits the gradual convergence of the real interest rate yield curve to the that the one prevailing in the medium-run, guaranteeing that inflation converges to the target with the lowest volatility in output. With the evidence that inflation is falling to the targeted path, it is natural that the spreads between real interest rates and their medium-run equilibrium values diminishes.
+
+25. Considering the recent evolution of inflation and the perspectives for its future trend, as well as the significant improvement of the fiscal scenario in the medium and long run as a consequence of the reforms being discussed in Congress, the Copom believes that easing monetary policy is appropriate, promoting an adjustment in the Over-Selic rate to bring it to a trend consistent with the gradual convergence of the real interest rate yield curve to its equilibrium position.
+
+26. Thus, the Copom decided unanimously to fix the Over-Selic rate target at 22% p.a.
+
+27. At the close of the meeting, it was announced that the Copom would meet again on September 16 for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in the Communiqué 10,187, of October 2, 2002. 6 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+
+28. National retail sales fell 5.4% in June, compared to the same month of the previous year, accumulating a decline of 5.6% in the first six months of the year according to the IBGE. The sector that includes hypermarkets and supermarkets, food products, beverages and tobacco continued to exert a negative influence on the overall retail results, with a decrease of 8.3% in June, compared to the level observed in the same month of 2002, and accumulating a decline of 6.6% in the year.
+
+29. The statistics of the Fecomércio-SP show a seasonally adjusted decline of 4.2% in retail sales in the metropolitan region of São Paulo in July (preliminary data), compared to June. Only semi- durable consumer goods sales increased in the month (1.2%). In the year up to July, sales decreased 13.9% compared to the same period in 2002. Data on sales with checks and credit purchases, released by the ACSP, show commercial activity in July continuing at a low level.
+
+30. The consumer confidence index surveyed by Fecomércio-SP remained at 104.5 in August, mainly due to a 1.7 p.p. increase in consumers’ current intentions, which was offset by a 0.7 p.p. decline in future intentions. It is important to highlight that the recovery of current intentions, partially reversing the fall registered in the previous month, allowed the IIC to remain in the “optimistic” range, above 100, on a scale ranging from 0 to 200.
+
+31. In June, the main investment indicators declined, continuing the negative performance observed since the beginning of 2003. Capital goods production registered a major fall (–6.2%, s.a.). The production of construction inputs and imports of capital goods registered declines of 1.7% and 0.5% in June, respectively. Also reflecting the unfavorable economic environment for investment, medium and long term financing provided by BNDES decreased 16.8% year-on-year in the January-June period.
+
+32. In June, industrial production registered a sharp decline (-2.6%, s.a.) compared to the previous month, as a result of decreases in the mineral extraction industry (-9.3%) and manufacturing (- 1.9%). In the first half of the year, industrial output was roughly stable (+0.1%) compared to the same period of last year. The industrial sectors focused on the domestic market presented the worst performance, mainly the pharmaceutical sector (-16.2%), clothing and shoes (-14.8%), textiles (-8.5%) and electric material and communications (-6.9%). By categories of use, durable goods were notable for registering a s.a. increase of 0.9% in June. The other categories posted negative performance: capital goods (-6.2%); intermediate goods (-2.4%); and non-durable and semi-durable goods (-1.7%).
+
+33. Data on industrial activity released by the CNI showed a slowdown in June, with reductions of 1.2% and 0.5% s.a. in real sales and hours worked, respectively. The consecutive falls of industrial sales have created an undesirable buildup of inventories in industry, according to the quarterly CNI survey. The index of inventories of final products reached 54.2 (values above 50 indicate higher than expected inventories) in the second quarter of 2003. This plateau was a record in the series that began in the second quarter of 1998.
+
+34. In the automotive sector, output and sales of vehicles recovered in July. Output and external sales increased 4.4% and 0.8% s.a., respectively, while domestic sales increased 9.8%. Labor Market 7
+
+35. The index of employment increased 0.2% month-on-month in June s.a., and accumulated a 3.2% year-on-year increase in the first half of the year, according to Ministry of Labor and Employment data.
+
+36. According to the new methodology for the IBGE’s employment survey, the unemployment rate in the six main metropolitan areas reached 13% in June, compared to 12.8% in May, mainly as the result of a 0.26% expansion in the economically active population. The number of occupied people increased 0.11% in the same period.
+
+37. According to the survey, average real wages of employed workers fell by 13.7% compared to the same month of 2002. In the industrial sector, according to the CNI, real wages in June 2003 were 6.7% lower than in the same month of last year. Credit and Delinquency Rates
+
+38. Total non-earmarked credit declined 0.8% in July, reaching R$213 billion, driven by decreases of 1.9% and 1% in domestic and externally funded credit to corporates, respectively. This result was offset by an increase of 0.3% in loans to individuals in the month. Among credit to individuals, personal credit and auto financing presented the best performance.
+
+39. The average interest rate on non-earmarked credits fell again (1.8 p.p.) in July, driven by the reduction in the Over-Selic rate. Fixed rate lending to individuals registered the highest reduction (- 3.5%). The delinquency rate on non-earmarked bank credits remained at 8.8% for the fourth consecutive month.
+
+40. Regarding default rates on retail credit, although there was an increase in July, the level nevertheless remained lower than the same period of 2002. ACSP data showed that the number of cancelled registrations increased 20.8% compared to the previous month, signaling debtors intentions to repay debts. The delinquency rate increased to 5.2% in July, compared to 4.9% registered in June, but lower than the 7.2% registered in July 2002. External Environment
+
+41. In the US, the latest indicators pointed to a stronger-than-expected economic recovery. In the second quarter, real GDP increased 2.4% annualized (s.a.), with increases in consumption (3.3%), gross private investment (1.3%) and government expenditures (7.5%). Retail sales and industrial production registered increases of 1.4% and 0.5% in July, respectively. The unemployment rate decreased to 6.2% in July from 6.4% in June, while the number of people receiving unemployment benefits fell below 400 thousand, evidencing the likely recovery of the labor market.
+
+42. In Japan, there is also an optimistic environment regarding growth prospects this year. In the second quarter, GDP registered annualized growth of 2.3%, above expectations. On the other hand, the European economy posted zero growth in the second quarter. The German and Italian economies have contracted for two consecutive quarters. There are risks that the European contraction will be more severe due to the effects of the heat wave in that region, with negative impacts on energy supplies and agricultural output, which could affect inflation indices.
+
+43. The weak performance of the industrialized economies is again affecting international trade in 2003, leading the WTO to revise the global trade growth to below 3% this year. However, the recovery of some agricultural commodity prices and the growth of trade among southern hemisphere emerging countries are improving their trade performances. 8
+
+44. Business expectations are indicating a recovery in the US and Japan, while businessmen remain pessimistic in Europe. In the US, the Institute of Supply Management’s indices point to a solid recovery in the services sector, and expansion in the industrial sector. With respect to consumers, in July there was a fall of confidence in the US and a slight improvement in Europe and Japan.
+
+45. In July, inflation increased in the major economies, although remaining at low levels. The yields of US securities increased again in the international financial markets due to smaller risks of deflation and a better prospect for activity in the second half of the year. The major global stock indices have been rising since the end of the war in Iraq. The adjustment in equity capital of large US and European corporations aimed at reducing short run default risk and the improvement of liquidity have caused spreads to fall, benefiting corporate and sovereign securities. Foreign Sector
+
+46. The trade surplus reached US$2.1 billion in July, accumulating US$12.5 billion in 2003 and US$21.8 billion in the last 12 months. Exports increased 25% year-on-year in the first seven months of 2003, while imports decreased 3%. In July, daily average exports decreased 9.6% compared to the previous month and 1.9% compared to July 2002. Imports increased 0.1% and decreased 19.4% considering the same bases. Up to the 3rd week of August (11 working days), the trade surplus reached US$1 billion, with daily averages of exports and imports decreasing 1.1% and 13.6% year-on-year respectively.
+
+47. In July, manufactured exports reached US$3.4 billion, while semi-manufactured exports reached US$981 million, record values for this month. Basic products exports reached US$1.7 billion, the second highest level on record aside from July 2002. Up to July, exports registered record amounts for the three categories of products. Considering daily averages, up to July, exports of semi-manufactured products rose 37.1%, exports of basic products rose 36.9%, and manufactured exports increased 20.5%, all on a year-on-year basis. These increases occurred for all regions, with highlights to exports to China (+152.7%), Argentina (+87.7%), as well as the U.S. (+15.1%).
+
+48. Considering daily averages, during the first seven months of 2003 imports decreased 2.4% compared to 2002, mainly due to the decrease in imports of capital goods (-19.4%) and consumer goods (-9.4%). There was a 11.3% increase in fuel and oil imports and a 5.1% increase in raw material and intermediate goods purchases.
+
+49. The current account posted a surplus of US$744 million in July, compared to a US$548 million deficit in the same month of 2002. The deficit in the services and income accounts reached US$1.7 billion and unilateral transfers posted a US$417 million surplus. The 12-month current account surplus reached US$2.6 billion, or 0.57% of GDP in July. The inflow of FDI totaled US$1.2 billion. The global BoP result was positive: US$112 million. International reserves reached US$47.6 billion while adjusted net reserves stood at US$14.4 billion. Money Market and Open Market Operations
+
+50. The downward trend of inflation reinforced market expectations about the continuity of the fall of the Over-Selic target rate. On the other hand, the increase in the yield on U.S. securities and the resulting fall of prices of Brazilian securities abroad caused the long end of the local yield curve to shift upwards. As a result, the yield curve became less inverted: the spread of 1-year rate moved to –347 b.p. from -547 b.p., between July 23rd and August 19th. 9
+
+51. In July, as a result of a decrease in demand for FX instruments, the BCB rolled over 39.7% of maturing principal of FX securities and swaps through swaps with terms ranging from 4 to 30 months (9 months on average), in two auctions. In the first rollover, rates fell compared to the previous auction. Rates increased in the second sale due to the increase in the FX coupon curve that resulted from the mentioned increase in the yield on U.S. securities.
+
+52. The Treasury offered fixed rate LTNs four times in August, selling R$8.3 billion of these securities, including the placement of a security maturing in January 2005, through firm offer. Higher volatility in the interest rate futures market resulted in higher rates for these securities. The Treasury also held two LFTs auctions totaling R$6.9 billion in the period.
+
+53. The settlement of securities between July 24th and August 20th caused an expansionary monetary impact of R$1.4 billion, as a result of net redemptions of R$7.2 billion in LFTs and R$2.5 billion in dollar-indexed securities, partially offset by net placements of R$8.3 billion in LTNs.
+
+54. The Central Bank intervened in the open market on a weekly basis with 2-week repo operations, and conducted daily liquidity management operations with maturities of 2 working days. These operations withdrew from the banking reserves market excess liquidity of R$48.7 billion on average.
+
+55. In July, mainly as a result of the partial rollover of dollar-linked securities, the share of FX domestic public debt decreased to 28.5% from 29.1%. Total domestic securitized public debt increased by 3.1% in the month. 10 Acronyms ACSP São Paulo Trade Association Anatel National Telecommunications Agency BCB Banco Central do Brasil BNDES National Bank of Economic and Social Development BoP Balance of Payments b.p. basis points CNI National Confederation of Industry Embi+ Emerging market Bond Index Plus Fecomércio-SP São Paulo State’s Federation of Commerce GDP Gross Domestic Product IBGE Brazilian Institute of Geography and Statistics IGP–DI General Price Index – Domestic Supply IIC Consumer Intentions Index IPA-DI Wholesale Price Index IPCA Broad Consumer Price Index - Brazil IPC–BR Consumer Price Index – Brazil LFT National Treasury Bills (floating) LTN National Treasury Bills (fixed rate) p.a. per annum p.p. percentage point s.a. seasonally adjusted VAR Vector AutoRegressive WTO World Trade Organization

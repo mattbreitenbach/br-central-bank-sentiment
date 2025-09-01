@@ -1,672 +1,151 @@
-The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the 
-Brazilian and international economies under the monetary policy framework, which is designed to comply with the 
-inflation targets established by the government. 
- 
-Recent Economic Developments 
-  
-1. 
-IPCA inflation declined in March and reached 0.37%, down from 0.44% in the previous month and in 
-January. As a consequence, inflation totaled 1.26% in the first quarter of the year, above the expectations that 
-prevailed at the close of 2006, but below inflation registered in the same period last year (1.44%). The main driver 
-of the quarterly IPCA inflation result was the behavior of regulated prices, which increased 0.59%, compared to 
- 
-1
+1. IPCA inflation declined in March and reached 0.37%, down from 0.44% in the previous month and in January. As a consequence, inflation totaled 1.26% in the first quarter of the year, above the expectations that prevailed at the close of 2006, but below inflation registered in the same period last year (1.44%). The main driver of the quarterly IPCA inflation result was the behavior of regulated prices, which increased 0.59%, compared to 1 1.69% in the same period of 2006, while market prices increased 1.55% in the first quarter, up from 1.31% in the same quarter of 2006. Twelve-month trailing inflation through March reached 2.96%, compared to 5.32% in March 2006; for this result, market prices contributed 2.82%, whilst regulated prices accounted for 3.15% (compared to 3.90% and 8.66%, respectively, in March 2006).  Month-on-month inflation deceleration in March was a result of market prices inflation decline (0.44%, down from 0.59%), in contrast with regulated prices inflation acceleration (0.21%, up from 0.12%). In March, it bears emphasizing the upward pressure of food and clothing. The prices of tradable goods increased 0.21% in March, up from –0.10% in February, while the prices of non-tradable goods increased 0.66% in March, compared to 1.23% in February. Services inflation reached 0.38% in the month and 5.09% in the last twelve months (costs of courses increased 4.62%, while other services increased 5.19%). Despite the recent inflation acceleration observed at the end of 2006 and the start of 2007, the most likely scenario is that inflation evolves according to the targets path.
 
-1.69% in the same period of 2006, while market prices increased 1.55% in the first quarter, up from 1.31% in the 
-same quarter of 2006. Twelve-month trailing inflation through March reached 2.96%, compared to 5.32% in March 
-2006; for this result, market prices contributed 2.82%, whilst regulated prices accounted for 3.15% (compared to 
-3.90% and 8.66%, respectively, in March 2006).  Month-on-month inflation deceleration in March was a result of 
-market prices inflation decline (0.44%, down from 0.59%), in contrast with regulated prices inflation acceleration 
-(0.21%, up from 0.12%). In March, it bears emphasizing the upward pressure of food and clothing. The prices of 
-tradable goods increased 0.21% in March, up from –0.10% in February, while the prices of non-tradable goods 
-increased 0.66% in March, compared to 1.23% in February. Services inflation reached 0.38% in the month and 
-5.09% in the last twelve months (costs of courses increased 4.62%, while other services increased 5.19%). Despite 
-the recent inflation acceleration observed at the end of 2006 and the start of 2007, the most likely scenario is that 
-inflation evolves according to the targets path. 
-  
-2. 
-IPCA core inflation by exclusion of household food items and regulated prices also decreased month-on-
-month in March 0.23%, down from 0.52% in February, in line with the headline IPCA inflation decline. On the other 
-hand, the other underlying core inflation measures calculated by the BCB slightly increased: smoothed trimmed 
-means core increased 0.29% in March, up from 0.24% in February and continued to record the strongest rigidity 
-among the three core measures, while the non-smoothed trimmed means core increased 0.24%, up from 0.22%. In 
-the first quarter, core inflation by exclusion recorded 1.16%, the lowest level since 2002, while smoothed and non-
-smoothed trimmed means core measures totaled 0.92% and 0.81%, respectively, record lows for the series. This 
-behavior is also present on the twelve-month trailing basis through March, when cores reached 2.59%, 3.97% and 
-2.23%, respectively. 
-  
-3. 
-The General Price Index (IGP-DI) inflation remained virtually unchanged on a month-on-month basis in 
-March (0.22% compared to 0.23 in February). Leading indicators, such as the IGP-10, suggest that the stability 
-should continue. In the first quarter, the index increased by 0.88%, up from 0.21% in the same period last year. In 
-the twelve months through March, it reached 4.49%, up from 3.79% in February. This behavior was driven, among 
-other factors, by the recovery of agricultural prices, which presented monthly deflation results last year. Among the 
-IGP-DI components, the IPC-Br increased by 0.48% in March, up from 0.34% in February, while the INCC-DI 
-increased 0.27%, up from 0.21%. On the other hand, the Wholesale Price Index (IPA-DI) inflation increased 0.11% 
-in March, down from 0.19% in February. The decline in IPA-DI inflation was due to agricultural prices deflation, 
-which recorded –0.18%, after increasing 1.07% and 1.08%, respectively in January and February. As highlighted in 
-previous Copom Minutes, the effects of wholesale prices over consumer inflation will depend on prospective 
-demand conditions and price-setters’ expectations for the future inflation path. 
- 
-4. 
-After the last Copom meeting, the IBGE released new GDP figures, as a result of the implementation of 
-comprehensive methodological revision. The new data showed significant adjustments in the GDP level (roughly 
-11% increase) and in growth rates, with the last five-year average rate increasing to 3.2%, up from 2.5% and, in 
-2006, to 3.7%, up from 2.9%. Among other important changes, there was a substantial decline in the investment 
-rate. The new set of data also suggests that the economy, at least recently, could be using the factors of production 
-in a more efficient way. Another important change was the expansion of services in the GDP composition, which 
-suggests that the Brazilian economy profile is closer to those of other important economies. According to the new 
-2006 GDP data, on the supply side, agriculture grew 4.1%, as against 3.2% previously released, and services 
-increased by 3.7%, as against 2.4%, while industrial growth declined, recording 2.8%, as against 3.0%. On the 
-demand side, there were increases in gross fixed capital formation (8.7%, as against 6.3%), household 
-consumption (4.3%, as against 3.8%) and in government consumption (3.6%, as against 2.1%), while exports 
-growth declined (4.6%, as against 5.0%) and imports expansion was kept unchanged (18.1%). Moreover, 
-according to IBGE seasonally adjusted data for 2006, Q4 GDP increased 0.9% quarter-on-quarter, slightly below 
-the 1.1% rate previously released, while Q3 GDP increased 2.6%, well above the 0.8% rate previously released, in 
-line with the analysis of previous Copom Minutes. 
- 
-5. 
-After expanding in the three last months of 2006 and declining in January, industrial production resumed 
-growth in February, increasing by 0.3% month-on-month, with manufacturing industry and mining expanding by 
-0.6% and 0.3%, respectively, according to IBGE seasonally adjusted data. Compared to February 2006, industrial 
-production increased by 3.0%, the eight consecutive month of aggregate industrial production expansion. In the 
-last twelve months, industrial production expanded by 2.8%, with 2.6% for manufacturing industry and 6.2% for 
- 
-2
+2. IPCA core inflation by exclusion of household food items and regulated prices also decreased month-on- month in March 0.23%, down from 0.52% in February, in line with the headline IPCA inflation decline. On the other hand, the other underlying core inflation measures calculated by the BCB slightly increased: smoothed trimmed means core increased 0.29% in March, up from 0.24% in February and continued to record the strongest rigidity among the three core measures, while the non-smoothed trimmed means core increased 0.24%, up from 0.22%. In the first quarter, core inflation by exclusion recorded 1.16%, the lowest level since 2002, while smoothed and non- smoothed trimmed means core measures totaled 0.92% and 0.81%, respectively, record lows for the series. This behavior is also present on the twelve-month trailing basis through March, when cores reached 2.59%, 3.97% and 2.23%, respectively.
 
-mining. On a three-month moving average basis, industrial output grew by the eleventh consecutive month in 
-February. The expansion of manufacturing industry in February reached 14 out of 23 activities with seasonally 
-adjusted data. For March, leading and coincident indicators suggest the continuity of the ongoing expansion. The 
-several incentive factors to economic activity, including the monetary easing already implemented, suggest that the 
-expanding trend in industry shall continue in the upcoming months. 
- 
-6. 
-Disaggregated industrial data showed month-on-month seasonally adjusted expansion of 1.2% in durable 
-consumer goods production in February. Compared to the same month last year, capital goods production strongly 
-expanded by 14.3%, while intermediate goods production increased by 3.5%. According to the same comparison 
-basis, durable goods production contracted by 2.9%. In the first two months of the year, capital goods production 
-outperformed, expanding by 16.0%, and the pace of intermediate goods production accelerated, increasing by 
-3.3%. The dynamics of capital goods production reflects positive prospects for the growth of domestic demand and 
-the influence of favorable international prices in several sectors. In addition, the expansion of intermediate goods 
-production suggests a more generalized acceleration in industrial activity. 
- 
-7. 
-After declining between August and December last year, reaching 8.4%, the unemployment rate reached 
-9.3% in January and 9.9% in February, in line with the seasonal pattern at the start of the year. However, 
-compared to the same month last year, unemployment showed stability. The number of workers grew 2.5% in the 
-twelve months through February, indicating robust pace of job creation. The purchasing power of workers 
-increased 2.5% month-on-month and 6.1% compared to the same month last year. This dynamics is also present 
-in real payrolls, which increased 8.8% in February (8.1% in the year), compared to February 2006, maintaining the 
-upward trend and sustaining the growth of aggregate demand. According to the National Industry Confederation 
-(CNI) data seasonally adjusted by the BCB, manufacturing employment increased month-on-month 0.2% in 
-February, the fifteenth consecutive monthly expansion. Compared to February 2006, manufacturing industry 
-increased by 3.3%. Regarding formal employment, data from the Ministry of Labor and Employment (MTE) 
-confirms the continuity of expansion in February, with the creation of 148 thousand jobs, a 0.4% expansion on a 
-month-on-month seasonally adjusted basis. In the first two months of the year, formal job creation grew 4.7%, and 
-4.8% in the last twelve months. 
- 
-8. 
-After the slight 0.1% decline in December, which interrupted a four-consecutive-month expansion period, 
-retail sales strongly increased in the first two months of the year, according to data seasonally adjusted by the 
-IBGE. Retail sales expanded month-on-month 1.9% and 0.4% in January and February, respectively. When 
-compared to the same months last year, retail sales expanded robustly: 8.5% in January and 9.4% in February. 
-Still under this comparison basis, both months reached record highs for the series begun in January 2000. In the 
-year through February, retail sales expanded significantly by 8.9%, compared to the same period last year, a 
-record high for this period since the start of the series. In addition to the strong expansion of sales more linked to 
-credit, it bears emphasizing the positive performance of items more sensitive to income and employment. For 
-instance, hyper- and supermarket sales expanded by 6.8% in the first two months of the year. Expanded retail 
-sales, which include the sales of civil construction material and vehicles, motorcycles, parts and pieces, increased 
-11.0% in the first two months of the year, compared to the same period of 2006. For the rest of the year, it is 
-expected the continuity of retail sales expansion, boosted by the increase in employment and income, credit 
-expansion, the monetary easing process and by the recovery of consumer confidence.   
- 
-9. 
-Installed capacity utilization in the manufacturing industry reached 81.8% in February, 1.3 p.p. above that 
-observed in the same month of 2006, according to the new series released by CNI and seasonally adjusted by the 
-BCB. Compared to the same month last year, the February result reached the seventh consecutive monthly 
-expansion. This rate was 0.56 p.p. below the record high of the new series, observed in July 2004 (this difference 
-totaled 0.62 p.p. in January). Disaggregated indicators compiled by the FGV signaled a record in the capacity 
-utilization of capital goods in March. The higher average capacity utilization recently observed reflects the 
-intensification of economic activity. Moreover, data regarding investment, such as the 21.2% increase in the 
-absorption of capital goods in the first two months of the year, suggest a robust ongoing expansion of capacity, 
-sustained by both imports and capital goods production. The production of inputs for civil construction also 
-increased, despite at a lower pace, and expanded by 1.8% in the first two months. Therefore, relevant imbalances 
-between aggregate supply and demand are not anticipated yet. However, as stressed in previous Copom Minutes, 
- 
-3
+3. The General Price Index (IGP-DI) inflation remained virtually unchanged on a month-on-month basis in March (0.22% compared to 0.23 in February). Leading indicators, such as the IGP-10, suggest that the stability should continue. In the first quarter, the index increased by 0.88%, up from 0.21% in the same period last year. In the twelve months through March, it reached 4.49%, up from 3.79% in February. This behavior was driven, among other factors, by the recovery of agricultural prices, which presented monthly deflation results last year. Among the IGP-DI components, the IPC-Br increased by 0.48% in March, up from 0.34% in February, while the INCC-DI increased 0.27%, up from 0.21%. On the other hand, the Wholesale Price Index (IPA-DI) inflation increased 0.11% in March, down from 0.19% in February. The decline in IPA-DI inflation was due to agricultural prices deflation, which recorded –0.18%, after increasing 1.07% and 1.08%, respectively in January and February. As highlighted in previous Copom Minutes, the effects of wholesale prices over consumer inflation will depend on prospective demand conditions and price-setters’ expectations for the future inflation path.
 
-the inflation trajectory is closely linked to current and prospective developments with regard to the expansion of 
-supply of goods and services to adequately meet demand conditions. 
-  
-10. 
-Trade balance continues to record robust results at the start of 2007, confirming analysis expressed in 
-previous Copom Minutes about important structural changes in the Brazilian external trade. In the first quarter, the 
-trade surplus reached US$ 8.7 billion, 6.0% lower than that observed in the same period last year. This cooling was 
-expected, and was due to US$ 33.9 billion exports and US$ 25.2 billion imports in the period, 15.4% and 25.3% 
-higher than the amounts recorded in the first quarter of 2006. Despite robust, lower trade surpluses are a natural 
-consequence of both higher activity level and strengthened BRL, showing a healthy process of external adjustment 
-The current account surplus stood at US$ 1.7 billion in the first quarter, totaling US$ 13.3 billion in the twelve 
-months through March, or 1.2% of GDP. 
-  
-11. 
-With regard to the international scenario, uncertainties surrounding the monetary policy stance in the US 
-persist. Although additional interest rate increases cannot be discarded, the consensus points to the fact that an 
-easing monetary policy cycle could start this year. Similarly, the possibility of a stronger-than-expected deceleration 
-in the US economy cannot be discarded, and likewise, its effects on the global economy. On the other hand, 
-Brazilian economy and asset prices have been showing significant resilience against swings in international 
-financial markets, due to better fundamentals in recent years, and favorable exports prices. In addition to showing 
-resilience to market oscillations, the Brazilian economy trails a growth cycle with price stability. Therefore, the 
-Copom continues to consider that international financial market conditions are favorable.      
- 
-12. 
-Oil prices, another systematic source of international uncertainties, still present high volatility, with a slight 
-increase since the last Copom meeting, reflecting, among other factors, geopolitical tensions. Despite the 
-uncertainties surrounding the future oil prices trajectory, the main scenario considered by the Copom, which 
-attributes no change to domestic gasoline prices in 2007, continues plausible. 
- 
-Assessment of Inflation Trends 
- 
-13. 
-The identified shocks and their impacts were reassessed according to newly available information. The 
-scenario considered in the simulations utilized the following assumptions: 
-  
-a) Compared to the values considered in the March Copom meeting, the projection for gasoline and bottled 
-gas prices adjustments in 2007 were both maintained at 0%;  
-  
-b) Considering the same comparison basis, the projection for fixed telephone price adjustments in 2007 
-decreased to 3.4% from 3.9%, while the projection for household electricity price adjustments decreased to 2.2% 
-from 3.3%; 
-  
-c) The projection for regulated prices inflation in 2007 decreased to 4.2% from 4.5% (projection of the 
-March Copom Meeting). These items, according to the weights released by the IBGE, represented 30.99% of the 
-total March IPCA; 
-  
-d) The projection for regulated prices inflation in 2008 decreased to 5.2% from 5.6%. This projection is 
-based on the endogenous determination model for regulated prices. This model considers the effects of seasonal 
-components, exchange rate change, market prices inflation and the General Price Index (IGP); 
-  
-e) The projection for the spreads over the Selic rate, using a Vector Autoregressive model based on the 
-Selic and 180-day swap rates on the eve of the meeting, stood at 38 b.p. in the fourth quarter of 2007, reaching 71 
-b.p. in the last quarter of 2008. 
-  
-14. 
-Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 3.8% of 
-GDP in 2007 and 2008 will be achieved, adjusted by the possibility of a 0.45 p.p. reduction in this percentage due 
-to the implementation of PPI (Investment Pilot Program). The related assumptions considered in the previous 
-meeting were maintained. 
-  
- 
-4
+4. After the last Copom meeting, the IBGE released new GDP figures, as a result of the implementation of comprehensive methodological revision. The new data showed significant adjustments in the GDP level (roughly 11% increase) and in growth rates, with the last five-year average rate increasing to 3.2%, up from 2.5% and, in 2006, to 3.7%, up from 2.9%. Among other important changes, there was a substantial decline in the investment rate. The new set of data also suggests that the economy, at least recently, could be using the factors of production in a more efficient way. Another important change was the expansion of services in the GDP composition, which suggests that the Brazilian economy profile is closer to those of other important economies. According to the new 2006 GDP data, on the supply side, agriculture grew 4.1%, as against 3.2% previously released, and services increased by 3.7%, as against 2.4%, while industrial growth declined, recording 2.8%, as against 3.0%. On the demand side, there were increases in gross fixed capital formation (8.7%, as against 6.3%), household consumption (4.3%, as against 3.8%) and in government consumption (3.6%, as against 2.1%), while exports growth declined (4.6%, as against 5.0%) and imports expansion was kept unchanged (18.1%). Moreover, according to IBGE seasonally adjusted data for 2006, Q4 GDP increased 0.9% quarter-on-quarter, slightly below the 1.1% rate previously released, while Q3 GDP increased 2.6%, well above the 0.8% rate previously released, in line with the analysis of previous Copom Minutes.
 
-15. 
-Since the March Copom meeting, median IPCA inflation expectations for 2007, compiled by the BCB’s 
-Investor Relations Group (Gerin), decreased to 3.80% from 3.88%. This reduction was mainly driven by lower 
-estimates for Q2 and Q3 inflation. Twelve-month ahead inflation expectations decreased to 3.64% down from 
-3.80%. For 2008, inflation expectations remained at 4%. As mentioned in previous Minutes, these developments 
-suggest the consolidation of a more favorable long-term macroeconomic scenario. 
- 
-16. 
-The 2007 inflation forecast under the benchmark scenario – which assumes the maintenance of the Selic 
-rate at 12.75% and the exchange rate at R$2.05/US$ during the forecast period –slightly increased compared to 
-the values considered at the March Copom meeting, remaining below the 4.5% target established by the CMN for 
-the year. The forecast based on the market scenario – which incorporates the consensus exchange and Selic rates 
-trajectories collected by Gerin on the eve of the Copom meeting – slightly decreased relative to the values 
-considered in the March Copom meeting, remaining below the central target for the year. The projection for 2008 
-inflation slightly reduced in relation to the March projection, remaining below the 4.5% target in the benchmark 
-scenario and above the 4.5% target in the market scenario. 
- 
-Monetary Policy Decision 
- 
-17. 
-The Copom reaffirms the view expressed in previous Minutes, that in addition to containing short-term 
-inflationary pressures, monetary policy has also contributed significantly for the consolidation of a favorable long-
-term macroeconomic environment. Economic activity data still do not suggest high probability of important 
-pressures over inflation in the short-run. Imports expansion has contributed significantly to this process, 
-complementing domestic production and, therefore, limiting potential inflationary effects of aggregated demand 
-sustained growth. Moreover, despite the prospects of lower liquidity in international markets, due to the interest 
-rates increase in industrialized economies, and the volatility increase in the global markets, the external outlook 
-remains favorable. Particularly regarding Brazilian external financing, the Copom continues to assign low 
-probability to a significant deterioration in international financial market conditions. Therefore, the prospects for the 
-inflation trajectory remain benign. As in recent meetings, the Copom emphasizes that the main challenge of the 
-monetary policy in this context is to guarantee the consolidation of positive developments anticipated for the future.  
-  
-18. 
-The Copom evaluates that the relatively high inflation monthly rates, which have persisted since the end of 
-2006, do not represent yet a risk to the medium-term inflation trajectory. Part of the inflation increase at the start of 
-the year is due to one-off factors, such as the elevation of food prices, and seasonal components, such as tuition 
-fees readjustments, in addition to certain pressures over services prices. Due to the nature of such pressures, they 
-are expected to dampen throughout time, without necessarily affecting longer-time horizons. However, the Copom 
-will continue to manage the monetary policy stance so that the gains obtained in inflation control in recent years 
-become permanent. In this respect, the Copom will carefully monitor the evolution of inflation and the several core 
-inflation measures in the upcoming months, discriminating between one-off and persistent or generalized price 
-increases, and promptly adjusting the monetary policy stance to the circumstances. 
-  
-19. 
-The preservation of inflation rates in line with the targets path and the consolidation of a long-lasting stable 
-macroeconomic scenario will contribute to the progressive reduction of macroeconomic risk perception underway. 
-The scope for a reduction in real interest rates in the future will naturally follow as a consequence of this improved 
-perception. The Copom evaluates that its cautious monetary policy stance has been critical to increasing the 
-probability of inflation convergence to the targets path. For this to materialize, however, it is important that forward-
-looking inflation indicators remain consistent with the recent benign inflation outlook observed in the last quarters.  
-  
-20. 
-The Copom emphasizes, once again, that there are important time lags in the transmission of monetary 
-policy stance to economic activity and inflation. Since the beginning of the monetary easing cycle, in September 
-2005, the Selic rate has already been reduced by 700 b.p., with the bulk of the reduction concentrated in the last 
-nine months. Consequently, the activity level has not completely mirrored the effects of the interest rates cuts, as 
-well as the effects of the economic activity resumption on inflation have not completely materialized. Therefore, the 
-evaluation of alternative monetary policy stances should necessarily focus on the prospective inflation scenario and 
-its risks, instead of current inflation indicators.  
-  
- 
-5
+5. After expanding in the three last months of 2006 and declining in January, industrial production resumed growth in February, increasing by 0.3% month-on-month, with manufacturing industry and mining expanding by 0.6% and 0.3%, respectively, according to IBGE seasonally adjusted data. Compared to February 2006, industrial production increased by 3.0%, the eight consecutive month of aggregate industrial production expansion. In the last twelve months, industrial production expanded by 2.8%, with 2.6% for manufacturing industry and 6.2% for 2 mining. On a three-month moving average basis, industrial output grew by the eleventh consecutive month in February. The expansion of manufacturing industry in February reached 14 out of 23 activities with seasonally adjusted data. For March, leading and coincident indicators suggest the continuity of the ongoing expansion. The several incentive factors to economic activity, including the monetary easing already implemented, suggest that the expanding trend in industry shall continue in the upcoming months.
 
-21. 
-During the coming months, employment and income expansions and credit growth will continue to bolster 
-economic activity. As mentioned in recent Copom Minutes, activity level should also reflect the effects of 
-governmental transfers and other fiscal impulses occurred in 2006 and expected for the next quarters of the year. 
-Consequently, the lagged effects of interest rates cuts on an increasingly robust aggregate demand will add up to 
-other factors that will continue to contribute to this expansion. These issues become even more relevant 
-considering the signs of heated aggregate demand, short-term inflation pressures, and the fact that the monetary 
-policy decisions should have concentrated effects in the last months of 2007 and, progressively, in 2008. 
-  
-22. 
-In light of the existing incentives for expanding aggregate demand, the uncertainties surrounding the 
-monetary policy transmission mechanisms, the lower distance between the current Selic rate and the medium-term 
-equilibrium interest rates, and the interest rate cuts implemented since September 2005, the Copom members 
-understood that the preservation of important achievements in disinflation and in preserving economic growth, with 
-job creation and rising real income, demands a more cautious monetary easing stance. 
-  
-23. 
-Even in this context, Copom participants believe that there are several signs showing that the imports 
-contribution to the consolidation of a benign scenario for inflation, through the limits exerted on tradable prices in a 
-robust aggregate demand environment, may be stronger than initially thought. As a result, during the decision 
-process regarding the monetary easing pace, three members of the Committee understood that the balance of 
-risks to the evolution of the future inflation trajectory, considering the perspectives for both market and regulated 
-prices, would justify a 50 b.p. reduction in the Selic target rate.  
-  
-24. 
-However, the majority of the Committee maintained the assessment that, considering the extension of the 
-easing process already implemented, the remaining uncertainties regarding the lagged impacts of the monetary 
-easing, the expected behavior of the other sustaining factors of expenditure, such as income growth, in a scenario 
-of solid expansion of the domestic demand for tradable and non-tradable goods and services, and of economic 
-activity strengthening, continued to recommend the maintenance of the 25 b.p. reduction pace in the Selic target 
-rate. 
-  
-25. 
-Given the reasons stated above, the Copom decided to continue the monetary easing cycle, started in the 
-September 2005 meeting, and reduced the Selic target rate to 12.50% p.a., without bias. Four votes were for the 
-Copom monetary policy action, while three votes were in favor of reducing the Selic target by 50 basis points. 
- 
-26. 
-Under an inflation-targeting regime, the monetary authority decides according to inflation prospects, 
-analyzing alternative scenarios for the evolution of the main variables that determine price dynamics and the 
-balance of risks associated to the forecasts. Although uncertainties regarding the US economic performance 
-persist, the international scenario remains favorable, contributing to a positive domestic inflation outlook. On the 
-other hand, price pressures, apparently punctual and temporary, hit the economy at a moment when domestic 
-demand already expands vigorously, sustaining the economic activity recovery, including sectors little exposed to 
-external competition, when the effects of important incentive factors, such as the monetary easing already 
-implemented, have not completely materialized. In such environment, the monetary authority must remain vigilant, 
-so that short-term uncertainties do not contaminate longer time horizons.  
-  
-27. 
-At the conclusion of the meeting, it was announced that the Copom would reconvene on June 5th 2007, for 
-technical presentations, and on the following day to discuss the monetary policy decision, as established in 
-Communiqué 15,011 of October 31, 2006. 
- 
-SUMMARY OF DATA ANALYZED BY THE COPOM 
- 
-Inflation 
- 
-28. 
-The IPCA inflation increased 0.37% in March, down from 0.44% in February. The slight decrease was 
-mainly driven by the exhaustion of the education costs readjustments impact, after the seasonal increase that 
-influenced the February IPCA inflation. Food and beverages prices increased 0.98%, up from 0.78% in the 
-previous month, and are responsible for 0.2 p.p. of the IPCA monthly result, overall for the higher elevation of 
- 
-6
+6. Disaggregated industrial data showed month-on-month seasonally adjusted expansion of 1.2% in durable consumer goods production in February. Compared to the same month last year, capital goods production strongly expanded by 14.3%, while intermediate goods production increased by 3.5%. According to the same comparison basis, durable goods production contracted by 2.9%. In the first two months of the year, capital goods production outperformed, expanding by 16.0%, and the pace of intermediate goods production accelerated, increasing by 3.3%. The dynamics of capital goods production reflects positive prospects for the growth of domestic demand and the influence of favorable international prices in several sectors. In addition, the expansion of intermediate goods production suggests a more generalized acceleration in industrial activity.
 
-perishable food prices. With the monthly result, the IPCA maintained the deceleration trajectory, totaling 2.96% in 
-twelve months and 1.26% in the first quarter of the year. 
-  
-29. 
-Market prices inflation totaled 0.44% in March, down from 0.59% in February, while regulated prices 
-increased 0.21%, up from 0.12%, in the same period. In twelve months, market prices accumulated 2.82%, and 
-regulated prices, 3.15%. Among market prices, non-tradable goods prices increased 4.51%, mainly because of the 
-5.09% elevation in the prices of services, while the prices of tradable goods increased 1.10%.  
-  
-30. 
-The trimmed means core measures slightly increased in March, month-on-month, while the core excluding 
-household food and regulated prices decreased significantly. On a twelve-month trailing basis, all core measures 
-maintained a declining trend. The non-smoothed trimmed means core reached 0.24% in the month, up from 0.22% 
-in February, totaling 2.23% in twelve months. Smoothed trimmed means core increased 0.29% in March, up from 
-0.24% in February, totaling 3.97% in twelve months. Finally, the core excluding household food and regulated 
-prices reached 0.23% in March, down from 0.52% in the previous month, and accumulated 2.59% in twelve 
-months. 
- 
-31. 
-The IGP-DI increased 0.22% in March, compared to 0.23% in February, totaling 0.88% in the year through 
-March and 4.49% in the last twelve months. Among the IGP-DI components, only the IPA (Wholesale Prices Index, 
-the sub-index with the largest weight in the IGP-DI) decelerated in March, totaling 0.11%, down from 0.19% in 
-February. The IPC-BR increased 0.48% in the month, up from 0.34% in February, mainly driven by higher rates in 
-5 of its 7 composing groups, mainly food. The IPC-Br core under the smoothed trimmed means method calculated 
-by FGV increased 0.27% in March, up from 0.16% in the previous month, totaling 0.69% in the year through March 
-and 2.52% in twelve months. The INCC-DI increased 0.27% in March, up from 0.21% in February, as a 
-consequence of higher labor costs driven by wage increases in Salvador and Rio de Janeiro. Services and 
-materials increased 0.19% in March, down from 0.40% in February. The INCC-DI changed 0.94% in the year 
-through March, and 5.25% in the last twelve months.       
- 
-32. 
-The lower IPA inflation in March reflected the reduction of agricultural prices, which offset the impact of 
-industrial prices acceleration. The Agricultural IPA inflation totaled -0.18%, down from the 1.08% rise in February, 
-while the Industrial IPA grew 0.20%, up from –0.10% in the previous month. According to the three stages of 
-production, only raw materials showed a negative price change, -0.80%, after a 0.42% growth in the previous 
-month. The prices of final goods increased 0.55%, up from 0.42% in February, while the prices of intermediate 
-goods totaled 0.31%, up from –0.08%, in the same period. In the twelve months through March, the prices of raw 
-materials grew 15.28%, pressuring the IPA result in the period; the prices of intermediate and final goods increased 
-by 3.21% and 0.69%, respectively.      
- 
-Economic Activity 
- 
-33. 
-GDP grew 3.7% in 2006, according to IBGE’s new methodology, in comparison to 2.9% in the previous 
-series. Expansion was generalized through all production components. Regarding the production side, the crop 
-and livestock sector expanded by 4.1%, while industrial and service sectors grew by 2.8% and 3.7% respectively. 
-On the demand side, there were increases in gross fixed capital formation (8.7%), household consumption (4.3%), 
-government consumption (3.6%), exports (4.6%) and imports (18.1%). The external sector contributed -1.4% to 
-GDP growth, while domestic demand (consumption plus GFCF) was responsible for 4.8 p.p. in product expansion, 
-with a 0.3 p.p. variation due to inventories adjustment. 
- 
-34. 
- According to IBGE’s monthly survey, retail sales increased 0.40% in February, on a month-on-month 
-seasonally adjusted basis. Among the activities composing the general index, there were increases in the sales of 
-fuel and lubricants (1.3%), and hyper- and supermarkets, food products, beverages and tobacco (0.1%); there were 
-decreases in the sales of fabric, clothing and shoes (-2.5%) and furniture and home appliances (-4.2%). Vehicles 
-and motorcycles, parts and pieces, comprised in the expanded retail sales, increased 5.3% in February. On a 
-regional basis, 26 out of the 27 Brazilian states showed positive results in February, compared to February 2006; 
-Piauí (-0.1%) was the only exception. 
- 
- 
-7
+7. After declining between August and December last year, reaching 8.4%, the unemployment rate reached 9.3% in January and 9.9% in February, in line with the seasonal pattern at the start of the year. However, compared to the same month last year, unemployment showed stability. The number of workers grew 2.5% in the twelve months through February, indicating robust pace of job creation. The purchasing power of workers increased 2.5% month-on-month and 6.1% compared to the same month last year. This dynamics is also present in real payrolls, which increased 8.8% in February (8.1% in the year), compared to February 2006, maintaining the upward trend and sustaining the growth of aggregate demand. According to the National Industry Confederation (CNI) data seasonally adjusted by the BCB, manufacturing employment increased month-on-month 0.2% in February, the fifteenth consecutive monthly expansion. Compared to February 2006, manufacturing industry increased by 3.3%. Regarding formal employment, data from the Ministry of Labor and Employment (MTE) confirms the continuity of expansion in February, with the creation of 148 thousand jobs, a 0.4% expansion on a month-on-month seasonally adjusted basis. In the first two months of the year, formal job creation grew 4.7%, and 4.8% in the last twelve months.
 
-35. 
-Compared to February 2006, retail sales increased 9.4%. This figure results from growth in all sales 
-segments, mainly furniture and home appliances (19.1%) and hypermarkets (6.9%). Regarding the expanded retail 
-sales, it bears emphasizing the performance of automobiles sales (19.5%). Retail sales performance reflects the 
-continuity of payroll growth and better credit conditions. In the first two months of 2007, retail sales expansion 
-reached 8.9%, compared to the same period of 2006. 
- 
-36. 
-Still compared to February 2006, expanded retail sales, which include civil construction inputs and vehicles 
-and motorcycles, their parts and pieces, increased 11.9% in last February.  In the first two months of 2007, the 
-expanded index grew 11.0%, mainly due to the increases of 16.7% and 6.1% in the sales of vehicles and civil 
-construction inputs, respectively. 
- 
-37. 
-São Paulo Trade Association (ACSP) data, relative to the city of São Paulo and seasonally adjusted by the 
-BCB, showed increases in database consultations for credit sales (1.8%) and in consultations to the Usecheque 
-system (2.2%) in March, month-on-month. Compared to March 2006, there were increases of 4.5% and 5.5%, 
-respectively. 
- 
-38. 
-Regarding investment indicators, domestic production of capital goods and civil construction inputs 
-increased 0.1% and 0.3% in February 2007, respectively, on a month-on-month seasonally adjusted basis. Capital 
-goods imports fell 6.0% according to the same comparison basis, after two consecutive months of accelerated 
-growth. In twelve months through last February, these indices grew 6.9%, 3.6% and 24.4% respectively. According 
-to the same comparison basis, capital goods production for energy increased 18.3%; for mixed use, 12.4%; for 
-typically industrial sectors, 7.7%; and for civil construction, 6.6%. Capital goods production for agriculture reduced 
-11.2% in the twelve months through February, after a 14.6% fall in the twelve months through the previous month, 
-signaling a marginal trend reversion. 
- 
-39. 
-BNDES’s credit operations for mid- and long-term investments reached R$ 11.3 billion in the first quarter of 
-2007, exceeding by 66.5% those disbursed in the first quarter of 2006. In the twelve months through March, total 
-operations increased 26.0%, emphasizing the recent acceleration of this indicator. The growth in demand for mid- 
-and long-term financing is also evident by the total amount involved in financing consultations registered by the 
-BNDES in March 2007, R$15 billion, around 190% above the figure recorded in March 2006. 
- 
-40. 
-According to IBGE’s Monthly Industrial Survey (PIM), industrial production increased 0.3% in February on a 
-month-on-month seasonally adjusted basis, reaching the record high of December 2006. Industrial production 
-increased 3.0%, compared to February 2006, with cumulative changes of 3.7% in the first two months of 2007 and 
-2.8% in the twelve months through February.  
- 
-41. 
-Considering seasonally adjusted data, industrial output in February was driven by increases of 0.3% and 
-0.6% in mining and manufacturing sectors, respectively. All use categories recorded production increases in the 
-period, with highlights to durable consumer goods (1.2%), non-durable consumer goods (0.7%) and intermediate 
-goods (0.5%). Capital goods production remained roughly stable in February (+0.1%), after three consecutive 
-positive changes. On a yearly basis, capital goods expanded by 14.3%, with a 16.0% elevation in the first two 
-months of the year. 
- 
-42. 
-Disaggregated analysis of seasonally adjusted industrial activity data showed that 14 of the 23 sectors 
-surveyed grew in February, with highlights, according to their respective contributions to overall result, to oil refining 
-and alcohol production (4.1%), electronic materials and communication equipment (7.4%) and food (1.8%). The 
-main negative drivers were machines and electric equipment  (-5.7%), machines and equipment (-2.6%) and basic 
-metallurgy (-2.9%).  
- 
-43. 
-Still considering the industrial activity, according to CNI data, seasonally adjusted by the BCB, hours 
-worked in production rose 2.2% and real sales remained stable in February, in comparison to the previous month. 
-In the first two months of 2007, these indicators increased 3.0% ad 4.9% respectively, in comparison to the same 
-period of 2006. Installed capacity utilization posted at 81.8% in February, close to the 81.7% of January, in the 
-seasonally adjusted series; considering the observed data, installed capacity utilization reached 80.3% in last 
-February, leveling 1.3 p.p. above the February 2006 result. 
- 
-8
+8. After the slight 0.1% decline in December, which interrupted a four-consecutive-month expansion period, retail sales strongly increased in the first two months of the year, according to data seasonally adjusted by the IBGE. Retail sales expanded month-on-month 1.9% and 0.4% in January and February, respectively. When compared to the same months last year, retail sales expanded robustly: 8.5% in January and 9.4% in February. Still under this comparison basis, both months reached record highs for the series begun in January 2000. In the year through February, retail sales expanded significantly by 8.9%, compared to the same period last year, a record high for this period since the start of the series. In addition to the strong expansion of sales more linked to credit, it bears emphasizing the positive performance of items more sensitive to income and employment. For instance, hyper- and supermarket sales expanded by 6.8% in the first two months of the year. Expanded retail sales, which include the sales of civil construction material and vehicles, motorcycles, parts and pieces, increased 11.0% in the first two months of the year, compared to the same period of 2006. For the rest of the year, it is expected the continuity of retail sales expansion, boosted by the increase in employment and income, credit expansion, the monetary easing process and by the recovery of consumer confidence.
 
-44. 
-Vehicles production reached a monthly record high in March 2007: 246.5 thousand units, according to the 
-Anfavea. This figure corresponds to a 7.4% increase compared to the same month of 2006, and to a 5.5% month-
-on-month growth, according to BCB’s seasonally adjusted series. Also in seasonally adjusted terms, domestic 
-sales rose 6.7%, while exports decreased 2.5%, month-on-month. Compared to the first quarter of 2006, vehicles 
-production and domestic sales increased 4.0% and 11.4%, respectively, and exports fell 9.5%. The production of 
-agricultural machines rose 8.3% in the first quarter of 2007, compared to the same period of 2006, reflecting the 
-sector’s recovery in the current period. 
- 
-45. 
-According to the IBGE, the March estimate for crops harvest in the year 2006-7 is 11.8% above the 
-previous year result. National production of cereals, legumes and vegetables should reach 130.7 million tons, due 
-to good weather conditions and the production incentives resulting from the elevation of international prices of 
-agricultural goods. Second-harvest soy and corn are the main drivers of the expansion in grains production this 
-year. It bears emphasizing the increase in land occupation for sugar cane production, driven by the growing interest 
-in ethanol production. Sugar cane lands increased 7.0% in 2007, and the estimate production is 7.9% higher than 
-that recorded in the previous harvest. 
- 
- 
-Surveys and Expectations 
-                
-46. 
-The Fecomercio-SP survey showed stability in the Consumer Confidence Index (ICC) in April, after a 
-significant drop in March. The Current Economic Conditions Index (Icea) increased 2.5%, and the Consumer 
-Expectation Index (IEC) decreased 1.8%, signalizing that consumers are more cautious with the future economic 
-expectations. In fact, for the fourth consecutive month, the Icea remained above the IEC. 
-  
-47. 
-According to the FGV survey, which encompasses two thousand homes in the seven main state capitals of 
-the country, the ICC declined 2.8% month-on-month in March. This result is due to the deterioration in both the 
-assessment of the present situation and in the 6-month ahead expectations. 
- 
-48. 
-Still according to FGV, the Industry Confidence Index (ICI), which encompasses six items of the 
-Manufacturing Industry Survey, increased 4.7% month-on-month in March, for an 8.1% cumulative increase in the 
-first quarter of 2007, compared to the same quarter of 2006. On a month-on-month basis, there were increases of 
-2.4% in the assessment about the present situation and 7.4% in the expectations for the upcoming months. 
- 
- 
-Labor Market 
- 
-49. 
-According to the Ministry of Labor and Employment, 148,019 new jobs were created in February 2007. The 
-result is the second best for the month, since the beginning of the series in 1985, only below the February 2006 
-result, when 176,632 new jobs were created. In the first two months of the year 253 thousand new jobs were 
-created, compared to 263 thousand in the same period of 2006. After seasonal adjustment, the employment index 
-increased 0.4% in the month, with increases in all sectors. In the last twelve months, the expansion reached 4.8%, 
-with highlights to the 7.8% increase in civil construction employment.  
-  
-50. 
-According to the IBGE employment survey (PME) in the six main metropolitan areas of the country, the 
-unemployment rate reached 9.9% in February, compared to 9.3% in the previous month and 10.1% in February 
-2006. The month-on-month unemployment rate change reflects mainly the 6.5% non-occupied population increase, 
-as economically active population (PEA) has remained almost stable (a 0.2% increase) in the period. The number 
-of employed workers decreased 0.4% in February, totaling about 91 thousand people. However, the number of 
-formal employed workers in the private sector increased 0.2%, while the number of informal workers decreased 
-2.8%, confirming the increase trend of formal of labor market, with positive results over productivity and labor 
-conditions. In the first two months of 2007, the number of informal workers fell 3.0%, while the number of formal 
-workers increased by 4.1%.   
- 
-51. 
-According to the same survey, real average earnings reached R$1,096.30 in February, a 2.5% month-on-
-month increase and a 6.1% elevation compared to February 2006. Real payrolls increased 2% month-on-month in 
- 
-9
+9. Installed capacity utilization in the manufacturing industry reached 81.8% in February, 1.3 p.p. above that observed in the same month of 2006, according to the new series released by CNI and seasonally adjusted by the BCB. Compared to the same month last year, the February result reached the seventh consecutive monthly expansion. This rate was 0.56 p.p. below the record high of the new series, observed in July 2004 (this difference totaled 0.62 p.p. in January). Disaggregated indicators compiled by the FGV signaled a record in the capacity utilization of capital goods in March. The higher average capacity utilization recently observed reflects the intensification of economic activity. Moreover, data regarding investment, such as the 21.2% increase in the absorption of capital goods in the first two months of the year, suggest a robust ongoing expansion of capacity, sustained by both imports and capital goods production. The production of inputs for civil construction also increased, despite at a lower pace, and expanded by 1.8% in the first two months. Therefore, relevant imbalances between aggregate supply and demand are not anticipated yet. However, as stressed in previous Copom Minutes, 3 the inflation trajectory is closely linked to current and prospective developments with regard to the expansion of supply of goods and services to adequately meet demand conditions.
 
-February, and maintained a yearly rising trend, with an 8.8% increase in February, compared to the same month 
-last year.     
-  
-52. 
-According to CNI, industrial employment increased 0.2% month-on-month in February, seasonally 
-adjusted. In the first two months of 2007, expansion totaled 3.4%. Real payrolls in industry increased 6.4% in 
-February, compared to the same month in 2006, accumulating a 7% expansion in the first two months.     
- 
-Credit and Delinquency Rates 
- 
-53. 
-Credit operations in the financial system increased 1.3% in March, accumulating a 21.0% expansion in the 
-last twelve months. Non-earmarked credit increased 1.9% in the month and 23.5% in twelve months, while 
-earmarked credit remained stable and increased 15.9%, according to the same comparison bases. In the non-
-earmarked credit market, it bears emphasizing leasing operations in the last twelve months, with a 54.1% increase 
-in operations for individuals and 62.6% for corporate. Among operations for earmarked credit, the most significant 
-expansions on a twelve-month basis were for operations directed to housing (22.8%) and to agriculture (21.3%).  
-  
-54. 
-Non-earmarked credit, used as reference for interest rates, increased 2.1% in March and 20.1% in the last 
-twelve months. Credit for individuals increased 2.0% in March, totaling a 21.7% increase in twelve months. 
-Corporate credit operations with domestic funding increased 2.0% in the month and increased 20.8% in twelve 
-months, while externally funded operations increased 3.1% and 12.3%, according to the same comparison bases. 
-  
-55. 
-The average interest rate on credit operations reached 38.5% p.a. in March, a record low for the historical 
-series, 1.2 p.p. below the February rate and 7.2 p.p. below the March 2006 result. The average rate on credit for 
-individuals reached 49.9% p.a., down from 59.0% p.a. in the same month of 2006. The average rate on corporate 
-credit decreased 5.3 p.p. in the last twelve months, reaching 25.4% p.a. 
- 
-56. 
-The average tenure of credit operations for individuals, excluding overdraft account, reached 410 days in 
-March, compared with 347 in March 2006. The average tenure of personal credit modality reached 402 days, 
-increasing 76 days compared to the previous year, reflecting the increasing weight of payroll-deducted in this credit 
-modality. Moreover, the average tenure of credit directed to vehicles acquisition increased to 549 days up from 500 
-days in the last twelve months.    
-  
-57. 
-Delinquency rate in the financial system (non-earmarked loans in arrears for more than ninety days) 
-reached 4.9% in February, decreasing 0.1 p.p. in the month and increasing 0.3 p.p. in the last twelve months. 
-Delinquency rate for corporate credit operations remained stable in the month and increased 0.6 p.p. compared to 
-February 2006, reaching 2.8%. Delinquency rate for credit operations with individuals reached 7.1%, decreasing 
-0.2 p.p. in the month and in the last twelve months. 
- 
-58. 
-Net delinquency rate for retail credit, measured by the ACSP, reached 7.1% in March, compared to 7.3% in 
-the same month of 2006 and to the 5.3% average in 2006.  
- 
-External Environment 
- 
-59. 
-After the turbulence in the stock markets at the end of February, concerns returned to the degree of 
-downturn in the US economy – mainly in the residential housing sector – and to the evolution of US inflation, which 
-were present in the last Federal Open Market Committee (FOMC) Minutes. In the Euro Zone, the European Central 
-Bank (ECB) maintained the interest rate at 3.75% p.a. in the last meeting, but stressed that the risks to the inflation 
-dynamics persist and that the monetary authority will be vigilant to any price movements. Other Central Banks 
-issuing international currencies reaffirmed their intention to contain inflationary pressures. 
- 
-60. 
-In terms of global economic activity performance, the International Monetary Fund (IMF) presented new 
-projections to world growth, forecasting two more years of vigorous economic growth – 4.9% in 2007 and 2008 – 
-with developing countries reaching higher growth rates than developed countries – 7.5% and 2.5%, respectively. 
-According to the IMF, the risks to global growth declined and are moderate. The main risks are concentrated in the 
-performance of the US economy, with special reference to the housing market, and in the possibility of a 
- 
-10
+10. Trade balance continues to record robust results at the start of 2007, confirming analysis expressed in previous Copom Minutes about important structural changes in the Brazilian external trade. In the first quarter, the trade surplus reached US$ 8.7 billion, 6.0% lower than that observed in the same period last year. This cooling was expected, and was due to US$ 33.9 billion exports and US$ 25.2 billion imports in the period, 15.4% and 25.3% higher than the amounts recorded in the first quarter of 2006. Despite robust, lower trade surpluses are a natural consequence of both higher activity level and strengthened BRL, showing a healthy process of external adjustment The current account surplus stood at US$ 1.7 billion in the first quarter, totaling US$ 13.3 billion in the twelve months through March, or 1.2% of GDP.
 
-disorganized adjustment in global imbalances. Therefore, at the same time that the IMF recognizes that global 
-economic conditions have underpinned a favorable financial environment, also admits that the underlying risks can 
-potentially weaken the financial stability. In general, the IMF points out to a reduction in the macroeconomic risks 
-and a slight increase in financial risks.        
- 
-Foreign Trade and International Reserves 
- 
-61. 
-In the first quarter of 2007, Brazilian foreign trade continued to expand. Trade surplus reached US$8.7 
-billion in the period, and US$45.5 billion in the twelve months through March, while total external trade totaled 
-US$59.1 billion and US$238.5 billion, according to the same bases. Trade surplus reached US$1,763 million in the 
-first 9 working days of April: exports totaled US$5,449 million whereas imports reached US$3,686 million. 
- 
-62. 
-Exports reached US$12.9 billion in March, a record high for the month, with a daily average of US$584.3 
-million, an 18.2% increase over March 2006. Manufactured goods exports reached US$7.3 billion in the month, an 
-18.3% increase in the year, considering daily averages. Primary products exports totaled US$3.7 billion, and semi-
-manufactured ones, US$1.6 billion, with respective increases of 23.6% and 10.6%, according to the same 
-comparison bases. In addition to shipment records, some important export products continued to present prices 
-increases, with highlights to orange juice (75.5%); metal laminates (40.3%); raw soy oil (35.7%); fuel alcohol 
-(29.5%) and iron/steel semi-manufactured (28.9%). In the first quarter of 2007 exports continued to show 
-diversification in terms of products, particularly regarding manufactured items with low share in total exports, and 
-expansion of exports destinations. 
- 
-63. 
-Imports totaled US$9.5 billion in March, a record high for the month, recording a 28.9% increase 
-considering daily averages, over March 2006. All categories expanded, particularly consumer goods imports 
-(44.6%), mainly reflecting the 79.2% increase in automobiles imports. Imports of raw materials, capital goods, and 
-fuels and lubricants grew 33.1%, 23.3%, and 13.0%, respectively, considering daily averages.  
-  
-64. 
-In March, international reserves reached US$109.5 billion, totaling a US$8.5 billion increase in the month, 
-US$23.7 billion in the year, and US$49.7 billion compared to March 2006. 
- 
-Money Market and Open Market Operations 
- 
-65. 
-The period after the March Copom meeting through mid-March, the yield curve remained stable, influenced 
-by the negative behavior of US subprime’s housing sector companies. Since then, the yield curve shifted downward 
-continuously, due to lower concerns about the US economic performance, in light of the positive results of labor 
-market and activity level. The release of the FOMC statement on March 21 contributed to deepen the fall of the 
-yield curve, due to its positive spillovers for international stock markets and capital flows for emerging economies. 
-The performance of several macroeconomic indicators, including recent GDP growth and Debt-to-GDP ratio – 
-resulting from the new measurement methodology by IBGE boosted investors’ optimism and contributed to the 
-decline of the Brazil country risk, reaching new record lows, and of the interest rates, mainly longer-term rates. 
-Between March 5 and April 16, one-, two- and three-year rates reduced 0.41 p.p., 0.73 p.p. and 0.92 p.p., 
-respectively. One-, three- and six-month rates declined 0.27 p.p., 0.29 p.p. and 0.26 p.p., respectively, influenced 
-by the favorable current inflation trajectory and inflation expectations. The real interest rate measured by the 
-differential between the one-year forward nominal interest rate and the smoothed twelve-month ahead inflation 
-expectations decreased to 7.79%, on April 16, down from 8.00%, on March 5. 
- 
-66. 
-On March 22 and on April 11, the BCB conducted a reverse exchange rate swap auction, aimed at 
-anticipating the redemption of the swaps due April 2 and May 2, respectively, totaling US$2.9 billion. 
- 
-67. 
-In its open market operations, the BCB carried out, from March 6 to April 16, weekly five- and seven-month 
-long fixed rate repo operations. The average daily balance of these operations amounted R$64.1 billion, of which 
-R$48.3 billion were seven-month operations. In the same period, the BCB also conducted 24 overnight repo 
-operations, of which 23 aimed at draining the excess liquidity from the market. The BCB also conducted daily 
-liquidity management operations with tenures up to two working days. Operations with tenors less than thirty days, 
-including daily liquidity management operations, averaged R$53.5 billion, borrowing. 
- 
-11
+11. With regard to the international scenario, uncertainties surrounding the monetary policy stance in the US persist. Although additional interest rate increases cannot be discarded, the consensus points to the fact that an easing monetary policy cycle could start this year. Similarly, the possibility of a stronger-than-expected deceleration in the US economy cannot be discarded, and likewise, its effects on the global economy. On the other hand, Brazilian economy and asset prices have been showing significant resilience against swings in international financial markets, due to better fundamentals in recent years, and favorable exports prices. In addition to showing resilience to market oscillations, the Brazilian economy trails a growth cycle with price stability. Therefore, the Copom continues to consider that international financial market conditions are favorable.
 
-68. 
-Between March 6 and April 16, the National Treasury raised a total of R$61.7 billion, of which R$34.2 
-billion in fixed-rate securities: R$22.3 billion via issuance of LTNs maturing in 2007, 2008 and 2009 and R$11.9 
-billion in NTN-Fs maturing in 2010, 2012 and 2017. Issuance of LFTs totaled R$14.5 billion, for securities maturing 
-in 2010 and 2012. Issuance of inflation-linked NTN-Bs reached R$13.0 billion, for securities maturing in 2009, 
-2011, 2015, 2024, 2035 and 2045. 
- 
-69. 
-In the same period, the Treasury conducted auctions to sell LTNs maturing in October 2007 and April and 
-July 2008, conjugated to the purchase of shorter-term LTNs, totaling R$9.1 billion. The Treasury also conducted 
-auctions to sell LFTs maturing in 2010 and 2012, totaling R$2.7 billion, accepting as payment LFTs maturing in 
-2007. In addition, the Treasury conducted auctions to buy LTNs maturing in April 2007, totaling R$1.2 billion and 
-NTN-Bs maturing in 2024 and 2045, totaling US$85 million. 
-  
- 
-12
+12. Oil prices, another systematic source of international uncertainties, still present high volatility, with a slight increase since the last Copom meeting, reflecting, among other factors, geopolitical tensions. Despite the uncertainties surrounding the future oil prices trajectory, the main scenario considered by the Copom, which attributes no change to domestic gasoline prices in 2007, continues plausible. Assessment of Inflation Trends
+
+13. The identified shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions:
+
+a) Compared to the values considered in the March Copom meeting, the projection for gasoline and bottled gas prices adjustments in 2007 were both maintained at 0%;
+
+b) Considering the same comparison basis, the projection for fixed telephone price adjustments in 2007 decreased to 3.4% from 3.9%, while the projection for household electricity price adjustments decreased to 2.2% from 3.3%;
+
+c) The projection for regulated prices inflation in 2007 decreased to 4.2% from 4.5% (projection of the March Copom Meeting). These items, according to the weights released by the IBGE, represented 30.99% of the total March IPCA;
+
+d) The projection for regulated prices inflation in 2008 decreased to 5.2% from 5.6%. This projection is based on the endogenous determination model for regulated prices. This model considers the effects of seasonal components, exchange rate change, market prices inflation and the General Price Index (IGP);
+
+e) The projection for the spreads over the Selic rate, using a Vector Autoregressive model based on the Selic and 180-day swap rates on the eve of the meeting, stood at 38 b.p. in the fourth quarter of 2007, reaching 71 b.p. in the last quarter of 2008.
+
+14. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 3.8% of GDP in 2007 and 2008 will be achieved, adjusted by the possibility of a 0.45 p.p. reduction in this percentage due to the implementation of PPI (Investment Pilot Program). The related assumptions considered in the previous meeting were maintained. 4
+
+15. Since the March Copom meeting, median IPCA inflation expectations for 2007, compiled by the BCB’s Investor Relations Group (Gerin), decreased to 3.80% from 3.88%. This reduction was mainly driven by lower estimates for Q2 and Q3 inflation. Twelve-month ahead inflation expectations decreased to 3.64% down from 3.80%. For 2008, inflation expectations remained at 4%. As mentioned in previous Minutes, these developments suggest the consolidation of a more favorable long-term macroeconomic scenario.
+
+16. The 2007 inflation forecast under the benchmark scenario – which assumes the maintenance of the Selic rate at 12.75% and the exchange rate at R$2.05/US$ during the forecast period –slightly increased compared to the values considered at the March Copom meeting, remaining below the 4.5% target established by the CMN for the year. The forecast based on the market scenario – which incorporates the consensus exchange and Selic rates trajectories collected by Gerin on the eve of the Copom meeting – slightly decreased relative to the values considered in the March Copom meeting, remaining below the central target for the year. The projection for 2008 inflation slightly reduced in relation to the March projection, remaining below the 4.5% target in the benchmark scenario and above the 4.5% target in the market scenario. Monetary Policy Decision
+
+17. The Copom reaffirms the view expressed in previous Minutes, that in addition to containing short-term inflationary pressures, monetary policy has also contributed significantly for the consolidation of a favorable long- term macroeconomic environment. Economic activity data still do not suggest high probability of important pressures over inflation in the short-run. Imports expansion has contributed significantly to this process, complementing domestic production and, therefore, limiting potential inflationary effects of aggregated demand sustained growth. Moreover, despite the prospects of lower liquidity in international markets, due to the interest rates increase in industrialized economies, and the volatility increase in the global markets, the external outlook remains favorable. Particularly regarding Brazilian external financing, the Copom continues to assign low probability to a significant deterioration in international financial market conditions. Therefore, the prospects for the inflation trajectory remain benign. As in recent meetings, the Copom emphasizes that the main challenge of the monetary policy in this context is to guarantee the consolidation of positive developments anticipated for the future.
+
+18. The Copom evaluates that the relatively high inflation monthly rates, which have persisted since the end of 2006, do not represent yet a risk to the medium-term inflation trajectory. Part of the inflation increase at the start of the year is due to one-off factors, such as the elevation of food prices, and seasonal components, such as tuition fees readjustments, in addition to certain pressures over services prices. Due to the nature of such pressures, they are expected to dampen throughout time, without necessarily affecting longer-time horizons. However, the Copom will continue to manage the monetary policy stance so that the gains obtained in inflation control in recent years become permanent. In this respect, the Copom will carefully monitor the evolution of inflation and the several core inflation measures in the upcoming months, discriminating between one-off and persistent or generalized price increases, and promptly adjusting the monetary policy stance to the circumstances.
+
+19. The preservation of inflation rates in line with the targets path and the consolidation of a long-lasting stable macroeconomic scenario will contribute to the progressive reduction of macroeconomic risk perception underway. The scope for a reduction in real interest rates in the future will naturally follow as a consequence of this improved perception. The Copom evaluates that its cautious monetary policy stance has been critical to increasing the probability of inflation convergence to the targets path. For this to materialize, however, it is important that forward- looking inflation indicators remain consistent with the recent benign inflation outlook observed in the last quarters.
+
+20. The Copom emphasizes, once again, that there are important time lags in the transmission of monetary policy stance to economic activity and inflation. Since the beginning of the monetary easing cycle, in September 2005, the Selic rate has already been reduced by 700 b.p., with the bulk of the reduction concentrated in the last nine months. Consequently, the activity level has not completely mirrored the effects of the interest rates cuts, as well as the effects of the economic activity resumption on inflation have not completely materialized. Therefore, the evaluation of alternative monetary policy stances should necessarily focus on the prospective inflation scenario and its risks, instead of current inflation indicators. 5
+
+21. During the coming months, employment and income expansions and credit growth will continue to bolster economic activity. As mentioned in recent Copom Minutes, activity level should also reflect the effects of governmental transfers and other fiscal impulses occurred in 2006 and expected for the next quarters of the year. Consequently, the lagged effects of interest rates cuts on an increasingly robust aggregate demand will add up to other factors that will continue to contribute to this expansion. These issues become even more relevant considering the signs of heated aggregate demand, short-term inflation pressures, and the fact that the monetary policy decisions should have concentrated effects in the last months of 2007 and, progressively, in 2008.
+
+22. In light of the existing incentives for expanding aggregate demand, the uncertainties surrounding the monetary policy transmission mechanisms, the lower distance between the current Selic rate and the medium-term equilibrium interest rates, and the interest rate cuts implemented since September 2005, the Copom members understood that the preservation of important achievements in disinflation and in preserving economic growth, with job creation and rising real income, demands a more cautious monetary easing stance.
+
+23. Even in this context, Copom participants believe that there are several signs showing that the imports contribution to the consolidation of a benign scenario for inflation, through the limits exerted on tradable prices in a robust aggregate demand environment, may be stronger than initially thought. As a result, during the decision process regarding the monetary easing pace, three members of the Committee understood that the balance of risks to the evolution of the future inflation trajectory, considering the perspectives for both market and regulated prices, would justify a 50 b.p. reduction in the Selic target rate.
+
+24. However, the majority of the Committee maintained the assessment that, considering the extension of the easing process already implemented, the remaining uncertainties regarding the lagged impacts of the monetary easing, the expected behavior of the other sustaining factors of expenditure, such as income growth, in a scenario of solid expansion of the domestic demand for tradable and non-tradable goods and services, and of economic activity strengthening, continued to recommend the maintenance of the 25 b.p. reduction pace in the Selic target rate.
+
+25. Given the reasons stated above, the Copom decided to continue the monetary easing cycle, started in the September 2005 meeting, and reduced the Selic target rate to 12.50% p.a., without bias. Four votes were for the Copom monetary policy action, while three votes were in favor of reducing the Selic target by 50 basis points.
+
+26. Under an inflation-targeting regime, the monetary authority decides according to inflation prospects, analyzing alternative scenarios for the evolution of the main variables that determine price dynamics and the balance of risks associated to the forecasts. Although uncertainties regarding the US economic performance persist, the international scenario remains favorable, contributing to a positive domestic inflation outlook. On the other hand, price pressures, apparently punctual and temporary, hit the economy at a moment when domestic demand already expands vigorously, sustaining the economic activity recovery, including sectors little exposed to external competition, when the effects of important incentive factors, such as the monetary easing already implemented, have not completely materialized. In such environment, the monetary authority must remain vigilant, so that short-term uncertainties do not contaminate longer time horizons.
+
+27. At the conclusion of the meeting, it was announced that the Copom would reconvene on June 5th 2007, for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 15,011 of October 31, 2006. SUMMARY OF DATA ANALYZED BY THE COPOM Inflation
+
+28. The IPCA inflation increased 0.37% in March, down from 0.44% in February. The slight decrease was mainly driven by the exhaustion of the education costs readjustments impact, after the seasonal increase that influenced the February IPCA inflation. Food and beverages prices increased 0.98%, up from 0.78% in the previous month, and are responsible for 0.2 p.p. of the IPCA monthly result, overall for the higher elevation of 6 perishable food prices. With the monthly result, the IPCA maintained the deceleration trajectory, totaling 2.96% in twelve months and 1.26% in the first quarter of the year.
+
+29. Market prices inflation totaled 0.44% in March, down from 0.59% in February, while regulated prices increased 0.21%, up from 0.12%, in the same period. In twelve months, market prices accumulated 2.82%, and regulated prices, 3.15%. Among market prices, non-tradable goods prices increased 4.51%, mainly because of the 5.09% elevation in the prices of services, while the prices of tradable goods increased 1.10%.
+
+30. The trimmed means core measures slightly increased in March, month-on-month, while the core excluding household food and regulated prices decreased significantly. On a twelve-month trailing basis, all core measures maintained a declining trend. The non-smoothed trimmed means core reached 0.24% in the month, up from 0.22% in February, totaling 2.23% in twelve months. Smoothed trimmed means core increased 0.29% in March, up from 0.24% in February, totaling 3.97% in twelve months. Finally, the core excluding household food and regulated prices reached 0.23% in March, down from 0.52% in the previous month, and accumulated 2.59% in twelve months.
+
+31. The IGP-DI increased 0.22% in March, compared to 0.23% in February, totaling 0.88% in the year through March and 4.49% in the last twelve months. Among the IGP-DI components, only the IPA (Wholesale Prices Index, the sub-index with the largest weight in the IGP-DI) decelerated in March, totaling 0.11%, down from 0.19% in February. The IPC-BR increased 0.48% in the month, up from 0.34% in February, mainly driven by higher rates in 5 of its 7 composing groups, mainly food. The IPC-Br core under the smoothed trimmed means method calculated by FGV increased 0.27% in March, up from 0.16% in the previous month, totaling 0.69% in the year through March and 2.52% in twelve months. The INCC-DI increased 0.27% in March, up from 0.21% in February, as a consequence of higher labor costs driven by wage increases in Salvador and Rio de Janeiro. Services and materials increased 0.19% in March, down from 0.40% in February. The INCC-DI changed 0.94% in the year through March, and 5.25% in the last twelve months.
+
+32. The lower IPA inflation in March reflected the reduction of agricultural prices, which offset the impact of industrial prices acceleration. The Agricultural IPA inflation totaled -0.18%, down from the 1.08% rise in February, while the Industrial IPA grew 0.20%, up from –0.10% in the previous month. According to the three stages of production, only raw materials showed a negative price change, -0.80%, after a 0.42% growth in the previous month. The prices of final goods increased 0.55%, up from 0.42% in February, while the prices of intermediate goods totaled 0.31%, up from –0.08%, in the same period. In the twelve months through March, the prices of raw materials grew 15.28%, pressuring the IPA result in the period; the prices of intermediate and final goods increased by 3.21% and 0.69%, respectively. Economic Activity
+
+33. GDP grew 3.7% in 2006, according to IBGE’s new methodology, in comparison to 2.9% in the previous series. Expansion was generalized through all production components. Regarding the production side, the crop and livestock sector expanded by 4.1%, while industrial and service sectors grew by 2.8% and 3.7% respectively. On the demand side, there were increases in gross fixed capital formation (8.7%), household consumption (4.3%), government consumption (3.6%), exports (4.6%) and imports (18.1%). The external sector contributed -1.4% to GDP growth, while domestic demand (consumption plus GFCF) was responsible for 4.8 p.p. in product expansion, with a 0.3 p.p. variation due to inventories adjustment.
+
+34. According to IBGE’s monthly survey, retail sales increased 0.40% in February, on a month-on-month seasonally adjusted basis. Among the activities composing the general index, there were increases in the sales of fuel and lubricants (1.3%), and hyper- and supermarkets, food products, beverages and tobacco (0.1%); there were decreases in the sales of fabric, clothing and shoes (-2.5%) and furniture and home appliances (-4.2%). Vehicles and motorcycles, parts and pieces, comprised in the expanded retail sales, increased 5.3% in February. On a regional basis, 26 out of the 27 Brazilian states showed positive results in February, compared to February 2006; Piauí (-0.1%) was the only exception. 7
+
+35. Compared to February 2006, retail sales increased 9.4%. This figure results from growth in all sales segments, mainly furniture and home appliances (19.1%) and hypermarkets (6.9%). Regarding the expanded retail sales, it bears emphasizing the performance of automobiles sales (19.5%). Retail sales performance reflects the continuity of payroll growth and better credit conditions. In the first two months of 2007, retail sales expansion reached 8.9%, compared to the same period of 2006.
+
+36. Still compared to February 2006, expanded retail sales, which include civil construction inputs and vehicles and motorcycles, their parts and pieces, increased 11.9% in last February.  In the first two months of 2007, the expanded index grew 11.0%, mainly due to the increases of 16.7% and 6.1% in the sales of vehicles and civil construction inputs, respectively.
+
+37. São Paulo Trade Association (ACSP) data, relative to the city of São Paulo and seasonally adjusted by the BCB, showed increases in database consultations for credit sales (1.8%) and in consultations to the Usecheque system (2.2%) in March, month-on-month. Compared to March 2006, there were increases of 4.5% and 5.5%, respectively.
+
+38. Regarding investment indicators, domestic production of capital goods and civil construction inputs increased 0.1% and 0.3% in February 2007, respectively, on a month-on-month seasonally adjusted basis. Capital goods imports fell 6.0% according to the same comparison basis, after two consecutive months of accelerated growth. In twelve months through last February, these indices grew 6.9%, 3.6% and 24.4% respectively. According to the same comparison basis, capital goods production for energy increased 18.3%; for mixed use, 12.4%; for typically industrial sectors, 7.7%; and for civil construction, 6.6%. Capital goods production for agriculture reduced 11.2% in the twelve months through February, after a 14.6% fall in the twelve months through the previous month, signaling a marginal trend reversion.
+
+39. BNDES’s credit operations for mid- and long-term investments reached R$ 11.3 billion in the first quarter of 2007, exceeding by 66.5% those disbursed in the first quarter of 2006. In the twelve months through March, total operations increased 26.0%, emphasizing the recent acceleration of this indicator. The growth in demand for mid- and long-term financing is also evident by the total amount involved in financing consultations registered by the BNDES in March 2007, R$15 billion, around 190% above the figure recorded in March 2006.
+
+40. According to IBGE’s Monthly Industrial Survey (PIM), industrial production increased 0.3% in February on a month-on-month seasonally adjusted basis, reaching the record high of December 2006. Industrial production increased 3.0%, compared to February 2006, with cumulative changes of 3.7% in the first two months of 2007 and 2.8% in the twelve months through February.
+
+41. Considering seasonally adjusted data, industrial output in February was driven by increases of 0.3% and 0.6% in mining and manufacturing sectors, respectively. All use categories recorded production increases in the period, with highlights to durable consumer goods (1.2%), non-durable consumer goods (0.7%) and intermediate goods (0.5%). Capital goods production remained roughly stable in February (+0.1%), after three consecutive positive changes. On a yearly basis, capital goods expanded by 14.3%, with a 16.0% elevation in the first two months of the year.
+
+42. Disaggregated analysis of seasonally adjusted industrial activity data showed that 14 of the 23 sectors surveyed grew in February, with highlights, according to their respective contributions to overall result, to oil refining and alcohol production (4.1%), electronic materials and communication equipment (7.4%) and food (1.8%). The main negative drivers were machines and electric equipment  (-5.7%), machines and equipment (-2.6%) and basic metallurgy (-2.9%).
+
+43. Still considering the industrial activity, according to CNI data, seasonally adjusted by the BCB, hours worked in production rose 2.2% and real sales remained stable in February, in comparison to the previous month. In the first two months of 2007, these indicators increased 3.0% ad 4.9% respectively, in comparison to the same period of 2006. Installed capacity utilization posted at 81.8% in February, close to the 81.7% of January, in the seasonally adjusted series; considering the observed data, installed capacity utilization reached 80.3% in last February, leveling 1.3 p.p. above the February 2006 result. 8
+
+44. Vehicles production reached a monthly record high in March 2007: 246.5 thousand units, according to the Anfavea. This figure corresponds to a 7.4% increase compared to the same month of 2006, and to a 5.5% month- on-month growth, according to BCB’s seasonally adjusted series. Also in seasonally adjusted terms, domestic sales rose 6.7%, while exports decreased 2.5%, month-on-month. Compared to the first quarter of 2006, vehicles production and domestic sales increased 4.0% and 11.4%, respectively, and exports fell 9.5%. The production of agricultural machines rose 8.3% in the first quarter of 2007, compared to the same period of 2006, reflecting the sector’s recovery in the current period.
+
+45. According to the IBGE, the March estimate for crops harvest in the year 2006-7 is 11.8% above the previous year result. National production of cereals, legumes and vegetables should reach 130.7 million tons, due to good weather conditions and the production incentives resulting from the elevation of international prices of agricultural goods. Second-harvest soy and corn are the main drivers of the expansion in grains production this year. It bears emphasizing the increase in land occupation for sugar cane production, driven by the growing interest in ethanol production. Sugar cane lands increased 7.0% in 2007, and the estimate production is 7.9% higher than that recorded in the previous harvest. Surveys and Expectations
+
+46. The Fecomercio-SP survey showed stability in the Consumer Confidence Index (ICC) in April, after a significant drop in March. The Current Economic Conditions Index (Icea) increased 2.5%, and the Consumer Expectation Index (IEC) decreased 1.8%, signalizing that consumers are more cautious with the future economic expectations. In fact, for the fourth consecutive month, the Icea remained above the IEC.
+
+47. According to the FGV survey, which encompasses two thousand homes in the seven main state capitals of the country, the ICC declined 2.8% month-on-month in March. This result is due to the deterioration in both the assessment of the present situation and in the 6-month ahead expectations.
+
+48. Still according to FGV, the Industry Confidence Index (ICI), which encompasses six items of the Manufacturing Industry Survey, increased 4.7% month-on-month in March, for an 8.1% cumulative increase in the first quarter of 2007, compared to the same quarter of 2006. On a month-on-month basis, there were increases of 2.4% in the assessment about the present situation and 7.4% in the expectations for the upcoming months. Labor Market
+
+49. According to the Ministry of Labor and Employment, 148,019 new jobs were created in February 2007. The result is the second best for the month, since the beginning of the series in 1985, only below the February 2006 result, when 176,632 new jobs were created. In the first two months of the year 253 thousand new jobs were created, compared to 263 thousand in the same period of 2006. After seasonal adjustment, the employment index increased 0.4% in the month, with increases in all sectors. In the last twelve months, the expansion reached 4.8%, with highlights to the 7.8% increase in civil construction employment.
+
+50. According to the IBGE employment survey (PME) in the six main metropolitan areas of the country, the unemployment rate reached 9.9% in February, compared to 9.3% in the previous month and 10.1% in February
+
+2006. The month-on-month unemployment rate change reflects mainly the 6.5% non-occupied population increase, as economically active population (PEA) has remained almost stable (a 0.2% increase) in the period. The number of employed workers decreased 0.4% in February, totaling about 91 thousand people. However, the number of formal employed workers in the private sector increased 0.2%, while the number of informal workers decreased 2.8%, confirming the increase trend of formal of labor market, with positive results over productivity and labor conditions. In the first two months of 2007, the number of informal workers fell 3.0%, while the number of formal workers increased by 4.1%.
+
+51. According to the same survey, real average earnings reached R$1,096.30 in February, a 2.5% month-on- month increase and a 6.1% elevation compared to February 2006. Real payrolls increased 2% month-on-month in 9 February, and maintained a yearly rising trend, with an 8.8% increase in February, compared to the same month last year.
+
+52. According to CNI, industrial employment increased 0.2% month-on-month in February, seasonally adjusted. In the first two months of 2007, expansion totaled 3.4%. Real payrolls in industry increased 6.4% in February, compared to the same month in 2006, accumulating a 7% expansion in the first two months. Credit and Delinquency Rates
+
+53. Credit operations in the financial system increased 1.3% in March, accumulating a 21.0% expansion in the last twelve months. Non-earmarked credit increased 1.9% in the month and 23.5% in twelve months, while earmarked credit remained stable and increased 15.9%, according to the same comparison bases. In the non- earmarked credit market, it bears emphasizing leasing operations in the last twelve months, with a 54.1% increase in operations for individuals and 62.6% for corporate. Among operations for earmarked credit, the most significant expansions on a twelve-month basis were for operations directed to housing (22.8%) and to agriculture (21.3%).
+
+54. Non-earmarked credit, used as reference for interest rates, increased 2.1% in March and 20.1% in the last twelve months. Credit for individuals increased 2.0% in March, totaling a 21.7% increase in twelve months. Corporate credit operations with domestic funding increased 2.0% in the month and increased 20.8% in twelve months, while externally funded operations increased 3.1% and 12.3%, according to the same comparison bases.
+
+55. The average interest rate on credit operations reached 38.5% p.a. in March, a record low for the historical series, 1.2 p.p. below the February rate and 7.2 p.p. below the March 2006 result. The average rate on credit for individuals reached 49.9% p.a., down from 59.0% p.a. in the same month of 2006. The average rate on corporate credit decreased 5.3 p.p. in the last twelve months, reaching 25.4% p.a.
+
+56. The average tenure of credit operations for individuals, excluding overdraft account, reached 410 days in March, compared with 347 in March 2006. The average tenure of personal credit modality reached 402 days, increasing 76 days compared to the previous year, reflecting the increasing weight of payroll-deducted in this credit modality. Moreover, the average tenure of credit directed to vehicles acquisition increased to 549 days up from 500 days in the last twelve months.
+
+57. Delinquency rate in the financial system (non-earmarked loans in arrears for more than ninety days) reached 4.9% in February, decreasing 0.1 p.p. in the month and increasing 0.3 p.p. in the last twelve months. Delinquency rate for corporate credit operations remained stable in the month and increased 0.6 p.p. compared to February 2006, reaching 2.8%. Delinquency rate for credit operations with individuals reached 7.1%, decreasing 0.2 p.p. in the month and in the last twelve months.
+
+58. Net delinquency rate for retail credit, measured by the ACSP, reached 7.1% in March, compared to 7.3% in the same month of 2006 and to the 5.3% average in 2006. External Environment
+
+59. After the turbulence in the stock markets at the end of February, concerns returned to the degree of downturn in the US economy – mainly in the residential housing sector – and to the evolution of US inflation, which were present in the last Federal Open Market Committee (FOMC) Minutes. In the Euro Zone, the European Central Bank (ECB) maintained the interest rate at 3.75% p.a. in the last meeting, but stressed that the risks to the inflation dynamics persist and that the monetary authority will be vigilant to any price movements. Other Central Banks issuing international currencies reaffirmed their intention to contain inflationary pressures.
+
+60. In terms of global economic activity performance, the International Monetary Fund (IMF) presented new projections to world growth, forecasting two more years of vigorous economic growth – 4.9% in 2007 and 2008 – with developing countries reaching higher growth rates than developed countries – 7.5% and 2.5%, respectively. According to the IMF, the risks to global growth declined and are moderate. The main risks are concentrated in the performance of the US economy, with special reference to the housing market, and in the possibility of a 10 disorganized adjustment in global imbalances. Therefore, at the same time that the IMF recognizes that global economic conditions have underpinned a favorable financial environment, also admits that the underlying risks can potentially weaken the financial stability. In general, the IMF points out to a reduction in the macroeconomic risks and a slight increase in financial risks. Foreign Trade and International Reserves
+
+61. In the first quarter of 2007, Brazilian foreign trade continued to expand. Trade surplus reached US$8.7 billion in the period, and US$45.5 billion in the twelve months through March, while total external trade totaled US$59.1 billion and US$238.5 billion, according to the same bases. Trade surplus reached US$1,763 million in the first 9 working days of April: exports totaled US$5,449 million whereas imports reached US$3,686 million.
+
+62. Exports reached US$12.9 billion in March, a record high for the month, with a daily average of US$584.3 million, an 18.2% increase over March 2006. Manufactured goods exports reached US$7.3 billion in the month, an 18.3% increase in the year, considering daily averages. Primary products exports totaled US$3.7 billion, and semi- manufactured ones, US$1.6 billion, with respective increases of 23.6% and 10.6%, according to the same comparison bases. In addition to shipment records, some important export products continued to present prices increases, with highlights to orange juice (75.5%); metal laminates (40.3%); raw soy oil (35.7%); fuel alcohol (29.5%) and iron/steel semi-manufactured (28.9%). In the first quarter of 2007 exports continued to show diversification in terms of products, particularly regarding manufactured items with low share in total exports, and expansion of exports destinations.
+
+63. Imports totaled US$9.5 billion in March, a record high for the month, recording a 28.9% increase considering daily averages, over March 2006. All categories expanded, particularly consumer goods imports (44.6%), mainly reflecting the 79.2% increase in automobiles imports. Imports of raw materials, capital goods, and fuels and lubricants grew 33.1%, 23.3%, and 13.0%, respectively, considering daily averages.
+
+64. In March, international reserves reached US$109.5 billion, totaling a US$8.5 billion increase in the month, US$23.7 billion in the year, and US$49.7 billion compared to March 2006. Money Market and Open Market Operations
+
+65. The period after the March Copom meeting through mid-March, the yield curve remained stable, influenced by the negative behavior of US subprime’s housing sector companies. Since then, the yield curve shifted downward continuously, due to lower concerns about the US economic performance, in light of the positive results of labor market and activity level. The release of the FOMC statement on March 21 contributed to deepen the fall of the yield curve, due to its positive spillovers for international stock markets and capital flows for emerging economies. The performance of several macroeconomic indicators, including recent GDP growth and Debt-to-GDP ratio – resulting from the new measurement methodology by IBGE boosted investors’ optimism and contributed to the decline of the Brazil country risk, reaching new record lows, and of the interest rates, mainly longer-term rates. Between March 5 and April 16, one-, two- and three-year rates reduced 0.41 p.p., 0.73 p.p. and 0.92 p.p., respectively. One-, three- and six-month rates declined 0.27 p.p., 0.29 p.p. and 0.26 p.p., respectively, influenced by the favorable current inflation trajectory and inflation expectations. The real interest rate measured by the differential between the one-year forward nominal interest rate and the smoothed twelve-month ahead inflation expectations decreased to 7.79%, on April 16, down from 8.00%, on March 5.
+
+66. On March 22 and on April 11, the BCB conducted a reverse exchange rate swap auction, aimed at anticipating the redemption of the swaps due April 2 and May 2, respectively, totaling US$2.9 billion.
+
+67. In its open market operations, the BCB carried out, from March 6 to April 16, weekly five- and seven-month long fixed rate repo operations. The average daily balance of these operations amounted R$64.1 billion, of which R$48.3 billion were seven-month operations. In the same period, the BCB also conducted 24 overnight repo operations, of which 23 aimed at draining the excess liquidity from the market. The BCB also conducted daily liquidity management operations with tenures up to two working days. Operations with tenors less than thirty days, including daily liquidity management operations, averaged R$53.5 billion, borrowing. 11
+
+68. Between March 6 and April 16, the National Treasury raised a total of R$61.7 billion, of which R$34.2 billion in fixed-rate securities: R$22.3 billion via issuance of LTNs maturing in 2007, 2008 and 2009 and R$11.9 billion in NTN-Fs maturing in 2010, 2012 and 2017. Issuance of LFTs totaled R$14.5 billion, for securities maturing in 2010 and 2012. Issuance of inflation-linked NTN-Bs reached R$13.0 billion, for securities maturing in 2009, 2011, 2015, 2024, 2035 and 2045.
+
+69. In the same period, the Treasury conducted auctions to sell LTNs maturing in October 2007 and April and July 2008, conjugated to the purchase of shorter-term LTNs, totaling R$9.1 billion. The Treasury also conducted auctions to sell LFTs maturing in 2010 and 2012, totaling R$2.7 billion, accepting as payment LFTs maturing in
+
+2007. In addition, the Treasury conducted auctions to buy LTNs maturing in April 2007, totaling R$1.2 billion and NTN-Bs maturing in 2024 and 2045, totaling US$85 million. 12

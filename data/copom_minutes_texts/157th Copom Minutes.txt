@@ -1,642 +1,151 @@
-The members of the Monetary Policy Committee analyzed the recent performance of and the prospects for the 
-Brazilian economy and for the international economy, under the monetary policy framework, which is designed to 
-comply with the inflation targets established by the government. 
- 
- 
+1. After recording 0.63% in December 2010, monthly inflation measured by IPCA reached 0.83% in January
 
-2
-Recent Economic Developments 
-  
-1. 
-After recording 0.63% in December 2010, monthly inflation measured by IPCA reached 0.83% in January 
-2011. As a consequence, twelve-month trailing inflation reached 5.99%, 1.40 p.p. above inflation registered in the 
-twelve months through January 2010. The inflation increase in this period reflected, basically, the behavior of 
-market prices, which increased 7.17% and contributed 5.0 p.p. of the 5.99 p.p. total variation. In fact, the increase 
-in regulated prices in the last twelve months through January 2011 (3.24%) was below the one recorded for the 
-twelve months ended in January 2010 (4.82%), contributing only 1.0 p.p. for the 5.99% headline inflation. 
-Regarding market prices, it bears highlighting that tradable goods inflation reached 6.61% and the non-tradable 
-goods increased 7.65%, in the last twelve months through January 2011. Services price inflation continues at high 
-levels and, in the twelve-month period through January 2011, it reached 7.89%. In short, the set of available 
-information suggests that prices acceleration observed in 2010, process lead by market prices, may show some 
-persistence, in part because services inflation remains at high levels. 
- 
-2. 
-The food prices trajectory continues to perform relevant role in recent acceleration of headline inflation. In the 
-last three months, the IPCA recorded 2.31%, up from 1.24% observed in the last three months through October 
-2010 and 0.44% in the three months ended in July 2010. In the same periods, prices of food and beverages 
-changed 4.77%, 2.74% and -1.38%, respectively. In the last twelve months, household food price inflation changed 
-from 2.53%, in July 2010, to 6.89% in October, and reached 10.68% in January 2011. At the same time, IPCA 
-inflation stood at 4.60%, 5.20% and 5.99%, respectively. The recent elevation in food prices reflects, in part, supply 
-shocks, domestic and external, heightened by the high liquidity environment in international financial markets and 
-by global demand increase. 
- 
-3. 
-In line with the evolution of headline inflation, each one of the three main underlying inflation measures 
-calculated by the BCB increased in January this year. The smoothed trimmed means core inflation moved from 
-0.52% in December 2010 to 0.54% in January 2011. In the same months, the double weight core inflation 
-increased from 0.71% to 0.80%, while the core inflation by exclusion increased from 0.60% to 0.76%. In the last 
-twelve months through January 2011, the three core inflation measures reached 5.69%, 5.83% and 5.63%, 
-respectively. The IPCA diffusion index, which had reached 62.2% in December, increased to 69.3% in January, 
-evidencing higher of prices acceleration dissemination.  
- 
-4. 
-The General Price Index (IGP-DI) inflation recorded 0.98% in January 2011, value above the one registered 
-in December 2010 (0.38%). In the last twelve months, inflation reached 11.27%, above the level recorded in the 
-last twelve months through January 2010 (-0.45%). Inflation measured by its main component, the Wholesale Price 
-Index (IPA-DI), reached 13.85% in the twelve months through January 2011 (-2.84%, according to the same 
-comparison basis), reflecting the increase of 9.32% in the industrial IPA and 28.40% in the agricultural IPA. Inflation 
-measured by the Consumer Price Index (IPC-DI), another component of the IGP-DI, recorded 6.21% in the twelve 
-months through January 2011, above the 4.42% recorded until January 2010. According to the same comparison 
-basis, the Civil Construction National Index (INCC), component with the lowest weight in the IGP-DI, increased 
-7.52%, above the 3.56% recorded in the previous period. As emphasized in previous Copom Meeting Minutes, the 
-Copom evaluates that the effects of wholesale prices over consumer price inflation will depend, among other 
-factors, on the current and prospective demand conditions, the exposure of each sector to external and domestic 
-competition, as well as on the price setters’ expectations for the future inflation path. 
- 
-5. 
-The Economic Activity Index of the BCB (IBC-Br) incorporates estimates for the monthly production of the 
-three sectors of the economy, as well as for products taxes and, therefore, it constitutes an important coincident 
-indicator of economic activity. Considering seasonally adjusted data, the IBC-Br performed positively in every 
-month in the second half of 2010, but showed relative stability in December 2010 (0.1%).  Year-over-year, the 
-index showed 3.7% growth in December and, comparing to the 2010 average, the it increased 7.8%. The Services 
-Confidence Index (ICS), from FGV, reduced 3.0% in January 2011, month-on-month; 1.3%, year-over-year; and 
-3.3% compared to the 2010 average index. 
- 
-6. 
-Industrial activity has not shown consistent signs of entering a new expansion cycle yet. According to data 
-seasonally adjusted by the IBGE, industrial output increased by 0.2% in January, after a 0.8% retreat in December, 
-and 0.1% in November, month-on-month. January output is still 2.6% below the record high observed in March 
+2011. As a consequence, twelve-month trailing inflation reached 5.99%, 1.40 p.p. above inflation registered in the twelve months through January 2010. The inflation increase in this period reflected, basically, the behavior of market prices, which increased 7.17% and contributed 5.0 p.p. of the 5.99 p.p. total variation. In fact, the increase in regulated prices in the last twelve months through January 2011 (3.24%) was below the one recorded for the twelve months ended in January 2010 (4.82%), contributing only 1.0 p.p. for the 5.99% headline inflation. Regarding market prices, it bears highlighting that tradable goods inflation reached 6.61% and the non-tradable goods increased 7.65%, in the last twelve months through January 2011. Services price inflation continues at high levels and, in the twelve-month period through January 2011, it reached 7.89%. In short, the set of available information suggests that prices acceleration observed in 2010, process lead by market prices, may show some persistence, in part because services inflation remains at high levels.
 
-3
-2010. On the other hand, the three-month moving average growth rate reached -0.2% in the period between 
-October and January – the same rate observed in the last quarter of 2010. Year-over-year, output increased 2.5% 
-in January.  In the last twelve months, output increased 9.4% in January, down from 10.4% in December, 
-continuing the process of growth cooling. The diffusion index, which measures the percentage of products that 
-registered output increase year-over-year, reached 56% in January, compared to 55.4% in December. Compared 
-to December 2008, month that recorded the lowest output during the 2008/2009 crisis, growth pace moderation 
-through January reached 23.1%. The recovery dynamics was partially supported by the growth of industrial activity 
-financed by public financial institutions. 
- 
-7. 
-Among the industry use categories, according to data seasonally adjusted by the IBGE, durable consumer 
-goods production grew 6% in January, month-on-month, while non-durable and semi durable consumer goods 
-expanded 0.2%. In the same period, capital goods production increased 1.8%, while intermediate goods production 
-reduced 0.4%. Considering the three-month moving average ended in January, durable consumer goods 
-production increased 1.8%, while non-durable and semidurable consumer goods reduced 0.2%. Under the same 
-criterion, capital goods production increased 1.4%, while intermediate goods expanded by 0.1%. It bears 
-highlighting, however, that the capital goods industry activity growth, accumulated in twelve months, is the highest 
-among the use categories, with a 20.4% increase. Such behavior evidences the investment robustness, a relevant 
-factor for economic recovery in the post-crisis period. 
-  
-8. 
-The unemployment rate in the six metropolitan regions covered by the IBGE Monthly Labor Survey (PME), 
-according to observed data, increased from 5.3% in December 2010 to 6.1% in January 2011, below the 7.2% 
-level registered in January 2010. After reaching 9.0% in March 2009, the observed data not only significantly 
-reduced until January, but reached a record low for the month since the start of the series in March 2002. The 
-seasonally adjusted rate registered 6.3% in January, a 0.1 p.p. increase compared to December. Employment, 
-measured by the number of employed workers in the metropolitan regions, year-over-year, increased 2.9% in 
-December 2010 and 2.2% in January 2011. Data from the Ministry of Labor and Employment (MTE) indicate 
-growth in formal employment in eleven out of the twelve last months. In January, 152.1 thousand jobs were created 
-(181.4 thousand in January 2010), while in December 2010, 407.5 thousand jobs were eliminated (415.2 thousand 
-reduction in December 2009). In the last twelve months through January, 2.11 million jobs were created (2.47 
-million according to the criterion that considers data delivered with delay by the companies). Services was the 
-sector that most contributed for the formal employment increase in January, accounting for 48.1% of the increase in 
-the month. The services sector also was the main driver for the increase in the last twelve months, being 
-responsible for 41.7% of job creation in the period. Real average earnings observed in January increased 0.5% 
-month-on-month and 5.3% year-over-year.  As a consequence, real payroll, considering real average earnings in 
-the six metropolitan regions, expanded 7.7% in January, year-over-year, continuing to constitute a key driver for the 
-maintenance of domestic demand growth, although there is evidence that the growth rate of this indicator may 
-decrease in the upcoming months. 
-  
-9. 
-According to the retail monthly survey (PMC) from the IBGE, expanded retail sales has been increasing since 
-May 2009, year-over-year. Growth was 14.8% in December 2010, 17.0% in November and 11.1% in October. 
-According to the seasonally adjusted series, expanded retail sales increased for the eighth consecutive month, 
-2.3% in December, up from0.4% in November and 2.2% in October. Therefore, average sales in the quarter ended 
-in December increased 4.2%, quarter-over-quarter. It also bears noticing that eight out of the ten sectors surveyed 
-performed positively month-on-month in December, with highlights for vehicles and motorcycles, parts and pieces 
-(4.7%) and fabric, clothing and shoes (3.4%). In the next months, the retail trajectory will continue to be benefited 
-by governmental transfers, real payroll growth, moderate credit expansion and consumer confidence.  
- 
-10. The installed capacity utilization rate (Nuci) in the manufacturing industry, calculated by FGV, without 
-seasonal adjustment, changed from 83.1% in January to 83.7% in February. These values are close to the 
-observed in the same period of 2010. According to the seasonally adjusted monthly series calculated by FGV, the 
-Nuci reduced from 84.7% in January to 84.5% in February. Two out of the four use categories retreated in 
-February, month-on-month. The Nuci in the intermediate goods industry reduced 0.8 p.p., while in the consumer 
-goods industry, it decreased by 0.2 p.p.. For the construction inputs industry, the Nuci increased from 89.5% in 
-January to 89.9% in February, according to seasonally adjusted data, while in the capital goods industry, it 
-increased from 84.2% to 84.8% in the same period. According to CNI data seasonally adjusted by the BCB, the 
+2. The food prices trajectory continues to perform relevant role in recent acceleration of headline inflation. In the last three months, the IPCA recorded 2.31%, up from 1.24% observed in the last three months through October 2010 and 0.44% in the three months ended in July 2010. In the same periods, prices of food and beverages changed 4.77%, 2.74% and -1.38%, respectively. In the last twelve months, household food price inflation changed from 2.53%, in July 2010, to 6.89% in October, and reached 10.68% in January 2011. At the same time, IPCA inflation stood at 4.60%, 5.20% and 5.99%, respectively. The recent elevation in food prices reflects, in part, supply shocks, domestic and external, heightened by the high liquidity environment in international financial markets and by global demand increase.
 
-4
-Nuci in December reached 82.8% in December, up from 82.7% in November. Therefore, installed capacity 
-utilization rates have shown relative stability, at high levels. The high occupation level reflects the recent expansion 
-in economic activity, whose effects have not been totally offset by the maturity of investment projects. In this sense, 
-the absorption of capital goods grew 26.1% in 2010, year-over-year. Construction inputs production increased 
-11.9%. As stressed in previous Copom Minutes, the inflation trajectory is closely linked to current and prospective 
-developments related to the expansion of supply of goods and services to adequately meet demand conditions.  
- 
-11. The trade balance result in the last twelve months increased from US$ 20.9 billion in January to US$ 21.7 
-billion in February. This result stemmed from US$210.4 billion in exports and US$188.7 billion in imports, 
-equivalent to 33.9% and 42.0% changes, respectively, compared to the twelve month period ended in February 
-2010. Current account deficit accumulated in twelve months increased from US$47.5 billion in December to 
-US$49.1 billion in January, equivalent to 2.35% of GDP. On its turn, foreign direct investment reached US$ 50.8 
-billion in the last twelve months through January, equivalent to 2.43% of GDP, exceeding the need for foreign 
-funding. 
- 
-12. Since the last Copom meeting, the trend of global economy recovery has persisted, mainly in the US 
-economy, whose domestic demand shows some dynamism, especially in household consumption, in spite of 
-continued uncertainties regarding labor market. The leading indicator published by the Organization for Economic 
-Co-operation and Development (OECD) – often used for inferences regarding the future behavior of global 
-industrial production - , for instance, registered, in December, the fourth consecutive monthly increase. The 
-indicators disaggregated by country suggest acceleration in growth pace or continued growth in all G7 countries, 
-except Italy. The Euro Area macroeconomic prospects, in particular, are asymmetrical, as uncertainties regarding 
-the solvency of some peripheral economies persist, at the same time that the expansion pace remains strong in 
-Germany. Inflation rate cores are still at moderate levels in the G3 group (US, Euro Area and Japan), in spite of 
-extremely expansionist economic policy actions, both in fiscal and monetary sides. On its turn, headline consumer 
-inflation rates reached 1.6% in the US and 2.3% in the Euro Area, in the twelve months through January 2011, 
-mainly due to the hikes in energy prices. In the emerging countries, there are inflationary pressures in Latin 
-America, Asia and Eastern Europe. Since the last meeting there was a moderate monetary tightening in several 
-economies – among them, China and India. The People’s Bank of China announced the fifth increase in reserve 
-requirements, since November last year. 
- 
-13. Brent oil prices have increased since the last Copom meeting, surpassing the US$100 level. This price 
-acceleration is consistent with a framework of apparent strengthening in the global demand framework – given that 
-empiric evidences suggest that international oil prices, in the last two decades, have been determined more by 
-global demand conditions than by the supply side – as well as with political instability in some countries of the 
-Middle East and, especially, in North Africa. It bears highlighting that geopolitical complexity that involves the oil 
-sector tends to heighten price volatility, which is also a reflex of the low predictability of some global demand 
-components and of the dependency of supply growth on long term risky investment projects. The main scenario 
-adopted by the Copom assumes unchanged domestic gasoline prices in 2011. It is also noteworthy the continuous 
-increase in the prices of international agricultural and metallic commodities prices. In this sense, the current 
-quarterly readjustment system for iron ore price reinforces future price increase expectations. The food price index, 
-calculated by the Food and Agriculture Organization of the United Nations (FAO), which considers 55 items, 
-reached a new record high in January 2011, resulting in 28.4% increase in twelve months. This movement was 
-leveraged, among other factors, by the increase in international prices of sugar, cereals and vegetable oils. In 
-recent past, the high volatility observed in commodities prices seems to have been strongly impacted by the 
-abundant global liquidity, in a context where financial markets adjust to new expectations of demand growth and to 
-FX markets volatility. 
- 
-Assessment of Inflation Trends 
-                           
-14.  The identified shocks and their impacts were reassessed according to the new set of available information. 
-The scenario considered in the simulations was based on the following assumptions: 
- 
+3. In line with the evolution of headline inflation, each one of the three main underlying inflation measures calculated by the BCB increased in January this year. The smoothed trimmed means core inflation moved from 0.52% in December 2010 to 0.54% in January 2011. In the same months, the double weight core inflation increased from 0.71% to 0.80%, while the core inflation by exclusion increased from 0.60% to 0.76%. In the last twelve months through January 2011, the three core inflation measures reached 5.69%, 5.83% and 5.63%, respectively. The IPCA diffusion index, which had reached 62.2% in December, increased to 69.3% in January, evidencing higher of prices acceleration dissemination.
 
-5
-a) 
-the projected adjustments for gasoline an bottled gas prices in 2011 were kept unchanged at 0%, 
-the same considered at the January Copom meeting; 
-b) 
-the projected adjustments for fixed telephone and electricity rates in 2011 were kept at 2.9% and 
-2.8%, respectively; 
-c) 
-the projection for regulated prices inflation in 2011, based on individual items, according to the 
-benchmark scenario, was kept at 4.0%, unchanged relative to the January meeting. This set of 
-prices, according to data released by the IBGE, accounted for 28.90% of the total January IPCA; 
-d) 
-the projection for regulated prices inflation in 2012, according to the benchmark scenario, was 
-reduced to 4.3%, down from 4.4% considered in the January meeting. Such projection is based on 
-endogenous determination models for regulated prices, which compute, among other factors, 
-seasonal components, foreign exchange rate changes, market prices inflation and the IGP (General 
-Price Index) change; and  
-e) 
-the projection for the spreads over the Selic rate, based on the 360-day swap rates, on the 
-benchmark scenario, estimates 29 bps and 46 bps spreads in the fourth quarters of 2011 and 2012, 
-respectively. 
- 
-15. Regarding fiscal policy, projections assume the achievement of a public sector primary surplus target of 3.0% 
-of GDP, without adjustments, in 2011 (according to parameters contained in the Budget Guidelines Law - 2011). 
-Moreover, a primary surplus of 3.1% is considered for 2012. 
- 
-16. The set of projections incorporated the estimated effects of the reserve requirements measures announced in 
-December.  
- 
-17. Since the last Copom meeting, the median of the expectations compiled by the BCB’s Investor Relations and 
-Special Studies Department (Gerin) for the 2011 IPCA increased from 5.42% to 5.80%. For 2012, the median of 
-inflation expectations moved from 4.50% to 4.78%.  
- 
-18. The benchmark scenario assumes the maintenance of the exchange rate at R$1.65/US$1.00 and the Selic 
-rate at 11.25% p.a. during the forecast period. Under this scenario, the projection for the 2011 inflation increased 
-relative to the figure considered at the January Copom meeting, and it stands above the 4.50% midpoint target 
-established by the National Monetary Council (CMN). According to the market scenario – which incorporates the 
-consensus exchange and Selic rates trajectories collected by Gerin at the period immediately prior to the Copom 
-meeting - IPCA inflation forecast for 2011 also increased and stands above the inflation midpoint target. For 2012, 
-the projection reduced in the benchmark scenario, but still stands above the midpoint target, while, in the market 
-scenario, it stands around the midpoint target. 
- 
-Monetary Policy Decision 
- 
-19. The Copom evaluates that monetary policy should contribute to the consolidation of a favorable longer-term 
-macroeconomic environment. In this respect, the Copom reassures that, under the inflation-targeting regime, it 
-guides its decisions according to projected inflation and based on the analysis of alternative scenarios for the 
-evolution of the main variables that determine prices dynamics. The Committee also understands that low risks for 
-the underlying inflation in the short run tend to reduce uncertainties regarding the future behavior of headline 
-inflation, facilitate the assessment of scenarios by the monetary authority, as well as help the process of 
-coordination of economic agents’ expectations, mainly price setters’. It is additionally noteworthy that low risks for 
-the underlying inflation in the short run tend to reinforce the effects of monetary policy actions, enabling them to 
-affect in a more long-lasting manner the dynamics of headline inflation in the future. Although the Copom 
-recognizes that other actions of macroeconomic policy may influence the price trajectory, it reaffirms its view that it 
-is the responsibility of the monetary policy to remain especially vigilant to guarantee that pressures detected in 
-shorter horizons do not spread to longer horizons.  
- 
-20. International evidence, ratified by the Brazilian experience, indicates that high inflation rates lead to the 
-increase in risk premium, both for private and public funding, and to the shortening of planning horizons, both for 
-households and companies. Consequently, high inflation rates reduce investment and the economic growth 
-potential, in addition to presenting regressive effects on income distribution. Moreover, high inflation rates do not 
+4. The General Price Index (IGP-DI) inflation recorded 0.98% in January 2011, value above the one registered in December 2010 (0.38%). In the last twelve months, inflation reached 11.27%, above the level recorded in the last twelve months through January 2010 (-0.45%). Inflation measured by its main component, the Wholesale Price Index (IPA-DI), reached 13.85% in the twelve months through January 2011 (-2.84%, according to the same comparison basis), reflecting the increase of 9.32% in the industrial IPA and 28.40% in the agricultural IPA. Inflation measured by the Consumer Price Index (IPC-DI), another component of the IGP-DI, recorded 6.21% in the twelve months through January 2011, above the 4.42% recorded until January 2010. According to the same comparison basis, the Civil Construction National Index (INCC), component with the lowest weight in the IGP-DI, increased 7.52%, above the 3.56% recorded in the previous period. As emphasized in previous Copom Meeting Minutes, the Copom evaluates that the effects of wholesale prices over consumer price inflation will depend, among other factors, on the current and prospective demand conditions, the exposure of each sector to external and domestic competition, as well as on the price setters’ expectations for the future inflation path.
 
-6
-originate any lasting results for economic and employment growth; on the contrary, they create permanent damage 
-to these variables in the medium and long terms. Therefore, the strategy adopted by the Copom aims to ensure the 
-convergence of inflation towards the targets path in 2011 and in the next years, which requires that possible 
-deviations from the target path be promptly corrected. Such strategy takes into account the time lags in the 
-transmission mechanism and is the most adequate to deal with the uncertainty inherent to the process of monetary 
-policy formulation and implementation. 
- 
-21. As a consequence of the stabilization and correction of unbalances, which determined important structural 
-changes, the process of maturing of the inflation targets regime stands at an advanced stage, and it reflects 
-favorably in the dynamics of neutral interest rate and in the power of monetary policy. Evidences under this respect 
-can be observed, among other factors, through the accomplishment of inflation targets in the last seven years, at 
-the same time that real interest rates have reduced. Progress in the financial markets structure, the FX and the 
-inflationary risk premiums reduction, among other factors, seem to have determined significant reduction in the 
-neutral rate. The generation of primary surpluses consistent with the maintenance of the decreasing trend for the 
-public debt/GDP ratio also contributed for it. From another point-of-view, some of these developments, combined to 
-others, such as the extension of contract tenures, also suggest that the power of monetary policy in Brazil has 
-increased in the last years, despite the substantial uncertainty that surrounds the calculation of non-observable 
-variables. The Committee also considers that there are evidences that the traction of monetary policy increased in 
-the recent past and, compared to what was observed some years ago, currently inflationary pressures are 
-contained with more efficiency by monetary policy actions.  
- 
-22. In international markets, volatility and risk aversion have increased since the last Copom meeting, partially 
-fueled by the extraordinary levels of global liquidity, although the chances of adoption of a new set of 
-unconventional monetary actions and adverse geopolitical developments have diminished. While concerns about 
-European countries` sovereign and banking debts and the possible deceleration in China have remained high, the 
-confidence in the sustainability of the US economy recovery has increased. Prices of relevant commodities grew, 
-without movements, in the opposite direction, of domestic assets and, in general, the prospects for external funding 
-of Brazilian economy remain favorable. Meanwhile, the trajectory of prices indexes shows some dissemination of 
-inflationary pressures in the main economies. 
-  
-23. The Copom evaluates that, although moderation of domestic demand growth is observed, yet in uncertain 
-pace, prospects for economic activity are favorable. This assessment is supported by signs that point to the fact 
-that the expansion of credit supply tends to persist, both for individuals and corporate, despite showing some 
-cooling, and by the fact that consumers and businessmen confidence stands at historically high levels, 
-notwithstanding some accommodation at the margin. The Copom considers, additionally, that the dynamism of 
-domestic activity will continue to be benefited by the vigor of labor market, mirrored in historically low 
-unemployment rates and substantial growth of real wages, particularly in the public sector. 
- 
-24. The Copom evaluates that the inflation prospective scenario has not developed favorably since the last 
-meeting. In fact, in the last quarter of 2010 and at the beginning of this year, inflation was strongly and negatively 
-impacted by the dynamics of food prices, which in part reflected domestic and external supply shocks. Evidences 
-suggest that consumer prices have already incorporated substantial part of these shocks’ effects, and have also 
-absorbed the seasonal effects typical from the first two months of the year. The localized effects stemming from 
-atypical concentration of regulated prices readjustments in the same period were also relevant, although, for the 
-year as a whole, the behavior of these items tends to be relatively benign. The Committee considers that these 
-effects should still impact consumer prices dynamics, among other mechanisms, through inertia. At the same time, 
-it evaluates, as relevant, risks derived from the persistence of the mismatch between supply and demand growth 
-rates, despite the signs that this mismatch tends to retreat. Moreover, it highlights the narrow idleness margin of the 
-production factors, specially labor force, and analysis that, in such circumstances, an important risk stems from the 
-possibility of concession of nominal wages increases incompatible with productivity gains. It is also noteworthy to 
-mention the risks associated to commodities prices trajectory in international markets, which has been surrounded 
-by great uncertainty. 
- 
-25. The Copom considers two distinct moments for inflation trajectory, according to the 2011 main scenario. In 
-this quarter and in the following two, inflation accumulated in twelve months tends to remain at levels similar or 
+5. The Economic Activity Index of the BCB (IBC-Br) incorporates estimates for the monthly production of the three sectors of the economy, as well as for products taxes and, therefore, it constitutes an important coincident indicator of economic activity. Considering seasonally adjusted data, the IBC-Br performed positively in every month in the second half of 2010, but showed relative stability in December 2010 (0.1%).  Year-over-year, the index showed 3.7% growth in December and, comparing to the 2010 average, the it increased 7.8%. The Services Confidence Index (ICS), from FGV, reduced 3.0% in January 2011, month-on-month; 1.3%, year-over-year; and 3.3% compared to the 2010 average index.
 
-7
-even above the current one. This, in part, is explained by the high inertia that stemmed from 2010 and by the fact 
-that the projections, in contrast with what was observed in 2010, point to inflation rates close to the historical 
-standard in the quarter ending in August 2011. However, from the fourth quarter on, the main scenario indicates a 
-downward trend for the inflation accumulated in twelve months, moving to the target direction. 
- 
-26. The Copom reaffirms that the inflation main scenario considers the materialization of its trajectories regarding 
-fiscal variables. It bears highlighting that the generation of primary surpluses in line with the hypotheses considered 
-for inflation projections, besides contributing to reduce the mismatches between supply and demand growth rates, 
-will strengthen the reduction trend in the public debt/GPD ratio. It bears highlighting that since the last Committee 
-meeting, important decisions have been taken and implemented, which support the vision that, in the beginning of 
-this year, a fiscal  consolidation process began. 
- 
-27. The Copom highlights that its main scenario for inflation also considers moderation in credit expansion, for 
-which the macro prudential actions recently adopted contribute. The Committee considers that, although such 
-regulatory changes target primarily the financial system stability, they should also materialize as an element of 
-aggregate demand constraint through the credit channel, as well as through the reduction of incentives to the 
-adoption of strategies such as the simple extension of contract tenures, among others. The available information 
-confirm this opinion, by evidencing relevant impacts both in the prices and in the volumes negotiated in the credit 
-market. Additionally, it is plausible to affirm that the current regulatory framework, compared to the previous one, 
-tends to intensify the impacts of conventional monetary policy actions.  
- 
-28. In short, the Copom recognizes an economic environment in which an above-than-usual uncertainty level 
-prevails, and identifies increasing risks to the materialization of a scenario where inflation promptly converges to 
-the midpoint target. Since the last Copom meeting, at the external outlook, stimuli factors and assets prices 
-spillovers have pointed to lower probability of reversion in the recovery process experienced by the G3 economies. 
-From another point-of-view, they still reveal the ambiguous influence of the international outlook over domestic 
-inflation behavior. Regarding the domestic outlook, the recently announced macro prudential actions - a fast and 
-powerful tool to contain local demand pressures -, and conventional monetary policy actions will still have their 
-effects incorporated to price dynamics. Although uncertainties that surround the global outlook and, at a minor 
-magnitude, the domestic one, do not allow the clear identification of the degree of permanence of recent pressures, 
-the Committee evaluates that the inflation prospective scenario has not evolved favorably. 
- 
-29. In this context, continuing the process of monetary conditions adjustment, the Copom unanimously decided to 
-increase the Selic rate to 11.75%, without bias.  
- 
-30. Domestic demand is robust, largely due to the effects of stimulus factors, such as income growth and credit 
-expansion. Moreover, although recent initiatives point to some constraint in public sector expenditures, fiscal and 
-credit incentives provided to the economy in the last quarters should still contribute for the activity expansion and, 
-hence, for the maintenance of the idleness level of factors at low levels. The effects of these stimuli, however, are 
-counterbalanced by the effects of the reversal of initiatives taken during the recent 2008/2009 financial crisis and, 
-especially, by macro prudential and conventional monetary policy actions recently taken. These elements and the 
-fiscal and quasi fiscal developments are an important part of the context in which future monetary policy decisions 
-will be taken, aiming to ensure the timely convergence of inflation to the targets path. 
- 
-31. In an alternative scenario, which takes in consideration the maintenance of the foreign exchange rate, in the 
-relevant horizon, at levels similar to the observed in the recent past, and the interest rate path collected by Gerin, 
-projected inflation is above the target rate in 2011 and slightly below it in 2012. Considering this alternative 
-scenario and prospects of domestic activity slowdown, as well as the current complexity of the international 
-environment, among other factors, the introduction of macro prudential actions may create opportunities for the 
-reassessment of monetary policy strategy. 
- 
-32. At the end of the meeting it was announced that the Committee will reconvene on April 19th, 2011 for technical 
-presentations and, on the following day, to discuss the monetary policy decision, as established in Communiqué 
-20,223 of October 15th, 2010. 
- 
+6. Industrial activity has not shown consistent signs of entering a new expansion cycle yet. According to data seasonally adjusted by the IBGE, industrial output increased by 0.2% in January, after a 0.8% retreat in December, and 0.1% in November, month-on-month. January output is still 2.6% below the record high observed in March 3
 
-8
-SUMMARY OF DATA ANALYZED BY THE COPOM 
- 
-Inflation 
- 
-33. The IPCA-15 rose 0.97% in February, up from 0.76% in January and 0.69% in December, totaling 1.74% in 
-the year and 6.08% in twelve months, according to IBGE data. Market prices inflation rose from 0.85% in January 
-to 1.08% in February, reflecting the increase from 1.02% to 1.97% in the prices of non-tradable products, 
-influenced, mainly, by the increase in the prices of services, from 0.88% to 2.34%. The prices of tradable goods 
-retreated from 0.66% in January to 0.06% in February. Regulated prices increased 0.69%, up from 0.53% in 
-January. The group education registered the higher contribution for the index in the month, 0.42 p.p., followed by 
-transportation, 0.19 p.p.. The diffusion index reached 66.41% in the month, down from 68.23% in January. The 
-diffusion index, excluding beverages and food, rose from 58.67% in January to 70.22% in February. 
- 
-34. Market prices increased 7.26% in the last twelve months through February, up from 7.22% in January, while 
-regulated prices increased 3.30% and 3.31%, respectively. Market prices change reflected the acceleration from 
-7.48% to 7.86% in the prices of non-tradable products, mainly services, and the retreat from 6.87% to 6.52% in the 
-prices of tradable products. 
- 
-35. All core inflation measures presented higher rates in the last twelve months through February, while on a 
-month-on-month basis, the smoothed trimmed-means inflation core retreated. The IPCA-15 core, considering the 
-smoothed trimmed-means inflation core, increased 0.45% in February, down from 0.59% in January, accumulating 
-5.76% in twelve months through February, up from 5.72% in January. Core inflation by exclusion, which excludes 
-ten items of household food and fuels, grew 1.08% in February, compared to 0.69% in January, reaching 5.86% in 
-twelve months through February, up from 5.58% in January. The double weight core inflation rose 0.82% in 
-February, up from 0.74% in January, reaching 6.01% in the last twelve months, up from 5.78% in twelve months 
-through January. 
- 
-36. According to FGV, the IGP-M, increased 1.00% in February, up from 0.79% in January, accumulating 1.80% 
-in 2011 and 11.30% in the last twelve months. In February, the IPA-M and the INCC-M accelerated and the IPC-M 
-reduced. 
- 
-37. The IPA-M increased 1.20% month-on-month, up from 0.76% in January, accumulating 1.97% in the first two 
-months of the year and 13.93% in twelve months. Agricultural prices increased 2.75% in February, up from 1.27% 
-in January, accumulating 4.05% in the year and 29.68% in twelve months. Industrial products prices increased 
-0.64% in February, up from 0.57% in January, accumulating 1.22% in the year and 9.03% in twelve months. 
-Regarding agricultural prices, the 2.75% change reflected, mainly, the 18.40% and 9.84% increases in the prices of 
-cotton and corn, respectively, and the deceleration in the prices of pork, beans and rice. 
- 
-38. IPC-M increased 0.67% in February, accumulating 1.76% in the year and 5.96% in the last twelve months, 
-with slowdown in five out of the seven groups surveyed. Considering the contribution to the monthly result, the 
-main drivers were transportation (1.82% in February, down from 1.94% in January, 0.22 p.p. of the IPC-M), housing 
-(0.51%, up from 0.22%, 0.15 p.p.) and instruction, reading and leisure (1.63%, down from 2.75%, 0.14 p.p.). The 
-INCC-M increased 0.39%, up from 0.37% in January, accumulating 0.76% in the year and 7.46% in the last twelve 
-months. The February result reflected, mainly, the increase in the prices of material, equipment and services, 
-0.65%, up from 0.42% in January, and labor force, 0.12%, down from 0.32% in the previous month. Accumulated 
-increases in the year and in twelve months reached, respectively, 1.07% and 5.60% for the prices of material, 
-equipment and services, and 0.44% and 9.49% for labor costs, according to the same comparison bases. 
- 
-39. The commodities index Brazil (IC-Br) grew in February, for the eighth consecutive month, increasing 4.7% in 
-the month, driven by changes of 7%, 4.5% and -1.3% in the agricultural, metal and energy segments. 
- 
-Economic Activity 
- 
+2010. On the other hand, the three-month moving average growth rate reached -0.2% in the period between October and January – the same rate observed in the last quarter of 2010. Year-over-year, output increased 2.5% in January.  In the last twelve months, output increased 9.4% in January, down from 10.4% in December, continuing the process of growth cooling. The diffusion index, which measures the percentage of products that registered output increase year-over-year, reached 56% in January, compared to 55.4% in December. Compared to December 2008, month that recorded the lowest output during the 2008/2009 crisis, growth pace moderation through January reached 23.1%. The recovery dynamics was partially supported by the growth of industrial activity financed by public financial institutions.
 
-9
-40. The IBC-Br increased 0.1% in December, month-on-month, according to seasonally adjusted data. For the 
-last quarter of 2010, the IBC-Br increased by 1%, quarter-over-quarter, which it had recorded 0.3% according to the 
-same comparison basis. According to the observed series, the IBC-Br increased 3.7% in December, year-over-
-year, accumulating 7.8% in 2010.  
- 
-41. Expanded retail sales increased 2.3% in December, month-on-month, according to data seasonally adjusted 
-by the IBGE’s monthly survey (PMC), driving the fourth-quarter result to exceed by 4.2% the third quarter result. 
-Retail sales remained stable in the month and grew 1.5% in the quarter. Sales increased in eight out of the ten 
-sectors surveyed, with highlights for vehicles and motorcycles, parts and pieces ( 4.7%), fabric, clothing and shoes, 
-(3.4%), and construction input, (3.2%). On the other hand, the sales of items of other personal and domestic use, 
-and hyper-, supermarkets and food prices reduced, respectively, by 1% and 0.3%. 
- 
-42. Expanded retail sales grew 14.8% in December, year-over-year, accumulating increases of 12.2% in 2010. 
-Interannual evolution stemmed from sales in all segments, with highlights for books, newspapers, magazines and 
-stationery (26.6%), vehicles and motorcycles, parts and pieces (25.6%), and office equipment and material 
-(25.5%). Expanded retail sales in 2010 also reflected the increase in all considered activities, especially in those 
-related to office equipment and material (24.1%), furniture and appliances (18.3%), and construction inputs 
-(15.6%). 
- 
-43. Automobile sales by dealers, including cars, light commercial vehicles, trucks and buses, retreated by 1.7% in 
-January, month-on-month, according to Fenabrave (Brazilian Federation of Automotive Vehicles Distribution) data, 
-seasonally adjusted by the BCB, totaling 4.8% increase in the quarter ended in January, quarter-over-quarter. 
-Automobile sales increased 12.3% in the last twelve months, compared to the same period of the previous year, 
-with emphasis on the growth of sales related to trucks (42.1%), light commercial vehicles (26.8%) and buses 
-(25.5%). 
- 
-44. Capital goods imports decreased 1.7% in January, month-on-month, according to the Funcex quantum index, 
-seasonally adjusted by the BCB. Year-over-year, the indicator rose 25.3% and on a twelve-month trailing basis, it 
-increased by 43.2%, compared to the same periods of the previous year.  
- 
-45. Capital goods production increased 1.8% in January and 2.4% in the quarter ended in the month, compared 
-to the quarter ended in October, according to data seasonally adjusted from the Monthly Industrial Survey (PIM) by 
-IBGE. The monthly increase reflected, in part, rises in the production of capital goods for agricultural production 
-(7.5%) and for mixed use (5.5%), in opposition to the retreats in the production of equipment for transportation 
-(7%), and for non-serial industrial purposes (6.6%). Capital goods production increased 9.1% year-over-year, 
-accumulating 20.4% in the last twelve months. 
- 
-46. Construction inputs production increased by 0.1% in January, and 1.9% in the quarter ended in the month, 
-compared to the quarter ended in October, according to seasonally adjusted data. The industry grew 6.5% year-
-over-year, increasing by 11.5% in the last 12 months. 
- 
-47. Disbursements granted by the Brazilian Development Bank (BNDES) reached R$168.4 billion in 2010, 
-increasing by 23.5% year-over-year, with emphasis in the expansions of 47.7% in the agriculture and livestock 
-sector and 28.1% in the industrial sector. In the year, the disbursements share to the trade and services sector 
-totaled 47.2%, while industry accounted for 45.9%, and agriculture and livestock, 6%. Extractive industry accounted 
-for 0.9% of total disbursements.  
- 
-48. Industrial production increased 0.2% in January, month-on-month, according to seasonally adjusted data from 
-the PIM-PF. Year-over-year, industrial production grew 2.5%, with emphasis in the production of capital goods 
-(9.1%) and durable consumer goods (6.1%). On a twelve-month trailing basis, industrial production increased by 
-9.4%, compared to the previous period, with highlights for the 20.4% production for capital goods. 
- 
-49. The Nuci in the manufacturing industry, calculated by FGV, reached 84.5% in February, compared to 84.7% 
-in January, according to seasonally adjusted data. The monthly reduction was driven by the retreats in the 
-production of consumer goods (-0.2p.p.) and, mainly, intermediate goods (-0.8p.p.).Capital goods and construction 
+7. Among the industry use categories, according to data seasonally adjusted by the IBGE, durable consumer goods production grew 6% in January, month-on-month, while non-durable and semi durable consumer goods expanded 0.2%. In the same period, capital goods production increased 1.8%, while intermediate goods production reduced 0.4%. Considering the three-month moving average ended in January, durable consumer goods production increased 1.8%, while non-durable and semidurable consumer goods reduced 0.2%. Under the same criterion, capital goods production increased 1.4%, while intermediate goods expanded by 0.1%. It bears highlighting, however, that the capital goods industry activity growth, accumulated in twelve months, is the highest among the use categories, with a 20.4% increase. Such behavior evidences the investment robustness, a relevant factor for economic recovery in the post-crisis period.
 
-10
-inputs industries grew by 0.6p.p. and 0.4p.p., respectively, in the same period. Considering observed data, the Nuci 
-reached 83.7% in February, up from 83.1% in the same month 2010. The growth reflected increases in the 
-industries of construction inputs (3.1p.p.), capital goods (2.3p.p.) and intermediate goods (1.4p.p.), and the 
-reduction in the consumer goods industry (1.1p.p.).  
- 
-50. Vehicles production reached 261.8 thousand units in January, decreasing 2.8% month-on-month, according 
-to data released by the Anfavea and seasonally adjusted by the BCB. In the quarter ended in January, vehicles 
-production increased by 0.3%, quarter-over-quarter. Production expanded by 6.4% year-over-year, and 12.9% in 
-the last twelve months. 
- 
-51. Vehicles sales decreased 9.6% in January, month-on-month, and increased 2.1% year-over-year. The 
-monthly change reflected the 11.3% reduction in domestic sales and the 24.2% increase in exports, while the 
-interannual result stemmed from respective changes of -0.1% and 10.7%, in the same indicators. In twelve months, 
-sales increased by 13.5%, resulting from growth of 6.1% and 53.9% in domestic sales and exports, respectively. 
- 
-52. The last projection for the 2011 national harvest of cereals, legumes e oilseed, carried out by the IBGE, 
-estimated the production of 146.8 million tons, a 1.8% decline relative to the 2010 harvest, with emphasis in the 
-8.8% projected reduction in the South region, the most important grain producer of the country. Estimates point to 
-the increases of cotton seed (53.9%), beans (19%) and rice (13.5%). On the other hand, wheat, corn and soybeans 
-are expected to reduce by 18.3%, 7.1% and 1.2%, respectively.  
- 
-Surveys and Expectations 
- 
-53. The Consumer Confidence Index (ICC), increased by 0.8% in February, reaching 122.6 points, after two 
-consecutive monthly retreats, considering nationwide seasonally adjusted data from the Consumer Expectations 
-Survey (FGV). The result was driven by the increases in the Expectations Index (IE), by 1.2%, and in the Current 
-Situation Index (ISA), by 0.3%. The ICC increased 10.9% year-over- year, due to the increases of 17% in the ISA 
-and of 7.1% in the IE.  
- 
-54. The Industry Confidence Index (ICI) reduced by 0.3% in February, reaching 112.5 points, considering 
-seasonally adjusted data from the Survey of Manufacturing Industry (SCIT-FGV). The result was driven by the 
-increase of 0.8% in the IE and the stability of the ISA. The ICC retreated by 2.3% year-over- year, due to the 
-decreases of 1.2% in the ISA and 3.6% in the IE.  
- 
-55. The Services Confidence Index (ICS) from FGV reduced 3% in January, month-on-month, impacted by 
-unfavorable assessment of the current moment. The ISA retreated by 12.2%, while the IE increased 5.6%. The ICS 
-decreased 1.3%, year-over-year, recording a 2.5% increase in the ISA and a 4.2% decrease in the IE.  
- 
-Labor Market 
- 
-56. According to the General Record of Employment and Unemployment (Caged) of the Ministry of Labor and 
-Employment (MTE), 152.1 thousand formal jobs were created in January, being 73.2 thousand in the services 
-sector, 53.2 thousand in the manufacturing industry, 33.4 thousand in civil construction and 8.3 thousand in 
-agriculture, while the commerce sector eliminated 18.1 thousand jobs. In twelve months, 2,107 thousand jobs were 
-created, with emphasis in the services sector (879.5 thousand), in commerce (508.3 thousand), in the 
-manufacturing industry (469.3 thousand) and in civil construction (233.2 thousand). 
- 
-57. According to the IBGE employment survey (PME), carried out in the six main metropolitan regions of the 
-country, the unemployment rate reached 6.1% in January, a historical record low for the month since the start of 
-the series. The rate increased 0.8p.p. month-on-month, and reduced 1.1p.p. year-over-year. Considering 
-seasonally adjusted data, the unemployment rate reached 6.3% in January, up from 6.2% in the previous month, 
-as a result of the 0.1% decrease in occupation and stability in the Economically Active Population (PEA). Average 
-real earnings usually earned by workers grew by 0.5% month-on-month and 5.3 year-over-year, while payroll 
-changed -1.2% and 7.7%, respectively, according to the same comparison bases. 
- 
+8. The unemployment rate in the six metropolitan regions covered by the IBGE Monthly Labor Survey (PME), according to observed data, increased from 5.3% in December 2010 to 6.1% in January 2011, below the 7.2% level registered in January 2010. After reaching 9.0% in March 2009, the observed data not only significantly reduced until January, but reached a record low for the month since the start of the series in March 2002. The seasonally adjusted rate registered 6.3% in January, a 0.1 p.p. increase compared to December. Employment, measured by the number of employed workers in the metropolitan regions, year-over-year, increased 2.9% in December 2010 and 2.2% in January 2011. Data from the Ministry of Labor and Employment (MTE) indicate growth in formal employment in eleven out of the twelve last months. In January, 152.1 thousand jobs were created (181.4 thousand in January 2010), while in December 2010, 407.5 thousand jobs were eliminated (415.2 thousand reduction in December 2009). In the last twelve months through January, 2.11 million jobs were created (2.47 million according to the criterion that considers data delivered with delay by the companies). Services was the sector that most contributed for the formal employment increase in January, accounting for 48.1% of the increase in the month. The services sector also was the main driver for the increase in the last twelve months, being responsible for 41.7% of job creation in the period. Real average earnings observed in January increased 0.5% month-on-month and 5.3% year-over-year.  As a consequence, real payroll, considering real average earnings in the six metropolitan regions, expanded 7.7% in January, year-over-year, continuing to constitute a key driver for the maintenance of domestic demand growth, although there is evidence that the growth rate of this indicator may decrease in the upcoming months.
 
-11
-Credit and Delinquency Rates 
- 
-58. Outstanding credit in the financial system reached R$1,714.5 billion in January, equivalent to 46.5% of GDP, 
-increasing by 0.5% in the month and 20.3% in twelve months. Non-earmarked credit operations increased by 0.3% 
-and 17.1%, respectively, according to the same comparison bases, reflecting the increases of 1% and 19.1% for 
-credit operations to individuals and -0.3% and 15.1% for credit operations to corporate, according to the same 
-comparison bases. Earmarked credit operations increased 0.9% in the month and 27% in twelve months, with 
-highlights for the rises of 2.5% and 50.2% recorded in housing credit and of 0.8% and 40.9% recorded in BNDES 
-disbursements, according to the same comparison bases.  
- 
-59. The average interest rate on non-earmarked credit operations increased 2.4 p.p. in January, reaching 37.4%. 
-The average annual rates on credit for individuals reached 43.8% and for corporate, 29.3%, which represented 
-respective increases of 3.2 p.p. and 1.4 p.p..  
- 
-60. The average tenure on non-earmarked credit operations decreased from 476 days in December to 474 days 
-in January, representing decreases of three and four days for tenures related to individuals and corporate 
-segments, which reached 559 days and 395 days, respectively.  
- 
-61. The delinquency rate in the financial system (non-earmarked loans used as reference for interest rates, in 
-arrears for more than ninety days) increased 0.1 p.p., reaching 4.6% in January. The delinquency rate for credit 
-operations with individuals was stable at 5.7% and the one relative to corporate increased by 0.1 p.p., to 3.6%. 
- 
-External Environment 
-  
-62. Economic activity accelerated for the second consecutive quarter in the US, reaching quarterly annualized 
-increase of 2.8% in the fourth quarter of 2010, up from 2.6% in the previous one. The result reflected, among other 
-factors, household consumption growth and imports contraction. The labor market has continued to recover in the 
-US. Personal available income grew in January, for the fourth consecutive month. In the Euro Area, the strong 
-winter contributed to the deceleration of GDP growth from 1.4% to 1.2%; while in Japan, 2010 fourth quarter GDP 
-contracted by 1.1%. In the same period, China GDP interannual growth accelerated to 9.8% from 9.6%, in the 
-previous quarter. Recent consumer, corporate and manufacturing activity confidence indicators showed 
-acceleration in the economic activity at the start of the year in the G3 economies. The purchase management index 
-(PMI) for the global manufacturing industry activity grew for the ninth consecutive month in January, showing 
-increase in its expansion pace. The February index, specific for the Euro Area, reached a record high since June 
-2000. Although most recent data suggest resumption of economic activity in the main economies, it is important 
-highlight that this favorable scenario depends on the crisis development in North Africa and the Middle East. 
- 
-63. Commodities international prices have registered new increase since the last Copom meeting, although they 
-have presented higher volatility in the last weeks, due to the geopolitical tension. The prices of agricultural 
-commodities continue to be quite impacted by the deterioration of supply conditions in several regions, by 
-consumption increase, mainly in emerging markets, and by low global inventories, when compared to consumption. 
-Oil prices increased substantially reflecting, on the one hand, uncertainties related to possible supply shock due to 
-geopolitical tensions and, on the other hand, the impact over demand resulting from favorable prospects for 
-economic activity. In the financial markets, despite the recent volatility increase, the prospects for developed 
-economies growth have favorably impacted stock market in these countries, compared to those related to emerging 
-economies. 
- 
-64. In January, annual CPI increased in the US, Euro Area, UK and China, among others, reaching 1.6%, 2.3%, 
-4.0% and 4.9%, compared to 1.5%, 2.2%, 3.7% and 4.6%, in December, respectively. While in the US energy 
-annual prices grew 7.3% in January, in China, the 10.3% increase in food prices was the main driver of the CPI. 
-Despite recent increases in inflation indexes, inflationary pressures are contained in the main developed 
-economies, except in the UK. Considering core inflation measures, annual growth in January reached 1.0%, 1.1% 
-and 3.0%, respectively, in the US, Euro Area and in the UK. Among emerging economies, in addition to China, food 
-prices increases have contributed for inflationary pressures. In January, annual CPI reached 9.6% in Russia and 
-7% in Indonesia. 
+9. According to the retail monthly survey (PMC) from the IBGE, expanded retail sales has been increasing since May 2009, year-over-year. Growth was 14.8% in December 2010, 17.0% in November and 11.1% in October. According to the seasonally adjusted series, expanded retail sales increased for the eighth consecutive month, 2.3% in December, up from0.4% in November and 2.2% in October. Therefore, average sales in the quarter ended in December increased 4.2%, quarter-over-quarter. It also bears noticing that eight out of the ten sectors surveyed performed positively month-on-month in December, with highlights for vehicles and motorcycles, parts and pieces (4.7%) and fabric, clothing and shoes (3.4%). In the next months, the retail trajectory will continue to be benefited by governmental transfers, real payroll growth, moderate credit expansion and consumer confidence.
 
-12
- 
-65. In the context of contained inflationary pressures, the Federal Reserve and the European Central Bank 
-maintained their accommodative monetary policy stances, unchanging their basic interest rates, decision followed 
-by the Bank of England. In the opposite direction, since the last Copom meeting, central banks of several emerging 
-countries have increased their respective basic interest rates, among them, Chile, China, South Korea, Russia and 
-Thailand. In February, the People´s Bank of China (PBOC) announced new increase in the reserve requirements in 
-2011, the second in the year.  
- 
-Foreign Trade and International Reserves 
- 
-66. The Brazilian trade surplus reached US$1.2 billion in February. Exports reached US$16.7 billion and imports, 
-US$15.5 billion. In the year, the trade surplus was US$1.6 billion, 615.9% above the registered in 2010, according 
-to the daily average criterion, reflecting expansions of 26% in exports and 20.7% in imports. Total trade grew 
-23.3% in the year, totaling US$62.3 billion in 2011, compared to US$46.8 billion in the same period of 2010. 
- 
-67. International reserves reached US$307.5 billion in February, increasing US$9.8 billion compared to January. 
-The monetary authority's interventions accounted for net purchases of US$8.1 billion in the domestic market until 
-February 25th. 
- 
-Money Market and Open Market Operations 
- 
-68. Since the last Copom meeting, in January, the futures interest rate yield curve reduced its slope, moving 
-upwards short term rates and keeping tenors higher than a year relatively stable. In the short term, the main drivers 
-of the movement were the worsening of inflation expectations and the release of still high current inflation indexes 
-and prices collected data. Between January 17th and February 28th, one-, three- and six-month interest rates 
-increased 0.52 p.p., 0.44 p.p. and 0.36 p.p., respectively. One-year interest rate increased 0.19 p.p., while two- and 
-three-year rates reduced 0.02 p.p.. Real interest rates, measured by the rate between the one-year forward 
-nominal interest rate and the smoothed twelve-month-ahead inflation expectations, increased from 6.61% on 
-January 17th to 6.90% on February 28th.  
- 
-69. Between January 18th and February 28th, the Central Bank carried out reverse exchange rate swap auctions, 
-in which it assumed long FX position and short interest rate position. This operation totaled the equivalent to 
-US$8.5 billion in notional value. 
- 
-70. In its open market operations, the BCB carried out, between January 18th and February 28th, repo operations 
-borrowing R$39.0 billion for a six-month period. As a consequence, the average daily balance of the long 
-operations reached R$148.5 billion. In the same period, the BCB also borrowed money through repo operations 
-with tenures between thirteen and thirty working days, increasing the average daily balance of short-term borrowing 
-operations to R$129.9 billion. The BCB also borrowed money through 31 overnight repo operations and conducted 
-daily, at the end of day, two-working-day tenure liquidity management operations. The very short-term operations, 
-including the two-working-day tenure liquidity management operations, averaged a daily balance of R$95.4 billion 
-in the period, borrowing. The average daily balance of the total stock of repurchase agreements of the Central 
-Bank increased from R$358.5 billion between December 7th and January 17th to R$ 387.1 billion, between January 
-18th and February 28th. Considering the daily balance of operations for the most recent period, there was a 
-reduction in the daily balance of repurchase agreements totaling R$37.2 billion, reducing the total stock from 
-R$396.7 billion on January 17th to R$359.5 billion on February 28th. The main drivers of liquidity contraction in the 
-period were the net revenues of the Central Government and the issuance of net securities by the National 
-Treasury. 
- 
-71. Between January 18th and February 28th, the National Treasury issuance regarding the traditional auctions 
-raised a total of R$45.4 billion. The sale of fixed-rate securities reached R$27.9 billion, with R$24.0 billion via 
-issuance of LTNs maturing in 2011, 2012, 2013 and 2015, and R$ 3.9 billion via NTN-Fs maturing in 2017 and 
-2021. Issuance of LFTs totaled R$9.6 billion, for securities maturing in 2015 and 2017. Issuance of inflation-linked 
-NTN-Bs reached R$7.9 billion, for securities maturing in 2014, 2016, 2020, 2030, 2040 and 2050. 
- 
+10. The installed capacity utilization rate (Nuci) in the manufacturing industry, calculated by FGV, without seasonal adjustment, changed from 83.1% in January to 83.7% in February. These values are close to the observed in the same period of 2010. According to the seasonally adjusted monthly series calculated by FGV, the Nuci reduced from 84.7% in January to 84.5% in February. Two out of the four use categories retreated in February, month-on-month. The Nuci in the intermediate goods industry reduced 0.8 p.p., while in the consumer goods industry, it decreased by 0.2 p.p.. For the construction inputs industry, the Nuci increased from 89.5% in January to 89.9% in February, according to seasonally adjusted data, while in the capital goods industry, it increased from 84.2% to 84.8% in the same period. According to CNI data seasonally adjusted by the BCB, the 4 Nuci in December reached 82.8% in December, up from 82.7% in November. Therefore, installed capacity utilization rates have shown relative stability, at high levels. The high occupation level reflects the recent expansion in economic activity, whose effects have not been totally offset by the maturity of investment projects. In this sense, the absorption of capital goods grew 26.1% in 2010, year-over-year. Construction inputs production increased 11.9%. As stressed in previous Copom Minutes, the inflation trajectory is closely linked to current and prospective developments related to the expansion of supply of goods and services to adequately meet demand conditions.
+
+11. The trade balance result in the last twelve months increased from US$ 20.9 billion in January to US$ 21.7 billion in February. This result stemmed from US$210.4 billion in exports and US$188.7 billion in imports, equivalent to 33.9% and 42.0% changes, respectively, compared to the twelve month period ended in February
+
+2010. Current account deficit accumulated in twelve months increased from US$47.5 billion in December to US$49.1 billion in January, equivalent to 2.35% of GDP. On its turn, foreign direct investment reached US$ 50.8 billion in the last twelve months through January, equivalent to 2.43% of GDP, exceeding the need for foreign funding.
+
+12. Since the last Copom meeting, the trend of global economy recovery has persisted, mainly in the US economy, whose domestic demand shows some dynamism, especially in household consumption, in spite of continued uncertainties regarding labor market. The leading indicator published by the Organization for Economic Co-operation and Development (OECD) – often used for inferences regarding the future behavior of global industrial production - , for instance, registered, in December, the fourth consecutive monthly increase. The indicators disaggregated by country suggest acceleration in growth pace or continued growth in all G7 countries, except Italy. The Euro Area macroeconomic prospects, in particular, are asymmetrical, as uncertainties regarding the solvency of some peripheral economies persist, at the same time that the expansion pace remains strong in Germany. Inflation rate cores are still at moderate levels in the G3 group (US, Euro Area and Japan), in spite of extremely expansionist economic policy actions, both in fiscal and monetary sides. On its turn, headline consumer inflation rates reached 1.6% in the US and 2.3% in the Euro Area, in the twelve months through January 2011, mainly due to the hikes in energy prices. In the emerging countries, there are inflationary pressures in Latin America, Asia and Eastern Europe. Since the last meeting there was a moderate monetary tightening in several economies – among them, China and India. The People’s Bank of China announced the fifth increase in reserve requirements, since November last year.
+
+13. Brent oil prices have increased since the last Copom meeting, surpassing the US$100 level. This price acceleration is consistent with a framework of apparent strengthening in the global demand framework – given that empiric evidences suggest that international oil prices, in the last two decades, have been determined more by global demand conditions than by the supply side – as well as with political instability in some countries of the Middle East and, especially, in North Africa. It bears highlighting that geopolitical complexity that involves the oil sector tends to heighten price volatility, which is also a reflex of the low predictability of some global demand components and of the dependency of supply growth on long term risky investment projects. The main scenario adopted by the Copom assumes unchanged domestic gasoline prices in 2011. It is also noteworthy the continuous increase in the prices of international agricultural and metallic commodities prices. In this sense, the current quarterly readjustment system for iron ore price reinforces future price increase expectations. The food price index, calculated by the Food and Agriculture Organization of the United Nations (FAO), which considers 55 items, reached a new record high in January 2011, resulting in 28.4% increase in twelve months. This movement was leveraged, among other factors, by the increase in international prices of sugar, cereals and vegetable oils. In recent past, the high volatility observed in commodities prices seems to have been strongly impacted by the abundant global liquidity, in a context where financial markets adjust to new expectations of demand growth and to FX markets volatility. Assessment of Inflation Trends
+
+14.  The identified shocks and their impacts were reassessed according to the new set of available information. The scenario considered in the simulations was based on the following assumptions: 5 a) the projected adjustments for gasoline an bottled gas prices in 2011 were kept unchanged at 0%, the same considered at the January Copom meeting; b) the projected adjustments for fixed telephone and electricity rates in 2011 were kept at 2.9% and 2.8%, respectively; c) the projection for regulated prices inflation in 2011, based on individual items, according to the benchmark scenario, was kept at 4.0%, unchanged relative to the January meeting. This set of prices, according to data released by the IBGE, accounted for 28.90% of the total January IPCA; d) the projection for regulated prices inflation in 2012, according to the benchmark scenario, was reduced to 4.3%, down from 4.4% considered in the January meeting. Such projection is based on endogenous determination models for regulated prices, which compute, among other factors, seasonal components, foreign exchange rate changes, market prices inflation and the IGP (General Price Index) change; and e) the projection for the spreads over the Selic rate, based on the 360-day swap rates, on the benchmark scenario, estimates 29 bps and 46 bps spreads in the fourth quarters of 2011 and 2012, respectively.
+
+15. Regarding fiscal policy, projections assume the achievement of a public sector primary surplus target of 3.0% of GDP, without adjustments, in 2011 (according to parameters contained in the Budget Guidelines Law - 2011). Moreover, a primary surplus of 3.1% is considered for 2012.
+
+16. The set of projections incorporated the estimated effects of the reserve requirements measures announced in December.
+
+17. Since the last Copom meeting, the median of the expectations compiled by the BCB’s Investor Relations and Special Studies Department (Gerin) for the 2011 IPCA increased from 5.42% to 5.80%. For 2012, the median of inflation expectations moved from 4.50% to 4.78%.
+
+18. The benchmark scenario assumes the maintenance of the exchange rate at R$1.65/US$1.00 and the Selic rate at 11.25% p.a. during the forecast period. Under this scenario, the projection for the 2011 inflation increased relative to the figure considered at the January Copom meeting, and it stands above the 4.50% midpoint target established by the National Monetary Council (CMN). According to the market scenario – which incorporates the consensus exchange and Selic rates trajectories collected by Gerin at the period immediately prior to the Copom meeting - IPCA inflation forecast for 2011 also increased and stands above the inflation midpoint target. For 2012, the projection reduced in the benchmark scenario, but still stands above the midpoint target, while, in the market scenario, it stands around the midpoint target. Monetary Policy Decision
+
+19. The Copom evaluates that monetary policy should contribute to the consolidation of a favorable longer-term macroeconomic environment. In this respect, the Copom reassures that, under the inflation-targeting regime, it guides its decisions according to projected inflation and based on the analysis of alternative scenarios for the evolution of the main variables that determine prices dynamics. The Committee also understands that low risks for the underlying inflation in the short run tend to reduce uncertainties regarding the future behavior of headline inflation, facilitate the assessment of scenarios by the monetary authority, as well as help the process of coordination of economic agents’ expectations, mainly price setters’. It is additionally noteworthy that low risks for the underlying inflation in the short run tend to reinforce the effects of monetary policy actions, enabling them to affect in a more long-lasting manner the dynamics of headline inflation in the future. Although the Copom recognizes that other actions of macroeconomic policy may influence the price trajectory, it reaffirms its view that it is the responsibility of the monetary policy to remain especially vigilant to guarantee that pressures detected in shorter horizons do not spread to longer horizons.
+
+20. International evidence, ratified by the Brazilian experience, indicates that high inflation rates lead to the increase in risk premium, both for private and public funding, and to the shortening of planning horizons, both for households and companies. Consequently, high inflation rates reduce investment and the economic growth potential, in addition to presenting regressive effects on income distribution. Moreover, high inflation rates do not 6 originate any lasting results for economic and employment growth; on the contrary, they create permanent damage to these variables in the medium and long terms. Therefore, the strategy adopted by the Copom aims to ensure the convergence of inflation towards the targets path in 2011 and in the next years, which requires that possible deviations from the target path be promptly corrected. Such strategy takes into account the time lags in the transmission mechanism and is the most adequate to deal with the uncertainty inherent to the process of monetary policy formulation and implementation.
+
+21. As a consequence of the stabilization and correction of unbalances, which determined important structural changes, the process of maturing of the inflation targets regime stands at an advanced stage, and it reflects favorably in the dynamics of neutral interest rate and in the power of monetary policy. Evidences under this respect can be observed, among other factors, through the accomplishment of inflation targets in the last seven years, at the same time that real interest rates have reduced. Progress in the financial markets structure, the FX and the inflationary risk premiums reduction, among other factors, seem to have determined significant reduction in the neutral rate. The generation of primary surpluses consistent with the maintenance of the decreasing trend for the public debt/GDP ratio also contributed for it. From another point-of-view, some of these developments, combined to others, such as the extension of contract tenures, also suggest that the power of monetary policy in Brazil has increased in the last years, despite the substantial uncertainty that surrounds the calculation of non-observable variables. The Committee also considers that there are evidences that the traction of monetary policy increased in the recent past and, compared to what was observed some years ago, currently inflationary pressures are contained with more efficiency by monetary policy actions.
+
+22. In international markets, volatility and risk aversion have increased since the last Copom meeting, partially fueled by the extraordinary levels of global liquidity, although the chances of adoption of a new set of unconventional monetary actions and adverse geopolitical developments have diminished. While concerns about European countries` sovereign and banking debts and the possible deceleration in China have remained high, the confidence in the sustainability of the US economy recovery has increased. Prices of relevant commodities grew, without movements, in the opposite direction, of domestic assets and, in general, the prospects for external funding of Brazilian economy remain favorable. Meanwhile, the trajectory of prices indexes shows some dissemination of inflationary pressures in the main economies.
+
+23. The Copom evaluates that, although moderation of domestic demand growth is observed, yet in uncertain pace, prospects for economic activity are favorable. This assessment is supported by signs that point to the fact that the expansion of credit supply tends to persist, both for individuals and corporate, despite showing some cooling, and by the fact that consumers and businessmen confidence stands at historically high levels, notwithstanding some accommodation at the margin. The Copom considers, additionally, that the dynamism of domestic activity will continue to be benefited by the vigor of labor market, mirrored in historically low unemployment rates and substantial growth of real wages, particularly in the public sector.
+
+24. The Copom evaluates that the inflation prospective scenario has not developed favorably since the last meeting. In fact, in the last quarter of 2010 and at the beginning of this year, inflation was strongly and negatively impacted by the dynamics of food prices, which in part reflected domestic and external supply shocks. Evidences suggest that consumer prices have already incorporated substantial part of these shocks’ effects, and have also absorbed the seasonal effects typical from the first two months of the year. The localized effects stemming from atypical concentration of regulated prices readjustments in the same period were also relevant, although, for the year as a whole, the behavior of these items tends to be relatively benign. The Committee considers that these effects should still impact consumer prices dynamics, among other mechanisms, through inertia. At the same time, it evaluates, as relevant, risks derived from the persistence of the mismatch between supply and demand growth rates, despite the signs that this mismatch tends to retreat. Moreover, it highlights the narrow idleness margin of the production factors, specially labor force, and analysis that, in such circumstances, an important risk stems from the possibility of concession of nominal wages increases incompatible with productivity gains. It is also noteworthy to mention the risks associated to commodities prices trajectory in international markets, which has been surrounded by great uncertainty.
+
+25. The Copom considers two distinct moments for inflation trajectory, according to the 2011 main scenario. In this quarter and in the following two, inflation accumulated in twelve months tends to remain at levels similar or 7 even above the current one. This, in part, is explained by the high inertia that stemmed from 2010 and by the fact that the projections, in contrast with what was observed in 2010, point to inflation rates close to the historical standard in the quarter ending in August 2011. However, from the fourth quarter on, the main scenario indicates a downward trend for the inflation accumulated in twelve months, moving to the target direction.
+
+26. The Copom reaffirms that the inflation main scenario considers the materialization of its trajectories regarding fiscal variables. It bears highlighting that the generation of primary surpluses in line with the hypotheses considered for inflation projections, besides contributing to reduce the mismatches between supply and demand growth rates, will strengthen the reduction trend in the public debt/GPD ratio. It bears highlighting that since the last Committee meeting, important decisions have been taken and implemented, which support the vision that, in the beginning of this year, a fiscal  consolidation process began.
+
+27. The Copom highlights that its main scenario for inflation also considers moderation in credit expansion, for which the macro prudential actions recently adopted contribute. The Committee considers that, although such regulatory changes target primarily the financial system stability, they should also materialize as an element of aggregate demand constraint through the credit channel, as well as through the reduction of incentives to the adoption of strategies such as the simple extension of contract tenures, among others. The available information confirm this opinion, by evidencing relevant impacts both in the prices and in the volumes negotiated in the credit market. Additionally, it is plausible to affirm that the current regulatory framework, compared to the previous one, tends to intensify the impacts of conventional monetary policy actions.
+
+28. In short, the Copom recognizes an economic environment in which an above-than-usual uncertainty level prevails, and identifies increasing risks to the materialization of a scenario where inflation promptly converges to the midpoint target. Since the last Copom meeting, at the external outlook, stimuli factors and assets prices spillovers have pointed to lower probability of reversion in the recovery process experienced by the G3 economies. From another point-of-view, they still reveal the ambiguous influence of the international outlook over domestic inflation behavior. Regarding the domestic outlook, the recently announced macro prudential actions - a fast and powerful tool to contain local demand pressures -, and conventional monetary policy actions will still have their effects incorporated to price dynamics. Although uncertainties that surround the global outlook and, at a minor magnitude, the domestic one, do not allow the clear identification of the degree of permanence of recent pressures, the Committee evaluates that the inflation prospective scenario has not evolved favorably.
+
+29. In this context, continuing the process of monetary conditions adjustment, the Copom unanimously decided to increase the Selic rate to 11.75%, without bias.
+
+30. Domestic demand is robust, largely due to the effects of stimulus factors, such as income growth and credit expansion. Moreover, although recent initiatives point to some constraint in public sector expenditures, fiscal and credit incentives provided to the economy in the last quarters should still contribute for the activity expansion and, hence, for the maintenance of the idleness level of factors at low levels. The effects of these stimuli, however, are counterbalanced by the effects of the reversal of initiatives taken during the recent 2008/2009 financial crisis and, especially, by macro prudential and conventional monetary policy actions recently taken. These elements and the fiscal and quasi fiscal developments are an important part of the context in which future monetary policy decisions will be taken, aiming to ensure the timely convergence of inflation to the targets path.
+
+31. In an alternative scenario, which takes in consideration the maintenance of the foreign exchange rate, in the relevant horizon, at levels similar to the observed in the recent past, and the interest rate path collected by Gerin, projected inflation is above the target rate in 2011 and slightly below it in 2012. Considering this alternative scenario and prospects of domestic activity slowdown, as well as the current complexity of the international environment, among other factors, the introduction of macro prudential actions may create opportunities for the reassessment of monetary policy strategy.
+
+32. At the end of the meeting it was announced that the Committee will reconvene on April 19th, 2011 for technical presentations and, on the following day, to discuss the monetary policy decision, as established in Communiqué 20,223 of October 15th, 2010. 8 SUMMARY OF DATA ANALYZED BY THE COPOM Inflation
+
+33. The IPCA-15 rose 0.97% in February, up from 0.76% in January and 0.69% in December, totaling 1.74% in the year and 6.08% in twelve months, according to IBGE data. Market prices inflation rose from 0.85% in January to 1.08% in February, reflecting the increase from 1.02% to 1.97% in the prices of non-tradable products, influenced, mainly, by the increase in the prices of services, from 0.88% to 2.34%. The prices of tradable goods retreated from 0.66% in January to 0.06% in February. Regulated prices increased 0.69%, up from 0.53% in January. The group education registered the higher contribution for the index in the month, 0.42 p.p., followed by transportation, 0.19 p.p.. The diffusion index reached 66.41% in the month, down from 68.23% in January. The diffusion index, excluding beverages and food, rose from 58.67% in January to 70.22% in February.
+
+34. Market prices increased 7.26% in the last twelve months through February, up from 7.22% in January, while regulated prices increased 3.30% and 3.31%, respectively. Market prices change reflected the acceleration from 7.48% to 7.86% in the prices of non-tradable products, mainly services, and the retreat from 6.87% to 6.52% in the prices of tradable products.
+
+35. All core inflation measures presented higher rates in the last twelve months through February, while on a month-on-month basis, the smoothed trimmed-means inflation core retreated. The IPCA-15 core, considering the smoothed trimmed-means inflation core, increased 0.45% in February, down from 0.59% in January, accumulating 5.76% in twelve months through February, up from 5.72% in January. Core inflation by exclusion, which excludes ten items of household food and fuels, grew 1.08% in February, compared to 0.69% in January, reaching 5.86% in twelve months through February, up from 5.58% in January. The double weight core inflation rose 0.82% in February, up from 0.74% in January, reaching 6.01% in the last twelve months, up from 5.78% in twelve months through January.
+
+36. According to FGV, the IGP-M, increased 1.00% in February, up from 0.79% in January, accumulating 1.80% in 2011 and 11.30% in the last twelve months. In February, the IPA-M and the INCC-M accelerated and the IPC-M reduced.
+
+37. The IPA-M increased 1.20% month-on-month, up from 0.76% in January, accumulating 1.97% in the first two months of the year and 13.93% in twelve months. Agricultural prices increased 2.75% in February, up from 1.27% in January, accumulating 4.05% in the year and 29.68% in twelve months. Industrial products prices increased 0.64% in February, up from 0.57% in January, accumulating 1.22% in the year and 9.03% in twelve months. Regarding agricultural prices, the 2.75% change reflected, mainly, the 18.40% and 9.84% increases in the prices of cotton and corn, respectively, and the deceleration in the prices of pork, beans and rice.
+
+38. IPC-M increased 0.67% in February, accumulating 1.76% in the year and 5.96% in the last twelve months, with slowdown in five out of the seven groups surveyed. Considering the contribution to the monthly result, the main drivers were transportation (1.82% in February, down from 1.94% in January, 0.22 p.p. of the IPC-M), housing (0.51%, up from 0.22%, 0.15 p.p.) and instruction, reading and leisure (1.63%, down from 2.75%, 0.14 p.p.). The INCC-M increased 0.39%, up from 0.37% in January, accumulating 0.76% in the year and 7.46% in the last twelve months. The February result reflected, mainly, the increase in the prices of material, equipment and services, 0.65%, up from 0.42% in January, and labor force, 0.12%, down from 0.32% in the previous month. Accumulated increases in the year and in twelve months reached, respectively, 1.07% and 5.60% for the prices of material, equipment and services, and 0.44% and 9.49% for labor costs, according to the same comparison bases.
+
+39. The commodities index Brazil (IC-Br) grew in February, for the eighth consecutive month, increasing 4.7% in the month, driven by changes of 7%, 4.5% and -1.3% in the agricultural, metal and energy segments. Economic Activity 9
+
+40. The IBC-Br increased 0.1% in December, month-on-month, according to seasonally adjusted data. For the last quarter of 2010, the IBC-Br increased by 1%, quarter-over-quarter, which it had recorded 0.3% according to the same comparison basis. According to the observed series, the IBC-Br increased 3.7% in December, year-over- year, accumulating 7.8% in 2010.
+
+41. Expanded retail sales increased 2.3% in December, month-on-month, according to data seasonally adjusted by the IBGE’s monthly survey (PMC), driving the fourth-quarter result to exceed by 4.2% the third quarter result. Retail sales remained stable in the month and grew 1.5% in the quarter. Sales increased in eight out of the ten sectors surveyed, with highlights for vehicles and motorcycles, parts and pieces ( 4.7%), fabric, clothing and shoes, (3.4%), and construction input, (3.2%). On the other hand, the sales of items of other personal and domestic use, and hyper-, supermarkets and food prices reduced, respectively, by 1% and 0.3%.
+
+42. Expanded retail sales grew 14.8% in December, year-over-year, accumulating increases of 12.2% in 2010. Interannual evolution stemmed from sales in all segments, with highlights for books, newspapers, magazines and stationery (26.6%), vehicles and motorcycles, parts and pieces (25.6%), and office equipment and material (25.5%). Expanded retail sales in 2010 also reflected the increase in all considered activities, especially in those related to office equipment and material (24.1%), furniture and appliances (18.3%), and construction inputs (15.6%).
+
+43. Automobile sales by dealers, including cars, light commercial vehicles, trucks and buses, retreated by 1.7% in January, month-on-month, according to Fenabrave (Brazilian Federation of Automotive Vehicles Distribution) data, seasonally adjusted by the BCB, totaling 4.8% increase in the quarter ended in January, quarter-over-quarter. Automobile sales increased 12.3% in the last twelve months, compared to the same period of the previous year, with emphasis on the growth of sales related to trucks (42.1%), light commercial vehicles (26.8%) and buses (25.5%).
+
+44. Capital goods imports decreased 1.7% in January, month-on-month, according to the Funcex quantum index, seasonally adjusted by the BCB. Year-over-year, the indicator rose 25.3% and on a twelve-month trailing basis, it increased by 43.2%, compared to the same periods of the previous year.
+
+45. Capital goods production increased 1.8% in January and 2.4% in the quarter ended in the month, compared to the quarter ended in October, according to data seasonally adjusted from the Monthly Industrial Survey (PIM) by IBGE. The monthly increase reflected, in part, rises in the production of capital goods for agricultural production (7.5%) and for mixed use (5.5%), in opposition to the retreats in the production of equipment for transportation (7%), and for non-serial industrial purposes (6.6%). Capital goods production increased 9.1% year-over-year, accumulating 20.4% in the last twelve months.
+
+46. Construction inputs production increased by 0.1% in January, and 1.9% in the quarter ended in the month, compared to the quarter ended in October, according to seasonally adjusted data. The industry grew 6.5% year- over-year, increasing by 11.5% in the last 12 months.
+
+47. Disbursements granted by the Brazilian Development Bank (BNDES) reached R$168.4 billion in 2010, increasing by 23.5% year-over-year, with emphasis in the expansions of 47.7% in the agriculture and livestock sector and 28.1% in the industrial sector. In the year, the disbursements share to the trade and services sector totaled 47.2%, while industry accounted for 45.9%, and agriculture and livestock, 6%. Extractive industry accounted for 0.9% of total disbursements.
+
+48. Industrial production increased 0.2% in January, month-on-month, according to seasonally adjusted data from the PIM-PF. Year-over-year, industrial production grew 2.5%, with emphasis in the production of capital goods (9.1%) and durable consumer goods (6.1%). On a twelve-month trailing basis, industrial production increased by 9.4%, compared to the previous period, with highlights for the 20.4% production for capital goods.
+
+49. The Nuci in the manufacturing industry, calculated by FGV, reached 84.5% in February, compared to 84.7% in January, according to seasonally adjusted data. The monthly reduction was driven by the retreats in the production of consumer goods (-0.2p.p.) and, mainly, intermediate goods (-0.8p.p.).Capital goods and construction 10 inputs industries grew by 0.6p.p. and 0.4p.p., respectively, in the same period. Considering observed data, the Nuci reached 83.7% in February, up from 83.1% in the same month 2010. The growth reflected increases in the industries of construction inputs (3.1p.p.), capital goods (2.3p.p.) and intermediate goods (1.4p.p.), and the reduction in the consumer goods industry (1.1p.p.).
+
+50. Vehicles production reached 261.8 thousand units in January, decreasing 2.8% month-on-month, according to data released by the Anfavea and seasonally adjusted by the BCB. In the quarter ended in January, vehicles production increased by 0.3%, quarter-over-quarter. Production expanded by 6.4% year-over-year, and 12.9% in the last twelve months.
+
+51. Vehicles sales decreased 9.6% in January, month-on-month, and increased 2.1% year-over-year. The monthly change reflected the 11.3% reduction in domestic sales and the 24.2% increase in exports, while the interannual result stemmed from respective changes of -0.1% and 10.7%, in the same indicators. In twelve months, sales increased by 13.5%, resulting from growth of 6.1% and 53.9% in domestic sales and exports, respectively.
+
+52. The last projection for the 2011 national harvest of cereals, legumes e oilseed, carried out by the IBGE, estimated the production of 146.8 million tons, a 1.8% decline relative to the 2010 harvest, with emphasis in the 8.8% projected reduction in the South region, the most important grain producer of the country. Estimates point to the increases of cotton seed (53.9%), beans (19%) and rice (13.5%). On the other hand, wheat, corn and soybeans are expected to reduce by 18.3%, 7.1% and 1.2%, respectively. Surveys and Expectations
+
+53. The Consumer Confidence Index (ICC), increased by 0.8% in February, reaching 122.6 points, after two consecutive monthly retreats, considering nationwide seasonally adjusted data from the Consumer Expectations Survey (FGV). The result was driven by the increases in the Expectations Index (IE), by 1.2%, and in the Current Situation Index (ISA), by 0.3%. The ICC increased 10.9% year-over- year, due to the increases of 17% in the ISA and of 7.1% in the IE.
+
+54. The Industry Confidence Index (ICI) reduced by 0.3% in February, reaching 112.5 points, considering seasonally adjusted data from the Survey of Manufacturing Industry (SCIT-FGV). The result was driven by the increase of 0.8% in the IE and the stability of the ISA. The ICC retreated by 2.3% year-over- year, due to the decreases of 1.2% in the ISA and 3.6% in the IE.
+
+55. The Services Confidence Index (ICS) from FGV reduced 3% in January, month-on-month, impacted by unfavorable assessment of the current moment. The ISA retreated by 12.2%, while the IE increased 5.6%. The ICS decreased 1.3%, year-over-year, recording a 2.5% increase in the ISA and a 4.2% decrease in the IE. Labor Market
+
+56. According to the General Record of Employment and Unemployment (Caged) of the Ministry of Labor and Employment (MTE), 152.1 thousand formal jobs were created in January, being 73.2 thousand in the services sector, 53.2 thousand in the manufacturing industry, 33.4 thousand in civil construction and 8.3 thousand in agriculture, while the commerce sector eliminated 18.1 thousand jobs. In twelve months, 2,107 thousand jobs were created, with emphasis in the services sector (879.5 thousand), in commerce (508.3 thousand), in the manufacturing industry (469.3 thousand) and in civil construction (233.2 thousand).
+
+57. According to the IBGE employment survey (PME), carried out in the six main metropolitan regions of the country, the unemployment rate reached 6.1% in January, a historical record low for the month since the start of the series. The rate increased 0.8p.p. month-on-month, and reduced 1.1p.p. year-over-year. Considering seasonally adjusted data, the unemployment rate reached 6.3% in January, up from 6.2% in the previous month, as a result of the 0.1% decrease in occupation and stability in the Economically Active Population (PEA). Average real earnings usually earned by workers grew by 0.5% month-on-month and 5.3 year-over-year, while payroll changed -1.2% and 7.7%, respectively, according to the same comparison bases. 11 Credit and Delinquency Rates
+
+58. Outstanding credit in the financial system reached R$1,714.5 billion in January, equivalent to 46.5% of GDP, increasing by 0.5% in the month and 20.3% in twelve months. Non-earmarked credit operations increased by 0.3% and 17.1%, respectively, according to the same comparison bases, reflecting the increases of 1% and 19.1% for credit operations to individuals and -0.3% and 15.1% for credit operations to corporate, according to the same comparison bases. Earmarked credit operations increased 0.9% in the month and 27% in twelve months, with highlights for the rises of 2.5% and 50.2% recorded in housing credit and of 0.8% and 40.9% recorded in BNDES disbursements, according to the same comparison bases.
+
+59. The average interest rate on non-earmarked credit operations increased 2.4 p.p. in January, reaching 37.4%. The average annual rates on credit for individuals reached 43.8% and for corporate, 29.3%, which represented respective increases of 3.2 p.p. and 1.4 p.p..
+
+60. The average tenure on non-earmarked credit operations decreased from 476 days in December to 474 days in January, representing decreases of three and four days for tenures related to individuals and corporate segments, which reached 559 days and 395 days, respectively.
+
+61. The delinquency rate in the financial system (non-earmarked loans used as reference for interest rates, in arrears for more than ninety days) increased 0.1 p.p., reaching 4.6% in January. The delinquency rate for credit operations with individuals was stable at 5.7% and the one relative to corporate increased by 0.1 p.p., to 3.6%. External Environment
+
+62. Economic activity accelerated for the second consecutive quarter in the US, reaching quarterly annualized increase of 2.8% in the fourth quarter of 2010, up from 2.6% in the previous one. The result reflected, among other factors, household consumption growth and imports contraction. The labor market has continued to recover in the US. Personal available income grew in January, for the fourth consecutive month. In the Euro Area, the strong winter contributed to the deceleration of GDP growth from 1.4% to 1.2%; while in Japan, 2010 fourth quarter GDP contracted by 1.1%. In the same period, China GDP interannual growth accelerated to 9.8% from 9.6%, in the previous quarter. Recent consumer, corporate and manufacturing activity confidence indicators showed acceleration in the economic activity at the start of the year in the G3 economies. The purchase management index (PMI) for the global manufacturing industry activity grew for the ninth consecutive month in January, showing increase in its expansion pace. The February index, specific for the Euro Area, reached a record high since June
+
+2000. Although most recent data suggest resumption of economic activity in the main economies, it is important highlight that this favorable scenario depends on the crisis development in North Africa and the Middle East.
+
+63. Commodities international prices have registered new increase since the last Copom meeting, although they have presented higher volatility in the last weeks, due to the geopolitical tension. The prices of agricultural commodities continue to be quite impacted by the deterioration of supply conditions in several regions, by consumption increase, mainly in emerging markets, and by low global inventories, when compared to consumption. Oil prices increased substantially reflecting, on the one hand, uncertainties related to possible supply shock due to geopolitical tensions and, on the other hand, the impact over demand resulting from favorable prospects for economic activity. In the financial markets, despite the recent volatility increase, the prospects for developed economies growth have favorably impacted stock market in these countries, compared to those related to emerging economies.
+
+64. In January, annual CPI increased in the US, Euro Area, UK and China, among others, reaching 1.6%, 2.3%, 4.0% and 4.9%, compared to 1.5%, 2.2%, 3.7% and 4.6%, in December, respectively. While in the US energy annual prices grew 7.3% in January, in China, the 10.3% increase in food prices was the main driver of the CPI. Despite recent increases in inflation indexes, inflationary pressures are contained in the main developed economies, except in the UK. Considering core inflation measures, annual growth in January reached 1.0%, 1.1% and 3.0%, respectively, in the US, Euro Area and in the UK. Among emerging economies, in addition to China, food prices increases have contributed for inflationary pressures. In January, annual CPI reached 9.6% in Russia and 7% in Indonesia. 12
+
+65. In the context of contained inflationary pressures, the Federal Reserve and the European Central Bank maintained their accommodative monetary policy stances, unchanging their basic interest rates, decision followed by the Bank of England. In the opposite direction, since the last Copom meeting, central banks of several emerging countries have increased their respective basic interest rates, among them, Chile, China, South Korea, Russia and Thailand. In February, the People´s Bank of China (PBOC) announced new increase in the reserve requirements in 2011, the second in the year. Foreign Trade and International Reserves
+
+66. The Brazilian trade surplus reached US$1.2 billion in February. Exports reached US$16.7 billion and imports, US$15.5 billion. In the year, the trade surplus was US$1.6 billion, 615.9% above the registered in 2010, according to the daily average criterion, reflecting expansions of 26% in exports and 20.7% in imports. Total trade grew 23.3% in the year, totaling US$62.3 billion in 2011, compared to US$46.8 billion in the same period of 2010.
+
+67. International reserves reached US$307.5 billion in February, increasing US$9.8 billion compared to January. The monetary authority's interventions accounted for net purchases of US$8.1 billion in the domestic market until February 25th. Money Market and Open Market Operations
+
+68. Since the last Copom meeting, in January, the futures interest rate yield curve reduced its slope, moving upwards short term rates and keeping tenors higher than a year relatively stable. In the short term, the main drivers of the movement were the worsening of inflation expectations and the release of still high current inflation indexes and prices collected data. Between January 17th and February 28th, one-, three- and six-month interest rates increased 0.52 p.p., 0.44 p.p. and 0.36 p.p., respectively. One-year interest rate increased 0.19 p.p., while two- and three-year rates reduced 0.02 p.p.. Real interest rates, measured by the rate between the one-year forward nominal interest rate and the smoothed twelve-month-ahead inflation expectations, increased from 6.61% on January 17th to 6.90% on February 28th.
+
+69. Between January 18th and February 28th, the Central Bank carried out reverse exchange rate swap auctions, in which it assumed long FX position and short interest rate position. This operation totaled the equivalent to US$8.5 billion in notional value.
+
+70. In its open market operations, the BCB carried out, between January 18th and February 28th, repo operations borrowing R$39.0 billion for a six-month period. As a consequence, the average daily balance of the long operations reached R$148.5 billion. In the same period, the BCB also borrowed money through repo operations with tenures between thirteen and thirty working days, increasing the average daily balance of short-term borrowing operations to R$129.9 billion. The BCB also borrowed money through 31 overnight repo operations and conducted daily, at the end of day, two-working-day tenure liquidity management operations. The very short-term operations, including the two-working-day tenure liquidity management operations, averaged a daily balance of R$95.4 billion in the period, borrowing. The average daily balance of the total stock of repurchase agreements of the Central Bank increased from R$358.5 billion between December 7th and January 17th to R$ 387.1 billion, between January 18th and February 28th. Considering the daily balance of operations for the most recent period, there was a reduction in the daily balance of repurchase agreements totaling R$37.2 billion, reducing the total stock from R$396.7 billion on January 17th to R$359.5 billion on February 28th. The main drivers of liquidity contraction in the period were the net revenues of the Central Government and the issuance of net securities by the National Treasury.
+
+71. Between January 18th and February 28th, the National Treasury issuance regarding the traditional auctions raised a total of R$45.4 billion. The sale of fixed-rate securities reached R$27.9 billion, with R$24.0 billion via issuance of LTNs maturing in 2011, 2012, 2013 and 2015, and R$ 3.9 billion via NTN-Fs maturing in 2017 and
+
+2021. Issuance of LFTs totaled R$9.6 billion, for securities maturing in 2015 and 2017. Issuance of inflation-linked NTN-Bs reached R$7.9 billion, for securities maturing in 2014, 2016, 2020, 2030, 2040 and 2050.
