@@ -10,7 +10,7 @@ A) Update of economic outlook and Copom’s baseline scenario1
 
 5. The path of regulated prices, which enters the conditional forecasts in the inflation scenarios produced by the Committee, assumes increases of 6.0% in 2017, and 5.2% in 2018.
 
-6. The reference scenario maintains, among other assumptions, that the interest rate and exchange rate remain unchanged throughout the forecast horizon at, respectively, 13.75% per annum (p.a.) and R$3.25/US$. The market scenario considers the paths for the policy rate and the exchange rate extracted from the Focus survey. In particular, this scenario assumes exchange rates of R$3.45/US$ and R$3.50/US$ at the end of 2017, and 2018, 1  Unless explicitly stated otherwise, this update takes into account the changes that have occurred since the previous Inflation Report (December 9, 2016). respectively, and interest rates of 10.25% p.a., and 9.63% p.a. at the end of the same periods.
+6. The reference scenario maintains, among other assumptions, that the interest rate and exchange rate remain unchanged throughout the forecast horizon at, respectively, 13.75% per annum (p.a.) and R$3.25/US$. The market scenario considers the paths for the policy rate and the exchange rate extracted from the Focus survey. In particular, this scenario assumes exchange rates of R$3.45/US$ and R$3.50/US$ at the end of 2017, and 2018, respectively, and interest rates of 10.25% p.a., and 9.63% p.a. at the end of the same periods.
 
 7. The Committee’s conditional inflation forecasts retreated relative to those in the latest Inflation Report, which were based on information available until December 9, 2016. Among other factors, changes in forecasts were influenced by inflation and economic activity data released since then. In the reference scenario, forecasts for 2017 and 2018 are around 4.0% and 3.4%, respectively. The market scenario for 2017 and 2018 shows inflation around 4.4% and 4.5%, respectively. The incorporation of the latest data on economic activity into the Copom’s information set contributed significantly to the decline in conditional inflation forecasts.
 
@@ -22,7 +22,7 @@ B) Risks around baseline inflation scenario
 
 10. The steps toward approval of fiscal reforms have been positive so far, which suggests greater timeliness and higher probability of approval. On the other hand, the process is lengthy and carries uncertainty.
 
-11. The end of the benign period for emerging economies might produce effects that make disinflation more difficult. 2  Federal Open Market Committee. 3  Extended Consumer Price Index. 4
+11. The end of the benign period for emerging economies might produce effects that make disinflation more difficult. 4
 
 C) Discussion about the conduct of monetary policy
 

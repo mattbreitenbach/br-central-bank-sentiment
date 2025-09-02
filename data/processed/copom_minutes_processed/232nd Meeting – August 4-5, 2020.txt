@@ -12,7 +12,7 @@ A) Update of the Economic Outlook and Copom’s Baseline Scenario1
 
 6. The Copom's inflation projections in the hybrid scenario with interest rate path extracted from the Focus survey and constant exchange rate at R$5.20/US$2 stand around 1.9% for 2020, 3.0% for 2021 and 3.4% for 2022. This scenario assumes a path for the Selic rate that ends 2020 at 2.0% p.a., rises to 3.0% p.a. in 2021 and 5.0% p.a. in 2022. In this scenario, inflation projections for administered prices are 1.6% for 2020, 3.4% for 2021, and 3.9% for 2022.
 
-7. The scenario with constant interest rate at 2.25% p.a. and constant exchange rate at R$5.20/US$ yields inflation projections around 1.9% for 2020, 3.0% for 2021 and 3.7% for 2022. In this scenario, inflation projections for administered prices are 1.6% for 2020, 3.4% for 2021, and 3.9% for 2022. 1Unless explicitly stated otherwise, this update takes into account changes occurred since the June Copom meeting (231st meeting).
+7. The scenario with constant interest rate at 2.25% p.a. and constant exchange rate at R$5.20/US$ yields inflation projections around 1.9% for 2020, 3.0% for 2021 and 3.7% for 2022. In this scenario, inflation projections for administered prices are 1.6% for 2020, 3.4% for 2021, and 3.9% for 2022.
 
 B) Risks Around the Baseline Inflation Scenario
 
@@ -24,7 +24,7 @@ B) Risks Around the Baseline Inflation Scenario
 
 C) Discussion about the conduct of monetary policy
 
-11. Regarding the global economy, the data already available for the 2020Q There are some promising signs of recovery which, however, has shown to be incomplete. The strong recovery in consumption was not followed by the services sector. The Committee pondered that the main restriction to a full recovery in the major economies is the evolution of the pandemic itself, and the possibility of a second wave of the virus is a major risk.
+11. Regarding the global economy, the data already available for the 20 There are some promising signs of recovery which, however, has shown to be incomplete. The strong recovery in consumption was not followed by the services sector. The Committee pondered that the main restriction to a full recovery in the major economies is the evolution of the pandemic itself, and the possibility of a second wave of the virus is a major risk.
 
 12. The Copom members discussed the evolution of domestic economic activity in light of the available information and indicators. They evaluated that recent data suggest a partial recovery of the economic activity. Government transfer programs have allowed for a relatively strong resumption of durable goods consumption and even of investment. However, several service sector activities, especially those most directly affected by social distancing measures, remain quite depressed. Looking forward, the poor predictability associated with the evolution of the pandemic and the necessary decline in emergency aid by the end of 2020 4 increase uncertainty about the speed of the economic recovery. The Committee considered that this unpredictability and the risks associated with the evolution of the pandemic may imply a domestic scenario characterized by an even more gradual recovery of the economy.
 

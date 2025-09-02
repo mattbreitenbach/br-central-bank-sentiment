@@ -14,7 +14,7 @@ A) Update of Economic Outlook and Copom’s Baseline Scenario1
 
 2021. It also assumes a path for the exchange rate that ends 2019 at R$4.15/US$, 2020 at R$4.10/US$ and 2021 at R$4.00/US$. In this scenario, inflation projections for administered prices are 5.1% for 2019, 3.6% for 2020, and 3.5% for 2021.
 
-7. The hybrid scenario with a constant exchange rate at R$4.20/US$2 and the interest rate path from the Focus survey yields inflation projections around 4.0% for 2019, 3.7% for 2020, and 3.7% for 2021. In this scenario, inflation projections for administered prices are 5.1% for 2019, 3.9% for 2020, and 4.1% for 2021. 1Unless explicitly stated otherwise, this update takes into account changes occurred since the October Copom meeting (226th meeting).
+7. The hybrid scenario with a constant exchange rate at R$4.20/US$2 and the interest rate path from the Focus survey yields inflation projections around 4.0% for 2019, 3.7% for 2020, and 3.7% for 2021. In this scenario, inflation projections for administered prices are 5.1% for 2019, 3.9% for 2020, and 4.1% for 2021.
 
 B) Risks Around the Baseline Inflation Scenario
 

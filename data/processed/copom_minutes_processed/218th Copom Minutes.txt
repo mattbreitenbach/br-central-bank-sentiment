@@ -12,7 +12,7 @@ A) Update of economic outlook and Copom’s baseline scenario1
 
 6. The Copom's inflation projections in the scenario with Selic and exchange rate paths extracted from the Focus survey stand around 4.4% for 2018, 4.2% for 2019, and 3.7% for 2020. This scenario assumes a path for the Selic rate that ends 2018 at 6.5% p.a., increases to 8% p.a. over the course of 2019, and remains at that level until the end of 2020. It also assumes a path for the exchange rate that ends 2018 at R$/US$ 3.71, 2019 at R$/US$ 3.80, and 2020 at R$/US$ 3.75. In this scenario, the inflation projections for administered prices are 7.4% for 2018, 5.6% for 2019, and 3.9% for 2020.
 
-7. In the scenario with a constant Selic rate at 6.50% p.a., and a constant exchange rate at R$3.70/US$2, Copom’s inflation projections stand around 4.4% for 2018, 4.2% for 2019, and 4.1% for 2020. In this scenario, the inflation projections for administered prices are 7.3% for 2018, 5.4% for 2019, and 4.1% for 2020. 1  Unless explicitly stated otherwise, this update takes into account changes occurred since the September Copom meeting (217th meeting).
+7. In the scenario with a constant Selic rate at 6.50% p.a., and a constant exchange rate at R$3.70/US$2, Copom’s inflation projections stand around 4.4% for 2018, 4.2% for 2019, and 4.1% for 2020. In this scenario, the inflation projections for administered prices are 7.3% for 2018, 5.4% for 2019, and 4.1% for 2020.
 
 B) Risks around the baseline inflation scenario
 

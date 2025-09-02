@@ -14,7 +14,7 @@ A) Update of economic outlook and Copom’s baseline scenario1
 
 7. The scenario with interest rate and exchange rate paths extracted from the Focus survey considers, among other assumptions, exchange rates of R$ 3.16/US$, R$3.30/US$ and R$3.33/US$ at the end of 2017, 2018, and 2019, respectively. This scenario assumes a path for the policy interest rate that ends 2017 and 2018 at 7.0 percent per year (p.y.) and increases to 8.0 p.y. during the course of 2019.
 
-8. Under these assumptions, the Copom’s inflation projections stand around 3.3 percent for 2017, 4.3 percent for 2018, and 4.2 percent for 2019. 1  Unless explicitly stated otherwise, this update takes into account changes occurred since the September Copom meeting (209th meeting).
+8. Under these assumptions, the Copom’s inflation projections stand around 3.3 percent for 2017, 4.3 percent for 2018, and 4.2 percent for 2019.
 
 B) Risks around baseline inflation scenario
 
