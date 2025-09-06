@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. In May, most measures of inflation continued their downward trend. Wholesale prices fell, mainly due to the effects of the recent exchange rate appreciation, especially on the prices of tradable goods. Consumer prices on average are also decelerating, although at a slower rate than at the wholesale level, reflecting pressures on specific items.
 
 2. The IPCA increased 0.61% in May, in comparison to 0.97% in the previous month, accumulating 6.80% in 2003 and 17.24% in 12 months. The IGP-DI decreased 0.67% in May, compared to a 0.41% increase in April. The IPA-DI fell by 1.68% in May, in comparison to 0.07% in the previous month. The 12-month IGP- DI and IPA-DI fell for the second consecutive month, totaling 30.05% and 38.5%, respectively in comparison to 32.37% and 42.65% in April.
@@ -18,15 +22,19 @@
 
 10. Core IPC-BR inflation calculated under the symmetric trimmed-mean method registered a 1.05% increase in May. In 12 months, core IPC-BR inflation accumulated a 12.14% increase. Core measures of inflation with this index are also being influenced by the exchange rate shock last year.
 
-11. In June, wholesale prices will continue to reflect the exchange rate appreciation, registering additional declines as already signaled in the partial results for June inflation. Consumer price indices will come under some upward pressure from the prices of rice, milk and dairy products and clothing prices. However, this pressure will be lower than observed in May. Also, expected declines in the prices of fresh food, beef and fuel will facilitate a further deceleration of monthly inflation. Assessment of Inflation Trends 2
+11. In June, wholesale prices will continue to reflect the exchange rate appreciation, registering additional declines as already signaled in the partial results for June inflation. Consumer price indices will come under some upward pressure from the prices of rice, milk and dairy products and clothing prices. However, this pressure will be lower than observed in May. Also, expected declines in the prices of fresh food, beef and fuel will facilitate a further deceleration of monthly inflation.
 
-12. The identified shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumes the following hypotheses. a. The price of gasoline is estimated to increase 5.3% in 2003, compared to 6% at the last Copom meeting. Re-estimates of the price adjustments for bottled cooking gas for 2003 resulted in a 2.1 p.p. fall compared to last month, with cooking gas now forecasted to increase 2.4% in 2003. These forecasts include price readjustments that have occurred up to the current date. b. As a result of the exchange rate appreciation and the new estimate for the General Price Indices, the readjustments of electricity and telephones tariffs are estimated at 23% and 19%, respectively, including the readjustments that have occurred up to the current date. c. Regulated prices, which had a 28.65% weight in the May IPCA, are forecast to increase 14.1% in
+Assessment of Inflation Trends 2
 
-2003. The exchange rate appreciation and the decrease in the estimate of electricity and telephone price readjustments resulted in a 0.8 p.p. fall from the May projections. Regulated prices are forecast to increase 8.9% in 2004. d. The projection for the 6-month spread over the Selic rate, following the specification of the VAR model using the Selic and swap rates on the eve of the Copom meeting, was -100 b.p. for 3Q03, gradually rising to 50 b.p. at the end of 2004.
+12. The identified shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumes the following hypotheses. a. The price of gasoline is estimated to increase 5.3% in 2003, compared to 6% at the last Copom meeting. Re-estimates of the price adjustments for bottled cooking gas for 2003 resulted in a 2.1 p.p. fall compared to last month, with cooking gas now forecasted to increase 2.4% in 2003. These forecasts include price readjustments that have occurred up to the current date. b. As a result of the exchange rate appreciation and the new estimate for the General Price Indices, the readjustments of electricity and telephones tariffs are estimated at 23% and 19%, respectively, including the readjustments that have occurred up to the current date. c. Regulated prices, which had a 28.65% weight in the May IPCA, are forecast to increase 14.1% in 2003. The exchange rate appreciation and the decrease in the estimate of electricity and telephone price readjustments resulted in a 0.8 p.p. fall from the May projections. Regulated prices are forecast to increase 8.9% in 2004. d. The projection for the 6-month spread over the Selic rate, following the specification of the VAR model using the Selic and swap rates on the eve of the Copom meeting, was -100 b.p. for 3Q03, gradually rising to 50 b.p. at the end of 2004.
 
-13. Regarding fiscal policy, it is assumed that the public sector will accomplish the primary surplus target for this year and the following two years (4.25% of the GDP). The other related assumptions established in the May Copom meeting were maintained.
+13. Regarding fiscal policy, it is assumed that the public sector will accomplish the primary surplus target for this year and the following two years (4.25% of the GDP). The other related assumptions established in the
 
-14. Considering the baseline scenario hypotheses, including maintenance of the Selic interest rate at 26.5% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting, inflation is projected above the adjusted target of 8.5% for 2003 and below the target of 5.5% for 2004. Monetary Policy Decision
+May Copom meeting were maintained.
+
+14. Considering the baseline scenario hypotheses, including maintenance of the Selic interest rate at 26.5% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting, inflation is projected above the adjusted target of 8.5% for 2003 and below the target of 5.5% for 2004.
+
+Monetary Policy Decision
 
 15. Monthly Inflation has been falling this year. There are three basic factors explaining this recent behavior. First, the high inflation rates observed at the beginning of the year resulted from the delayed effects on prices of the strong exchange rate depreciation observed last year and the increase of inflation persistence, with more agents adjusting prices and wages based on past inflation. Second, the recent exchange rate appreciation has reduced pressures on companies’ costs and wholesale prices. Although there is still some resistance among the retail prices of tradable goods to pass-through from the recent exchange rate appreciation, consumer prices have tended to stabilize without additional readjustment pressures. Third, monetary policy has been successful in reducing inflation expectations and inflation pressures by controlling aggregate demand.
 
@@ -60,7 +68,9 @@
 
 29. As a result, the Copom decided, unanimously, to set the target for the Over-Selic rate at 26% p.a.
 
-30. At the close of the meeting, it was announced that the Copom would meet again on July 22, for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in the Communiqué 10,187, of October 2, 2002. 5 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+30. At the close of the meeting, it was announced that the Copom would meet again on July 22, for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in the Communiqué 10,187, of October 2, 2002. 5 SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 31. The national retail sales index fell 3.82% in April and 5.45% in the first four-month period of 2003, when compared to the same period of 2002, according to the IBGE’s monthly survey. The negative performance was generalized, and hit all the retail sectors and 24 out of Brazil’s 27 states.
 
@@ -78,17 +88,23 @@
 
 38. Data on manufacturing and real industrial sales released by the CNI showed a reduction in industrial activity in the first four months of the year. Although the accumulated year-on-year growth rates in the four- months of 2003 were positive (1.96% and 0.26% respectively) they were lower than the growth rates observed in the first quarter, indicating deceleration at the margin. Installed capacity utilization reached 79.63% in April (s.a.), compared to 81.59% registered in October of 2002. The average of the first four- months of 2003 was 0.6% below the average level observed in the same period of last year.
 
-39. In the auto sector, production and internal sales recovered in May, with growth of 4.46%(s.a.) and 1.87% (s.a.), respectively, compared to the previous month, while external sales fell 0.03%. In the January-April period, auto output increased 3.94% year-on-year, driven exclusively by a 39.5% expansion in external sales, as domestic sales fell 6.63% during this period. Labor Market
+39. In the auto sector, production and internal sales recovered in May, with growth of 4.46%(s.a.) and 1.87% (s.a.), respectively, compared to the previous month, while external sales fell 0.03%. In the January-April period, auto output increased 3.94% year-on-year, driven exclusively by a 39.5% expansion in external sales, as domestic sales fell 6.63% during this period.
+
+Labor Market
 
 40. Legally registered employment increased 0.2% in April s.a., compared to March, and 3.1% compared to April 2002, according to the Ministry of Labor and Employment. According to the new methodology for the IBGE’s employment survey, the unemployment rate in the six main metropolitan areas reached 12.4% in April, compared to 12.1% in March.
 
-41. According to the survey, the number of occupied people remained roughly stable in April (with an increase of 0.1% compared to March).  While formal employment increased 3.5% between April 2002 and April 2003, the informal employment grew 9.1%. The average real wage of employed workers fell by 6.3% compared to the same month of 2002. Credit and Delinquency Rates
+41. According to the survey, the number of occupied people remained roughly stable in April (with an increase of 0.1% compared to March).  While formal employment increased 3.5% between April 2002 and April 2003, the informal employment grew 9.1%. The average real wage of employed workers fell by 6.3% compared to the same month of 2002.
+
+Credit and Delinquency Rates
 
 42. Total non-earmarked bank credit in May remained roughly stable relative to April (R$214.8 billion), as a 2% fall in dollar-indexed credit due to higher repayments offset growth in domestically-funded credit to companies (0.6%) and individuals (0.9%). Regarding credit to individuals, personal credit increased 2.3% and financing for purchases of autos and goods increased 0.8%. In the domestically-funded credit to companies, working capital loans increased 2.6%.
 
 43. The delinquency rate on non-earmarked bank credits remained at 8.8% in May. For individuals, the rate fell to 15.4% in May from 15.7% in April, while for companies it increased 0.1 p.p. to 4.7%. The average interest rate on bank loans fell 0.1 p.p. to 57.8% p.a. in May. The fall in interest rates charged by financial institutions was driven mainly by a decline in rates on fixed-income credits, which was partially offset by an increase in rates for dollar-indexed credits. 7
 
-44. Regarding defaults on retail credit, ACSP statistics show that the number of new delinquency registrations fell by 2.66% and the amount of cancelled registrations increased 11.13%, compared to the previous month, reducing the net delinquency rate to 5.2%, compared to 7% in April and 8.8% in May 2002. External Environment
+44. Regarding defaults on retail credit, ACSP statistics show that the number of new delinquency registrations fell by 2.66% and the amount of cancelled registrations increased 11.13%, compared to the previous month, reducing the net delinquency rate to 5.2%, compared to 7% in April and 8.8% in May 2002.
+
+External Environment
 
 45. The rapid conclusion of the war conflict in Iraq has not yet translated into a strong impulse to global economic activity. Projections for economic growth in 2003 continue to be reduced.
 
@@ -98,13 +114,17 @@
 
 48. Inflation continues to fall in the main economies. In the US, the producer price index registered a decline of 0.3% in May, after falling 1.9% in April. However, according to the Federal Reserve Bank, the risk of deflation is very low. Oil prices registered new increases in mid-April, signaling an upward trend due to the adjustment of the market to the new conditions of supply and demand.
 
-49. The ECB reduced its benchmark interest rate by 50 b.p. at its last meeting, to 2% p.a. In the UK, the Bank of England maintained its rate at 3.75% p.a. International financial markets are less volatile and less risk averse, as shown by the reductions in the EMBI+ and in the spreads of sovereign and private securities. Stock exchanges registered significant recoveries, not only in the developed economies but also in the emerging countries. Foreign Sector
+49. The ECB reduced its benchmark interest rate by 50 b.p. at its last meeting, to 2% p.a. In the UK, the Bank of England maintained its rate at 3.75% p.a. International financial markets are less volatile and less risk averse, as shown by the reductions in the EMBI+ and in the spreads of sovereign and private securities. Stock exchanges registered significant recoveries, not only in the developed economies but also in the emerging countries.
+
+Foreign Sector
 
 50. The trade surplus reached US$2.5 billion in May, accumulating US$8 billion in the first five months of 2003, basically due to the performance of exports which have grown sharply, while imports decreased slightly.
 
 51. Exports reached US$6.4 billion in May and US$27.1 billion year-to-date, increasing 43.5% year-on-year in the month and 29.3% in the first five months compared to 2002. Imports decreased 4.9% in May, reaching US$3.9 billion, and were stable in the first five months of the year, reaching US$19.1 billion, both compared to 2002.
 
-52. The current account posted a surplus of US$882 million in May, compared to the US$1.9 billion deficit in the same month of 2002. The deficit in the services and income account reached US$1.8 billion and unilateral transfers posted a US$212 million surplus. The 12-month current account deficit reached US$512 million, or 0.13% of GDP in May. The financial account of the BoP registered a net inflow of FDI totaling US$541 million and an inflow of US$1 billion from the sovereign bond issued by the Republic. Monetary Market and Open Market Operations 8
+52. The current account posted a surplus of US$882 million in May, compared to the US$1.9 billion deficit in the same month of 2002. The deficit in the services and income account reached US$1.8 billion and unilateral transfers posted a US$212 million surplus. The 12-month current account deficit reached US$512 million, or 0.13% of GDP in May. The financial account of the BoP registered a net inflow of FDI totaling US$541 million and an inflow of US$1 billion from the sovereign bond issued by the Republic.
+
+Monetary Market and Open Market Operations 8
 
 53. After the last Copom meeting, the yield curve shifted downwards and inverted further. More favorable indicators of inflation, the appreciation of the exchange rate, a decline in sovereign country risk, and the approval of the social security reform project by the specific commission of the Lower House contributed to this movement.
 
@@ -114,4 +134,4 @@
 
 56. The settlement of securities between May 22nd and June 18th caused a contractionary monetary impact of R$3.5 billion, as a result of net placements of R$8.7 billion in LTNs, partially offset by net redemptions of R$2.9 billion of dollar-indexed securities and R$1.6 billion in LFTs.
 
-57. The domestic securitized public increased by R$16.4 billion (2.5%) in May, mainly due to net placements of R$3.2 billion in securities and to interest payments. 9 Acronyms ACSP São Paulo Trade Association b.p. basis points CNI National Confederation of Industry Fecomércio-SP São Paulo State’s Federation of Commerce ECB European Central Bank GDP Gross Domestic Product Gerin Investor Relations Group IBGE Brazilian Institute of Geography and Statistics IGP–DI General Price Index – Domestic Supply IGP–M General Price Index – Market IIC Consumer Intentions Index INCC National Index of Civil Construction IPA Wholesale Price Index IPC–BR Consumer Price Index – Brazil IPCA Consumer Price Index - Extended LFT National Treasury Bills (floating) LTN National Treasury Bills (fixed rate) p.a. per annum p.p. percentage point s.a. seasonally adjusted VAR Vector AutoRegressive 10
+57. The domestic securitized public increased by R$16.4 billion (2.5%) in May, mainly due to net placements of R$3.2 billion in securities and to interest payments. 9 

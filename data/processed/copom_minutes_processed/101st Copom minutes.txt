@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. Inflation decelerated in September due mainly to a positive behavior of fresh food prices. The lower pressure of regulated prices also contributed to the deceleration. Despite this favorable trend, it is important to stress that the inflation reduction in September was in part transitory.
 
 2. The Broad National Consumer Price Index (IPCA) rose 0.33% in September, down from 0.69% in August, accumulating increases of 5.49% in the year and 6.71% in the last twelve months. The deceleration of the IPCA was due to the fall in food prices, mainly tubercles and vegetables, as well as the deceleration of fuel prices, particularly of moisturized fuel-alcohol.
@@ -14,13 +18,17 @@
 
 8. The IPC-Br core inflation, calculated by the Fundação Getúlio Vargas (FGV) under the symmetric trimmed-mean method, stood at 0.38% in September, compared to 0.42% in August, totaling an increase of 5.87% in the last twelve months.
 
-9. As already stressed in previous Copom Minutes, the gap between wholesale and retail industrial inflation persists, representing a potential risk over consumer inflation, specially having in mind the seasonal demand rebound at the end of the year. At the same time, the increase in international oil prices magnifies the inflation risks. Assessment of Inflation Trends
+9. As already stressed in previous Copom Minutes, the gap between wholesale and retail industrial inflation persists, representing a potential risk over consumer inflation, specially having in mind the seasonal demand rebound at the end of the year. At the same time, the increase in international oil prices magnifies the inflation risks.
+
+Assessment of Inflation Trends
 
 10. The identified shocks and their impacts were reassessed according to new available information. The scenario considered in the simulations assumes the following hypotheses: a. For 2004, the Copom's projection for the increase of gasoline prices was maintained at 9.5%, while the projection for the increase of bottled gas prices was reduced to 4.9% from 6.2%; b. The projection for the readjustment of household electricity prices was maintained at 11.5%, while the projection for the readjustment of fixed telephone tariffs was slightly increased to 14.0% from 13.9%; 2 c. In regard to all regulated prices, with a total weight of 29.0% in the September IPCA, the Copom projects an average price increase of 8.5% in 2004, the same projection assumed in September; d. The projection for the readjustment of all regulated prices for 2005, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market prices inflation and the IGP-DI change, was maintained at 6.9%; e. The projection for the 6-month spread over the Over-Selic rate, following the specification of a Vector Autoregressive model based on the Over-Selic and the swap rates on the eve of the Copom meeting, decreases from 81 basis points in the fourth quarter of 2004 to 59 basis points in the last quarter of 2005.
 
 11. It is assumed that the consolidated public sector primary surplus target of 4.5% of the GDP for 2004 and 4.25% for the following two years will be achieved. The related assumptions considered in the previous Copom meeting were maintained.
 
-12. Considering the benchmark scenario hypotheses, including the maintenance of the Over-Selic rate at 16.25% p.a. and of the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.85), the IPCA inflation rate was projected above the 5.5% central target for 2004 and above the 5.1% objective for 2005. Considering alternatively the market scenario, which takes into account the consensus Over-Selic rate and the exchange rate as surveyed by the BCB’s Investor Relations Group – Gerin on the eve of the Copom meeting, inflation is also projected above the central target for 2004 and above the objective for 2005. Monetary Policy Decision
+12. Considering the benchmark scenario hypotheses, including the maintenance of the Over-Selic rate at 16.25% p.a. and of the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.85), the IPCA inflation rate was projected above the 5.5% central target for 2004 and above the 5.1% objective for 2005. Considering alternatively the market scenario, which takes into account the consensus Over-Selic rate and the exchange rate as surveyed by the BCB’s Investor Relations Group – Gerin on the eve of the Copom meeting, inflation is also projected above the central target for 2004 and above the objective for 2005.
+
+Monetary Policy Decision
 
 13. The deceleration of the IPCA to 0.33% in September from 0.69% in August was mainly a result of the behavior of fresh food prices, which fell 4.37% in September after increasing 8.14% in August. Excluding food, the deceleration in market prices inflation in the period would be significantly less intense (from 0.48% to 0.42%). Volatile prices shocks, such as those of fresh food, have an impact over the current inflation rate; however, they cause very limited effect in the future inflation trajectory.
 
@@ -60,7 +68,9 @@
 
 31. Even though the Copom assumes that the monetary adjustment will be carried out in the magnitude and the pace originally set up, the current scenario holds two potential new risks. First, the increase in oil prices, in terms of magnitude and in terms of extent. Second, the marginal deterioration of market inflation expectations for 2005, even after the adjustment in the monetary stance, is an alert of its possible downward rigidity.
 
-32. At the closing of the meeting, it was announced that the Copom would meet again on November 16, for technical presentations and on the following day, to discuss the monetary policy decision, as established in Communiqué 11,516, of October 15, 2003. 6 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+32. At the closing of the meeting, it was announced that the Copom would meet again on November 16, for technical presentations and on the following day, to discuss the monetary policy decision, as established in Communiqué 11,516, of October 15, 2003. 6 SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 33. According to the IBGE’s retail survey, which encompasses all the states of the country, retail sales increased 0.1% month-on-month in August, seasonally adjusted by the BCB. Fabric, clothing, shoes, furniture, electrical appliances, vehicles, motorcycles and parts, which had been showing expressive growth rates in the year, presented a decrease in the month, while super and hypermarkets sales remained high, considering the seasonally adjusted series.
 
@@ -80,15 +90,23 @@
 
 41. In August, the CNI recorded a 0.1% decrease in real industrial sales and a 0.8% increase in industrial worked hours, in comparison to July, seasonally adjusted. Compared to the same month of 2003, real sales and worked hours increased by 20.2% and by 10.7%, respectively. The average level of industrial capacity utilization reached 83.3% in August, the highest ever, with a 7 0.1% monthly increase. In the first eight months of the year, capacity utilization expanded by 2.8%, compared to the same period of 2003.
 
-42. Leading and coincident industrial indicators signal that the seasonally adjusted industrial activity may slowdown in September. Packaging paper shipments and steel output decreased by 3.3% and by 0.5%, accumulating in the year to September expansions of 13.3% and 5.6%, respectively. The car industry produced 203.000 vehicles, down 1.2% compared to August, and up 25.3% over September 2003. Labor Market
+42. Leading and coincident industrial indicators signal that the seasonally adjusted industrial activity may slowdown in September. Packaging paper shipments and steel output decreased by 3.3% and by 0.5%, accumulating in the year to September expansions of 13.3% and 5.6%, respectively. The car industry produced 203.000 vehicles, down 1.2% compared to August, and up 25.3% over
+
+September 2003.
+
+Labor Market
 
 43. Formal employment increased by 0.8% month-on-month in August, seasonally adjusted, and by 6.1% compared to August 2003, according to the Ministry of Labor and Employment. In the first eight months of the year, there was a 4.4% expansion in formal employment, more markedly in industry. The data have also indicated that employment has increased at a higher pace outside large metropolitan areas.
 
 44. The unemployment rate, measured by the IBGE in the six main metropolitan areas of the country, rose to 11.4% in August, from 11.2% in the previous month. The 0.3% increase in the total employment was not enough to offset the 0.5% growth of the working force in the month. It is important to stress that the economic expansion has its effects over the labor market by both increasing total employed workers and the working force, as people start searching for jobs as a result of the better economic outlook.
 
-45. Still regarding the employment survey, average real earnings totaled R$894.81 in August, a 1.4% fall compared to the previous month. Average real earnings grew by 5.3% in nominal terms and fell by 0.9% in real terms, compared to August 2003, when deflated by the National Consumer Price Index (INPC).
+45. Still regarding the employment survey, average real earnings totaled R$894.81 in August, a 1.4% fall compared to the previous month. Average real earnings grew by 5.3% in nominal terms and fell by 0.9% in real terms, compared to August 2003, when deflated by the National Consumer Price
 
-46. In industry, according to seasonally adjusted data from CNI, employed workers and real wages increased by 1.0% and by 1.6%, respectively, in August, compared to July. In the first eight months of the year, real wages and employed workers increased by 8.1% and by 2.0%, respectively, compared to the same period of 2003. Credit and Delinquency Rates
+Index (INPC).
+
+46. In industry, according to seasonally adjusted data from CNI, employed workers and real wages increased by 1.0% and by 1.6%, respectively, in August, compared to July. In the first eight months of the year, real wages and employed workers increased by 8.1% and by 2.0%, respectively, compared to the same period of 2003.
+
+Credit and Delinquency Rates
 
 47. Non-earmarked credit operations increased by 1.9% in September. Corporate credit with domestic funding expanded by 4.1%, while corporate credit with external funding fell by 3.3%, as a result of the Real appreciation. Household credit operations increased by 2.4%, accumulating 25.7% in twelve months.
 
@@ -96,7 +114,9 @@
 
 49. Still regarding the non-earmarked credit, the delinquency rate grew to 7.5% in September, compared to 7.2% from June to August. In corporate operations, the delinquency rate remained unchanged at 3.6%, while in operations with individuals, the delinquency rate increased by 0.5 p.p., to 13.3%.
 
-50. The default rate measured by the ACSP grew to 4.4% in September from 3.9% in August. In the year to September, the average default rate recorded a 9.3% decrease compared to the same period of 2003. The number of returned checks, compared to the total number of checks, increased to 5.3% in September from 5.0% in August. 8 External Environment
+50. The default rate measured by the ACSP grew to 4.4% in September from 3.9% in August. In the year to September, the average default rate recorded a 9.3% decrease compared to the same period of 2003. The number of returned checks, compared to the total number of checks, increased to 5.3% in September from 5.0% in August. 8
+
+External Environment
 
 51. The continuous rises in oil prices have brought uncertainties about the sustainability of the world economic growth. The price of the barrel has already increased by more than 65% this year, causing volatility to the financial markets, specially the stock markets worldwide. In the bonds markets, securities prices have been adjusting to the gradual rise in the US interest rates, benefiting emerging markets bonds. The Emerging Market Bond Index Plus (Embi+) has recorded declining spreads over the American treasury, benefiting new sovereign and corporate issues.
 
@@ -106,13 +126,17 @@
 
 54. In Europe, the recovery remains slow. The last indicators have shown deceleration in industrial growth in France and Germany. Low consumer confidence, a weak recovery of employment and the oil price rises have impacted the recovery of domestic demand. External demand also begins to shrink, after leading the economic recovery in the area.
 
-55. In Japan, the economy has been growing consistently, lead by exports expansion. However, in the last two months, industrial output and exports have decelerated. Domestic consumption has been moderate, following the gradual improvement in the labor market, but consumer confidence has recently deteriorated. In China, despite the restrictive economic measures, the outlook remains rather positive. The trade balance registered the fifth consecutive surplus in September, due to increasing exports. Foreign Trade and Balance of Payments
+55. In Japan, the economy has been growing consistently, lead by exports expansion. However, in the last two months, industrial output and exports have decelerated. Domestic consumption has been moderate, following the gradual improvement in the labor market, but consumer confidence has recently deteriorated. In China, despite the restrictive economic measures, the outlook remains rather positive. The trade balance registered the fifth consecutive surplus in September, due to increasing exports.
+
+Foreign Trade and Balance of Payments
 
 56. In September, the Brazilian trade balance posted a US$3.2 billion surplus, accumulating US$25.1 billion in the year and US$32.1 billion in 12 months. Exports and imports increased by 28.4% and by 30.5%, respectively, compared to the September 2003 daily averages. Total external trade reached US$14.7 billion, accumulating US$115.4 billion in the year and US$ 149 billion in twelve months. In the first 10 working days of October, the Brazilian trade surplus reached US$1.7 billion, with exports and imports growing by 41.4% and 34.7%, respectively, compared to October 2003 daily averages.
 
 57. Brazilian exports totaled US$8.9 billion in September. Manufactured, primary and semi- manufactured goods exports totaled US$4.8 billion, US$2.7 billion and US$1.3 billion, respectively.
 
-58. In September, the current account registered a US$1.7 billion surplus, accumulating a US$9.6 billion surplus in the year. In the same period, the trade balance posted a US$25.1 billion surplus, while the services and income account posted a US$17.9 billion deficit. Net foreign direct investment reached US$646 million in September, accumulating US$12.4 billion in the year. The rollover rate of loans and private bonds reached 99% and 48% in the year, respectively. At the end of September, international reserves stood at US$49.5 billion, while adjusted net reserves stood at US$23 billion (IMF concept). 9 Money Market and Open Market Operations
+58. In September, the current account registered a US$1.7 billion surplus, accumulating a US$9.6 billion surplus in the year. In the same period, the trade balance posted a US$25.1 billion surplus, while the services and income account posted a US$17.9 billion deficit. Net foreign direct investment reached US$646 million in September, accumulating US$12.4 billion in the year. The rollover rate of loans and private bonds reached 99% and 48% in the year, respectively. At the end of September, international reserves stood at US$49.5 billion, while adjusted net reserves stood at US$23 billion (IMF concept). 9
+
+Money Market and Open Market Operations
 
 59. After the September Copom’s meeting, the domestic yield curve moved upwards for maturities up to ten months, and downwards for longer tenures. The determinant factors underlying the downward move of the long-term yield curve were the reduction of the sovereign risk, the Real appreciation, the increase of the public sector primary surplus target and the sound external accounts. From September 15 to October 20, the 1-month, 3-month and 6-month interest rates increased by 0.35 p.p., 0.25 p.p. and 0.06 p.p., respectively, while the 1-year, 2-year and the 3- year rates decreased by 0.23 p.p., 0.39 p.p. and 0.41 p.p., respectively. In the same period, the real interest rate measured by the ratio between the one-year nominal interest rate and the 12- month-ahead inflation expectations decreased to 10.7% from 10.9%.
 

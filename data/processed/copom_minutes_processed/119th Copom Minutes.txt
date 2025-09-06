@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Economic Developments
+
 1. Inflation as measured by IPCA (Broad National Consumer Price Index) continues to converge to targets established by the National Monetary Council (CMN). Such performance confirms assessments made in previous Minutes, which highlighted prospects for a benign scenario going forward. After presenting some stability in February (0.41%) and March (0.43%), inflation fell substantially in April (0.21%) thus providing for an accumulated 1.65% in the first four months of the year, comparing to 2.68% for the same period of 2005. Trailing twelve-month inflation was down from 5.70% in January to 4.63% in April, a record low since July 1999. The April performance was greatly favored by virtual stability in market prices, as well as deceleration in regulated prices rises. After increasing 27.65% in the first quarter, fuel alcohol prices reversed course, and diminished 0.11% in the month. Food prices continued to fall, a tendency that will probably revert in coming months. A benign inflation scenario consolidates, with ever more favorable prospects for target attainment in 2006, and positive spillovers to performance in coming years.
 
 2. Benign headline inflation performance in April was also reflected in BCB’s core inflation measurements. Core inflation by exclusion of household food items and regulated prices fell strongly from 0.53% in March to 0.22% in April, a record low since July 2002. Also, the non-smoothed trimmed means core fell from 0.30% to 0.19%, the lowest since November 2000. The smoothed trimmed means core fell only marginally, from 0.45% to 0.41%. In trailing twelve-months, core inflation has been decreasing since January, accumulating reductions in excess of 60 basis points. In the year, core inflation in its three measures (exclusion, non-smoothed and smoothed trimmed means) stands at 2.35%, 1.53% and 1.97%, respectively, as compared to 2.64%, 2.23% and 2.60% in the first four- months of 2005.
@@ -22,25 +26,19 @@
 
 12. The external environment changed significantly since the April meeting. Volatility increased markedly as sizable portfolio shiftings have taken place, consequent upon uncertainty to the timing and magnitude of the ongoing US tightening cycle. Short run instability had an impact on many currencies, as well as on emerging markets risk premiums. Over the intermeeting period, the exchange rate went from R$2.11 to R$2.30 per US dollar, and Brazilian sovereign risk, as measured by the Emerging Markets Bond Index Plus (Embi+), increased from 225 basis points to 267. Copom members see such instability as most likely a short-lived phenomenon. Moreover, the sound fundamentals of the Brazilian economy should contribute to weather the storm: consistent inflation reduction, robust trade surpluses, adequate primary fiscal surpluses, international reserves accumulation, domestic public debt profile improvements, and the buyback of external sovereign debt. A noticeable progress in the country’s resilience to shocks is evidenced by its unabated growth performance in the face of US interest rate adjustment cycle. Copom continues to assign low probabilities to a significant deterioration in international financial market conditions, one that could measurably affect Brazilian external financing conditions.
 
-13. Another concern regards oil prices, which have retreated somewhat in the intermeeting period, but still standing high and presenting huge volatility. Recent performance reinforces the idea that prices may, indeed, sustain longer at levels previously deemed unlikely. Great uncertainty continues to prevent reliable forecasting of future oil prices. On the other hand, past Minutes pointed out that these developments also widen risks to materialization of baseline scenarios, which have become less feasible themselves. Irrespective of what happens to domestic gasoline prices, international oil price hikes eventually find their way to the domestic economy, either through an impact on specific production chains (such as petrochemicals, for instance), or through deterioration in inflation expectations. 3 Assessment of Inflation Trends
+13. Another concern regards oil prices, which have retreated somewhat in the intermeeting period, but still standing high and presenting huge volatility. Recent performance reinforces the idea that prices may, indeed, sustain longer at levels previously deemed unlikely. Great uncertainty continues to prevent reliable forecasting of future oil prices. On the other hand, past Minutes pointed out that these developments also widen risks to materialization of baseline scenarios, which have become less feasible themselves. Irrespective of what happens to domestic gasoline prices, international oil price hikes eventually find their way to the domestic economy, either through an impact on specific production chains (such as petrochemicals, for instance), or through deterioration in inflation expectations. 3
 
-14. Identifiable shocks and their consequences were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions:
+Assessment of Inflation Trends
 
-a) Projections for gasoline and bottled gas prices’ adjustments in 2006 remained unchanged at 0%, as compared to the April meeting assessment;
-
-b) Projections for fixed telephone lines and household electricity pricing in 2006 underwent slight changes: electricity up from 3.6% to 3.7%, phone lines down from 3.1% to 2.6%;
-
-c) For all regulated prices, Copom maintained a 4.6% adjustment projection for 2006. These items stand for 33.4% of total April IPCA;
-
-d) The endogenous determination model keeps indicating 6.2% inflation for regulated prices in 2007. Such modelling takes into account market prices’ inflation, the General Price Index (IGP), the exchange rate, and seasonal components;
-
-e) The VAR model, based on Selic rate levels and 180-day swaps, estimates a spread of –70 basis points for the second semester of 2006, in the baseline scenario. Accordingly, spreads should reach 18 basis points in the last quarter of the year, and 57 b.p. in the last quarter of 2007.
+14. Identifiable shocks and their consequences were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions: a) Projections for gasoline and bottled gas prices’ adjustments in 2006 remained unchanged at 0%, as compared to the April meeting assessment; b) Projections for fixed telephone lines and household electricity pricing in 2006 underwent slight changes: electricity up from 3.6% to 3.7%, phone lines down from 3.1% to 2.6%; c) For all regulated prices, Copom maintained a 4.6% adjustment projection for 2006. These items stand for 33.4% of total April IPCA; d) The endogenous determination model keeps indicating 6.2% inflation for regulated prices in 2007. Such modelling takes into account market prices’ inflation, the General Price Index (IGP), the exchange rate, and seasonal components; e) The VAR model, based on Selic rate levels and 180-day swaps, estimates a spread of –70 basis points for the second semester of 2006, in the baseline scenario. Accordingly, spreads should reach 18 basis points in the last quarter of the year, and 57 b.p. in the last quarter of 2007.
 
 15. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of GDP in 2006 and 2007 will be achieved. Related assumptions considered in the previous meeting are maintained.
 
 16. Since the March meeting, median IPCA inflation expectations for 2006, as compiled by BCB’s Investors Relations Group (Gerin), have been decreasing consistently. From April to May, they diminished from 4.43% to 4.32%. This reduction was mainly driven by downward revision of market inflation expectations for the second quarter. Twelve-month ahead inflation expectations were relatively stable. For 2007, inflation expectations remained in line with the 4.50% target established by CMN. As mentioned in previous Minutes, these developments suggest that the recent monetary policy stance has both contained short-term inflationary pressures and contributed to the consolidation of a more favorable longer-term macroeconomic scenario.
 
-17. The 2006 inflation forecast under the benchmark scenario – assuming maintenance of the Selic rate at 15.75% and the exchange rate at R$/US$ 2.30 during the forecast period - raised relative to the forecast presented in the April meeting, but remained below the 4.5% target for the year. The forecast based on the market scenario – which incorporates consensus exchange rate and Selic rate trajectories collected by Gerin – declined relative to the April forecast, and is also below target. For 2007, the benchmark forecast increased as compared to April, keeping below the 4.5% target for that year. On the other hand, the forecast under the market scenario decreased, but is still above target. Monetary Policy Decision
+17. The 2006 inflation forecast under the benchmark scenario – assuming maintenance of the Selic rate at 15.75% and the exchange rate at R$/US$ 2.30 during the forecast period - raised relative to the forecast presented in the April meeting, but remained below the 4.5% target for the year. The forecast based on the market scenario – which incorporates consensus exchange rate and Selic rate trajectories collected by Gerin – declined relative to the April forecast, and is also below target. For 2007, the benchmark forecast increased as compared to April, keeping below the 4.5% target for that year. On the other hand, the forecast under the market scenario decreased, but is still above target.
+
+Monetary Policy Decision
 
 18. Copom reaffirms the view that current and expected inflation numbers demonstrate that the monetary stance adopted since September 2004 has both contained short-term inflationary pressures and consolidated a more favorable long-term macroeconomic environment. Economic activity gains momentum at a pace consistent with supply conditions, such that it will not trigger significant inflationary pressures. In spite of continued volatility in international financial markets due to uncertainties regarding monetary policy in developed countries, and the record highs reached by oil prices, the external outlook remains favorable, particularly with regard to Brazilian external financing conditions. A benign inflation environment continues to prevail, despite the likely reversal of favorable factors that subdued short-term inflation, and the increased risk stemming from important commodity prices. As in the April meeting, the Committee emphasizes that the main challenge for monetary policy is to ensure consolidation of these favorable developments. 4
 
@@ -72,15 +70,15 @@ e) The VAR model, based on Selic rate levels and 180-day swaps, estimates a spre
 
 32. The IPCA diffusion index (measuring the number of items registering price increases in the basket) stood at 54.9% in April, comparing to 56.1% in March.
 
-33. Recent developments in consumer prices warrant optimism as to another good performance in May. Favorable trends may benefit from continued falling of fuel prices (particularly fuel alcohol), which should compensate for moderation in food price decreases. Economic Activity
+33. Recent developments in consumer prices warrant optimism as to another good performance in May. Favorable trends may benefit from continued falling of fuel prices (particularly fuel alcohol), which should compensate for moderation in food price decreases.
+
+Economic Activity
 
 34. GDP is expanding in the first quarter of 2006, exhibiting seasonally adjusted 1.4% growth, as compared to last quarter. This is the biggest quarter-on-quarter variation since the end of 2004, when a 1.6% variation was recorded. As to the first quarter of 2005, GDP is growing at 3.4%, on impact of 5% growth in manufacturing and 2.8% in services. Farming activities contracted 0.5%. On the demand side, disaggregation reveals across-the- 6 board expansion: 4% in household consumption, 1.6% in government, 9% on capital investment, 9.3% in exports, and 15.9% in imports. Domestic demand contributed 3.8 p.p. to GDP, and external demand contributed negative 0.4 p.p.
 
 35. According to IBGE’s monthly survey, retail sales decreased a month-on-month seasonally adjusted 0.1% in March. The result makes for a retail sales expansion of 5% in the first quarter, with highlights to the 4.9% growth in furniture and appliances, and 4.4% for hyper- and super-market sales.
 
-36. April data from the São Paulo Trade Association (ACSP) showed a seasonally adjusted 0.3% increase in database consultations for credit sales and a 0.3% fall in the number of Usecheque consultations, month-on-month. In the first four months, the indicators expanded 2.5% and 6.1%, respectively, compared to the same period of
-
-2005.
+36. April data from the São Paulo Trade Association (ACSP) showed a seasonally adjusted 0.3% increase in database consultations for credit sales and a 0.3% fall in the number of Usecheque consultations, month-on-month. In the first four months, the indicators expanded 2.5% and 6.1%, respectively, compared to the same period of 2005.
 
 37. As for investment indicators, seasonally adjusted production of capital goods and construction supplies retreated by 2.2% and 1.1%, respectively, in March. The volume of capital goods imports raised 8.1% s.a., according to Funcex. In the first quarter, compared to the same period of 2005, these indicators amount to rises of 9.2%, 6.9%, and 33.6%, respectively. In similar period, energy-sector capital goods production raised 45.2%. Construction-sector capital goods went up 21.4% and capital goods for mixed use, 17.3%. Production of equipment dedicated to agriculture was diminished in 17.5%. Growth in manufacturing capital goods was below average (0.4%) reflecting, in part, acceleration of imports.
 
@@ -96,11 +94,15 @@ e) The VAR model, based on Selic rate levels and 180-day swaps, estimates a spre
 
 43. Automotive production was down 1.1% in April, s.a. Domestic auto sales decreased 6.7%, while exports went back 1.8%. In the first four months, against same period of 2005, growth stood at 5% for production, 7.7% for domestic sales, and 1.7% for export sales.
 
-44. Other coincident industrial indicators signal deceleration in April. Both corrugated cardboard shipments and highway tolls contracted, in s.a. terms. 7 Surveys and Expectations
+44. Other coincident industrial indicators signal deceleration in April. Both corrugated cardboard shipments and highway tolls contracted, in s.a. terms. 7
+
+Surveys and Expectations
 
 45. The Fecomercio-SP survey recorded a month-on-month elevation of 4.2% in consumer confidence in May. Its two components grew, namely consumer expectations (5.9%) and current economic conditions (1.7%; this series is now at a peak since beginning of calculation in March 1999). For the state of Rio de Janeiro, Fecomercio- RJ survey had registered a 2.3% decrease in consumer expectations in March versus February, and a 1.1% decrease relative to March 2005.
 
-46. According to FGV, consumer confidence declined 3.4% in April, relative to previous month. The component of current situation perception was down equal 3.4%, while expectations for the future contracted by 3.3%. This survey is conducted for a sample of 2,000 households in seven large cities of the country. Labor Market
+46. According to FGV, consumer confidence declined 3.4% in April, relative to previous month. The component of current situation perception was down equal 3.4%, while expectations for the future contracted by 3.3%. This survey is conducted for a sample of 2,000 households in seven large cities of the country.
+
+Labor Market
 
 47. According to the Ministry of Labor and Employment, 229,803 new jobs were created in the formal market in April, largely spread among the many sectors of the economy. On month-on-month seasonally adjusted basis, formal employment increased 0.4%. Manufacturing was on the high with 0.6%. In the year through April, it is 569.5 thousand new hires, improving on the 558.3 thousand recorded last year.
 
@@ -108,7 +110,9 @@ e) The VAR model, based on Selic rate levels and 180-day swaps, estimates a spre
 
 49. On account of the same survey, real average earnings were estimated at R$1,012.50 in April, expanding 0.4% in the month and 4.7% from April 2005. Real payrolls increased by 0.1% in the month, and 4.9% in twelve months.
 
-50. According to BCB’s seasonal adjustment of CNI data, industrial employment grew 0.2% in March, accumulating 0.8% in the first quarter and 2.9% in trailing twelve months. Credit and Delinquency Rates
+50. According to BCB’s seasonal adjustment of CNI data, industrial employment grew 0.2% in March, accumulating 0.8% in the first quarter and 2.9% in trailing twelve months.
+
+Credit and Delinquency Rates
 
 51. Non-earmarked credit used as reference for interest rates, grew 2.4% in April. Credit for individuals rose 2.1%, and corporate credit 2.6% (2.5% in its parcel funded domestically, 3.1% the externally-funded).
 
@@ -116,11 +120,17 @@ e) The VAR model, based on Selic rate levels and 180-day swaps, estimates a spre
 
 53. Delinquency rates in the financial system (loans in arrears for more than ninety days) hit 4.7% in April. Delinquency for corporates reached 2.3%, while on individuals it signalled 7.4%.
 
-54. Net delinquency rates for retail credit, measured by the ACSP, went back to 6.9% in April, against the 7.3% of March, due to a 10.1% fall in new negative filing, combined with 4.2% increase in cancelled filing. In the first four months of the year, average default rates are at 6.3%, compared to 6.4% in the same period of 2005. 8 External Environment
+54. Net delinquency rates for retail credit, measured by the ACSP, went back to 6.9% in April, against the 7.3% of March, due to a 10.1% fall in new negative filing, combined with 4.2% increase in cancelled filing. In the first four months of the year, average default rates are at 6.3%, compared to 6.4% in the same period of 2005. 8
 
-55. Downside risks to the benign international outlook, related to US interest rates and oil prices, have gained attention in recent weeks. The Federal Reserve meeting at May 10th highlighted uncertainty as to future interest rate trajectory, in tandem with less comfortable inflation and oil prices figures. Between May 10th and May 23rd, stock markets experienced a period of turbulence. The Nasdaq and Dow indexes fell 2.2% and 6.3%, while European stocks in Germany, the UK, and Spain shed 5.5%, 5.7%, and 6.2%, respectively. Emerging markets were hit the most. Brazilian and Mexican stocks declined 10.5% and 7.6%, respectively, whilst Argentinean and Russian ones sunk 15.3% and 15.7%.
+External Environment
 
-56. As to oil price behavior, relative stability is the norm since mid-April, meaning prevalence of trading above the USD 70 threshold, for the WTI barrel. The commodity has been sustained this high by the beginning of the hurricane season in the Gulf of Mexico. In addition to weather concerns, US stocks of oil-related products and expectations over the next OPEC meeting (to be held in June, in Venezuela), also played a role. Foreign trade and international reserves
+55. Downside risks to the benign international outlook, related to US interest rates and oil prices, have gained attention in recent weeks. The Federal Reserve meeting at May 10th highlighted uncertainty as to future interest rate trajectory, in tandem with less comfortable inflation and oil prices figures. Between May 10th and May 23rd, stock markets experienced a period of turbulence. The Nasdaq and Dow indexes fell 2.2% and 6.3%, while European stocks in Germany, the UK, and Spain shed 5.5%, 5.7%, and 6.2%, respectively. Emerging markets were hit the most. Brazilian and Mexican stocks declined 10.5% and 7.6%, respectively, whilst Argentinean and
+
+Russian ones sunk 15.3% and 15.7%.
+
+56. As to oil price behavior, relative stability is the norm since mid-April, meaning prevalence of trading above the USD 70 threshold, for the WTI barrel. The commodity has been sustained this high by the beginning of the hurricane season in the Gulf of Mexico. In addition to weather concerns, US stocks of oil-related products and expectations over the next OPEC meeting (to be held in June, in Venezuela), also played a role.
+
+Foreign trade and international reserves
 
 57. The first four months of 2006 saw strong expansion of Brazilian external trade, as all relevant accumulated figures reached their record highs. The trade balance surplus peaked at US$12.4 billion, US$45.0 billion for the trailing twelve months. Total external trade was of US$65.9 billion and US$202.7 billion, similarly. The first four weeks of May (19 working days into the month) had the trade surplus hitting US$2.8 billion, for exports at US$9 billion and imports totaling US$6.2 billion.
 
@@ -128,7 +138,9 @@ e) The VAR model, based on Selic rate levels and 180-day swaps, estimates a spre
 
 59. Imports totaled US$6.7 billion in the month. It was another record high of daily averages (US$372.6 million), 39.8% above April 2005. In similar terms, all import categories expanded, with high notes to increases of 90.8% in fuel and lubricants, 52.4% in consumer goods, 39.3% in capital goods, all measured in daily averages. Imports of raw materials and intermediate goods, which represent about half of total imports, grew 25.1% in April and 15.9% in the first four months, compared to the same periods of 2005. For the third consecutive month, import growth outpaced exports, as compared to the same months of 2005.
 
-60. At the end of April, international reserves stood at US$56.6 billion, US$3.3 billion below balances of the previous month. Such reduction has to do with exercising of call options on Brady bonds, amounting to US$5.8 billion. Money Market and Open Market Operations
+60. At the end of April, international reserves stood at US$56.6 billion, US$3.3 billion below balances of the previous month. Such reduction has to do with exercising of call options on Brady bonds, amounting to US$5.8 billion.
+
+Money Market and Open Market Operations
 
 61. After the April meeting, the interest rate yield curve shifted slightly downwards for short term tenors and rose steeply for the longer end. The fall in the short end was mainly attributable to current inflation and inflation expectations. By mid-May, rates started to present higher volatility, especially going to the long end, which followed the swings in external markets. Uncertainty related to US inflation and the Fed's tightening cycle unleashed a wave of risk aversion, taking devaluation not only to stock prices, but also to emerging market currencies and debt. Between April 17th and May 29th, one- and three-month rates shed 0.43 and 0.11 p.p. respectively. Six month-rate was up 0.31 p.p. One-, two-, and three-year rates raised respective 0.69, 1.06, and 1.12 p.p. Real interest rates measured by the differential between the one-year forward nominal interest rate and the smoothed twelve-month ahead inflation expectation went up from 10.09% on April 17th to 10.72% on May 29th. 9
 

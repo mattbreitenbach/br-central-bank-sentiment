@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. Consumer price inflation accelerated again in December, due to stronger increases in market prices and the continuation of regulated prices readjustments at high levels. Wholesale price inflation declined, mainly due to the deceleration of industrial price increases, the effect of which counterbalanced higher agricultural prices.
 
 2. The Broad National Consumer Price Index (IPCA) increased 0.86% in December, compared to 0.69% in November, totaling a 7.60% change in the year. The December IPCA reflected pressures on both market and regulated prices. The main drivers were gasoline, meat, urban bus fares, clothing, chicken, housemaid services, fuel-alcohol, and water and sewage prices, responsible for 0.61 p.p. of the monthly index.
@@ -14,23 +18,17 @@
 
 8. In December, the IPCA diffusion index increased to 68.0%, compared to 67.6% in November and 66.4% in October. The persistence of high core inflation and the behavior of the diffusion index indicate the dissemination of price increases across several sectors of the economy.
 
-9. The variation of the IPCA in January should be lower than December, but still at a level inconsistent with the 2005 inflation target. Electricity in Rio de Janeiro, meat and clothing prices will exert inflationary pressures. Assessment of Inflation Trends
+9. The variation of the IPCA in January should be lower than December, but still at a level inconsistent with the 2005 inflation target. Electricity in Rio de Janeiro, meat and clothing prices will exert inflationary pressures.
 
-10. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumed the following hypotheses:
+Assessment of Inflation Trends
 
-a) The projection for the readjustment in both gasoline and bottled gas prices for 2005 remained unchanged at 0%;
-
-b) Projections for readjustments to both household electricity and fixed telephone prices for 2005 were also unchanged, at 9.5% and 7.7% respectively;
-
-c) An increase of 6.7% in all regulated prices, which represented a total weight of 29.4% in the December IPCA, is projected for 2005, in line with the previous meeting;
-
-d) The projection for the readjustment of all regulated prices for 2006, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the IGP-DI change, stands at 5.1%;
-
-e) The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Over-Selic and the swap rates on the eve of the Copom meeting, declines from 77 basis points in the first quarter of 2005 to 51 basis points in the last quarter of 2006. 3
+10. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumed the following hypotheses: a) The projection for the readjustment in both gasoline and bottled gas prices for 2005 remained unchanged at 0%; b) Projections for readjustments to both household electricity and fixed telephone prices for 2005 were also unchanged, at 9.5% and 7.7% respectively; c) An increase of 6.7% in all regulated prices, which represented a total weight of 29.4% in the December IPCA, is projected for 2005, in line with the previous meeting; d) The projection for the readjustment of all regulated prices for 2006, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the IGP-DI change, stands at 5.1%; e) The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Over-Selic and the swap rates on the eve of the Copom meeting, declines from 77 basis points in the first quarter of 2005 to 51 basis points in the last quarter of 2006. 3
 
 11. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of the GDP for 2005 and 2006 will be achieved. The related assumptions considered in the December Copom meeting were maintained.
 
-12. Assuming the maintenance of the Over-Selic rate at 17.75% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.70), the IPCA inflation rate was projected above the 5.1% objective for 2005. Using the consensus Over-Selic rate and exchange rate compiled by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation was also projected above the 2005 objective. Monetary Policy Decision
+12. Assuming the maintenance of the Over-Selic rate at 17.75% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.70), the IPCA inflation rate was projected above the 5.1% objective for 2005. Using the consensus Over-Selic rate and exchange rate compiled by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation was also projected above the 2005 objective.
+
+Monetary Policy Decision
 
 13. IPCA inflation stood at 0.86% in December, well above market consensus, accelerating for the third consecutive month. The acceleration occurred across all three components – tradable, non-tradable and regulated prices. The increase in regulated prices, notably fuel, continued to put pressure on inflation. Household food prices reversed the downward trend observed in recent months, ceasing to contribute to lower inflation. Nonetheless, IPCA inflation accelerated in December even excluding household food prices.
 
@@ -66,7 +64,9 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 29. Considering the reasons stated above, the Copom unanimously decided to increase the Selic rate target to 18.25%, with no bias.
 
-30. At the close of the meeting, it was announced that the Committee would meet again on February 15, 2005, for technical presentations, and on the following day, to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 6 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+30. At the close of the meeting, it was announced that the Committee would meet again on February 15, 2005, for technical presentations, and on the following day, to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 6 SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 31. According to the IBGE retail survey, which covers all states of the country, retail sales (seasonally adjusted by the BCB) expanded moderately in November. All components of the index increased in the month, with particularly notable and continued growth in furniture and electrical appliance sales. Auto, motorcycle and parts sales, which are not included in the general index, declined again in November. In the year to November, retail activity expanded 9%, compared to the same period of 2003. Meanwhile, retail activity expanded 6.4% in the month of November, on a year-over-year basis, with growth recorded in 26 out of the 27 states in the country.
 
@@ -84,13 +84,17 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 38. In November, the CNI recorded a 0.2% decline in real industrial sales and a 0.2% increase in industrial hours worked, compared to October, in seasonally adjusted terms. In the year to November real sales and hours worked increased by 14.9% and 5.7%, respectively, compared to the same period of 2003. The average level of industrial capacity utilization, in seasonally adjusted terms, reached 82.9% in November, with a 0.1 p.p. decline relative to October. In the year to November, capacity utilization expanded by 3.2%, compared to the same period of 2003. 7
 
-39. Leading indicators suggest expansion in industrial output in December, compared to November, in seasonally adjusted terms. Increases in steel output and auto manufacturing led the expansion. Packaging paper shipments, the number of road tolls paid by trucks, and electrical energy also expanded. Labor Market
+39. Leading indicators suggest expansion in industrial output in December, compared to November, in seasonally adjusted terms. Increases in steel output and auto manufacturing led the expansion. Packaging paper shipments, the number of road tolls paid by trucks, and electrical energy also expanded.
+
+Labor Market
 
 40. In December, formal employment increased by 0.1% seasonally adjusted, month-on-month, according to the Ministry of Labor and Employment. In the year, there was a 5.1% expansion in employment, with the creation of 1,523 thousand jobs, led by manufacturing.
 
 41. The unemployment rate, measured by the IBGE in the six main metropolitan areas of the country, reached 10.6% in November, compared to 10.5% in the previous month. The increase in the unemployment rate, despite the 0.4% monthly expansion in the employed workers rate, was due to growth of the labor force, possibly led by the gradual improvement in general labor market conditions.
 
-42. In the industrial sector, according to seasonally adjusted data from CNI, employed workers and real wages increased by 0.5% and 1.2%, respectively, in November, compared to October. In the year to November, real wages and employed workers increased by 8.9% and 3.2%, respectively, compared to the same period of 2003. Credit and Delinquency Rates
+42. In the industrial sector, according to seasonally adjusted data from CNI, employed workers and real wages increased by 0.5% and 1.2%, respectively, in November, compared to October. In the year to November, real wages and employed workers increased by 8.9% and 3.2%, respectively, compared to the same period of 2003.
+
+Credit and Delinquency Rates
 
 43. Non-earmarked credit operations declined 0.3% in December, as a result of the 7.3% decline in exchange rate-linked credit, driven by BRL appreciation. Corporate credit with domestic funding expanded by 1.4% in the month, mainly as a result of the seasonal growth of credit demand in the period. In the year, this segment grew by 27.1%, driven by more robust economic activity. Credit operations with individuals increased by 1.1% in December and by 28.9% in the year, driven mainly by the expansion in personal credit, and particularly payroll-deducted loans.
 
@@ -98,23 +102,25 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 45. The default rate on non-earmarked credit fell by 0.7 p.p., to 6.7% in December compared to November. The use of the 13th wage to pay debts was the main contributor to the 1.2 p.p. drop in the individuals default rate, which stood at 11.7% in December. In corporate operations, the default rate recorded a 0.1 p.p. decline and was 3.1% at the end of 2004.
 
-46. The default rate measured by the ACSP fell to 3.4% in December from 3.8% in November. The number of cancelled files exceeded new files in the month. This occurred just once more in the historical series, in December
+46. The default rate measured by the ACSP fell to 3.4% in December from 3.8% in November. The number of cancelled files exceeded new files in the month. This occurred just once more in the historical series, in December 1967. The meaningful growth of cancelled files was a result of a campaign to recover credits in arrears for more than two years. In the year to December, the average default rate stood at 4.2%, below the 5.2% registered in 2003.
 
-1967. The meaningful growth of cancelled files was a result of a campaign to recover credits in arrears for more than two years. In the year to December, the average default rate stood at 4.2%, below the 5.2% registered in
-
-2003. External Environment
+External Environment
 
 47. The U.S. current account deficit and oil price volatility remain the main focus of global financial markets. Despite the dollar depreciation, the U.S. trade deficit has increased, reaching a new record of US$60.3 billion in November. Given the inflexibility of exchange rate in Asian countries, especially China, the euro continues to absorb the majority of pressure from the U.S. currency depreciation.
 
 48. Regarding oil, although the short -term outlook anticipates strong price volatility, the marginal recovery of the OECD and particularly U.S. stocks and the slower growth of demand signal the stability of prices this year. Agricultural and metal commodity prices recorded a decline, with the exception of coffee, sugar and steel. 8
 
-49. In the U.S., the fall of the Producer Price Index in December somewhat cooled expectations for a faster pace of monetary tightening. Thus, the Fed should maintain the gradual pace of monetary tightening throughout the year. Considering the expected maintenance of interest rates in the Euro Area, the yield differential of U.S. dollar- denominated assets should increase during the year, facilitating the financing of the U.S. current account deficit. Foreign Trade and Balance of Payments
+49. In the U.S., the fall of the Producer Price Index in December somewhat cooled expectations for a faster pace of monetary tightening. Thus, the Fed should maintain the gradual pace of monetary tightening throughout the year. Considering the expected maintenance of interest rates in the Euro Area, the yield differential of U.S. dollar- denominated assets should increase during the year, facilitating the financing of the U.S. current account deficit.
+
+Foreign Trade and Balance of Payments
 
 50. In December, the Brazilian trade balance posted a US$3.5 billion surplus, and a historical cumulative balance of US$33.7 billion surplus for the year (US$24.8 billion in 2003), of which US$96.5 billion were exports and US$ 62.8 billion were imports. In December, exports and imports increased by 30.3% and 36.0%, respectively, compared to December 2003 daily averages. Total external trade reached US$14.9 billion in December, or a cumulative US$159.3 billion for the year, compared to US$121.4 billion in 2003, signaling a new plateau for external trade. In the first two weeks of January (ten working days), the trade surplus reached US$916 million, with exports and imports growing by 29.5% and 32.6%, respectively, compared to January 2004 daily averages.
 
 51. Brazilian exports totaled US$9.2 billion in December, posting the highest level of the series for this month. Manufactured, primary and semi-manufactured goods exports totaled US$5.7 billion, US$2.1 billion and US$1.2 billion, respectively. In addition to the increase in volumes, key export products have registered price increases and shipments have continued to expand, both to traditional markets and new destinations. Imports reached a record level in December, totaling US$5.7 billion in the month, with increases in all categories compared to the same month of 2003.
 
-52. International reserves increased US$3.6 billion in 2004, to a level of US$52.9 billion, while adjusted net reserves stood at US$25.3 billion (IMF concept), recording an US$ 8.0 billion increase compared to the same period of 2003. Money Market and Open Market Operations
+52. International reserves increased US$3.6 billion in 2004, to a level of US$52.9 billion, while adjusted net reserves stood at US$25.3 billion (IMF concept), recording an US$ 8.0 billion increase compared to the same period of 2003.
+
+Money Market and Open Market Operations
 
 53. After the December Copom meeting, futures interest rates increased, particularly for maturities from six months up to 1 year. The positive slope of the yield curve widened up to the nine month vertices. This behavior was influenced by the following factors: the perception of market participants from the December Copom Minutes that the monetary tightening cycle would continue; the release of inflation indices and respective cores above market expectations; and the persistence of 2005 inflation expectations at high levels. The yield curve was also influenced by several external factors, especially the revision of expectations regarding the pace of the Fed´s tightening, after the release of the December FOMC Meeting Minute.  Between December 15 and January 19, the 1-month and 6- month interest rates increased by 0.65 p.p. and 0.87 p.p., respectively, while the 1-year, 2-year and the 3-year rates increased by 0.86 p.p., 0.56 p.p. and 0.26 p.p., respectively. In the same period, the real interest rate measured by the ratio between the one-year nominal interest rate and 12-month-ahead inflation expectation reached 12.0%.
 
@@ -122,8 +128,6 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 55. Between the December and January Copom meetings, the National Treasury carried out selling auctions of LTNs maturing in October 2005, January 2006 and July 2006, for a total placement of R$14.4 billion. The National Treasury also carried out four NTN-Fs auctions maturing in January 2008, totaling R$783 million, and seven LFTs auctions maturing in 2005, 2006 and 2007, four of which were selling auctions and three of which were exchange auctions. The selling auctions of LFTs totaled R$20.7 billion, and the exchange auctions totaled R$18.4 billion.
 
-56. In its open market operations, on December 17 the BCB carried out an operation aimed at reducing liquidity in the first quarter of 2005. This operation consisted of a selling auction of LTNs maturing in April 2005, linked to a buying auction of LTNs maturing in January 2005. Similarly, on January 7 and January 14, the BCB carried out a selling auction of LTNs maturing in July 2005, linked to a buying auction of LTNs maturing in April
-
-2005. The operations totaled R$5.3 billion. In addition, the BCB maintained the weekly Selic-indexed repo operations (1-month tenure) and the fixed-rate repo operations (3-month), as well as its daily liquidity management 9 operations (two-working-day tenure). The BCB also carried out 16 very short-term repos, of which, nine were overnight borrowings, three were borrowings with a two- to five-working-day tenure, and four were overnight lending. In the period, the excess liquidity drained from the market with operations shorter than 30 days averaged R$19.5 billion, and with 3-month-tenure operations averaged R$41.6 billion.
+56. In its open market operations, on December 17 the BCB carried out an operation aimed at reducing liquidity in the first quarter of 2005. This operation consisted of a selling auction of LTNs maturing in April 2005, linked to a buying auction of LTNs maturing in January 2005. Similarly, on January 7 and January 14, the BCB carried out a selling auction of LTNs maturing in July 2005, linked to a buying auction of LTNs maturing in April 2005. The operations totaled R$5.3 billion. In addition, the BCB maintained the weekly Selic-indexed repo operations (1-month tenure) and the fixed-rate repo operations (3-month), as well as its daily liquidity management 9 operations (two-working-day tenure). The BCB also carried out 16 very short-term repos, of which, nine were overnight borrowings, three were borrowings with a two- to five-working-day tenure, and four were overnight lending. In the period, the excess liquidity drained from the market with operations shorter than 30 days averaged R$19.5 billion, and with 3-month-tenure operations averaged R$41.6 billion.
 
 57. In December, net securitized domestic public debt grew 3.4%, due to a R$15.8 billion net placement and accrued interest. The dollar-linked share in net securitized domestic debt decreased to 9.9% in December from 10.3% in November.

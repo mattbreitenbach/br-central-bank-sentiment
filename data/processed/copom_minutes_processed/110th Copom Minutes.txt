@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. In June, consumer and wholesale inflation were negative. Consumer price deflation was most driven by the fall in perishable food and fuel prices, while wholesale price deflation was driven by the drop in both industrial and agricultural prices.
 
 2. The IPCA fell 0.02% (versus a 0.49% increase in May), with an accumulated increase of 3.16% and 7.27% in the first half of 2005 and in twelve months, respectively. Key drivers of the June result were the 2.91% drop in fuel prices and the 0.67% contraction in food prices, combined contributing –0.31 p.p. to the monthly result. Market prices rose 0.04% (versus 0.59% in May), and were responsible for 0.03 p.p. of the monthly change. Regulated prices fell 0.16% (after rising 0.25% in May), contributing –0.05 p.p. to the overall IPCA result.
@@ -10,23 +14,17 @@
 
 6. IPC-Br core inflation, calculated by the Getúlio Vargas Foundation (FGV) under the symmetric trimmed means method, reached 0.42% in June, down from 0.73% in May, for a cumulative twelve-month increase of 5.89%.
 
-7. The IPCA diffusion index (measuring the number of items in the IPCA registering price increases) fell to 61.7% in June, from 65.8% in May. Assessment of Inflation Trends
+7. The IPCA diffusion index (measuring the number of items in the IPCA registering price increases) fell to 61.7% in June, from 65.8% in May.
 
-8. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions:
+Assessment of Inflation Trends
 
-a) The projections for the adjustment of both gasoline and bottled gas prices for 2005 remained unchanged at 0%;
-
-b) Projections for fixed telephone rate adjustments in 2005 were reduced to 6.5% from 8.6%, and for household electricity to 8.2% from 10.8%;
-
-c) For all regulated prices, which represented a total weight of 29.6% in the June IPCA, the Copom reduced its projection for adjustments in 2005 to 7% from 7.3%;
-
-d) The projection for regulated price adjustments in 2006 was maintained at 5.7%. To arrive at this value, individual projections were made for some of the items for which 2005 adjustments have already occurred. For the other items, the projection continued to follow the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the change in the IGP;
-
-e) The projection for the six-month spread over the Selic rate, using a VAR model based on the Selic and swap rates on the eve of the Copom meeting, increases from an average of –50 basis points in the third quarter of 2005, to 38 basis points in the fourth quarter of 2006.
+8. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions: a) The projections for the adjustment of both gasoline and bottled gas prices for 2005 remained unchanged at 0%; b) Projections for fixed telephone rate adjustments in 2005 were reduced to 6.5% from 8.6%, and for household electricity to 8.2% from 10.8%; c) For all regulated prices, which represented a total weight of 29.6% in the June IPCA, the Copom reduced its projection for adjustments in 2005 to 7% from 7.3%; d) The projection for regulated price adjustments in 2006 was maintained at 5.7%. To arrive at this value, individual projections were made for some of the items for which 2005 adjustments have already occurred. For the other items, the projection continued to follow the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the change in the IGP; e) The projection for the six-month spread over the Selic rate, using a VAR model based on the Selic and swap rates on the eve of the Copom meeting, increases from an average of –50 basis points in the third quarter of 2005, to 38 basis points in the fourth quarter of 2006.
 
 9. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of GDP for 2005 and 2006 will be achieved. The related assumptions considered in the June meeting were maintained.
 
-10. In the benchmark scenario – maintenance of the Selic rate at 19.75% p.a. and the exchange rate at the level prevailing on the eve of the meeting (R$/US$ 2.35) – the IPCA inflation rate was projected above the 5.1% objective for 2005, but below the 4.5% central target for 2006. In the market scenario – using the consensus Selic rate and exchange rate expectations compiled by the BCB’s Investor Relations Group (GERIN) on the eve of the meeting – inflation was projected above the 5.1% objective for 2005 and above the 4.5% central target for 2006. 2 Monetary Policy Decision
+10. In the benchmark scenario – maintenance of the Selic rate at 19.75% p.a. and the exchange rate at the level prevailing on the eve of the meeting (R$/US$ 2.35) – the IPCA inflation rate was projected above the 5.1% objective for 2005, but below the 4.5% central target for 2006. In the market scenario – using the consensus Selic rate and exchange rate expectations compiled by the BCB’s Investor Relations Group (GERIN) on the eve of the meeting – inflation was projected above the 5.1% objective for 2005 and above the 4.5% central target for 2006. 2
+
+Monetary Policy Decision
 
 11. IPCA inflation fell for the second consecutive month in June, after rising from January through April. The 0.02% contraction in June reflected deflation in regulated and tradable goods prices, as well as the lowest inflation registered since October 2004 for non-tradable goods. The June deflation was a result of the favorable confluence of two atypical events: regulated prices fell, due to the drop in fuel prices (especially fuel alcohol); and market prices were stable, due to the strong drop in food prices (especially perishable foods).
 
@@ -60,7 +58,9 @@ e) The projection for the six-month spread over the Selic rate, using a VAR mode
 
 26. The Copom determined that maintaining interest rates at the level established in May, for a sufficiently long period of time, would create the conditions necessary to assure inflation convergence to the target path. The Committee therefore unanimously decided to maintain the Selic target unchanged at 19.75% p.a., without bias. Clearly, if there is a change in the inflation scenario, the monetary stance will be quickly adapted to the circumstances.
 
-27. At the conclusion of the meeting, it was announced that the Copom would reconvene on August 16 for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 5 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+27. At the conclusion of the meeting, it was announced that the Copom would reconvene on August 16 for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 5 SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 28. According to the IBGE national survey (seasonally adjusted by the BCB), retail sales expanded 0.4% in May, month-on-month, driven by the 2.1% increase in furniture and household appliance sales and the 0.9% rise in fuel and lubricant sales. The category of hypermarkets, supermarkets, food, beverages and tobacco sales (the highest weight in the index), dropped 0.4%, while fabric, clothing and shoe sales fell 13%. In comparison to May 2004, retail sales expanded 2.7%, due to the credit-driven 18.3% rise in furniture and household appliance sales. Auto, motorcycle and spare parts sales, which are not included in the general index, increased 1.8%. In the first five months of the year, retail sales as a whole increased 4.5%, as compared to the same period of 2004.
 
@@ -76,13 +76,17 @@ e) The projection for the six-month spread over the Selic rate, using a VAR mode
 
 34. CNI manufacturing data showed a 0.7% decline and a 0.5% increase, respectively, for real sales and hours worked in May, on a month-on-month seasonally adjusted basis. Compared to the same month of 2004, real sales fell 1.5% and hours worked increased 7.6%. Installed capacity utilization reached 81.8% in May, in the seasonally adjusted series, increasing 0.2 p.p. compared to the previous month. The non-seasonally adjusted result of 82.3% for May was relatively unchanged compared to May 2004 (82.8%).
 
-35. For June, leading indicators of industrial activity posted strong seasonally adjusted growth. Vehicle production registered a cumulative 15.8% increase in the first semester of 2005.  Also, corrugated paper shipments, energy consumption and the heavy vehicle tolls index rose in June. 6 Labor Market
+35. For June, leading indicators of industrial activity posted strong seasonally adjusted growth. Vehicle production registered a cumulative 15.8% increase in the first semester of 2005.  Also, corrugated paper shipments, energy consumption and the heavy vehicle tolls index rose in June. 6
+
+Labor Market
 
 36. Formal employment rose 0.4% in May (month-on-month, seasonally adjusted), according to the Ministry of Labor and Employment. Compared to May 2004, there was a 6.1% expansion in formal employment, with the net creation of almost 1.5 million jobs. The largest increases in employment were observed in commerce and manufacturing.
 
 37. According to the IBGE survey in the six main metropolitan regions of the country, the unemployment rate fell to 10.2% in May from 10.8% in April (2 p.p. below the May 2004 rate). The month-on-month reduction was due to the increase in the number of employed individuals (242,000), and the 5.1% drop in the number of unemployed individuals (121,000). The labor force increased by 121,000, to an estimated 22.1 million individuals. The same survey indicated that real average earnings remained stable in May, compared to the same month in 2004. In comparison to April, however, real earnings fell 1.5%, the second consecutive monthly reduction, which is partially due to the increase of inflation rates in the period.
 
-38. Industrial sector employment and real payrolls expanded 0.1% and 0.9%, in month-on-month terms in May, according to data from CNI, seasonally adjusted by the BCB. In comparison to May 2004, the same indicators increased 5.7% and 9.2%, respectively. In the year through May, these indicators showed increases of 6.5% and 9.1%, respectively, compared to the same period of 2004. Credit and Delinquency Rates
+38. Industrial sector employment and real payrolls expanded 0.1% and 0.9%, in month-on-month terms in May, according to data from CNI, seasonally adjusted by the BCB. In comparison to May 2004, the same indicators increased 5.7% and 9.2%, respectively. In the year through May, these indicators showed increases of 6.5% and 9.1%, respectively, compared to the same period of 2004.
+
+Credit and Delinquency Rates
 
 39. Non-earmarked credit grew 1.6% in June. Credit operations with individuals rose 2.1%, driven mainly by the expansion of personal credit, which was in turn driven largely by payroll-deducted loans contracted by retirees. Corporate credit with domestic funding expanded 1.9%, while corporate credit with external funding fell 0.6%.
 
@@ -90,7 +94,9 @@ e) The projection for the six-month spread over the Selic rate, using a VAR mode
 
 41. Delinquency rates for non-earmarked credit fell 0.4 p.p. in June, to 7.3%. Delinquency rates for credit operations with individuals reached 12.2% in June, 0.7 p.p. below the May level. Delinquencies in corporate credit operations fell to 3.4% in June from 3.5% in May.
 
-42. Net delinquency rates for retail credit, measured by ACSP, fell to 5.1% in June from 7.4% in May, due to the 2.9% expansion in the number of cancelled registers and the 4% decline in the number of new registers in the month. In the first half of the year, the average delinquency rate increased to 6.4%, versus 5.7% for the same period of 2004, mainly due to the deceleration in the number of cancelled registers. External Environment
+42. Net delinquency rates for retail credit, measured by ACSP, fell to 5.1% in June from 7.4% in May, due to the 2.9% expansion in the number of cancelled registers and the 4% decline in the number of new registers in the month. In the first half of the year, the average delinquency rate increased to 6.4%, versus 5.7% for the same period of 2004, mainly due to the deceleration in the number of cancelled registers.
+
+External Environment
 
 43. Recent indicators show sustained global economic growth, especially in the U.S. and China, and a moderate recovery in the Euro Area and Japan.
 
@@ -102,7 +108,9 @@ e) The projection for the six-month spread over the Selic rate, using a VAR mode
 
 47. The global inflation outlook remains stable. In the U.S., the June CPI was 0%, while the PPI rate remained stable, despite high international oil prices. In the United Kingdom, the consumer price index rose 2% in June, compared to June 2004, 0.1 p.p. above the forecast rate. There are no changes expected for the monetary policy stance in the main global economies.
 
-48. Oil prices remain high, with high volatility, mainly due to the release of oil inventory estimates in the U.S., and also due to geopolitical tensions in producer countries. Foreign Trade and Balance of Payments
+48. Oil prices remain high, with high volatility, mainly due to the release of oil inventory estimates in the U.S., and also due to geopolitical tensions in producer countries.
+
+Foreign Trade and Balance of Payments
 
 49. New record highs for the trade balance were reached in the month of June and in the twelve-month period ending in June. In the month, the trade balance registered a surplus of US$4 billion. For the twelve months, the trade balance and total external trade reached US$38.3 billion and US$175.4 billion, respectively, with growth rates of 30.4% and 27.6% over the previous twelve-month period. In the first 11 working days in July, the trade balance reached US$2.7 billion, with export and import growth of 28% and 10.6%, respectively, over the average daily levels reached in the same month of 2004.
 
@@ -110,15 +118,15 @@ e) The projection for the six-month spread over the Selic rate, using a VAR mode
 
 51. Imports totaled US$6.2 billion in the month (second largest monthly result recorded), growing 6.6% in terms of daily averages, compared to June 2004. In the first half of the year, there was a 27.2% increase in imports of capital goods, 20.5% for consumer goods, 18.3% for primary and intermediate goods, and 17.3% for fuel and lubricants, all measured in daily averages compared to the same period last year.
 
-52. At the end of June, international reserves totaled US$59.9 billion and net adjusted reserves totaled US$40.5 billion, a reduction of US$824 million and an expansion of US$1.3 billion, respectively, relative to end- May. Money Market and Open Market Operations
+52. At the end of June, international reserves totaled US$59.9 billion and net adjusted reserves totaled US$40.5 billion, a reduction of US$824 million and an expansion of US$1.3 billion, respectively, relative to end- May.
+
+Money Market and Open Market Operations
 
 53. In the period following the June Copom meeting, the yield curve shifted downward in response to: the drop in consumer price inflation; the IGP index deflation; the drop in 2005 and twelve-month ahead inflation expectations; and currency appreciation. The mix of these factors contributed to the negative slope in the yield curve, including for the short term. Between June 15 and July 20, one-, three- and six-month, one- and two-year interest rates fell 0.13 p.p., 0.27 p.p., 0.42 p.p., 0.25 p.p., and 0.19 p.p., respectively. The real interest rate, measured by the ratio between the one-year nominal interest rate and the twelve-month-ahead inflation expectation, fell to 12.43% from 12.52%.
 
 54. In July, the net redemption of FX instruments, including interest payments, totaled US$49 million, and US$15.1 billion in the first six months of the year. 8
 
-55. Since the last meeting, the National Treasury raised a total of R$33 billion via sales of LTNs, maturing in 2006 and 2007. The Treasury raised an additional R$798 million via NTN-F auctions, with maturities in 2010 and
-
-2012. The Treasury also conducted four auctions of LFTs maturing in 2008 and 2009, totaling R$12.5 billion.
+55. Since the last meeting, the National Treasury raised a total of R$33 billion via sales of LTNs, maturing in 2006 and 2007. The Treasury raised an additional R$798 million via NTN-F auctions, with maturities in 2010 and 2012. The Treasury also conducted four auctions of LFTs maturing in 2008 and 2009, totaling R$12.5 billion.
 
 56. In its open market operations, the BCB conducted weekly three-month fixed rate repo operations, as well as daily liquidity management operations. The BCB also conducted twenty-one short-term repo operations, nineteen of which were overnight borrowings and two of which were overnight lendings. The excess liquidity sterilized from the banking reserves market via operations with tenors of three months averaged R$35.3 billion. Operations with tenors less than thirty days averaged R$12.7 billion.
 

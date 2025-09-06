@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. Wholesale and consumer inflation accelerated in October, but the upward move was mitigated by the positive shock over food prices, whose effects tend to vanish in the last two months of the year. The disparity between the recent rises in industrial prices in the wholesale and in the retail level has persisted.
 
 2. The Broad National Consumer Price Index (IPCA) rose 0.44% in October, up from 0.33% in September, accumulating increases of 5.95% in the year and 6.87% in twelve months. Fuel prices in general and fuel-alcohol prices in particular were the main contributors to the IPCA acceleration. Other regulated prices, such as air tickets and health insurance plans, contributed to the IPCA result. The impact of these increases was only partially offset by the ongoing decline of fresh food prices.
@@ -14,13 +18,17 @@
 
 8. The IPC-Br core inflation, calculated by the Fundação Getúlio Vargas (FGV) under the symmetric trimmed-mean method, stood at 0.43% in October, compared to 0.38% in September, totaling 5.80% in twelve months.
 
-9. Inflation should accelerate further in November, as a consequence of, among other factors, the second installment of the readjustment in fixed-line telephone services determined by the Supreme Judicial Court and the increases in fuel-alcohol prices and urban bus tariffs in Belo Horizonte. The favorable contribution of fresh food prices to inflation may be smaller in November than in October. Assessment of Inflation Trends
+9. Inflation should accelerate further in November, as a consequence of, among other factors, the second installment of the readjustment in fixed-line telephone services determined by the Supreme Judicial Court and the increases in fuel-alcohol prices and urban bus tariffs in Belo Horizonte. The favorable contribution of fresh food prices to inflation may be smaller in November than in October.
+
+Assessment of Inflation Trends
 
 10. The inflation shocks and their impacts were reassessed according to new available information. The scenario considered in the simulations assumed the following hypotheses: a. For 2004, the Copom's projection for the increase of gasoline prices was maintained at 9.5%, while the projection for the increase of bottled gas prices remained almost unchanged, increasing to 5.0% from 4.9% in the October Copom meeting; b. The projection for the readjustment of household electricity prices was reduced to 10.2% from 11.5% in the October Copom meeting. The projection for the readjustment of fixed telephone tariffs was increased to 14.8% from 14.0%; 2 c. In regard to all regulated prices, with a total weight of 29.1% in the October IPCA, the Copom projects an average price increase of 9.0% in 2004, up 0.5 p.p. compared to the projection in the last meeting; d. The projection for the readjustment of all regulated prices for 2005, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market prices inflation and the IGP-DI change, was slightly increased to 7.2% from 6.9% in the previous Copom meeting; e. The projection for the 6-month spread over the Over-Selic rate, following the specification of a Vector Autoregressive model based on the Over-Selic and the swap rates on the eve of the Copom meeting, decreases from 101 basis points in the fourth quarter of 2004 to 62 basis points in the last quarter of 2005.
 
 11. It is assumed that the consolidated public sector primary surplus target of 4.5% of the GDP for 2004 and 4.25% for the following two years will be achieved. The related assumptions considered in the previous Copom meeting were maintained.
 
-12. Considering the benchmark scenario, including the maintenance of the Over-Selic rate at 16.75% p.a. and of the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.75), the IPCA inflation rate was projected above the 5.5% central target for 2004 and above the 5.1% objective for 2005. Considering alternatively the market scenario, which takes into account the consensus Over-Selic rate and exchange rate as surveyed by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation is also projected above the central target for 2004 and above the objective for 2005. Monetary Policy Decision
+12. Considering the benchmark scenario, including the maintenance of the Over-Selic rate at 16.75% p.a. and of the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.75), the IPCA inflation rate was projected above the 5.5% central target for 2004 and above the 5.1% objective for 2005. Considering alternatively the market scenario, which takes into account the consensus Over-Selic rate and exchange rate as surveyed by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation is also projected above the central target for 2004 and above the objective for 2005.
+
+Monetary Policy Decision
 
 13. Inflation measured by the IPCA accelerated to 0.44% in October from 0.33% in September. This acceleration occurred despite the fall in food prices for the second consecutive month. Excluding food, market prices inflation increased to 0.54% in October from 0.42% in September. Regulated prices were pressured by fuel prices, especially fuel-alcohol.
 
@@ -62,7 +70,9 @@
 
 32. As mentioned in the October Copom Minutes, the Committee emphasizes that the maintenance of the monetary adjustment in the magnitude and in the pace initially designed, requires that the risk factors do not exacerbate. Among other aspects, it is important for the recent scenario of international oil prices not to deteriorate and for the rigidity of inflation expectations to reverse. If the Copom assesses an enhanced risk of inflation deviating from the target path, it will be prepared to alter the pace and the magnitude of the monetary adjustment process initiated in September.
 
-33. At the closing of the meeting, it was announced that the Copom would meet again on December 14, for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 11,516, of October 15, 2003. SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+33. At the closing of the meeting, it was announced that the Copom would meet again on December 14, for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 11,516, of October 15, 2003. SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 34. According to the IBGE’s retail survey, which encompasses all the states of the country, sales were stable in September in seasonally adjusted terms.
 
@@ -84,7 +94,9 @@
 
 43. In September, the CNI recorded a 2% decline in real industrial sales and a 0.1% decline in industrial worked hours, compared to August, considering seasonally adjusted data. Compared to the same month of 2003, real sales and worked hours increased by 15.6% and by 7.3%, respectively. The average level of industrial capacity utilization reached 82.9% in September, with a 0.4 p.p. decrease in relation to August. In the first three quarters of the year, capacity utilization expanded by 3% compared to 2003.
 
-44. Leading indicators (packaging paper shipments, steel output, tolls in highways and cars production) suggest a reduction in industrial output in October. Despite the October negative performance, those leading indicators have grown notably in the year, reaching record highs. Labor Market
+44. Leading indicators (packaging paper shipments, steel output, tolls in highways and cars production) suggest a reduction in industrial output in October. Despite the October negative performance, those leading indicators have grown notably in the year, reaching record highs.
+
+Labor Market
 
 45. Formal employment increased by 0.5% month-on-month in September, seasonally adjusted, and by 6.2% compared to September 2003, according to the Ministry of Labor and Employment. In the first three quarters of the year, there was a 4.6% expansion in formal employment, with the creation of 1,666,188 jobs. Job creation was led by manufacturing, followed by construction and services. Data have also continued to indicate that employment has increased at a higher pace outside large metropolitan areas.
 
@@ -92,13 +104,17 @@
 
 47. Average real earnings totaled R$910.10 in September, a 1.9% increase compared to the previous month. Average earnings grew by 9.1% and by 3.2% in nominal and real terms, respectively, compared to September 2003, when deflated by the National Consumer Price Index (INPC).
 
-48. In September, employed workers and real wages in industry increased by 0.8% and by 0.9%, respectively, month-on-month, according to seasonally adjusted data from CNI. In the first nine months of the year, employed workers and real wages increased by 2.4% and by 8.5%, respectively, compared to the same period of 2003. Credit and Delinquency Rates
+48. In September, employed workers and real wages in industry increased by 0.8% and by 0.9%, respectively, month-on-month, according to seasonally adjusted data from CNI. In the first nine months of the year, employed workers and real wages increased by 2.4% and by 8.5%, respectively, compared to the same period of 2003.
+
+Credit and Delinquency Rates
 
 49. Non-earmarked credit operations increased by 2% in October. Corporate credit with domestic funding expanded by 3.4%. In twelve months, this segment grew by 27.4%, driven by more intense economic activity. Corporate credit with external funding fell by 0.5% in October, as a result of the BRL appreciation and of the amortization of debts. However, these operations grew by 10.4% in the year to October. Credit operations with individuals increased 1.9% in October and 25.8% in the last twelve months as a result of the higher volume of personal credit operations. 7
 
 50. The average interest rate on non-earmarked credit increased by 0.5 p.p. in October, reaching 45.6% p.a. This increase was a result of the 0.7 p.p. rise in the average corporate rate, which stood at 31.1% p.a. The average rate for individuals remained stable in the period at 63.2% p.a.
 
-51. The default rate measured by the ACSP fell to 4.1% in October from 4.4% in September. In the year to October, the average default rate recorded a 10.6% decline when compared to the same period of 2003. External Environment
+51. The default rate measured by the ACSP fell to 4.1% in October from 4.4% in September. In the year to October, the average default rate recorded a 10.6% decline when compared to the same period of 2003.
+
+External Environment
 
 52. The price of oil reached an historic high on October 22, when the WTI and the Brent stood at US$56.17 and US$51.92, respectively. Since then, oil prices have declined, posing less risks to global economic growth. The stock exchanges reacted favorably to the fall in oil prices.
 
@@ -108,13 +124,17 @@
 
 55. The third quarter GDP data confirmed the U.S. economic expansion. In Japan, GDP growth decelerated to 0.3% in the last quarter, with the deflation risk still evident in the GDP deflator. In the Euro-area, growth decelerated to 1.2% in annualized terms in the third quarter.
 
-56. The Federal Reserve increased the Fed funds target to 2% in the November FOMC meeting, confirming the strategy of moderate adjustments. The producer price index recorded a 4.4% annual rise in October, pressured by oil prices. However, core inflation stood below 2%. In the Euro-area and in the UK, short-term interest rates stood at 2% and 4.75%, respectively. Foreign Trade and Balance of Payments
+56. The Federal Reserve increased the Fed funds target to 2% in the November FOMC meeting, confirming the strategy of moderate adjustments. The producer price index recorded a 4.4% annual rise in October, pressured by oil prices. However, core inflation stood below 2%. In the Euro-area and in the UK, short-term interest rates stood at 2% and 4.75%, respectively.
+
+Foreign Trade and Balance of Payments
 
 57. In October, for the sixth consecutive month, the Brazilian trade balance posted a US$3 billion surplus, accumulating US$28.1 billion in the year and US$32.6 billion in twelve months. Exports and imports increased by 34.4% and by 33.4%, respectively, compared to the October 2003 daily averages. Total external trade reached US$14.7 billion in October, accumulating US$130.1 billion in the year to October and US$151.1 billion in twelve months. In the first two weeks of November (nine working days), the trade surplus reached US$1.2 billion, with exports and imports growing by 41.0% and 33.7%, respectively, compared to November 2003 daily averages.
 
 58. Brazilian exports totaled US$8.8 billion in October. Manufactured, primary and semi-manufactured goods exports totaled US$5.3 billion, US$2.3 billion and US$1.1 billion, respectively. Besides the increase in volumes, important export products, such as steel products, oil, gasoline, pork, coffee, sugar, cotton and tobacco have registered price increases. Imports reached the highest level in the year, totaling US$5.8 billion in the month, with increases in all categories.
 
-59. At the end of October, international reserves stood at US$49.4 billion, while adjusted net reserves stood at US$22.2 billion (IMF concept). Money Market and Open Market Operations 8
+59. At the end of October, international reserves stood at US$49.4 billion, while adjusted net reserves stood at US$22.2 billion (IMF concept).
+
+Money Market and Open Market Operations 8
 
 60. After the October Copom meeting, futures interest rates for maturities up to one year increased, while rates for longer maturities decreased. The longer end of the yield curve was influenced by the fall of oil prices, the decline in country risk, the BRL appreciation, operations in the derivatives market and expectations that monetary policy will enable a quicker convergence of the inflation rate to the target path. Between October 20 and November 17, the 1-month, 6-month and 1-year interest rates increased by 0.71 p.p., 0.49 p.p. and 0.20 p.p., respectively, while the 2-year and the 3-year rates decreased by 0.12 p.p. and 0.26 p.p. In the same period, the real interest rate measured by the ratio between the one-year nominal interest rate and the 12-month-ahead inflation expectations reached 10.8%.
 

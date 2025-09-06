@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Economic Developments
+
 1. As anticipated in the last Copom Minutes, IPCA inflation subdued in December, to 0.36% from 0.55% in November, accumulating 5.69% in 2005, the third consecutive annual reduction (and the lowest annual change since the inception of the inflation targeting regime). For the second year in a row, the inflation target established by the National Monetary Council (CMN) was accomplished. The lower inflation in December was due to decelerating prices for both regulated prices (especially gasoline) and food prices (particularly perishable food). The IPCA diffusion index fell in December relative to the previous month, to 59% from 62.3%. Some acceleration is expected for the January IPCA, since there might be some price increases in urban transportation in Belo Horizonte, Brasilia, and Fortaleza, in addition to the effect of the fuel alcohol inter-harvest period. Partial data referring to January suggest that the IPCA increase shall be higher than the expected when the December Copom meeting was held.
 
 2. In line with headline inflation, two core inflation measures also decelerated in December: smoothed trimmed means and non-smoothed trimmed means cores rose 0.43% and 0.33%, respectively, compared to 0.51% and 0.49% in November. On the other hand, core inflation by exclusion of household food items and regulated 1 prices rose from 0.27% to 0.30%. Despite the December deceleration, trimmed means cores rose in the quarter, relative to the previous quarter (to 0.51% from 0.44% per month for the smoothed core and to 0.44% from 0.31% for the non-smoothed one), while the core by exclusion was practically flat. Despite lower, respectively at 5.30% and 5.55%, non-smoothed trimmed means and exclusion cores ended 2005 close to the headline inflation index. However, smoothed trimmed means core rose 6.77% in the year, maintaining, however, the downward trend that characterized overall inflation in 2005.
@@ -18,25 +22,19 @@
 
 10. International financial markets improved relative to the scenario considered in the December Copom meeting, with indications that the U.S. monetary tightening cycle would be completed soon. Brazil risk premium registered new record lows since November, reflecting consistent improved fundamentals, noticeably strong trade surpluses, together with adequate consolidated public sector primary surpluses, continued disinflation, accumulation of international reserves and a better pubic debt profile, contributing to safeguard the domestic economy from adverse external shocks. In line with these results, Brazil risk for the first time reached levels below 300b.p. at the beginning of January. Despite uncertainties in the global economy, such as concerns regarding ongoing inflation both in the U.S. and in the Euro Area, the Copom continues to assign a low probability to a significant deterioration in international financial markets conditions.
 
-11. International oil prices, after reaching record highs in August, fell sharply until November, reversing course since December. On the eve of the January Copom meeting, oil prices remained volatile and registered the highest levels since beginning of September. Given the increase in domestic fuel prices implemented in mid-September, the Copom maintains a scenario in which there is no change to domestic prices in 2006. Nevertheless, international oil prices remain a risk factor to future inflation, potentially affecting the prices of oil-intensive products, as well as price-setters’ inflation expectations. Assessment of Inflation Trends
+11. International oil prices, after reaching record highs in August, fell sharply until November, reversing course since December. On the eve of the January Copom meeting, oil prices remained volatile and registered the highest levels since beginning of September. Given the increase in domestic fuel prices implemented in mid-September, the Copom maintains a scenario in which there is no change to domestic prices in 2006. Nevertheless, international oil prices remain a risk factor to future inflation, potentially affecting the prices of oil-intensive products, as well as price-setters’ inflation expectations.
 
-12. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions:
+Assessment of Inflation Trends
 
-a) Gasoline and bottled gas prices will not suffer any adjustment in 2006, as considered at the December 2005 issue of the Inflation Report,
-
-b) Regarding fixed line telephone rate adjustments, the 2.5% projection for 2006, presented at the Inflation Report, was maintained. The projection for household electricity adjustments was also maintained in 4.2%, similar to the last Inflation Report;
-
-c) For all regulated prices, and considering their composition change discussed in the December Inflation Report, the Copom maintained the 4.6% adjustment projection for 2006. These items, according to the weights released by the IBGE in December, represent 33.33% of the total IPCA; 3
-
-d) The projection for regulated prices inflation in 2007, based on the endogenous determination model, remained at 6.2%, as presented in the last Inflation Report. This model considers the effects of seasonal components, of the exchange rate, of market prices inflation and of the IGP;
-
-e) The projection for the six-month spread over the Selic rate, using a Vector Autoregressive model based on the Selic and swap rates on the eve of the Copom meeting, increased from an average of –113 basis points in the first quarter of 2006 to 48 basis points in the last quarter of 2007.
+12. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions: a) Gasoline and bottled gas prices will not suffer any adjustment in 2006, as considered at the December 2005 issue of the Inflation Report, b) Regarding fixed line telephone rate adjustments, the 2.5% projection for 2006, presented at the Inflation Report, was maintained. The projection for household electricity adjustments was also maintained in 4.2%, similar to the last Inflation Report; c) For all regulated prices, and considering their composition change discussed in the December Inflation Report, the Copom maintained the 4.6% adjustment projection for 2006. These items, according to the weights released by the IBGE in December, represent 33.33% of the total IPCA; 3 d) The projection for regulated prices inflation in 2007, based on the endogenous determination model, remained at 6.2%, as presented in the last Inflation Report. This model considers the effects of seasonal components, of the exchange rate, of market prices inflation and of the IGP; e) The projection for the six-month spread over the Selic rate, using a Vector Autoregressive model based on the Selic and swap rates on the eve of the Copom meeting, increased from an average of –113 basis points in the first quarter of 2006 to 48 basis points in the last quarter of 2007.
 
 13. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of GDP in 2006 and 2007 will be achieved. The related assumptions considered in the previous meeting were maintained.
 
 14. Since the December Copom meeting, median IPCA inflation expectations for 2006, compiled by the BCB’s Investor Relations Group, rose from 4.50% to 4.59%. Despite the little recent increase, market consensus seems to be in line with the 4.5% inflation target established by the CMN for the year. As mentioned again and again in prior Copom minutes, this fact suggests that the recent monetary policy stance has both contained short-term inflationary pressures and contributed to the consolidation of a more favorable longer-term macroeconomic scenario.
 
-15. Though below the 4.5% inflation target for the year, the 2006 inflation forecast under the benchmark scenario – which assumes the maintenance of the Selic rate at 18.0% p.a. and the exchange rate at R$/US$ 2.25 during the forecast period - increased relative to the December Copom meeting, reflecting the Selic rate reduction. The forecast based on the market scenario – which incorporates the consensus exchange rate and Selic rate trajectories on the eve of the meeting – also increased, continuing above the target. For 2007, the benchmark forecast remained below the 4.5% inflation target, but also increased compared to December. On the other hand, the forecast under the market scenario remained above the inflation target, but decreased compared to December due to the lower exchange rate depreciation expected by market participants for the year. Monetary Policy Decision
+15. Though below the 4.5% inflation target for the year, the 2006 inflation forecast under the benchmark scenario – which assumes the maintenance of the Selic rate at 18.0% p.a. and the exchange rate at R$/US$ 2.25 during the forecast period - increased relative to the December Copom meeting, reflecting the Selic rate reduction. The forecast based on the market scenario – which incorporates the consensus exchange rate and Selic rate trajectories on the eve of the meeting – also increased, continuing above the target. For 2007, the benchmark forecast remained below the 4.5% inflation target, but also increased compared to December. On the other hand, the forecast under the market scenario remained above the inflation target, but decreased compared to December due to the lower exchange rate depreciation expected by market participants for the year.
+
+Monetary Policy Decision
 
 16. The Copom reaffirms the view that current and expected inflation demonstrate that the monetary stance adopted since September 2004 has contained short-term inflationary pressures and consolidated a more favorable long-term macroeconomic environment. Economic activity data suggest the progressive consolidation of an upward trend at a pace consistent with supply conditions, such that it will not introduce significant inflationary pressures. In addition, despite continued volatility in international financial markets and the persistence of high oil prices, the external environment remains favorable, particularly with regard to the external financing conditions to Brazil. Therefore, a benign inflation environment continues to evolve. As in the December meeting, the Committee emphasizes that the main challenge for monetary policy is to ensure the consolidation of these favorable developments.
 
@@ -60,7 +58,9 @@ e) The projection for the six-month spread over the Selic rate, using a Vector A
 
 26. The IPCA diffusion index (measuring the number of items in the IPCA registering price increases) was 59.0% in December, down from 62.3% in November.
 
-27. Inflation is expected to accelerate in January, mainly due to seasonal factors. Wholesale agricultural prices will also be affected by increasing weights for internationally traded prices, in an unfavorable seasonal period. After falling in December, fuel prices will likely increase in January, mainly driven by fuel alcohol prices. Partial data released for January consumer inflation have confirmed higher-than-expected pressures in the beginning of the year. 5 Economic Activity
+27. Inflation is expected to accelerate in January, mainly due to seasonal factors. Wholesale agricultural prices will also be affected by increasing weights for internationally traded prices, in an unfavorable seasonal period. After falling in December, fuel prices will likely increase in January, mainly driven by fuel alcohol prices. Partial data released for January consumer inflation have confirmed higher-than-expected pressures in the beginning of the year. 5
+
+Economic Activity
 
 28. According to the IBGE’s survey, seasonally adjusted retail sales increased 0.3% month-on-month, 4.8% in the year and 5.5% on a cumulative twelve-month basis.
 
@@ -74,19 +74,25 @@ e) The projection for the six-month spread over the Selic rate, using a Vector A
 
 33. According to CNI, real industrial sales rose 2.7% in November, on month-on-month seasonally adjusted terms, while worked hours contracted 0.6%. In the year through November, these indicators increased 2.1% and 4.8%, respectively. Installed capacity utilization stood at 80.8% in the month, seasonally adjusted, up 0.2 p.p. from October. In non-seasonally adjusted terms, installed capacity utilization stood at 81.4%, 2.4 p.p. below the level recorded in November 2004.
 
-34. Leading indicators point to an increase in industrial activity in December. Vehicle production and corrugated cardboard shipments grew more than 3%, in seasonally adjusted terms. Energy consumption and the highway tolls index also posted positive performances. Surveys and Expectations
+34. Leading indicators point to an increase in industrial activity in December. Vehicle production and corrugated cardboard shipments grew more than 3%, in seasonally adjusted terms. Energy consumption and the highway tolls index also posted positive performances.
+
+Surveys and Expectations
 
 35. The Fecomercio-SP survey registered a 0.5% increase in consumer confidence in January, compared to December, accumulating a 1.5% rise in a twelve-month basis. The monthly result was favored by the 1.1% increase in consumer expectations, counterbalancing a 0.5% fall in current economic conditions.
 
 36. According to FGV´s survey, consumer confidence reached 103.6 in December, up 0.6% from November. Current situation perception improved 3.6%, while expectations contracted by 1.0%.
 
-37. According to preliminary data of the next FGV quarterly industrial survey, the manufacturing sector remains cautious at the start of 2006. Global demand for industrial goods is considered “strong” or “weak” by 9% and 20% of business enterprises, respectively, in comparison to 13% and 21% in the October survey. Inventory adjustments begun in the second half of 2005 have continued. Out of the companies surveyed, 12% of them consider the 6 inventory levels excessive, compared to 13% in the previous survey. Also in comparison to the October survey, expectations for the coming months show greater optimism regarding the overall business outlook, but employment levels are expected to decline. Labor Market
+37. According to preliminary data of the next FGV quarterly industrial survey, the manufacturing sector remains cautious at the start of 2006. Global demand for industrial goods is considered “strong” or “weak” by 9% and 20% of business enterprises, respectively, in comparison to 13% and 21% in the October survey. Inventory adjustments begun in the second half of 2005 have continued. Out of the companies surveyed, 12% of them consider the 6 inventory levels excessive, compared to 13% in the previous survey. Also in comparison to the October survey, expectations for the coming months show greater optimism regarding the overall business outlook, but employment levels are expected to decline.
+
+Labor Market
 
 38. According to the Ministry of Labor and Employment, 286.7 thousand jobs were lost in the formal market in December, as expected by seasonal standards (in December 2004, the loss reached 352.1 thousand jobs). In seasonally adjusted terms, formal employment increased 0.41%, month-on-month. The net creation of 1.3 million jobs in the formal market in 2005 corresponds to an increase of 5.65% in the employment level, compared to 2004.
 
 39. According to the IBGE survey in the six main metropolitan regions of the country, the unemployment rate remained at 9.6% in November for the third consecutive month. This result reflects a 0.2% and 0.3% increases in the labor force and in the number of employed workers, respectively, while the number of unemployed workers remained virtually unchanged. The unemployment rate declined 1 p.p. compared to November last year. With the net creation of 51 thousand jobs, the number of employed workers reached 20.1 million in November, while the labor force was estimated at 22.3 million people. Still according to the survey, real average earnings rose 0.4% in November, month-on-month, up 2.1% from November 2004.
 
-40. According to the BCB’s seasonal adjustment of the CNI series, real industrial payrolls remained stable in November, when industrial employment fell 0.4%. In the year through November, these indicators rose 8.2% and 4.5%, respectively. Credit and Delinquency Rates
+40. According to the BCB’s seasonal adjustment of the CNI series, real industrial payrolls remained stable in November, when industrial employment fell 0.4%. In the year through November, these indicators rose 8.2% and 4.5%, respectively.
+
+Credit and Delinquency Rates
 
 41. Non-earmarked credit grew 0.8% in December, month-on-month. Credit operations with individuals fell 0.3%, while corporate credit with domestic and foreign fundings rose 1.6% and 2.1%, respectively. In the year, these operations increased 25.6%, 37.0%, 22.9% and 4.1%, respectively. It is worth mentioning the 46.4% annual expansion in personal credit, mainly due to the increase in payroll-deducted credit, benefiting mainly retired people.
 
@@ -94,7 +100,9 @@ e) The projection for the six-month spread over the Selic rate, using a Vector A
 
 43. Delinquency rate for non-earmarked credit (loans in arrears for more than 90 days) remained stable in December compared to November, at 4.2%. Delinquencies in corporate credit operations also remained stable, at 2%, while delinquency for credit operations with individuals rose to 6.8% in December, from 6.7% in November.
 
-44. Net delinquency rate for retail credit, measured by the BCB based on data of the São Paulo Trade Association (ACSP), stood at –1.8% in December, due to the cancellation of 370 thousand registers and the inclusion of 342 thousand new registers. External Environment
+44. Net delinquency rate for retail credit, measured by the BCB based on data of the São Paulo Trade Association (ACSP), stood at –1.8% in December, due to the cancellation of 370 thousand registers and the inclusion of 342 thousand new registers.
+
+External Environment
 
 45. Geopolitical factors affected oil prices at the start of the year. The instability in Nigeria and the recent Iranian decision regarding its nuclear program were the main drivers of price volatility, since the two countries account for 8% of the daily global oil production. Other factors also favored price volatility, as the severe winter in the Northern Hemisphere, and the market reactions to reports on inventories levels, mainly in the U.S.
 
@@ -102,7 +110,9 @@ e) The projection for the six-month spread over the Selic rate, using a Vector A
 
 47. In the U.S., new economic data will influence the Fed’s decisions in the coming months, despite mounting expectations of an end to the monetary tightening cycle. Activity in Europe remains weak, with improved prospects for 2006, despite the December increase in the main refinancing rate by the European Central Bank. In Japan, industrial production and exports growth confirm a more consistent economic recovery.
 
-48. In the financial markets, abundant global liquidity and low risk-aversion translated into record private capital inflows to emerging markets in 2005, with some likely reduction in 2006, according to preliminary estimates. In January this year, stock markets presented some volatility due to the release of big companies' financial results and, in Japan, fraud investigations on an internet services provider and gridlocks in the Tokyo stock exchange trading system. Foreign trade and international reserves
+48. In the financial markets, abundant global liquidity and low risk-aversion translated into record private capital inflows to emerging markets in 2005, with some likely reduction in 2006, according to preliminary estimates. In January this year, stock markets presented some volatility due to the release of big companies' financial results and, in Japan, fraud investigations on an internet services provider and gridlocks in the Tokyo stock exchange trading system.
+
+Foreign trade and international reserves
 
 49. December external trade results confirmed the ongoing expansion, with record highs for both exports and imports. The US$4.3 billion trade surplus is the second highest monthly figure ever registered. Total external trade reached US$17.5 billion, also a record high for December. For the year, exports and imports posted historical records of US$118.3 billion and US$73.5 billion, respectively, for a trade surplus of US$44.8 billion and a total external trade of US$191.8 billion. In the first ten working days of January, the trade balance reached US$1.3 billion, with exports and imports totaling US$4.2 billion and US$2.9 billion, respectively, up 18.3% and 16.2% over the average daily levels of January last year.
 
@@ -110,7 +120,9 @@ e) The projection for the six-month spread over the Selic rate, using a Vector A
 
 51. Imports totaled US$6.6 billion in December, a 20.4% increase in daily average terms compared to the same month of 2004. All import categories grew, with highlights for the 35.4% increase in consumer goods imports. In the year, there were increases of 27.4% in capital goods imports, 24.2% in consumer goods, 16.2% for fuel and 13.1% for raw material and intermediate goods, all measured in daily averages.
 
-52. At the end of December, international reserves totaled US$53.8 billion, a reduction of US$10.5 billion compared to November due to the early repayment of the IMF loan. Money Market and Open Market Operations
+52. At the end of December, international reserves totaled US$53.8 billion, a reduction of US$10.5 billion compared to November due to the early repayment of the IMF loan.
+
+Money Market and Open Market Operations
 
 53. In the period following the December Copom meeting, the yield curve shifted downwards, particularly after the release of the November industrial production survey, and of the December IPCA (in line with market consensus). Between December 14 and January 18, one-, three-, and six-month interest rates fell by 0.43 p.p. and the one-, two-, and three-year interest rates dropped 0.52 p.p., 0.75 p.p. and 0.82 p.p, respectively. Real interest rates measured by the differential between the one-year forward nominal interest rate and smoothed twelve-month ahead inflation expectations decreased to 10.89% on January 18 from 11.50% on December 14.
 
@@ -120,4 +132,6 @@ e) The projection for the six-month spread over the Selic rate, using a Vector A
 
 56. In its open market operations, the BCB continued to conduct three- and five-month fixed rate repo operations, as well as daily liquidity management operations. In addition, the BCB conducted 22 shorter-term repo operations (twelve of which were overnight lendings, and ten of which were overnight borrowings). The excess liquidity sterilized from the banking reserves market via operations with tenors of three and five months averaged R$48.2 billion, R$31.4 billion of which were five-month operations. Shorter-term operations, including daily liquidity management, averaged R$0.1 billion.
 
-57. Aimed at reducing excess liquidity projected for the first and second quarters of 2006, the BCB carried out four auctions of LTNs maturing in April and July 2006 and purchased LTNs maturing in January and April 2006. These operations totaled R$3.3 billion. 9
+57. Aimed at reducing excess liquidity projected for the first and second quarters of 2006, the BCB carried out four auctions of LTNs maturing in April and July 2006 and purchased LTNs maturing in January and April 2006.
+
+These operations totaled R$3.3 billion. 9

@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. Consumer price inflation rose in April, affected by both the acceleration in market price inflation, and by still high regulated price inflation. April wholesale price inflation fell, driven mainly by the drop in agricultural prices, which outweighed the effect of the moderate acceleration of industrial price inflation.
 
 2. In April, the IPCA rose 0.87%, after rising 0.61% in March. The accumulated increase in the twelve months through April reached 8.07%, or 2.68% in the year. Market prices rose 0.76% (0.33% in March), accounting for 0.53 p.p. of the IPCA monthly change. Among market prices, food and beverage prices increased 0.81%, contributing 0.18 p.p. to the monthly result, while increases in medicine prices contributed 0.13 p.p. Regulated prices rose 1.14% (1.29% in March) and accounted for the remaining 0.34 p.p. of the monthly change in the index, driven by adjustments in urban bus fares in three capitals (contributing 0.13 p.p. for the result in the period), and in electricity rates in five capitals (contributing 0.10 p.p. to the monthly change).
@@ -10,23 +14,17 @@
 
 6. IPC-Br core inflation, calculated by the Getúlio Vargas Foundation (FGV) under the symmetric trimmed means method, reached 0.65% in April from 0.49% in March, for a cumulative twelve-month increase of 5.81%.
 
-7. The IPCA diffusion index reached 67.2% in April, compared to 63.9% in March. Assessment of Inflation Trends
+7. The IPCA diffusion index reached 67.2% in April, compared to 63.9% in March.
 
-8. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions:
+Assessment of Inflation Trends
 
-a) The projection for the adjustment of both gasoline and bottled gas prices for 2005 remained unchanged at 0%;
-
-b) Projections for adjustments of fixed telephone rates for 2005 increased to 8.6% from 7.9% at the previous meeting, while projections for adjustments of household electricity were kept at 10.8% for 2005;
-
-c) For all regulated prices, which represented a total weight of 29.6% in the April IPCA, a 7.3% increase is projected for 2005 (0.1 p.p above the prior projection);
-
-d) The projection for regulated price adjustments in 2006, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the change in the IGP-DI, remains at 5.1%;
-
-e) The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Selic and the swap rates on the eve of the Copom meeting, increases from 14 basis points in the second quarter of 2005 to 42 basis points in the last quarter of 2006.
+8. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions: a) The projection for the adjustment of both gasoline and bottled gas prices for 2005 remained unchanged at 0%; b) Projections for adjustments of fixed telephone rates for 2005 increased to 8.6% from 7.9% at the previous meeting, while projections for adjustments of household electricity were kept at 10.8% for 2005; c) For all regulated prices, which represented a total weight of 29.6% in the April IPCA, a 7.3% increase is projected for 2005 (0.1 p.p above the prior projection); d) The projection for regulated price adjustments in 2006, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the change in the IGP-DI, remains at 5.1%; e) The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Selic and the swap rates on the eve of the Copom meeting, increases from 14 basis points in the second quarter of 2005 to 42 basis points in the last quarter of 2006.
 
 9. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of GDP for 2005 and 2006 will be achieved. The related assumptions considered in the previous Copom meeting were maintained.
 
-10. Assuming the maintenance of the Selic rate at 19.5% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.50), the IPCA inflation rate was projected above the 5.1% objective for 2005, but below the 4.5% central target for 2006. Using the consensus Selic rate and exchange rate projections compiled by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation was projected above the 2005 objective and the 2006 central target. 2 Monetary Policy Decision
+10. Assuming the maintenance of the Selic rate at 19.5% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.50), the IPCA inflation rate was projected above the 5.1% objective for 2005, but below the 4.5% central target for 2006. Using the consensus Selic rate and exchange rate projections compiled by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation was projected above the 2005 objective and the 2006 central target. 2
+
+Monetary Policy Decision
 
 11. IPCA inflation rose 0.87% in April, above the relatively high 0.6% average posted in the first quarter of the year. The spike in April was due to the increase in tradable goods prices, and occurred despite the slowdown in perishable food price inflation. Regulated price inflation slowed modestly, but remained at a very high level. The adjustment in urban bus fares in some cities and the increase in medicine prices were among the main drivers of inflationary pressures in the month. Also worth noting, after falling for a few months, there was an increase in the IPCA diffusion index in April.
 
@@ -62,7 +60,9 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 27. Given the short-term risks and their persistence in recent months, the Copom decided that maintaining rates for a significant period of time at the level established at the April meeting would be insufficient to assure inflation convergence to the target path. Considering the reasons stated above, the Copom unanimously decided to increase the Selic rate target to 19.75% p.a., without bias, and closely monitor the inflation outlook until the next 5 meeting, to then define the next steps in the monetary adjustment process begun in September. As highlighted in prior Minutes, the monetary authority must remain ready to adapt the pace and magnitude of the interest rate adjustment process to the prevailing circumstances, in case of an exacerbation of the risk factors monitored by the Committee.
 
-28. At the conclusion of the meeting, it was announced that the Copom would reconvene on June 14 for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 6 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+28. At the conclusion of the meeting, it was announced that the Copom would reconvene on June 14 for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 6 SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 29. According to the IBGE nationwide survey, retail sales data seasonally adjusted by the BCB expanded 1.8% in March, month-on-month. Among the surveyed sectors, only fuel and lubricants sales decreased. Overall retail activity increased 8.6% in comparison to March 2004, driven by the 18% rise in furniture and household appliance sales. Hyper- and supermarket sales rose 10.9% in the same period. Autos, motorcycle and spare parts sales, which are not included in the general index, increased 5% for the same comparison basis. In the first quarter of the year, retail sales as a whole increased 5.9%, as compared to the same period of 2004.
 
@@ -80,13 +80,17 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 36. The 2004-2005 harvest is expected to reach 113.7 million tons, according to the April survey of the Companhia Nacional de Abastecimento (Conab). The forecasted figure is 4.9% below the estimates of March, and corresponds to a 4.6% decline in comparison to 2003-2004 season, due to the prolonged drought which mainly affected soy and corn production in the states of Rio Grande do Sul, Paraná and Mato Grosso do Sul.
 
-37. Leading indicators for the industrial sector signal some moderate growth in April, in the month-on-month seasonally adjusted series, enough to sustain the high output level of the last months. Automotive production has been particularly strong, increasing 14.4% in the year through April. Labor Market 7
+37. Leading indicators for the industrial sector signal some moderate growth in April, in the month-on-month seasonally adjusted series, enough to sustain the high output level of the last months. Automotive production has been particularly strong, increasing 14.4% in the year through April.
+
+Labor Market 7
 
 38. Formal employment rose 0.6% in April (month-on-month, seasonally adjusted), according to the Ministry of Labor and Employment. Compared to the same month of 2004, there was a 6.5% expansion in formal employment, with the net creation of over 1.5 million jobs, driven by significant increases in commerce and manufacturing.
 
 39. According to the IBGE survey in the six main metropolitan regions of the country, the unemployment rate reached 10.8% in March, compared to 10.6% in February and 12.8% in March 2004. The month-on-month deterioration occurred despite the 0.7% increase in the number of employed people, while unemployed individuals grew 2.7%, in line with seasonal patterns. The labor force, estimated at 21.9 million individuals, rose 0.9% in March. The same survey indicated that real average incomes increased 0.5% and 1.7%, in comparison to February and March 2004, respectively.
 
-40. According to the BCB’s seasonal adjustment of the CNI indices, employment and real payrolls in the industrial sector expanded 0.2% and 2% in March, respectively, in comparison to February, and 6.5% and 9.5% compared to March 2004. Credit and Delinquency Rates
+40. According to the BCB’s seasonal adjustment of the CNI indices, employment and real payrolls in the industrial sector expanded 0.2% and 2% in March, respectively, in comparison to February, and 6.5% and 9.5% compared to March 2004.
+
+Credit and Delinquency Rates
 
 41. Non-earmarked credit grew 2.9% in April. Credit operations with individuals increased 3.5%, driven mainly by the expansion of personal credit, reflecting the growth of payroll-deducted loans, mainly those contracted by retirees. Corporate credit with domestic funding rose 3.5%, while the corporate credit with external funding increased 0.2%.
 
@@ -94,7 +98,9 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 43. The default rate on non-earmarked credit operations to individuals reached 12.3% in April, 0.4 p.p. below that of March. The corporate default rate stood at 4% in April, up from 3.8% in March.
 
-44. The retail sales default rate, measured by the ACSP, increased to 7.7% in April from 6.4% in March, mainly reflecting a slower pace of past-due debt renegotiation by credit institutions. The number of new negative registers fell 7.2%, but the drop in the number of cancelled registrations was higher, 9.9%. In the year through April, the average default rate stood at 6.4%, in comparison with 6.2% in the first four months of 2004. The number of returned checks, compared to the total number of checks, reached 6.4% in April, a new peak in the series. External Environment
+44. The retail sales default rate, measured by the ACSP, increased to 7.7% in April from 6.4% in March, mainly reflecting a slower pace of past-due debt renegotiation by credit institutions. The number of new negative registers fell 7.2%, but the drop in the number of cancelled registrations was higher, 9.9%. In the year through April, the average default rate stood at 6.4%, in comparison with 6.2% in the first four months of 2004. The number of returned checks, compared to the total number of checks, reached 6.4% in April, a new peak in the series.
+
+External Environment
 
 45. Initial data on first quarter economic growth in the main global economies were in line with expectations. Chinese GDP grew 9.5% on a quarter-on-quarter basis, while growth in the Euro Zone was 0.5%, supported by higher than expected German growth. GDP contracted for the second consecutive quarter in Italy (-0.4% in the fourth quarter of 2004 and -0.5% in the first quarter of 2005, on a quarterly basis). In the UK, GDP rose 0.6% in the first quarter, in the same comparison basis. In the United States, the first estimate of GDP growth for the first quarter posted an annualized rate of 3.1%.
 
@@ -104,17 +110,19 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 48. The Bank of England held interest rates steady at 4.75% p.a. in May, for the ninth consecutive month. The Fed continued its policy of gradual interest rate increases, bringing the fed funds rate to 3% p.a. in May.
 
-49. In the international financial markets, the main pressure point was the potential problems at hedge funds, which have highly leveraged positions in the recently downgraded, large U.S. automotive companies, with negative (although limited) effects on emerging market debt prices. Foreign Trade and Balance of Payments
+49. In the international financial markets, the main pressure point was the potential problems at hedge funds, which have highly leveraged positions in the recently downgraded, large U.S. automotive companies, with negative (although limited) effects on emerging market debt prices.
+
+Foreign Trade and Balance of Payments
 
 50. New trade balance record highs were reached for the month of April, the first four months of the year, and the twelve-month period ending in April. In the month, the trade balance registered a surplus of US$3.9 billion. For the twelve months, the trade balance and total external trade reached US$37.8 billion and US$170.4 billion, respectively, with growth of 38.1% and 31.7% over the previous period. In the first 10 working days in May, the trade balance reached US$1.4 billion, with export and import growth of 16.8% and 31.4%, respectively, over the average level reached in May 2004.
 
 51. Exports totaled US$9.2 billion in April and posted the largest daily average ever recorded (US$460.1 million), an increase of 39.6% compared to April 2004. All goods categories posted record levels, in line with higher prices for important export products and an increase in export volumes. Strong growth has been registered across export products, including traditionally low-participation items, confirming the export diversification process that is underway. In addition, it is important to highlight the expansion of export destinations, even to markets with a low participation in Brazilian exports.
 
-52. Imports totaled US$5.3 billion, growing 15% in terms of daily averages, compared to daily averages in April
+52. Imports totaled US$5.3 billion, growing 15% in terms of daily averages, compared to daily averages in April 2004. The growth in imports occurred despite the 10.2% contraction in fuel and lubricant imports. In the first four months of the year, all import products categories registered growth. Of note were the 26.2% increase in imports of fuel and lubricants, 25.8% of capital goods, 21.3% of consumer goods, and 18% of primary and intermediate goods, all measured in daily averages compared to the same period last year.
 
-2004. The growth in imports occurred despite the 10.2% contraction in fuel and lubricant imports. In the first four months of the year, all import products categories registered growth. Of note were the 26.2% increase in imports of fuel and lubricants, 25.8% of capital goods, 21.3% of consumer goods, and 18% of primary and intermediate goods, all measured in daily averages compared to the same period last year.
+53. At the end of April, international reserves totaled US$61.6 billion and net adjusted reserves totaled US$39 billion, a reduction of US$368 million and US$509 million, respectively, relative to end-March.
 
-53. At the end of April, international reserves totaled US$61.6 billion and net adjusted reserves totaled US$39 billion, a reduction of US$368 million and US$509 million, respectively, relative to end-March. Money Market and Open Market Operations
+Money Market and Open Market Operations
 
 54. In the period following the April Copom meeting, the yield curve shifted upward for tenors less than six months, in response to the Committee’s monetary policy decision, the increase in inflation expectations, and the release of industrial production and retail sales data. In contrast, rates fell in the long end of the curve, driven mainly by the May U.S. Federal Open Market Committee decision (the communiqué of which indicated a continuation of measured interest rate increases), the reduction in Brazilian country risk, the drop in oil prices, and the increase in foreign investment flows. Between April 20 and May 18, one- and three-month interest rates rose 0.21 p.p. and 0.12 p.p., respectively, while six-month, one-year, two-year, and three-year rates fell 0.05 p.p., 0.35 p.p., 0.58 p.p., and 0.68 p.p., respectively. The real interest rate, measured by the ratio between the one-year nominal interest rate and the twelve-month-ahead inflation expectation, fell to 12.66% from 12.86%.
 

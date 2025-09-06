@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. Consumer price inflation slowed in March, although by less than expected by the estimates of both the Central Bank and market participants. Monthly inflation remains relatively high. Despite the deceleration in the prices of agricultural products, wholesale inflation increased due to the behavior of industrial goods prices.
 
 2. The IPCA increased 1.23% in March, as compared to 1.57% in the previous month, accumulating 5.13% in the first quarter of 2003, and 16.57% in 12 months. The deceleration in the monthly rate of IPCA inflation was due to fewer readjustments in urban transportation fares, to the dissipation of the impact of the seasonal readjustments of school fees, to the slight fall of gasoline prices, and to lower inflation in the price of alcohol-based motor fuel, items that have put pressure on the index in February.
@@ -14,15 +18,19 @@
 
 8. Core IPC-BR inflation calculated under the symmetric trimmed-mean method increased 1.07% in March, as compared to 0.93% in the previous month, slightly above the 1.06% increase in the headline index for the month. In 12 months, core IPC-Br inflation accumulated a 10.6%increase, as compared to 9.94% in February.
 
-9. In April, inflation may continue its recent declining trend, reflecting the dissipation of the effects of the recent increase in the prices of medicines, the reduction of agricultural prices and the recent behavior of the exchange rate, whose influence can be seen mainly in wholesale food prices. However, the drop in inflation will be attenuated by new readjustments of regulated prices, particularly household electricity tariffs, with increases in Belo Horizonte, Fortaleza, Salvador, Recife, and Porto Alegre. Assessment of Inflation Trends
+9. In April, inflation may continue its recent declining trend, reflecting the dissipation of the effects of the recent increase in the prices of medicines, the reduction of agricultural prices and the recent behavior of the exchange rate, whose influence can be seen mainly in wholesale food prices. However, the drop in inflation will be attenuated by new readjustments of regulated prices, particularly household electricity tariffs, with increases in Belo Horizonte, Fortaleza, Salvador, Recife, and Porto Alegre.
 
-10. The identified shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumes the following hypotheses: a. Estimated price adjustments for gasoline and bottled gas for 2003 have fallen since the last Copom meeting to 8.4% from 12.4% and to 1.6% from 4.2%, respectively. These projections incorporate the adjustments of the first months of the year and price reduction from May onward. b. With respect to household electricity tariffs, estimated readjustments have decreased by 3 p.p. to 24.5%. This decrease is the result of the appreciation of the real observed since the last Copom meeting. c. Regulated prices, which had a 28.6% weight in the March IPCA, are forecast to increase 15.3% in
+Assessment of Inflation Trends
 
-2003. The appreciation of the real, lower adjustments for electricity and the decrease in the price of oil by-products were mostly responsible for the fall of 1.5 p.p. from the March projections for regulated prices. 3 d. For 2004, the estimated readjustment for the set of regulated prices is 8.5%, a 0.5 p.p. fall compared to the projections at the last meeting. This result is a consequence of the decrease in the expectation of 2004 IGP-M. e. The projection for the 6-month spread over the Selic rate, following the specification of the VAR model using the Selic and swap rates in levels, is at 60 b.p. in the 3Q03, gradually rising until the end of 2004.
+10. The identified shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumes the following hypotheses: a. Estimated price adjustments for gasoline and bottled gas for 2003 have fallen since the last Copom meeting to 8.4% from 12.4% and to 1.6% from 4.2%, respectively. These projections incorporate the adjustments of the first months of the year and price reduction from May onward. b. With respect to household electricity tariffs, estimated readjustments have decreased by 3 p.p. to 24.5%. This decrease is the result of the appreciation of the real observed since the last Copom meeting. c. Regulated prices, which had a 28.6% weight in the March IPCA, are forecast to increase 15.3% in 2003. The appreciation of the real, lower adjustments for electricity and the decrease in the price of oil by-products were mostly responsible for the fall of 1.5 p.p. from the March projections for regulated prices. 3 d. For 2004, the estimated readjustment for the set of regulated prices is 8.5%, a 0.5 p.p. fall compared to the projections at the last meeting. This result is a consequence of the decrease in the expectation of 2004 IGP-M. e. The projection for the 6-month spread over the Selic rate, following the specification of the VAR model using the Selic and swap rates in levels, is at 60 b.p. in the 3Q03, gradually rising until the end of 2004.
 
-11. Regarding fiscal policy, it is assumed that the public sector will accomplish primary surplus target for this year and the following two years (4.25% of the GDP). The other related assumptions established in the March Copom meeting were maintained.
+11. Regarding fiscal policy, it is assumed that the public sector will accomplish primary surplus target for this year and the following two years (4.25% of the GDP). The other related assumptions established in the
 
-12. Considering the baseline scenario hypotheses, including a steady interest rate at 26.5% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting, inflation is projected above the adjusted target of 8.5% for 2003. Monetary Policy Decision
+March Copom meeting were maintained.
+
+12. Considering the baseline scenario hypotheses, including a steady interest rate at 26.5% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting, inflation is projected above the adjusted target of 8.5% for 2003.
+
+Monetary Policy Decision
 
 13. Inflation remains on a downward trend. However, recent inflation results were above Copom projections and the medians of both market expectations and Top 5 (best forecasters) market expectations. The current results indicate a higher degree of inflation persistence, which is key for the disinflation outlook.
 
@@ -42,7 +50,9 @@
 
 21. The Copom also decided to withdraw the upward bias, which allowed the Governor to increase the Selic rate anytime between regular Copom meetings. Although there are doubts about the speed of the decline in inflation and questions regarding the extent to which the increase in inflation inertia is temporary or permanent, they will not be clarified between the monthly meetings, but over the longer term.
 
-22. At the closing of the meeting, it was announced that the Committee would meet again on May 20, for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in the Communiqué 10,187, of October 2, 2002. 5 Summary of Data Analyzed by the Copom Economic Activity
+22. At the closing of the meeting, it was announced that the Committee would meet again on May 20, for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in the Communiqué 10,187, of October 2, 2002. 5 Summary of Data Analyzed by the Copom
+
+Economic Activity
 
 23. Output and retail sales indicators grew in February as compared to January, s.a., and compared to February 2002. These results should be taken with caution, however, since the Carnival holidays occurred in March rather than in February as in 2002.As a result of more working days in February of 2003 (20) as compared to the previous year (18), comparisons of monthly and yearly production and sales data are statistically distorted, and will tend to overestimate the results of February this year and to underestimate the results of March, even after standard seasonal adjustment
 
@@ -56,17 +66,23 @@
 
 28. Investment expanded again in February, mainly due to increased production and imports of capital goods. The domestic production of machinery and equipment and the volume of both imports and exports of capital goods registered increases of 1.1%, 35.4%, and 26.3% in the month, respectively, s.a. The production of inputs for construction, however, decreased 2% month-on-month.
 
-29. The monthly Fecomércio-SP survey showed an improvement in consumer confidence in April, with the Consumer Intentions Index reaching 100.3, as compared to 97.8 in March (on a 0-200 scale). Both components increased: current intentions rose 6.2 points and future intentions rose 0.8 points. This recovery, after two months of decreases, was due to the improvement of expectations about unemployment, inflation and the political scenario, despite increasing concerns about the external front. Labor Market
+29. The monthly Fecomércio-SP survey showed an improvement in consumer confidence in April, with the Consumer Intentions Index reaching 100.3, as compared to 97.8 in March (on a 0-200 scale). Both components increased: current intentions rose 6.2 points and future intentions rose 0.8 points. This recovery, after two months of decreases, was due to the improvement of expectations about unemployment, inflation and the political scenario, despite increasing concerns about the external front.
+
+Labor Market
 
 30. Legally registered employment increased 0.2% month-on-month in February, s.a., and 3.5% compared to February 2002, according to the Ministry of Labor and Employment. According to the new methodology for the IBGE’s employment survey, the unemployment rate in the six main metropolitan areas reached 11.6% in February, compared to 11.2% in January. 6
 
-31. According to the survey, workers’ real average income in January 2003 was 8.3% below the January 2002 level, using the INPC as a deflator. According to the CNI, in the industrial sector the real payroll in February this year was 7.2% lower than in February 2002. Credit and Delinquency Rates
+31. According to the survey, workers’ real average income in January 2003 was 8.3% below the January 2002 level, using the INPC as a deflator. According to the CNI, in the industrial sector the real payroll in February this year was 7.2% lower than in February 2002.
+
+Credit and Delinquency Rates
 
 32. Total non-earmarked bank credit was nearly stable in March relative to February (+0.3%), as a result of the deceleration of economic activity and higher interest rates. Domestically funded credit to companies increased 1.5%, while externally funded credit to companies decreased 2.1%, mainly as a result of the 5.9% exchange rate appreciation in the month. Credit to individuals increased 0.7% month-on-month, reflecting the concentration of taxes and school fee expenses in the beginning of the year. Moreover, the fall in real income is contributing to an increase in household indebtedness, particularly with short term credit.
 
 33. The delinquency rate on non-earmarked bank credits increased 0.6 p.p. in March to 8.7%. For individuals the rate increased 0.8 p.p. to 15.7%, while for companies it increased 0.3 p.p. to 4.5%. The average interest rate on bank loans increased 1.3 p.p. to 57.8% p.a., the highest rate since June 2000.
 
-34. Regarding defaults on retail credit, ACSP statistics reveal that the number of new delinquency registrations and the amount of cancelled registrations increased 18.8% and 10.5% respectively in March, compared to February, raising the net delinquency rate to 7.2% from 6.8% in February. The volume of returned checks reached 5.9% of total settled checks in March, the highest in the last 10 years. External Environment
+34. Regarding defaults on retail credit, ACSP statistics reveal that the number of new delinquency registrations and the amount of cancelled registrations increased 18.8% and 10.5% respectively in March, compared to February, raising the net delinquency rate to 7.2% from 6.8% in February. The volume of returned checks reached 5.9% of total settled checks in March, the highest in the last 10 years.
+
+External Environment
 
 35. After the beginning of the war in Iraq, uncertainties on the external front subdued with indications that the war would be short and that there would be no significant damage to Iraqi oil fields. However, after some initial improvement in the international financial scenario, uncertainties about the future performance of the global economy resumed.
 
@@ -76,11 +92,15 @@
 
 38. The stabilization in oil prices may revert inflationary pressures recently observed in the OECD economies, although it is premature to infer a trend for petroleum prices, given the recent announcement of cuts in output from OPEC members, and uncertainties about the rhythm of exports from Iraq.
 
-39. Finally, the spread of SARS is a new concern for the world economy, and growth in China and the countries of Southeast Asia may be significantly damaged, after they experienced the highest global GDP growth rates in 2002. Foreign Sector
+39. Finally, the spread of SARS is a new concern for the world economy, and growth in China and the countries of Southeast Asia may be significantly damaged, after they experienced the highest global GDP growth rates in 2002.
+
+Foreign Sector
 
 40. The trade surplus was US$1.5 billion in March, accumulating a US$3.8 billion surplus in the first quarter of 2003, and US$15.9 billion in 12 months. Considering daily averages, exports increased 29.4% in March and 24.5% in 1Q03, compared to 2002. Imports increased 8% and 2.2% year-on-year, respectively, in the same periods. Up to the 3rd week of April (13 working days), the trade surplus totaled US$1.1 billion, with a 29.7% increase in exports and a 1% increase in imports compared to the daily averages in April 2002. 7
 
-41. The expansion of exports in the first quarter occurred for all categories of products and the main consumer markets, mainly due to higher volumes and a slight increase in prices of important exported products. The increase in the value of imports was mainly due to the rise in oil prices. Money Market and Open Market Operations
+41. The expansion of exports in the first quarter occurred for all categories of products and the main consumer markets, mainly due to higher volumes and a slight increase in prices of important exported products. The increase in the value of imports was mainly due to the rise in oil prices.
+
+Money Market and Open Market Operations
 
 42.  After the last Copom meeting, the yield curve shifted upwards, and the spreads of the 1-month and 6- month interest rates increased to 25 b.p. from 5 b.p. and to 69 b.p. from 22 b.p. respectively. Subsequently, with the reduction of country risk, new external funding, the appreciation of the exchange rate and the quick end of the war in Iraq, the yield curve shifted downwards and inverted through January 2004. On April 22nd, the spreads of the 1-month and 6-month rates were –40 b.p. and –168 b.p. respectively.
 
@@ -90,4 +110,4 @@
 
 45. The settlement of securities between March 20th and April 23rd produced an expansionary impact of R$5.8 billion on the monetary base as a result of net redemptions of R$8.8 billion of FX-indexed securities and R$6.3 billion in LTNs, partially offset by net placements of R$9.4 billion of LFTs.
 
-46. In the same period, the BCB intervened in the money market with 1-week and 1-month repo operations, and conducted daily liquidity management operations with maturities of 2 working days. These operations withdrew excess liquidity of R$69.3 billion on average. 8 Acronyms ACSP São Paulo Trade Association b.p. basis points BoP Balance of Payments CNI National Confederation of Industry Embi+ Emerging Markets Bond Index Plus Fecomércio-SP São Paulo State’s Federation of Commerce GDP Gross Domestic Product IBGE Brazilian Institute of Geography and Statistics IGP–DI General Price Index – Domestic Supply IGP–M General Price Index – Market INCC National Index of Civil Construction IPA Wholesale Price Index IPC–BR Consumer Price Index – Brazil (Getúlio Vargas Foundation) IPCA Broad Consumer Price Index LFT National Treasury Letters (floating) LTN National Treasury Letters (fixed rate) OECD Organization for Economic Co-operation and Development OPEC Organization of the Petroleum Exporting Countries p.a. per annum p.p. percentage point s.a. seasonally adjusted SARS Severe Acute Respiratory Syndrome VAR Vector AutoRegressive
+46. In the same period, the BCB intervened in the money market with 1-week and 1-month repo operations, and conducted daily liquidity management operations with maturities of 2 working days. These operations withdrew excess liquidity of R$69.3 billion on average. 8 

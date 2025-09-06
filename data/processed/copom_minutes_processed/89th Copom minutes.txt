@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. The main price indices showed higher rates of inflation in September, reflecting pressures on food prices, mainly caused by the effects of the inter-harvest period, and readjustments in regulated prices.
 
 2. The IPCA rose by 0.78% in September, after an increase of 0.34% in the previous month, accumulating increases of 8.05% and 15.14% in 2003 and in 12 months, respectively. The IGP-DI rose by 1.05% in September, after an increase of 0.62% in August, driven by an increase of 1.29% in the IPA-DI and 0.76% in the IPC-Br.
@@ -12,13 +16,17 @@
 
 7. Core IPC-Br inflation calculated under the symmetric trimmed-mean method by Fundação Getúlio Vargas (FGV) rose to 0.67% in September, accumulating an increase of 12.43% in the twelve months ending in September.
 
-8. In October, both consumer and wholesale price indices should register lower increases. In the wholesale index, a decrease in agricultural prices is expected, which has already been detected in the partial IGP-M results released by FGV. In the consumer index, the price deceleration will result mainly from lower readjustments of regulated items. Concerning free prices, pressures on food prices and clothing prices will likely persist, the former as a consequence of the inter-harvest period, and the latter due to seasonal factors. Assessment of Inflation Trends
+8. In October, both consumer and wholesale price indices should register lower increases. In the wholesale index, a decrease in agricultural prices is expected, which has already been detected in the partial IGP-M results released by FGV. In the consumer index, the price deceleration will result mainly from lower readjustments of regulated items. Concerning free prices, pressures on food prices and clothing prices will likely persist, the former as a consequence of the inter-harvest period, and the latter due to seasonal factors.
+
+Assessment of Inflation Trends
 
 9. The identified shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumes the following hypotheses: a. The projection for the readjustment of gasoline prices in the remainder of 2003 was revised. The new projection for this year’s readjustment stands at 1.3%, 0.9 p.p. lower than the projection in the September Copom meeting. The projections for bottled cooking gas for the full year decreased to 5.3% from 5.4%; b. The projection for the readjustment of electricity tariffs increased slightly to 21.2%, from 20.8% in the September meeting. On the other hand, the projection for the readjustment of telephone tariffs in 2003 was reduced by 0.2 p.p., going back to the 25.5% that had been projected in the July and August meetings; c. The projection for regulated price inflation in 2003 (which had a 28.75% weight in the September IPCA), decreased by 0.1 p.p., to 13.9%, as a consequence of a fall in the projected readjustment for gasoline and fuel alcohol; d. For regulated prices in 2004, the Copom started to work with specific projections for each item, substituting for the endogenous determination model used in the previous meetings. 3 The new procedure is justified because, as 2004 approaches, it becomes possible to obtain more precise information about the readjustment of specific items for next year, notably for those items whose price readjustments are decided at the sub-national levels. Under this new methodology, the projection for regulated price inflation in 2004 rose by 0.6 p.p., reaching 8.9% in October; e. The projection for the 6-month spread over the Selic rate, following the specification of the VAR model using the Selic and the swap rates on the eve of the Copom meeting, was - 190 b.p. for the fourth quarter of 2003, gradually rising to 85 b.p. at the end of 2004.
 
 10. Regarding fiscal policy, it is assumed that the primary surplus target of 4.25% of the GDP for this year and the following two years will be accomplished. The other related assumptions established in the September meeting were maintained.
 
-11. Considering the baseline scenario hypotheses, including the maintenance of the Selic interest rate at 20.0% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$2.85), inflation is projected above the adjusted target of 8.5% for 2003 and below the target of 5.5% for 2004. Monetary Policy Decision
+11. Considering the baseline scenario hypotheses, including the maintenance of the Selic interest rate at 20.0% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$2.85), inflation is projected above the adjusted target of 8.5% for 2003 and below the target of 5.5% for 2004.
+
+Monetary Policy Decision
 
 12. September inflation measured by the IPCA was 0.78%, 0.44 p.p. above August inflation. The higher inflation in September was observed in all components of the IPCA: non-tradable goods, tradable goods and regulated prices, especially in the latter two categories. Inflation measured by other consumer price indices like the IPC-Fipe, the IPC-Br and the INPC also registered increases from August to September, as did inflation measured by the IGPs and IPAs. Regarding the IPAs, it is important to highlight the increase in inflation in the agricultural IPA to 3.6% in September, from 1.8% in August, mainly due to a stronger impact of the inter-harvest period and increases in the prices of some internationally traded commodities.
 
@@ -46,7 +54,9 @@
 
 24. Since forecasts for 12 month ahead and 2004 inflation remain below the target, market expectations continue to converge to the trajectory of the targets, and the favorable external scenario contributes to price stability, the Copom decided to fix the Selic rate target at 19.0% p.a., continuing the process of monetary policy easing.
 
-25. At the close of the meeting, it was announced that the Copom would meet again on November 18 for technical presentations, and on the following day in order to discuss the monetary policy decision. SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+25. At the close of the meeting, it was announced that the Copom would meet again on November 18 for technical presentations, and on the following day in order to discuss the monetary policy decision. SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 26. Retail sales have been posting better performance in recent months, even though they are still down compared to the previous year. Fecomercio-SP data, s.a., show a 1.3% increase in sales in July to September, compared to the previous quarter. In September, considering preliminary data, real sales were relatively stable, after the sharp 4.8% increase observed in August.
 
@@ -66,17 +76,23 @@
 
 34. Also according to the CNI, the indicator of final stocks decreased to 51.4 in the third quarter, compared to 54.2 in the second quarter. For raw materials, stocks increased to 48.2 from 47.4 between the second and third quarters. Values above 50 points indicate that stocks are higher than planned. In the retail sector, the Fecomercio-SP survey carried out at the end of September showed that only 10% of the surveyed companies had higher than planned levels of inventory.
 
-35. In September output, domestic and external auto sales increased 8.9%, 11.3% and 21.1% month- on-month (s.a.), respectively. In the year up to September, production increased 2.3%, compared to the same period of 2002, driven mainly by a 37.2% increase in external sales, while domestic sales fell 7.3%. Labor Market
+35. In September output, domestic and external auto sales increased 8.9%, 11.3% and 21.1% month- on-month (s.a.), respectively. In the year up to September, production increased 2.3%, compared to the same period of 2002, driven mainly by a 37.2% increase in external sales, while domestic sales fell 7.3%.
+
+Labor Market
 
 36. The employment index increased 0.5% month-on-month in September (s.a.), and 3% year-on-year up to September, compared to the same period of 2002, according to Ministry of Labor and Employment data. According to the IBGE’s employment survey, the unemployment rate in the six 7 main metropolitan areas reached 12.9% in September, compared to 13% in August, mainly as the result of a 1.2% increase in the number of employed people. In September, the economically active population increased 0.5%. Although the unemployment rate increased compared to September 2002 when it stood at 11.5%, there has been an increase of 4.3% in the number of employed people in the period. Comparisons with periods before 2002 are not possible due to methodological changes.
 
-37. Also according to the IBGE´s survey, average real wages of employed workers in August 2003 fell 1.6% compared to the previous month and fell 14.2% compared to the same month in 2002. In the industrial sector, according to the CNI, real wages increased for the fourth consecutively month in August, but were still 3.9% lower than the same month in 2002. In 2003 up to August, real wages in manufacturing declined 6.1% in comparison to the same period of 2002. Credit and Delinquency Rates
+37. Also according to the IBGE´s survey, average real wages of employed workers in August 2003 fell 1.6% compared to the previous month and fell 14.2% compared to the same month in 2002. In the industrial sector, according to the CNI, real wages increased for the fourth consecutively month in August, but were still 3.9% lower than the same month in 2002. In 2003 up to August, real wages in manufacturing declined 6.1% in comparison to the same period of 2002.
+
+Credit and Delinquency Rates
 
 38. Total credit increased 1.2% in September, reflecting a 1% increase in freely allocated credit, and 1.9% in earmarked credit. In the total freely allocated credit, there was a 1.7% increase in the total amount of credit to individuals, driven mainly by increases in auto financing credit, which resulted from the decline in interest rates. Lending to companies increased 0.6%, with an increase of 2.2% in local currency loans and a decrease of 2.1% in the amount of FX denominated loans. With respect to earmarked credits, there was in increase of 4.8% in rural lending.
 
 39. The average interest rate on non-earmarked credit fell again in September (2.92 p.p.), to 49.8% p.a., as a result of the reduction of the Selic target rate and of reserve requirements. The decline was more significant on lending to individuals, which fell by 3.8 p.p. to 70.7%, especially for overdraft accounts and personal credit. For corporate loans, the average rate was 34% p.a., falling 2.3 p.p. compared to the previous month. The delinquency rate on non-earmarked bank credit remained at 8.5%, with a decrease of 0.4 p.p. in the delinquency rate for individuals.
 
-40. Regarding default rates on retail credit, there was a new improvement in September, driven by a 0.7% decrease in new default registrations. The number of cancelled default registrations increased 0.1% in the month accumulating a rise of 8.1% in the year up to September, signaling debtors’ and creditors’ intentions to renegotiate. ACSP data showed that the delinquency rate remained at 4% in September and registered an average rate of 5.6% in the year to September, compared to the 6.4% average rate registered last year. Foreign Sector
+40. Regarding default rates on retail credit, there was a new improvement in September, driven by a 0.7% decrease in new default registrations. The number of cancelled default registrations increased 0.1% in the month accumulating a rise of 8.1% in the year up to September, signaling debtors’ and creditors’ intentions to renegotiate. ACSP data showed that the delinquency rate remained at 4% in September and registered an average rate of 5.6% in the year to September, compared to the 6.4% average rate registered last year.
+
+Foreign Sector
 
 41. The trade balance showed a surplus of US$2.7 billion in September, totaling US$17.8 billion in 2003 up to September and US$23.1 billion in twelve months, establishing new records. Considering the daily average figures, exports increased 7% in September and 22% in the year to September, compared to the same period of 2002. Imports increased 10% in September, and posted a decrease of 1.4% in year to September, also in the comparison to the daily averages registered in the same periods of last year. In the first three weeks of October (13 working days), the trade surplus totaled US$ 1.6 billion, with a 20.9% increase in exports and a 15.9% increase in imports, compared to the daily averages registered in October of 2002.
 
@@ -84,7 +100,9 @@
 
 43. With respect to imports, the 10% increase in the daily average registered in September in comparison to the same month of 2002 resulted from increases in imports in all categories, highlighting the increase of 16.8% of raw materials and intermediary goods. Up to September, daily average imports declined by 1.4%, driven mainly by an 18.9% decline in the average imports of capital goods.
 
-44. The current account posted a US$1.3 billion surplus in September, compared to US$1.2 billion in September 2002. The deficit in the services and income accounts reached US$1.6 billion and unilateral transfers presented a US$225 million surplus. The year-to-date current account result reached US$3.9 billion. The financial account registered a net inflow of FDI of US$739 million in September, accumulating US$6.5 billion in 2003. At the end of September, international reserves stood at US$ 52.7 billion and adjusted net reserves stood at US$16.2 billion. Money Market and Open Market Operations
+44. The current account posted a US$1.3 billion surplus in September, compared to US$1.2 billion in September 2002. The deficit in the services and income accounts reached US$1.6 billion and unilateral transfers presented a US$225 million surplus. The year-to-date current account result reached US$3.9 billion. The financial account registered a net inflow of FDI of US$739 million in September, accumulating US$6.5 billion in 2003. At the end of September, international reserves stood at US$ 52.7 billion and adjusted net reserves stood at US$16.2 billion.
+
+Money Market and Open Market Operations
 
 45. In the period between the September and October Copom meetings, the yield curve continued to shift downward. The main factors underlying this behavior were the release of some lower-than- expected inflation indices, the forecasts presented in the September Inflation Report, and the decrease of country-risk. Between September 17 and October 21, the one month and one year interest rates decreased 0.98 p.p. and 0.92 p.p., respectively.
 
@@ -96,4 +114,4 @@
 
 49. The BCB intervened in the open market on a weekly basis with 2-week repo operations and conducted daily liquidity management operations. These operations drained from the banking reserves market excess liquidity of R$56.7 billion on average.
 
-50. In September, the net securitized public debt increased 1.7%. The fixed rate share increased to 9.0% from 7.4% in August, maintaining the upward trend that has occurred in 2003. The share linked to the dollar decreased from 28.1% to 26.5%, the lowest of the year. 9 Acronyms ACSP São Paulo Trade Association BCB Banco Central do Brasil BNDES National Bank of Economic and Social Development b.p. basis points CNI National Confederation of Industry Embi+ Emerging Market Bond Index Plus Fecomércio-SP São Paulo State’s Federation of Commerce IBGE Brazilian Institute of Geography and Statistics IGP–DI General Price Index – Domestic Supply IIC Consumer Intentions Index IPA-DI Wholesale Price Index IPCA Broad Consumer Price Index - Brazil IPC–BR Consumer Price Index – Brazil LFT National Treasury Bills (floating) LTN National Treasury Bills (fixed rate) NTN-B National Treasury Notes – Series B p.a. per annum p.p. percentage point s.a. seasonally adjusted VAR Vector AutoRegressive
+50. In September, the net securitized public debt increased 1.7%. The fixed rate share increased to 9.0% from 7.4% in August, maintaining the upward trend that has occurred in 2003. The share linked to the dollar decreased from 28.1% to 26.5%, the lowest of the year. 9 

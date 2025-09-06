@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. Consumer price inflation decelerated in January, but remained at a relatively high level, given the target set by the National Monetary Council. Reduced pressures from regulated prices were an important driver of the deceleration, while market prices remained virtually unchanged versus the previous month – except those inflation indices that capture seasonal adjustments in education prices in January. Regarding wholesale prices, the deceleration in industrial price increases was accompanied by a decline in agricultural prices.
 
 2. The Broad National Consumer Price Index (IPCA) increased 0.58% in January, compared to 0.86% in December, bringing the twelve-month cumulative change to 7.41% in January, versus 7.60% in the previous month. The deceleration in regulated prices was notable in the period – a 0.51% increase (contributing 0.15 p.p. in the index) compared to 1.43% in December. The result in January was mainly due to the conclusion of fuel price readjustments, which had been important at the end of 2004. 1
@@ -14,23 +18,17 @@
 
 8. In December, the IPCA diffusion index increased to 73.6%, compared to 68% in December and November, despite lower inflation in the period. The persistence of high core inflation and the behavior of the diffusion index indicate the dissemination of price increases across the economy.
 
-9. The IPCA tends to come under pressure in February, due to the seasonal impact of education costs and the projected readjustments for regulated prices. Perishable food prices should continue on the upward trend begun in January, due to unfavorable weather conditions during the harvest. In wholesale prices, besides the influence of perishable food prices, prices of iron, steel and byproducts should continue to exert pressure. On the other hand, the declines in the prices of animal products tend to continue. Moreover, the exchange rate appreciation should favorably influence domestic prices, mainly commodities such as soy, corn and wheat. Assessment of Inflation Trends
+9. The IPCA tends to come under pressure in February, due to the seasonal impact of education costs and the projected readjustments for regulated prices. Perishable food prices should continue on the upward trend begun in January, due to unfavorable weather conditions during the harvest. In wholesale prices, besides the influence of perishable food prices, prices of iron, steel and byproducts should continue to exert pressure. On the other hand, the declines in the prices of animal products tend to continue. Moreover, the exchange rate appreciation should favorably influence domestic prices, mainly commodities such as soy, corn and wheat.
 
-10. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumed the following hypotheses:
+Assessment of Inflation Trends
 
-a) The projection for the readjustment of both gasoline and bottled gas prices for 2005 remained unchanged at 0%; 2
-
-b) Projections for readjustments of fixed telephone rates for 2005 increased to 8.7% from 7.7%, while projections for the readjustment of household electricity remained unchanged at 9.5% for 2005;
-
-c) An increase of 6.7% in all regulated prices, which represented a total weight of 29.6% in the January IPCA, is projected for 2005, as in the previous meeting;
-
-d) The projection for the readjustment of all regulated prices for 2006, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the IGP-DI change, stands at 5.1%;
-
-e) The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Selic and the swap rates on the eve of the Copom meeting, declines from 70 basis points in the first quarter of 2005 to 49 basis points in the last quarter of 2006.
+10. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumed the following hypotheses: a) The projection for the readjustment of both gasoline and bottled gas prices for 2005 remained unchanged at 0%; 2 b) Projections for readjustments of fixed telephone rates for 2005 increased to 8.7% from 7.7%, while projections for the readjustment of household electricity remained unchanged at 9.5% for 2005; c) An increase of 6.7% in all regulated prices, which represented a total weight of 29.6% in the January IPCA, is projected for 2005, as in the previous meeting; d) The projection for the readjustment of all regulated prices for 2006, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the IGP-DI change, stands at 5.1%; e) The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Selic and the swap rates on the eve of the Copom meeting, declines from 70 basis points in the first quarter of 2005 to 49 basis points in the last quarter of 2006.
 
 11. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of GDP for 2005 and 2006 will be achieved. The related assumptions considered in the January Copom meeting were maintained.
 
-12. Assuming the maintenance of the Selic rate at 18.25% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.60), the IPCA inflation rate was projected above the 5.1% objective for 2005, but below the central target for 2006. Using the consensus Selic rate and exchange rate compiled by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation was also projected above the 2005 objective and the 4.5% target for 2006. Monetary Policy Decision
+12. Assuming the maintenance of the Selic rate at 18.25% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.60), the IPCA inflation rate was projected above the 5.1% objective for 2005, but below the central target for 2006. Using the consensus Selic rate and exchange rate compiled by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation was also projected above the 2005 objective and the 4.5% target for 2006.
+
+Monetary Policy Decision
 
 13. The IPCA rose 0.58% in January, breaking the acceleration trend observed since last October. The deceleration in IPCA headline inflation was mainly due to the deceleration in clothing and transportation price inflation, with the latter influenced by the absence of fuel price increases (a key driver of transportation price rises during the fourth quarter of 2004). The category of food, beverage, and housing continued to post high monthly inflation rates. Relative to December, regulated price inflation decelerated, while market prices continued to increase at a pace similar to previous months. The IPCA deceleration in January was also due to a break in the trend of high monthly increases in tradable goods prices, in contrast to non-tradable goods, which continued to increase for the fourth consecutive month. Despite the deceleration in the monthly IPCA inflation, the dissemination of price increases in recent months across the consumer basket continues to expand.
 
@@ -72,13 +70,17 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 32. Clearly, in the case of a reversal in the evolution of the projected inflation outlook or of an exacerbation of the other risk factors followed closely by the Copom, the monetary authority will be prepared to adjust the pace and magnitude of the interest rate adjustment process to the circumstances.
 
-33. At the conclusion of the meeting, it was announced that the Copom will reconvene on March 15 for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 6 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+33. At the conclusion of the meeting, it was announced that the Copom will reconvene on March 15 for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 6 SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 34. Regional retail trade association data showed that the expansion in retail sales activity continued in December. According to Fecomercio-SP, real sales grew 5.0% on a year-on-year basis in December in São Paulo, driven by household appliances and automobile sales. In Rio de Janeiro, data from Fecomercio-RJ showed a 6.9% month-on-month seasonally adjusted increase in sales in December. The retail sales survey of Fecomercio-MG also showed a real month-on-month seasonally adjusted increase of 1.1% in sales in Belo Horizonte.
 
 35. In January, São Paulo Trade Association (ACSP) data showed a 3.5% increase in the number of database consultations for credit sales and a 1.5% reduction in consultations of the Usecheque system, both on a month-on- month seasonally adjusted basis. Together, these indicators showed a 1.6% month-on-month seasonally adjusted increase, signaling the continuity of retail sales growth in early 2005.
 
-36. The favorable outlook for retail sales is further confirmed by the evolution of consumer expectations at the beginning of the year. The February Fecomercio-SP survey showed a 1.1% month-on-month increase in the Consumer Confidence Index (ICC), above the record level reached in January. The increase in the month was attributable to increases of 0.6% in the Current Economic Conditions Index and 1.4% in the Consumer Expectations Index.
+36. The favorable outlook for retail sales is further confirmed by the evolution of consumer expectations at the beginning of the year. The February Fecomercio-SP survey showed a 1.1% month-on-month increase in the Consumer Confidence Index (ICC), above the record level reached in January. The increase in the month was attributable to increases of 0.6% in the Current Economic Conditions Index and 1.4% in the Consumer
+
+Expectations Index.
 
 37. Investment indicators registered month-on-month expansion in December. Domestic production and capital goods imports increased 1.6% and 9.9% respectively, in seasonally adjusted terms, accumulating growth of 19.7% and 10.2% in 2004. The production of construction inputs grew 1.8% in December, in seasonally adjusted month- on-month terms, accumulating growth of 5.7% in the year.
 
@@ -94,31 +96,43 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 43. Inventory data from the quarterly Manufacturing Industry Performance Survey, conducted by FGV, also demonstrated inventory growth at the beginning of this year, relative to that observed in October. Despite the increase, the data suggest normalization relative to the historical series. Furthermore, according to this survey, the level of installed capacity utilization reached 84.5% in January, a decline of 0.7 p.p. in seasonally adjusted terms versus October.
 
-44. Leading indicators for the industrial sector signal some decline in January, compared to December, in seasonally adjusted terms. Particularly notable are the negative monthly variations in automotive production, the number of road tolls paid by trucks, and shipments of corrugated cardboard. Labor Market
+44. Leading indicators for the industrial sector signal some decline in January, compared to December, in seasonally adjusted terms. Particularly notable are the negative monthly variations in automotive production, the number of road tolls paid by trucks, and shipments of corrugated cardboard.
+
+Labor Market
 
 45. According to the IBGE survey in the six main metropolitan regions of the country, the unemployment rate reached 9.6% in December, versus 10.6% in November and 10.9% in December 2003. The decline in unemployment stemmed from the 0.1% monthly increase in the number of employed individuals and the 1.1% decline in the labor force, estimated at 21.6 million individuals.
 
-46. In the industrial sector, according to the CNI indices seasonally adjusted by the Central Bank, employment and real payrolls increased 0.2% and 0.6%, respectively, in December on a month-on-month basis. In 2004, real payroll grew 9.0% and employed workers grew 3.5%. Credit and Delinquency Rates
+46. In the industrial sector, according to the CNI indices seasonally adjusted by the Central Bank, employment and real payrolls increased 0.2% and 0.6%, respectively, in December on a month-on-month basis. In 2004, real payroll grew 9.0% and employed workers grew 3.5%.
 
-47. Non-earmarked credit operations expanded 2.3% in January. Credit operations with individuals increased 3.3%, driven mainly by the expansion in overdrafts, credit cards and personal credits – all instruments typically used to pay expenses at the beginning of the year. Corporate credit with domestic funding expanded by 1.2% in the month, as a result of low seasonal demand and sizeable loan repayments by corporates, mainly in vendor and trade bill discount lines. Corporate credit with external funding increased 2.6%, after consecutive declines since June 2004.
+Credit and Delinquency Rates
+
+47. Non-earmarked credit operations expanded 2.3% in January. Credit operations with individuals increased 3.3%, driven mainly by the expansion in overdrafts, credit cards and personal credits – all instruments typically used to pay expenses at the beginning of the year. Corporate credit with domestic funding expanded by 1.2% in the month, as a result of low seasonal demand and sizeable loan repayments by corporates, mainly in vendor and trade bill discount lines. Corporate credit with external funding increased 2.6%, after consecutive declines since
+
+June 2004.
 
 48. The average interest rate on non-earmarked credit increased from 45.0% p.a. in December to 46.8% p.a. in January. The average corporate rate stood at 32.2% p.a., recording a 1.2 p.p. increase in the period. Regarding credit to individuals, the average rate stood at 63.4% p.a., recording a 1.9 p.p. increase in the period.
 
 49. The default rate on non-earmarked credit (considering payments delinquent for 15 days or more) increased 0.4%, reaching 7.3% in January. This seasonal growth was a result of the 0.5% increase in individuals credit arrears, which stood at 12.4%, as well as the 0.2% increase in corporate credit arrears, which reached 3.6%.
 
-50. The default rate in retail sales measured by the ACSP increased to 4.7% in January, the same level as January 2004 and above the 2004 average of 4.2%. External Environment
+50. The default rate in retail sales measured by the ACSP increased to 4.7% in January, the same level as January 2004 and above the 2004 average of 4.2%.
+
+External Environment
 
 51. In the US, despite the deceleration in the fourth quarter, estimates of real GDP growth exceed 4% for 2004 and are expected above 3.5% for 2005. The favorable outlook is also evident in the containment of inflation and the moderate interest rate increases in the long end of the Treasury yield curve. In addition, it has become consensual that the Federal Reserve will maintain its measured pace of interest rate increases during the year.
 
 52. Inflation has remained under control in Europe, despite the recent surge. In the Euro Area, core inflation is slightly below the 2% target and, in the United Kingdom, at the target. In China, annualized consumer price inflation recorded a notable decline to 2.4% in December, from 5.3% in the middle of the year, while GDP growth exceeded expectations, reaching 9.5% in 2004. 8
 
-53. Prices of agricultural commodities continued to decline, driven by an expected increase in the year’s harvest. Regarding oil, although futures prices have moved to levels below the October lows, there are still uncertainties regarding future supply and demand dynamics, which keep prices above US$40 per barrel. Foreign Trade and Balance of Payments
+53. Prices of agricultural commodities continued to decline, driven by an expected increase in the year’s harvest. Regarding oil, although futures prices have moved to levels below the October lows, there are still uncertainties regarding future supply and demand dynamics, which keep prices above US$40 per barrel.
+
+Foreign Trade and Balance of Payments
 
 54. In January, the Brazilian trade balance posted a US$2.2 billion surplus, the highest monthly result ever recorded in the first month of the year. Exports and imports increased 28.3% and 24.8%, respectively, compared to January 2004 daily averages, to reach US$7.4 billion and US$5.3 billion. In the first two weeks of February (seven working days), the trade surplus reached US$1,049 million, with exports and imports growing by 34.0% and 32.4%, respectively, compared to February 2004 daily averages.
 
 55. In the twelve months through January, total external trade, the trade surplus, and exports reached record levels, of US$161.9 billion, US$34.3 billion and US$98.1 billion, respectively. The three categories of export goods reached record twelve-month cumulative levels; of particular note was the US$ 54.3 billion level recorded by manufactured goods exports.
 
-56. International reserves increased US$1.1 billion in January, to a level of US$54.0 billion, while adjusted net reserves stood at US$27.1 billion (IMF concept), recording a US$ 1.8 billion increase compared to the same period of 2004. Money Market and Open Market Operations
+56. International reserves increased US$1.1 billion in January, to a level of US$54.0 billion, while adjusted net reserves stood at US$27.1 billion (IMF concept), recording a US$ 1.8 billion increase compared to the same period of 2004.
+
+Money Market and Open Market Operations
 
 57. After the January Copom meeting, the yield curve shifted upward for maturities up to 2 years and downward for longer maturities. The upward shift was accentuated by the release of the January Copom Minutes, of core inflation rates that were considered high by the market, and by the persistence of 2005 inflation expectations at levels close to 5.7%. On the other hand, the downward shift in the long end of the yield curve was driven by the reduction of the country risk, the BRL appreciation and by inward foreign capital flows. Between January 19 and February 16, the 1-month, 6-month and 1-year interest rates increased by 0.58 p.p., 0.55 p.p., and 0.43 p.p., respectively, while the 2-year and the 3-year rates decreased by 0.04 p.p. and 0.40 p.p., respectively. In the same period, the real interest rate measured by the differential between the one-year nominal interest rate and the 12-month-ahead inflation expectations reached 12.32%.
 

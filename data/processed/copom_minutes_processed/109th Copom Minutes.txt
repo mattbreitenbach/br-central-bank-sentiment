@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. Consumer price inflation cooled in May, mainly due to the deceleration in food and regulated prices. May wholesale price inflation was negative, driven by the drop in both agricultural and industrial prices.
 
 2. In May, the IPCA rose 0.49%, after rising 0.87% in April. The accumulated increases in the year and in the twelve months through May reached 3.18% and 8.05%, respectively. Market prices rose 0.59% (0.76% in April), accounting for 0.42 p.p. of the monthly IPCA change, while regulated prices rose 0.25% (1.14% in April), accounting for the remaining 0.07 p.p. The highest individual contribution came from electricity rate adjustments (0.08 p.p.), followed by medicine prices (0.07 p.p.). Other noticeable price increases were in clothing, due to seasonality, and in bread, pressured by the price of wheat. On the other hand, the largest contractions were fuel alcohol prices (-5.42%) and gasoline (-0.64%), the latter indirectly driven by the reduction in the price of alcohol.
@@ -10,23 +14,17 @@
 
 6. IPC-Br core inflation, calculated by the Getúlio Vargas Foundation (FGV) under the symmetric trimmed means method, reached 0.73% in May from 0.65% in April, for a cumulative twelve-month increase of 5.98%.
 
-7. The IPCA diffusion index fell to 65.8% in May, compared to 67.2% in April. Assessment of Inflation Trends
+7. The IPCA diffusion index fell to 65.8% in May, compared to 67.2% in April.
 
-8. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions:
+Assessment of Inflation Trends
 
-a) The projection for the adjustment of both gasoline and bottled gas prices for 2005 remained unchanged at 0%;
-
-b) Projections for adjustments of fixed telephone rates and household electricity for 2005 were kept at 8.6% and 10.8%, respectively;
-
-c) For all regulated prices, which represented a total weight of 29.7% in the May IPCA, a 7.3% increase is projected for 2005 (the same as the prior month);
-
-d) The projection for regulated price adjustments in 2006, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the change in the IGP-DI, rose to 5.7% from 5.1%. The revision was due to the fact that new 2006 projections were made for those items for which the 2005 adjustment data is available;
-
-e) The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Selic and the swap rates on the eve of the Copom meeting, increases from -2 basis points in the third quarter of 2005 to 40 basis points in the last quarter of 2006.
+8. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations utilized the following assumptions: a) The projection for the adjustment of both gasoline and bottled gas prices for 2005 remained unchanged at 0%; b) Projections for adjustments of fixed telephone rates and household electricity for 2005 were kept at 8.6% and 10.8%, respectively; c) For all regulated prices, which represented a total weight of 29.7% in the May IPCA, a 7.3% increase is projected for 2005 (the same as the prior month); d) The projection for regulated price adjustments in 2006, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the change in the IGP-DI, rose to 5.7% from 5.1%. The revision was due to the fact that new 2006 projections were made for those items for which the 2005 adjustment data is available; e) The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Selic and the swap rates on the eve of the Copom meeting, increases from -2 basis points in the third quarter of 2005 to 40 basis points in the last quarter of 2006.
 
 9. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of GDP for 2005 and 2006 will be achieved. The related assumptions considered in the previous Copom meeting were maintained.
 
-10. Assuming the maintenance of the Selic rate at 19.75% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.47), the IPCA inflation rate was projected above the 5.1% objective for 2005, but below the 4.5% central target for 2006. Using the consensus Selic rate and exchange rate expectations 2 compiled by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation was projected above the 2005 objective and above the 2006 central target. Monetary Policy Decision
+10. Assuming the maintenance of the Selic rate at 19.75% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.47), the IPCA inflation rate was projected above the 5.1% objective for 2005, but below the 4.5% central target for 2006. Using the consensus Selic rate and exchange rate expectations 2 compiled by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation was projected above the 2005 objective and above the 2006 central target.
+
+Monetary Policy Decision
 
 11. After reaching 0.87% in April – the highest level since July 2004 and the third consecutive monthly increase – IPCA inflation fell to 0.49% in May, the sharpest reduction since October 2003. The drop in IPCA inflation owed in large part to slower regulated price inflation (despite pressure from rising electricity rates, regulated prices as a whole registered only a small increase, due to the decline in fuel prices), and occurred despite the acceleration in clothing prices.
 
@@ -62,7 +60,9 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 27. The Copom assessed that maintaining interest rates at the level established in May, for a sufficiently long period of time, would create the conditions necessary to assure inflation convergence to the target path, making it unnecessary to continue the interest rate adjustment cycle. The Copom therefore unanimously decided to maintain 5 the Selic target unchanged at 19.75% p.a., without bias. Clearly, if there is an exacerbation of the risks to the inflation outlook monitored by the Committee, the monetary stance will be quickly adapted to the circumstances.
 
-28. At the conclusion of the meeting, it was announced that the Copom would reconvene on July 19 for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 6 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+28. At the conclusion of the meeting, it was announced that the Copom would reconvene on July 19 for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 6 SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 29. According to the IBGE nationwide survey (seasonally adjusted by the BCB), retail sales fell 0.2% in April, compared to the previous month. Hypermarkets, supermarkets, food, beverages and tobacco sales dropped 0.5%, driving the monthly result. Retail sales rose 3.4% compared to April 2004, driven by the 23.9% increase in furniture and household appliance sales and the 14.8% rise in fabric, clothing and shoe sales. Hyper- and supermarket sales fell 2.1% year-on-year, partially influenced by the timing of Easter (in March this year). Autos, motorcycles and spare parts sales, which are not included in the general index, increased 5.6%. In the first four months of the year, retail sales as a whole increased 5.0%, as compared to the same period of 2004.
 
@@ -78,17 +78,23 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 35. CNI manufacturing data showed 1.0% and 0.6% increases, respectively, for real sales and hours worked in April, on a month-on-month seasonally adjusted basis. Compared to the same month of 2004, real sales increased 2.9% and hours worked, 9.1%. Installed capacity utilization reached 81.9% in April, in the seasonally adjusted series, decreasing 0.9 p.p. compared to the previous month and 0.3 p.p. above the April 2004 result.
 
-36. For May, leading indicators of industrial activity showed opposite trends after seasonal adjustment. While corrugated paper shipments increased, the heavy vehicle tolls index remained stable, and energy consumption fell. Combined, these variables point to industrial production stable in May, in line with the tendency of recent months. Labor Market
+36. For May, leading indicators of industrial activity showed opposite trends after seasonal adjustment. While corrugated paper shipments increased, the heavy vehicle tolls index remained stable, and energy consumption fell. Combined, these variables point to industrial production stable in May, in line with the tendency of recent months.
+
+Labor Market
 
 37. Formal employment rose 0.6% in April (month-on-month, seasonally adjusted), according to the Ministry of Labor and Employment. Compared to the same month of 2004, there was a 6.5% expansion in formal employment, with the net creation of over 1.5 million jobs, driven by significant increases in commerce and manufacturing. 7
 
 38. According to the IBGE survey in the six main metropolitan regions of the country, the unemployment rate reached 10.8% in April, stable in relation to March and 2.3 p.p. lower than the rate observed in April 2004. The month-on-month stability reflected the relative stability in the number of unemployed individuals and in the labor force. The labor force increased by 10 thousand individuals, to an estimated 21.9 million individuals. The number of unemployed workers fell 0.5% in comparison to March, whereas the number of employed workers rose 0.1%, to almost 19.6 million individuals. The same survey indicated that real average earnings fell 1.8%, in comparison to March, and rose 0.8% in comparison to April 2004.
 
-39. According to the BCB’s seasonal adjustment of the CNI indices, employment and real payrolls in the industrial sector expanded 0.5% and fell 0.1%, respectively, in April in comparison to March. In comparison to April 2004, the same indicators expanded 6.6% and 8.7%, respectively. In the year through April, these indicators showed increases of 6.9% and 9.0%, respectively, compared to the same period of 2004. Credit and Delinquency Rates
+39. According to the BCB’s seasonal adjustment of the CNI indices, employment and real payrolls in the industrial sector expanded 0.5% and fell 0.1%, respectively, in April in comparison to March. In comparison to April 2004, the same indicators expanded 6.6% and 8.7%, respectively. In the year through April, these indicators showed increases of 6.9% and 9.0%, respectively, compared to the same period of 2004.
+
+Credit and Delinquency Rates
 
 40. Non-earmarked credit grew 1% in May. Credit operations with individuals rose 3.5%, driven mainly by the expansion of personal credit, reflecting the growth of payroll-deducted loans, especially those contracted by retirees. Corporate credit with domestic funding decreased 0.2%, while corporate credit with external funding fell 3%, largely due to the write-down of the loan book of a specific bank under BCB intervention.
 
-41. The average interest rate on non-earmarked credit rose in May. The average rate on personal credit operations reached 77.2% p.a., due to higher demand (an increase of 2.2 p.p. relative to April), despite the 0.9 p.p. drop in the average interest rate on payroll-deducted loans in the same period. External Environment
+41. The average interest rate on non-earmarked credit rose in May. The average rate on personal credit operations reached 77.2% p.a., due to higher demand (an increase of 2.2 p.p. relative to April), despite the 0.9 p.p. drop in the average interest rate on payroll-deducted loans in the same period.
+
+External Environment
 
 42. The external environment remains favorable and with abundant short-term liquidity. Several indicators suggest that the cooling of U.S. and Chinese economic growth remains incipient, in contrast to the Euro Area, where the growth outlook continues to disappoint (Italy already posted an economic contraction). Japan, whose economic environment is more robust than it was two years ago, still posts modest growth.
 
@@ -96,7 +102,9 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 44. This scenario has been placing downward pressure on interest rates in the main markets and supporting a recovery of the dollar vis-à-vis the main global currencies. In the Euro Area, the rejection of the Constitution by France and the Netherlands increased short-term asset price volatility, including the exchange rate. However, this did not affect market conditions for emerging market countries, which had already suffered the effect of the shock from the credit downgrades of some large U.S. corporations.
 
-45. Commodity prices remain volatile, dropping slightly in May but picking up again in June. Oil prices remained under upward pressure in the period. Concerns about oil inventories in the United States, the tight margin between supply and demand, and geopolitical factors suggest continued oil price volatility and the risk of further upward price movements. Foreign Trade and Balance of Payments
+45. Commodity prices remain volatile, dropping slightly in May but picking up again in June. Oil prices remained under upward pressure in the period. Concerns about oil inventories in the United States, the tight margin between supply and demand, and geopolitical factors suggest continued oil price volatility and the risk of further upward price movements.
+
+Foreign Trade and Balance of Payments
 
 46. New record highs for the trade balance were reached in the month of May and in the twelve-month period ending in May. In the month, the trade balance registered a surplus of US$3.5 billion. For the twelve months, the trade balance and total external trade reached US$38.1 billion and US$173.8 billion, respectively, with growth rates of 36.3% and 31.8% over the previous twelve-month period. In the first 8 working days in June, the trade balance reached US$1.6 billion, with export and import growth of 13.1% and 12.9%, respectively, over the average daily levels reached in the same month of 2004. 8
 
@@ -104,7 +112,9 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 48. Imports totaled US$6.4 billion in the month (new historical record), growing 31.8% in terms of daily averages to US$303.2 million, compared to daily averages in May 2004. All import product categories registered year-on-year growth. In the first five months of the year, there was a 31.2% increase in imports of fuel and lubricants, 27.4% of capital goods, 20.2% of consumer goods, and 20.4% of primary and intermediate goods, all measured in daily averages compared to the same period last year.
 
-49. At the end of May, international reserves totaled US$60.7 billion and net adjusted reserves totaled US$39.2 billion, a reduction of US$882 million and an increase of US$177 million, respectively, relative to end-April. Money Market and Open Market Operations
+49. At the end of May, international reserves totaled US$60.7 billion and net adjusted reserves totaled US$39.2 billion, a reduction of US$882 million and an increase of US$177 million, respectively, relative to end-April.
+
+Money Market and Open Market Operations
 
 50. In the period following the May Copom meeting, the yield curve shifted upward in response to the Committee’s monetary policy decision. Subsequently, up to the beginning of June, the medium- and long-term interest rates fell, as a result of a favorable external outlook as well as domestic factors, such as the drop in current inflation and the signs of economic activity accommodation. From June 6, the worsening of the political outlook drove the increase in interest rate futures, especially for longer tenors. However, this behavior was reverted as a result of the release of lower-than-expected inflation indices. Between May 18 and June 15, one- and three-month interest rates rose 0.14 p.p. and 0.06 p.p., respectively, while six-month, one-year, and two-year rates fell 0.17 p.p., 0.54 p.p., and 0.32 p.p., respectively. The real interest rate, measured by the ratio between the one-year nominal interest rate and the twelve-month-ahead inflation expectation, fell to 12.52% from 12.69%.
 

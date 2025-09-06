@@ -1,8 +1,10 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. In June, inflation continued its downward trend, with wholesale and consumer price indices posting negative changes. The fall of wholesale prices for the second consecutive month reflected the effects of an increase in the supply of cereals and grains due to the new harvest season, and the effect of the recent exchange rate appreciation on agricultural and industrial prices. Regarding consumer prices, the slowdown in inflation was also general, but the negative change observed in June was the result of the sharp decline in fuel and food prices.
 
-2. The IPCA fell 0.15% in June, after an increase of 0.61% in the previous month, accumulating a 6.64% increase in 2003. The IGP-DI fell 0.70% in June, compared to a decrease of 0.67% in May, while the IPA-DI fell 1.16% in June from 1.68% in May. In the twelve months ending in June, the IPCA increased 16.57%, the first reduction in the 12-month accumulated change since August
-
-2002. The 12-month changes of the IGP-DI and IPA-DI decreased for the third consecutive month 2 in June, reaching 26.94% and 33.55%, respectively, compared to 30.05% and 38.50%, observed in May.
+2. The IPCA fell 0.15% in June, after an increase of 0.61% in the previous month, accumulating a 6.64% increase in 2003. The IGP-DI fell 0.70% in June, compared to a decrease of 0.67% in May, while the IPA-DI fell 1.16% in June from 1.68% in May. In the twelve months ending in June, the IPCA increased 16.57%, the first reduction in the 12-month accumulated change since August 2002. The 12-month changes of the IGP-DI and IPA-DI decreased for the third consecutive month 2 in June, reaching 26.94% and 33.55%, respectively, compared to 30.05% and 38.50%, observed in May.
 
 3. Regarding the IPCA, the negative change observed in June was determined by the fall in gasoline, alcohol-based auto fuel and food prices, which together contributed –0.45 p.p. to the overall result. The price of rice increased 6.2% in June, compared to an increase of 14.46% in May, as a result of the continuing effects of decreased production in the South of Brazil. Even with the substantial fall in growth between the two months, the increase in the price of rice registered the highest positive individual contribution to the increase in the IPCA in June  (0.06 p.p.).
 
@@ -22,13 +24,19 @@
 
 11. In July, the effect of the exchange rate depreciation on wholesale prices will decline, with agricultural and industrial prices likely to register less deflation. Agricultural prices may also reflect increasing pressures in meat, milk and dairy products prices due to seasonal effects. Only the prices of the products in the sugarcane derivatives industry may continue to decline. The decrease of 0.42% in agricultural prices registered in the second preview of the July IGP-M, compared to 1.5% in the second preview of June, already reflects these effects.
 
-12. Consumer price indices will be impacted by the increase in regulated prices, particularly the readjustment of electricity tariffs in São Paulo and telephone tariffs around the country. The negative contribution of fuel and food prices will decrease in July. Regarding clothing, the recently seen pressures are expected to reverse due to early winter sales. Assessment of Inflation Trends
+12. Consumer price indices will be impacted by the increase in regulated prices, particularly the readjustment of electricity tariffs in São Paulo and telephone tariffs around the country. The negative contribution of fuel and food prices will decrease in July. Regarding clothing, the recently seen pressures are expected to reverse due to early winter sales.
+
+Assessment of Inflation Trends
 
 13. The identified shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumes the following hypotheses: a. The projections for the readjustment of gasoline prices in the remainder of 2003 decreased by 5.2 p.p. since the last meeting. The new projection for this year’s readjustment is +0.1%. The projections for bottled cooking gas for 2003 remained almost stable, with a 0.1 p.p. reduction between the June and July meetings. These forecasts include price readjustments that have occurred up to the current date; b. The projections for the readjustment of electricity tariffs fell slightly, to 21% from 23%, already including the readjustments that have occurred up to the current date. Regarding telephone tariffs, the new forecast presumes a 25.5% readjustment in 2003; c. Regulated prices, which had a 28.7% weight in the June IPCA, are forecast to rise 13.1% in 2003, a 1.0 p.p. decrease compared to last month’s projection, despite the significant increase in the forecast for the readjustment of telephone tariffs. This drop in the projection continues to be a consequence of the exchange rate appreciation observed in recent months. Gasoline, alcohol-based auto fuel and household electricity tariffs were the major prices responsible for the decrease in the projection for the increase in overall regulated prices in 2003; d. For 2003, it is assumed that the readjustment of regulated prices will follow the endogenous determination model of regulated prices, which considers the change in the exchange rate, free price inflation and the change in the IGP price index, as well as seasonal factors. Under this new methodology, the projection for the readjustment of regulated prices in 2004 is 9.6%; e. The projection for the 6-month spread over the Selic rate, following the specification of the VAR model using the Selic and the swap rate on the eve of the Copom meeting, was –340 b.p. for the third quarter of 2003, gradually rising to 40 b.p. at the end of 2004.
 
-14. Regarding fiscal policy, it is assumed that the primary surplus target of 4.25% of GDP for this year and the following two years will be accomplished. The other related assumptions established in the June meeting were maintained.
+14. Regarding fiscal policy, it is assumed that the primary surplus target of 4.25% of GDP for this year and the following two years will be accomplished. The other related assumptions established in the
 
-15. Considering the baseline scenario hypotheses, including the maintenance of the Selic interest rate at 26.0% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$2.85), inflation is projected above the adjusted target of 8.5% for 2003 and below the target of 5.5% for 2004. 4 Monetary Policy Decision
+June meeting were maintained.
+
+15. Considering the baseline scenario hypotheses, including the maintenance of the Selic interest rate at 26.0% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$2.85), inflation is projected above the adjusted target of 8.5% for 2003 and below the target of 5.5% for 2004. 4
+
+Monetary Policy Decision
 
 16. Monthly inflation has continued the declines observed in recent months. This positive outcome is mainly the result of monetary initiatives that impeded the propagation of the shocks that occurred at the end of 2002, and to consistency in fiscal policy. These factors, together with a more favorable international environment, led to an exchange rate appreciation in the period and to a convergence of inflation expectations to the path of the targets. The significant drop of inflation illustrated by the results of the IPCA in June and the IPCA-15 in July provides evidence of the effectiveness of monetary policy in reducing inflation persistence, and preventing its continuation at high levels. Additionally, these results strengthen the perception that the convergence of inflation to the targets is occurring more rapidly than had been observed up to April.
 
@@ -58,7 +66,9 @@
 
 29. As a result, the Copom decided, unanimously, to fix the target for the Over-Selic rate at 24.5% p.a.
 
-30. At the closing of the meeting, it was announced that the Copom would meet again on August 19, for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in the Communiqué 10,187, of October 2, 2002. 6 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+30. At the closing of the meeting, it was announced that the Copom would meet again on August 19, for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in the Communiqué 10,187, of October 2, 2002. 6 SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 31. According to the IBGE, national retail sales fell 6.1% year-on-year in May, and 5.6% year-on-year in the first five months of 2003. The negative performance was generalized, hitting all retail sectors and 25 out of Brazil’s 27 states. The sector that includes hypermarkets and supermarkets, food products, beverages and tobacco sales exerted the main negative influence on the overall retail result, with year-on-year declines of 6.3% and 6.2% in May and in the five months up to May, respectively.
 
@@ -76,15 +86,17 @@
 
 38. Data on industrial activity released by the CNI also showed a slowdown, with a reduction of 1.29% s.a. in real sales in May. It should be highlighted that this result may in part be influenced by the recent exchange rate appreciation, which reduced the exports revenue measured in domestic currency. Total worked hours increased 0.18% month-on-month (s.a.). In the January-May period, these two indicators registered accumulated year-on-year increases of 1.53% and 0.37%, respectively. In the s.a. series, installed capacity utilization reached 79.6% in May, compared to the recent peak of 81.6% registered in October 2002. The average utilization rate in the first five months of the year was 0.66% lower than in the same period of 2002.
 
-39. Also according to the CNI, business survey data show an increase of stocks in the first half of
+39. Also according to the CNI, business survey data show an increase of stocks in the first half of 2003. Regarding business confidence, CNI showed a worsening of the perception of current economic conditions.
 
-2003. Regarding business confidence, CNI showed a worsening of the perception of current economic conditions.
+40. In the automotive sector, auto output fell 2.5% month-on-month in June (s.a.), while domestic sales increased 4.8% and external sales 5.3%. In the first half of 2003, auto output increased 3% compared to the same period of 2002, driven mainly by a 41.9% expansion in external sales, while domestic sales fell 6.8%.
 
-40. In the automotive sector, auto output fell 2.5% month-on-month in June (s.a.), while domestic sales increased 4.8% and external sales 5.3%. In the first half of 2003, auto output increased 3% compared to the same period of 2002, driven mainly by a 41.9% expansion in external sales, while domestic sales fell 6.8%. Labor Market
+Labor Market
 
 41. The index of legally registered employment increased 0.15% month-on-month in May s.a., and accumulated a 3.2% year-on-year increase in the first five months of the year, according to Ministry of Labor and Employment data. According to the new methodology for the IBGE’s employment survey, the unemployment rate in the six main metropolitan areas reached 12.8% in May, compared to 12.4% in April and 11.9% in May 2002. This growth in the unemployment rate was the result of a 0.9% increase in the economically active population, a 0.4% increase in the employed population, and a 4.2% increase in the unemployed population.
 
-42. Also according to the IBGE’s survey, the average real wage of employed workers in April 2003 was 14% lower than in the same month of 2002. In the industrial sector, according to the CNI, the real wage in May of 2003 was 7.7% below the level in the same month of last year. Credit and Delinquency Rates
+42. Also according to the IBGE’s survey, the average real wage of employed workers in April 2003 was 14% lower than in the same month of 2002. In the industrial sector, according to the CNI, the real wage in May of 2003 was 7.7% below the level in the same month of last year.
+
+Credit and Delinquency Rates
 
 43. The total balance of credit in the financial system grew 0.5% in June, driven by an increase in concessions of earmarked credit, while non-earmarked or freely allocated credit remained stable. Among earmarked credits, seasonal demand for credit to finance the 2003/2004 grain harvest led to a 3.2% increase in agricultural financing.
 
@@ -92,7 +104,9 @@
 
 45. The average interest rate on non-earmarked credit operations fell in June, following the reduction in interest rates in the futures market. The average interest rate fell 1.1 p.p. to 56.7% p.a., driven mainly by the 2.3 p.p. decrease in the average interest rate on lending to individuals. The delinquency rate on non-earmarked bank credits remained at 8.8% in June.
 
-46. Regarding default rates on retail credit, there was another improvement in June, with the number of new delinquency registrations falling by 10.1%. ACSP data showed that the number of cancelled registrations increased 10.9% in the first half of 2003, compared to the level registered in the same period of 2002, signaling the willingness of debtors and creditors to renegotiate past due credits. 8 Thus, the delinquency rate fell to 4.9% in June, and the average delinquency rate in the first half of 2003 fell to 6.2% compared to 7.6% registered in the same period of 2002. External Environment
+46. Regarding default rates on retail credit, there was another improvement in June, with the number of new delinquency registrations falling by 10.1%. ACSP data showed that the number of cancelled registrations increased 10.9% in the first half of 2003, compared to the level registered in the same period of 2002, signaling the willingness of debtors and creditors to renegotiate past due credits. 8 Thus, the delinquency rate fell to 4.9% in June, and the average delinquency rate in the first half of 2003 fell to 6.2% compared to 7.6% registered in the same period of 2002.
+
+External Environment
 
 47. Global economic activity did not present meaningful improvement in the last two months, even though the outlook for the second half of 2003 is more optimistic. Projections for global economic growth in 2003 have been marked down since the beginning of the year.
 
@@ -102,7 +116,9 @@
 
 50. In June, inflation increased in the major economies, although it remains at low levels. In the Euro area, inflation increased to 2% p.a. in June from 1.9% p.a. in May. In the United Kingdom, inflation is slightly above the official inflation target. In the United States, the consumer price index increased 0.2% in June (the core CPI remained stable). According to the Fed, the risk of deflation in the US is very low.
 
-51. Policy interest rates in the major economies continue to decline. After a cut of 50 b.p. at the last meeting of the European Central Bank’s Policy Committee, the Bank of England and the Federal Reserve also decreased their policy rates by 25 b.p., to 3.5% p.a. and 1% p.a., respectively at their June policy board meetings. In Japan, the policy rate has remained roughly zero since 1999. In the international financial markets, North American and Japanese Treasury bonds fell following the Fed’s statement that it is less worried about deflation and that the prospects for the level of activity are better in the second half of the year. The major stock exchanges have been rallying since the end of the war in Iraq, especially the Tokyo stock exchange with improvements in the prospects for the Japanese economy. Foreign Sector
+51. Policy interest rates in the major economies continue to decline. After a cut of 50 b.p. at the last meeting of the European Central Bank’s Policy Committee, the Bank of England and the Federal Reserve also decreased their policy rates by 25 b.p., to 3.5% p.a. and 1% p.a., respectively at their June policy board meetings. In Japan, the policy rate has remained roughly zero since 1999. In the international financial markets, North American and Japanese Treasury bonds fell following the Fed’s statement that it is less worried about deflation and that the prospects for the level of activity are better in the second half of the year. The major stock exchanges have been rallying since the end of the war in Iraq, especially the Tokyo stock exchange with improvements in the prospects for the Japanese economy.
+
+Foreign Sector
 
 52. The trade surplus reached US$2.4 billion in June, accumulating US$10.4 billion in the first half of 2003 and US$20.9 billion in the last 12 months. Exports increased 44% year-on-year in June and 31.7% year-on-year in the first half of 2003. Imports increased 3.4% year-on-year in June and 0.6% year-on-year in the first half of 2003. Up to the 3rd week of July (14 working day), the trade surplus reached US$977 million, with daily averages of exports and imports decreasing 3.1% and 11.8% year-on-year respectively, as a result of a work stoppage at the Federal Tax Revenue Service.
 
@@ -110,7 +126,9 @@
 
 54. Considering daily averages, during the first half of 2003 imports increased 1.6% compared to 2002, mainly due to a 20.7% increase in fuel and oil expenditures and a 7.7% increase in raw material and intermediate goods purchases. Imports of capital goods, durable and non-durable consumer goods decreased 14.7%, 2.1%, 11.2% respectively in the same period.
 
-55. The current account posted a surplus of US$479 million in June, compared to the US$1.3 billion deficit in the same month of 2002. The deficit in the services and income accounts reached US$2.1 billion and unilateral transfers posted a US$194 million surplus. The 12-month current account surplus reached US$1.3 billion, or 0.28% of GDP in June. The financial account of the BoP registered a net inflow of FDI totaling US$186 million and also an inflow of US$1.25 billion from the sovereign bond issued by the Republic. Money Market and Open Market Operations
+55. The current account posted a surplus of US$479 million in June, compared to the US$1.3 billion deficit in the same month of 2002. The deficit in the services and income accounts reached US$2.1 billion and unilateral transfers posted a US$194 million surplus. The 12-month current account surplus reached US$1.3 billion, or 0.28% of GDP in June. The financial account of the BoP registered a net inflow of FDI totaling US$186 million and also an inflow of US$1.25 billion from the sovereign bond issued by the Republic.
+
+Money Market and Open Market Operations
 
 56. The yield curve shifted downwards and became further inverted, particularly at the short end. More favorable inflation readings contributed to this movement. On July 22nd, the spreads of 1-month and 6-month rates were –277 b.p. and –511 b.p. respectively, compared to –90 b.p. and –311 b.p. on June 18th.
 
@@ -122,4 +140,4 @@
 
 60. The Central Bank intervened in the open market on a weekly basis with 2-week repo operations, and conducted daily liquidity management operations with maturities of 2 working days. These operations withdrew from the banking reserves market excess liquidity of R$49.0 billion on average.
 
-61. In June, as a result of the appreciation of the real and lower rollover of swaps, the share of domestic securitized public debt linked to the dollar decreased to 29.1% from 30.7%. 10 Acronyms ACSP São Paulo Trade Association BNDES National Bank of Economic and Social Development b.p. basis points CMN National Monetary Council CNI National Confederation of Industry Fecomércio-SP São Paulo State’s Federation of Commerce ECB European Central Bank Embi+ Emerging market Bond Index Plus FED Federal Reserve System Fipe Institute of Economic Research Foundation GDP Gross Domestic Product Gerin Investor Relations Group IBGE Brazilian Institute of Geography and Statistics IGP–DI General Price Index – Domestic Supply IGP–M General Price Index – Market IIC Consumer Intentions Index INCC National Index of Civil Construction IPA Wholesale Price Index IPA-DI Wholesale Price Index IPCA Broad Consumer Price Index - Brazil IPCA-15 Broad Consumer Price Index 15 - Brazil IPC–BR Consumer Price Index – Brazil IPC-Fipe Consumer Price Index - Fipe LFT National Treasury Bills (floating) LTN National Treasury Bills (fixed rate) p.a. per annum p.p. percentage point PME Monthly Employment Survey s.a. seasonally adjusted Sars Severe Acute Respiratory Syndrome VAR Vector AutoRegressive
+61. In June, as a result of the appreciation of the real and lower rollover of swaps, the share of domestic securitized public debt linked to the dollar decreased to 29.1% from 30.7%. 10 

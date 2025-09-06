@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. Consumer inflation showed a new deceleration in April. The Broad National Consumer Price Index (IPCA) rose 0.37%, compared to 0.47% in March, accumulating 2.23% in the January-April period. The IGP-DI registered a 1.15% change in April (0.93% in March), totaling a 4.02% variation in the first four months of the year. The IGP-DI rise is explained by the behavior of the Wholesale Price Index (IPA-DI), which presented a 1.57% variation in the month (1.09% in March and 4.92% accumulated until April). The accumulated IPCA variation in twelve months reached 5.26% in April, the lowest rate since the second half of 1999, at the same time as the IGP-DI and the IPA-DI stood at 5.71% and 5.14%, respectively.
 
 2. The lower IPCA variation was largely caused by the turnaround in food prices, which registered a 0.34% decline in April, compared to a 0.43% increase in March. This reversal reflected the supply increase due to the harvest period. 1
@@ -14,15 +18,17 @@
 
 8. IPC-Br core inflation, calculated by the Getúlio Vargas Foundation (FGV) using the symmetric trimmed-mean method, stood at 0.53% in April, the same change recorded in March, accruing 7.15% in twelve months.
 
-9. In May, consumer inflation should still be affected by medicine, health insurance and clothes prices, as well as by the adjustment in electricity prices in various state capitals and the recovery of fuel alcohol prices. Moreover, an unexpected turnaround in the downward trend of food prices has been noticed in the first weeks of the month, as shown in the partial IPC-S and IPC-Fipe results. Assessment of Inflation Trends
+9. In May, consumer inflation should still be affected by medicine, health insurance and clothes prices, as well as by the adjustment in electricity prices in various state capitals and the recovery of fuel alcohol prices. Moreover, an unexpected turnaround in the downward trend of food prices has been noticed in the first weeks of the month, as shown in the partial IPC-S and IPC-Fipe results.
+
+Assessment of Inflation Trends
 
 10. The identified shocks and their impacts were reassessed according to new available information. The scenario considered in the simulations assumes the following hypotheses: a. The projections for the evolution of gasoline and bottled cooking gas prices in 2004 were maintained at 9.5% and 6.9%, respectively; b. The projections for household electricity prices increased to 11%. For fixed telephone prices, the Copom maintained the adjustment estimate at 6.7% for the year; c. Regarding all regulated prices, with a total weight of 28.6% in the April IPCA, a 7.7% rise is projected, 0.3 p.p. above the projection made in the previous meeting; 2 d. The projection for the readjustment of all regulated prices for 2005 was maintained at 6.0%. This figure is endogenously determined, taking into account seasonal components, the exchange rate, market prices inflation and the IGP-DI change; e. The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Selic and the swap rates on the eve of the Copom meeting, increases from -38 basis points in the second quarter of 2004 to 59 basis points in the fourth quarter of 2005.
 
 11. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of the GDP for 2004 and the following two years will be achieved. The related assumptions considered in the previous meeting were maintained.
 
-12. Considering the benchmark scenario hypotheses - the Over-Selic rate at 16.0% p.a. and the exchange rate at the level seen on the eve of the Copom meeting (R$3.10), and also considering the hypothesis of a lower degree of inflation persistence, as assumed by the Copom since March, IPCA inflation was projected slightly above the 5.5% target for 2004 and below the 4.5% target for
+12. Considering the benchmark scenario hypotheses - the Over-Selic rate at 16.0% p.a. and the exchange rate at the level seen on the eve of the Copom meeting (R$3.10), and also considering the hypothesis of a lower degree of inflation persistence, as assumed by the Copom since March, IPCA inflation was projected slightly above the 5.5% target for 2004 and below the 4.5% target for 2005. According to the market scenario, which takes into account the consensus exchange rate and Selic rate as surveyed by the BCB´s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation is projected above the central targets for both 2004 and 2005.
 
-2005. According to the market scenario, which takes into account the consensus exchange rate and Selic rate as surveyed by the BCB´s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation is projected above the central targets for both 2004 and 2005. Monetary Policy Decision
+Monetary Policy Decision
 
 13. The inflation measured by the IPCA decreased in April for the third month in a row. As in recent months, market prices inflation has been higher than regulated prices inflation (0,39% compared to 0.32%). Amongst market prices, for the first time since October 2003, tradable goods inflation (0.50%) was higher than non-tradable goods inflation (0.25%). However, for the year to April, non- tradable goods prices increased 3.59% and were the ones that most contributed to the 2.23% IPCA inflation. Prices of tradable goods rose 1.80% in the period, while regulated prices rose 1.35%. In April, other national consumer inflation measures registered inflation similar to the IPCA, such as the Consumer Price Index – Domestic Supply (IPC-DI). However, general price indices have recorded higher rates. The IGP-DI increased 1.15% in April, accumulating a 4.02% increase in the year. Industrial wholesale inflation has continued to increase, though the pass-through to consumer inflation has remained lower than usual.
 
@@ -32,9 +38,7 @@
 
 16. Economic activity has sustained the recovery trend since the second half of 2003, as confirmed by several indicators. Industrial production increased 2.1% in March compared to February, seasonally adjusted. In comparison with the first quarter of 2003, industrial output grew 5.8%, led by capital and durable goods. According to the industrial survey, all regions showed a positive performance, except Rio de Janeiro. Industrial sales remained strong throughout the quarter and inventories diminished, in line with the results of the FGV industrial survey, in which only 7% of the firms recorded excessive inventories in the first quarter of the year, compared to 10% in the previous quarter and 12% in the first quarter of 2003. 3
 
-17. According to IBGE data, seasonally adjusted by the BCB, retail sales have maintained an uninterrupted growth trend since March 2003. In March 2004, retail sales reached the highest level in the last two years, up 1.1% in comparison to February. Sales in the first quarter increased 3.3% compared to the last quarter of 2003, seasonally adjusted. The improvement in activity can also be depicted from the Fecomercio-SP consumer sentiment survey. Consumer confidence improved in May to a level similar to January and February – the highest since the survey began, in March
-
-1999.
+17. According to IBGE data, seasonally adjusted by the BCB, retail sales have maintained an uninterrupted growth trend since March 2003. In March 2004, retail sales reached the highest level in the last two years, up 1.1% in comparison to February. Sales in the first quarter increased 3.3% compared to the last quarter of 2003, seasonally adjusted. The improvement in activity can also be depicted from the Fecomercio-SP consumer sentiment survey. Consumer confidence improved in May to a level similar to January and February – the highest since the survey began, in March 1999.
 
 18. Labor market indicators, which usually react with a lag in recovery cycles, have also improved. According to data from Cadastro Geral de Empregados e Desempregados (Caged) of the Ministry of Labor and Employment, the average formal employment between January and April stood 3.5% above the same period of last year. In the first four months of 2004, 535 thousand jobs were created, the best performance since 1995. For comparison, during last year 645 thousand jobs were created. The National Industry Confederation (CNI) and the Federation of Industries of the State of São Paulo (Fiesp) data for employment and industrial wages in March also grew, compared to February. Similarly, industrial employment data published by the IBGE show an employment expansion of 0.4% in March and 0.9% in the first quarter (s.a.), while worked hours grew 1.5% in the quarter. According to the IBGE survey, industrial wages increased 9.3% in the first quarter of 2004, year-on-year, while CNI estimated a 6.6% increase.
 
@@ -66,7 +70,9 @@
 
 32. As a result, the Committee decided, by six votes to three, to maintain the target for the Over-Selic rate at 16.0% p.a.
 
-33. At the closing of the meeting, it was announced that the Copom would meet again on June 15, for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in Communiqué 11,516, of October 15, 2003. 6 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+33. At the closing of the meeting, it was announced that the Copom would meet again on June 15, for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in Communiqué 11,516, of October 15, 2003. 6 SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 34. The production and sales data for March 2004 should be carefully analyzed, as the carnival holiday in 2004 was in February. As a consequence, there were more working days in March 2004 (23) than in the same period of the previous year (19). This effect has different impacts among the sectors and can distort the monthly and annual comparisons of production and sales. Such distortions are not completely eliminated by usual seasonally adjusted methods.
 
@@ -90,19 +96,25 @@
 
 44. According to the FGV survey, business sentiment improved in regard to both demand and employment, considering a 3-month horizon.
 
-45. In April, the automotive sector output increased 11.6%, with the production of around 170 thousand units, compared to the same month of 2003. In the first four months of 2003, vehicles output, domestic sales and exports increased 13.2%, 18.1% and 4.2%, respectively, in comparison to the same period of last year. Labor Market
+45. In April, the automotive sector output increased 11.6%, with the production of around 170 thousand units, compared to the same month of 2003. In the first four months of 2003, vehicles output, domestic sales and exports increased 13.2%, 18.1% and 4.2%, respectively, in comparison to the same period of last year.
+
+Labor Market
 
 46. Formal employment increased 0.4% in April compared to March (seasonally adjusted), and 3.5% in the first four months of 2004, according to the Ministry of Labor and Employment. In the first four months of the year, 535 thousand jobs were created, the highest number ever registered for this period of the year.
 
 47. According to the IBGE’s employment survey, the unemployment rate in the six main metropolitan areas increased to 12.8% in March compared to 12.0% in the previous month. The result was due to an increase of 1.4% the economically active population. The same survey registered in March a 1.4% increase in average real earnings, posting a third consecutive month increase.
 
-48. In the industrial sector, according to CNI seasonally adjusted data, employment and real payroll increased 0.5% and 0.9% in March, respectively, compared to the previous month. In the first quarter of 2004, employment and real payroll increased by 0.3% and 6.6%, respectively, compared to the same period of last year. Credit and Delinquency Rates
+48. In the industrial sector, according to CNI seasonally adjusted data, employment and real payroll increased 0.5% and 0.9% in March, respectively, compared to the previous month. In the first quarter of 2004, employment and real payroll increased by 0.3% and 6.6%, respectively, compared to the same period of last year.
+
+Credit and Delinquency Rates
 
 49. Non-earmarked credit increased 3.1% in April, collaborating for a continuous trend in the credit expansion, with a special contribution of the acquisition of goods operations, corporate credit and operations linked to external resources, for companies and personal credit as well. The portfolio balance for companies with domestic and external resources increased 2.6% and 5.5%, respectively and for household operations, 2.3%.
 
 50. The average interest rate on non-earmarked credit registered a decrease of 0.6 p.p., in April, reaching 44.7% p.a. The result was due to declines of 0.5 p.p. and 0.7 p.p. in average lending rates to companies and to households, respectively. The delinquency rate on non-earmarked credit decreased 0.2 p.p. in April, to 7.7%, as a consequence of the 0.5 p.p. fall in non-performing credit to individuals. Non-performing credit to companies increased 0.1 p.p. in April.
 
-51. Regarding delinquency in the retail sector, in April there were falls of 14.6% in the number of new files and 10.9% in the number of cancelled files, compared to the previous month. The net default rate remained practically stable at 6.4% in April. In the year to April, the number of new files increased 4.2%, but the number of cancelled files increased 7.7%, bringing the net default rate in 2004 to a level 8.7% below the one in the same period of 2003. 8 External Environment
+51. Regarding delinquency in the retail sector, in April there were falls of 14.6% in the number of new files and 10.9% in the number of cancelled files, compared to the previous month. The net default rate remained practically stable at 6.4% in April. In the year to April, the number of new files increased 4.2%, but the number of cancelled files increased 7.7%, bringing the net default rate in 2004 to a level 8.7% below the one in the same period of 2003. 8
+
+External Environment
 
 52. In the first quarter of this year, GDP grew 4.2% in the US, 2.4% in the Euro Area, 5.6% in Japan, and 9.8% in China. In Germany, GDP growth presented the highest figure since the first quarter of 2001, boosted by exports.
 
@@ -114,13 +126,17 @@
 
 56. Global markets suffered with high volatility in the past weeks, anticipating the effects of the expected increase in the US interest rates and the measures adopted by the Chinese government to decelerate economic growth. US Treasuries yields increased, a trend followed by the Treasuries of Japan and Europe. Emerging markets bonds fell, with generalized increases in country risk indicators, currency depreciations against the US dollar and sharp falls in stock exchanges indices. In the FX market, the US dollar appreciated against other hard currencies, in spite of high US fiscal and trade deficits.
 
-57. Apart from oil, commodity prices fell after peaking in March, even though current levels are still well above the historical averages. Oil prices, on the contrary, increased in the past weeks, mainly as a result of political tensions in the Middle East, of heated world demand, and of the fact that refineries are operating close to capacity in a period of high seasonal consumption of gasoline in the US. Foreign Trade and Balance of Payments
+57. Apart from oil, commodity prices fell after peaking in March, even though current levels are still well above the historical averages. Oil prices, on the contrary, increased in the past weeks, mainly as a result of political tensions in the Middle East, of heated world demand, and of the fact that refineries are operating close to capacity in a period of high seasonal consumption of gasoline in the US.
+
+Foreign Trade and Balance of Payments
 
 58. The Brazilian trade balance posted a US$2 billion surplus in April. Exports and imports increased 15.4% and 16.1%, respectively, compared to the April 2003 daily averages. In the first two weeks of May, the trade surplus totaled US$1.2 billion, with exports and imports increasing by 11.9% and 20.9%, respectively, compared to the average figures of May 2003.
 
 59. In April, total exports totaled US$6.6 billion, led by manufactured goods exports (US$3.8 billion, +23.3% compared to April 2003). Semi-manufactured and primary products reached US$0.8 billion (+13.3%) and US$1.9 billion (6.3%), respectively. Imports totaled US$4.6 billion in the month. All import categories increased as compared to April 2003 results, with highlight to raw material and intermediate goods (+19.6%).
 
-60. The current account registered a US$735 million deficit in April, accumulating a US$948 million surplus in the year, compared to a US$821 million deficit in the same period of 2003. In the first four months of this year, the trade balance posted a US$8.1 billion surplus, services and income account posted a US$8.2 deficit, and current transfers posted a US$1 billion surplus. Net FDI accumulated US$3.1 billion in the year, compared to US$2.8 billion in the same period of last year. In the first four months of 2004, the rollover rate of private debt was slightly above 100%. At the 9 end of April, international reserves reached US$50.5 billion, and adjusted net reserves, according to the IMF concept, stood at US$22.4 billion. Money Market and Open Market Operations
+60. The current account registered a US$735 million deficit in April, accumulating a US$948 million surplus in the year, compared to a US$821 million deficit in the same period of 2003. In the first four months of this year, the trade balance posted a US$8.1 billion surplus, services and income account posted a US$8.2 deficit, and current transfers posted a US$1 billion surplus. Net FDI accumulated US$3.1 billion in the year, compared to US$2.8 billion in the same period of last year. In the first four months of 2004, the rollover rate of private debt was slightly above 100%. At the 9 end of April, international reserves reached US$50.5 billion, and adjusted net reserves, according to the IMF concept, stood at US$22.4 billion.
+
+Money Market and Open Market Operations
 
 61. The market perception of a tighter U.S. monetary policy triggered a movement of portfolio reallocations, affecting emerging markets' assets and, particularly, Brazil’s assets. Domestic interest rates rose significantly in the period, and the futures yield curve reverted the downward slope that had been observed since April 2003.  From April 14 to May 19, the 3-month, 1-year and 2-year rates increased to 0.09 p.p. from –0.46 p.p., to 2.23 p.p. from –0.68 p.p., and to 3.67 p.p. from –0.17 p.p., respectively. As a consequence, the ex-ante real interest rate increased to 11.8%.
 

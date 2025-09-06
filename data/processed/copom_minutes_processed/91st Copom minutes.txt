@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. The main inflation indicators remained stable in November, compared to October, presenting low rates and low dispersion. This behavior confirms the favorable recent inflationary outlook, in which the main disturbing factors are seasonal and temporary.
 
 2. The IPCA increased 0.34% in November compared to 0.29% in the previous month, totaling 8.74% in the year and 11.02% in the last twelve months. The IGP-DI changed 0.48%, after an increase of 0.44% in October, influenced by the IPA-DI and the IPC-Br increases (0.46% and 0.33%, respectively). The IGP-DI and IPA-DI changes accumulated in twelve months to November decreased for the eighth consecutive month, to 9.92% and 8.79%, respectively.
@@ -6,7 +10,9 @@
 
 4. Still regarding the IPCA in November, market prices changed 0.33% and regulated prices increased 0.36%, contributing 0.24 p.p. and 0.10 p.p. to the overall result, respectively. In the first group, the increases were concentrated in clothing, meat and chicken prices. Regarding regulated prices, besides lottery and urban bus fares in Rio de Janeiro, electricity tariffs were increased in Rio de Janeiro, Porto Alegre and Goiânia. On the other hand, gasoline, fuel-alcohol and bottled gas prices decreased during the month.
 
-5. The IPA-DI reached 0.46% compared to 0.50% in October, with divergent behaviors for agricultural and industrial prices. The Agricultural-IPA decelerated 0.26%, after an increase of 1.30% in the previous month, due to lower increase in soybean prices and drop in prices of milk, eggs and pork. On the contrary, rice prices increased.
+5. The IPA-DI reached 0.46% compared to 0.50% in October, with divergent behaviors for agricultural and industrial prices. The Agricultural-IPA decelerated 0.26%, after an increase of 1.30% in the previous month, due to lower increase in soybean prices and drop in prices of milk, eggs and pork.
+
+On the contrary, rice prices increased.
 
 6. On the other hand, wholesale industrial prices presented a slight acceleration, increasing 0.54% in November compared to 0.18% in October. This acceleration was caused by chemical prices, especially oil and lubricating products, paint products, and fertilizers and pesticides. Also important were the increases in prices of cotton fabrics, reflecting the increase in the raw material, and of steel.
 
@@ -16,13 +22,17 @@
 
 9. Core IPC-Br inflation calculated under the symmetric trimmed-mean method by FGV reached 0.36% in November, accumulating an increase of 10.69% in the last twelve months.
 
-10. In December, both consumer and wholesale inflation are likely to register changes close to November. At the wholesale level, some pressure is expected in prices of vegetables, fruit, rice and corn, while prices of milk, eggs, soybeans and sugar cane are expected to fall. For the IPCA, the December result will be affected by rises in regulated prices (lotteries and urban bus fares in Belém and Fortaleza), as well as a slight acceleration in food prices. Assessment of Inflation Trends
+10. In December, both consumer and wholesale inflation are likely to register changes close to November. At the wholesale level, some pressure is expected in prices of vegetables, fruit, rice and corn, while prices of milk, eggs, soybeans and sugar cane are expected to fall. For the IPCA, the December result will be affected by rises in regulated prices (lotteries and urban bus fares in Belém and Fortaleza), as well as a slight acceleration in food prices.
+
+Assessment of Inflation Trends
 
 11. The identified shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumes the following hypotheses: a. Gasoline and bottled cooking gas prices are projected to accumulate increases of 0.9% and 3.7%, in 2003, respectively. For 2004, the changes in gasoline and bottled cooking gas prices are projected to reach 9.5% and 3.5%, respectively. The readjustment of gasoline prices encompasses an increase in the CIDE rate to partially compensate the federal government for sharing this tax with states and municipalities, as part of the recently enacted tax reform; 2 b. The projection for the readjustment of household electricity tariffs in 2003 decreased 0.1 p.p., reaching 21.6%. For 2004, the readjustment is expected to be 7.2%. Concerning telephone tariffs, there was no change in the projection for 2003 since the last Copom meeting. For 2004, Copom estimates an increase of 6.6%, assuming that the judicial injunction which limited the readjustment of the tariffs authorized for 2003 will not be reverted; c. For the inflation of regulated prices in 2004, which weighted 28.9% in the November IPCA, the BCB projection decreased 0.7 p.p., reaching 7.8%; d. The projection for the readjustment of regulated prices for 2005 was based on the model of endogenous determination that was used until the September Copom meeting to estimate 2004 readjustments. This model, which considers seasonal components, the exchange rate behavior, market prices inflation rate and the IGP-DI variation, forecasts a 5.5% change for regulated prices in 2005; e. The projection for the 6-month spread over the Selic rate, following the specification of the Vector Autoregressive model using the Selic and swap rates on the eve of the Copom meeting was –70 b.p. for the fourth quarter of 2003, gradually rising to 20 b.p. in the last quarter of 2004 and 50 b.p. at the end of 2005.
 
 12. Regarding fiscal policy, it is assumed that the primary surplus target of 4.25% of the GDP for this year and the following two years will be accomplished. The other related assumptions established in the November meeting were maintained.
 
-13. Considering the baseline scenario hypotheses, including the maintenance of the Selic interest rate at 17.5% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$2.94), inflation is projected above the adjusted target of 8.5% for 2003 and below the target of 5.5% for 2004. Monetary Policy Decision
+13. Considering the baseline scenario hypotheses, including the maintenance of the Selic interest rate at 17.5% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$2.94), inflation is projected above the adjusted target of 8.5% for 2003 and below the target of 5.5% for 2004.
+
+Monetary Policy Decision
 
 14. November inflation results confirmed the convergence of inflation to the target path. Regarding the IPCA, the 0.34% inflation in November was just 0.05 p.p. higher than October. When the IPCA change is decomposed into three groups – regulated, tradable and non-tradable prices – low price dispersion is noticed in November, with changes for the three groups between 0.25% and 0.44%. Perishable food prices grew 0.5% due to weather factors, after two consecutive months of falling prices. This behavior is likely to repeat in the first quarter of 2004, without causing a generalized disturbance on market prices. Other consumer inflation indicators, such as the IPC-Fipe and the IPC-Br, also showed inflation around 0.3% in November.
 
@@ -52,7 +62,9 @@
 
 27. Considering the uncertainties in the transmission mechanism of monetary policy, the Copom understands that the sustainability of the disinflation gains in recent months and of the economic recovery process requires a careful assessment in future monetary decisions. In particular, monetary policy should not endorse the inflationary impact of the readjustment of prices in those sectors that now lead the recovery process. This is the only way to ensure the continuous convergence of inflation to the target path, in an environment of sustained economic growth.
 
-28. At the end of the meeting, it was announced that the Copom would meet again on January 20th, 2004, for technical presentations, and on the following day in order to discuss the monetary policy decision, as set by the Communiqué 11,516, of October 15th, 2003. 5 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+28. At the end of the meeting, it was announced that the Copom would meet again on January 20th, 2004, for technical presentations, and on the following day in order to discuss the monetary policy decision, as set by the Communiqué 11,516, of October 15th, 2003. 5 SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 29. According to IBGE data, retail sales decreased 3.0% in October and 5.0% from January to October, compared to the same period of 2002.October sales performance, although still negative, presented significant improvements when compared to the previous months, as already observed in September. Growth remained negative for four out of the five activities surveyed by the IBGE, while the furniture and appliances sector grew 5.2%.
 
@@ -68,17 +80,23 @@
 
 35. Data released by the CNI regarding the manufacturing industry performance in October confirmed the sector recovery. Real sales increased 3.1% and hours worked in production increased 0.7%, both seasonally adjusted. The level of industrial capacity reached 80.2% in October, compared to the peak of 81.3% in October 2002.
 
-36. In the automotive sector, vehicles production and domestic sales increased 7.3% and 6.2% respectively, in November (s.a.), benefiting from the temporary tax reduction on cars and improved credit conditions. External sales decreased 7.9% in November. However, up to November, the increase of 31.7% in vehicles exports contributed to the expansion of 1.8% in output, counterbalancing the internal sales fall of 6.5%. Labor Market 6
+36. In the automotive sector, vehicles production and domestic sales increased 7.3% and 6.2% respectively, in November (s.a.), benefiting from the temporary tax reduction on cars and improved credit conditions. External sales decreased 7.9% in November. However, up to November, the increase of 31.7% in vehicles exports contributed to the expansion of 1.8% in output, counterbalancing the internal sales fall of 6.5%.
+
+Labor Market 6
 
 37. The index of employment increased 0.3% month-on-month in October (s.a.), and 3% year-on-year, according to the Ministry of Labor. In accordance with the new methodology of the IBGE’s employment survey, the unemployment rate in the six main metropolitan areas remained stable at 12.9%, in October, due to the 0.4% fall of both the number of employed people and the labor force. Still according to the same source, average real earnings (deflated by the IPCA) reached R$686 in September, representing a decrease of 15.9% compared to the same month of 2002, a better result than the 17.3% fall registered between June 2002 and June 2003.
 
-38. In the industrial sector, according to the CNI, there was a 0.2% increase (s.a.) in employment in October, compared to the previous month. Total real wages increased for the sixth consecutive month, but remained 2.8% below the result of the same month of 2002. Credit and Delinquency Rates
+38. In the industrial sector, according to the CNI, there was a 0.2% increase (s.a.) in employment in October, compared to the previous month. Total real wages increased for the sixth consecutive month, but remained 2.8% below the result of the same month of 2002.
+
+Credit and Delinquency Rates
 
 39. Non-earmarked credit rose 1.8% in November, with highlight to the recovery of external funded operations. Lending to companies increased 2.1%, again under the influence of seasonal factors as the harvest and the orders of the end of the year, being worth mentioning the operations with overdraft accounts, vendor and discount of trade bills. Credit to households expanded 1.4%, more noticeably in auto financing and personnel credit, favored by the decline of interest rates.
 
 40. The average interest rate on non-earmarked credit decreased again in November, by 0.6 p.p. to 48% p.a., in response to the consistent downward trend of the Selic rate. The effect was more intense on lending to households, which fell 1.2 p.p. to 68.2%, the lowest level since June 2001. The average rate on corporate lending was 32.3% p.a., falling 0.2 p.p. in comparison to the previous month, the lower result since December 2002. The delinquency rate on non-earmarked banking credit fell 0.2 p.p. in November, reaching 8.4%, due to the reduction of non-performing credit of companies and individuals, whose respective rates stood at 4.6% and 14.2%.
 
-41. Regarding default rates on retail trade, the net delinquency rate of ACSP reduced to 4.2% in November, from 5.4% in October. The new default registrations fell 4.1% and the number of cancelled default registrations increased 4.1%, in comparison to October data. External Environment
+41. Regarding default rates on retail trade, the net delinquency rate of ACSP reduced to 4.2% in November, from 5.4% in October. The new default registrations fell 4.1% and the number of cancelled default registrations increased 4.1%, in comparison to October data.
+
+External Environment
 
 42. For the first time since 2000, the three main economic areas in the world - the United States, Europe and Japan - show signs of a simultaneous pickup in activity. The signs of world growth recovery have been favored by the economic performance in Asia, particularly China, which is now the main destination of exports of Japan, South Korea and Australia.
 
@@ -88,7 +106,9 @@
 
 45. In Japan, activity has been favored by exports growth, especially vehicles sales to Asian countries. Growth in Asia has been led by China, which posted growth rates of 8.2% in the first half of the year and 9.1% in the third quarter.
 
-46. With inflationary pressures subdued, interest rates remained low across the globe. The equity markets sustained the upward trend, albeit at a slower pace. Ample liquidity in the international market and continued positive risk appetite favored the demand for emerging markets assets. Expectations concerning global growth and world trade have increased food and metal prices, benefiting emerging markets. Oil prices remained volatile and above the upper limit of the Opec band mechanism. Foreign Trade and Balance of Payments
+46. With inflationary pressures subdued, interest rates remained low across the globe. The equity markets sustained the upward trend, albeit at a slower pace. Ample liquidity in the international market and continued positive risk appetite favored the demand for emerging markets assets. Expectations concerning global growth and world trade have increased food and metal prices, benefiting emerging markets. Oil prices remained volatile and above the upper limit of the Opec band mechanism.
+
+Foreign Trade and Balance of Payments
 
 47. Trade balance registered a US$1.7 billion surplus in November, totaling US$22.1 billion in the year and US$23.9 billion in 12 months. Exports grew 16.6% in November and 20.4% accumulated in the year, compared to the same periods in 2002. Imports grew 10.4% in November and 1.1% in the year, also compared to the same periods in 2002. Up to the second week of December (10 working days), trade surplus totaled US$1.3 billion. Accounting for this period, accumulated surplus in the year to December 14 reached US$23.4 billion.
 
@@ -96,7 +116,9 @@
 
 49. As in previous months, in November there was a consistent evolution of exports of goods with a small share in the total, particularly manufactured goods. This strategy of exports and markets diversification and the increase of non-traditional products in total exports reflect the gain in competitiveness of the economy and support projections of a continuous growth in exports.
 
-50. Current account registered a US$3.8 billion surplus in the year up to November, reversing the US$7.6 billion deficit registered in the same period of 2002. The deficit in the services and income account reached US$20.9 billion in the year up to November, compared to US$21.1 billion last year. Financial account balance reached US$12 billion in the January/November period, compared to US$6.4 billion in the same period in 2002. In November, net FDI reached US$2 billion, accumulating US$8.7 billion in 2003. At the end of November, international reserves stood at US$54.4 billion and net adjusted reserves (IMF agreement) stood at US$17.2 billion. Money Market and Open Market Operations
+50. Current account registered a US$3.8 billion surplus in the year up to November, reversing the US$7.6 billion deficit registered in the same period of 2002. The deficit in the services and income account reached US$20.9 billion in the year up to November, compared to US$21.1 billion last year. Financial account balance reached US$12 billion in the January/November period, compared to US$6.4 billion in the same period in 2002. In November, net FDI reached US$2 billion, accumulating US$8.7 billion in 2003. At the end of November, international reserves stood at US$54.4 billion and net adjusted reserves (IMF agreement) stood at US$17.2 billion.
+
+Money Market and Open Market Operations
 
 51. In the period between the November and the December Copom meetings, the yield curve shifted downward in its whole extension. The main factors underlying this behavior, besides the reduction in the Over-Selic rate above market consensus, were the release of lower-than-expected GDP data for the third quarter, improved inflation expectations and the fall of the sovereign country-risk. Between November 19th and December 16th, the 6-month, 1-year and 2-year interest rates decreased 1.44 p.p., 1.39 p.p. and 1.42 p.p., respectively. The 1-year interest rate, deflated by the median of inflation expectations 12 months ahead, fell to 9.3% from 10.6%.
 
@@ -106,4 +128,4 @@
 
 54. The BCB, in its open market interventions, maintained the 2-week indexed and the 3-month fixed repurchase operations, as well as the daily bank liquidity management operations. The BCB also carried out in this period five fixed-rate repurchase agreements, maturing between 1 and 4 working days. The average excess of banking liquidity drained from the market reached R$48.4 billion.
 
-55. In November, the net securitized domestic public debt increased 1.5%. The fixed rate share increased to 11.3% from 9.9% in October, while the share linked to the dollar decreased for the sixth consecutive month to 23.8%. 9 Acronyms ACSP São Paulo Trade Association BCB Banco Central do Brasil b.p. basis points CIDE Contribution on Intervention in the Economic Domain CNI National Confederation of Industry Fecomércio-SP São Paulo State’s Federation of Commerce FGV Getúlio Vargas Foundation IBGE Brazilian Institute of Geography and Statistics IGP–DI General Price Index – Domestic Supply IPA-DI Wholesale Price Index IPCA Broad Consumer Price Index - Brazil IPC–BR Consumer Price Index – Brazil LFT National Treasury Bills (floating) LTN National Treasury Bills (fixed rate) NTN-B National Treasury Notes – Series B NTN-C National Treasury Notes – Series C Opec Organization of the Petroleum Exporting Countries p.a. per annum p.p. percentage point s.a. seasonally adjusted 10
+55. In November, the net securitized domestic public debt increased 1.5%. The fixed rate share increased to 11.3% from 9.9% in October, while the share linked to the dollar decreased for the sixth consecutive month to 23.8%. 9 

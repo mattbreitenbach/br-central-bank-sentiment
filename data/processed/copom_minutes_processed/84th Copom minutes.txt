@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of, and prospects for the Brazilian and international economies under the monetary policy framework, designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. In April, most measures of inflation registered their smallest monthly increases since September of 2002. This development was most pronounced in wholesale price indices, mainly due to the effects of the recent exchange rate appreciation and seasonal contribution of agricultural goods prices. The decline in consumer price inflation was smaller, reflecting a modest deceleration in market price inflation and increases in regulated prices.
 
 2. The IPCA increased 0.97% in April, in comparison to 1.23% in the previous month, accumulating 6.15% in the first four months of 2003 and 16.77% in 12 months. The IGP-DI increased 0.41% in April, compared to 1.66% in March. The IPA-DI rose by 0.07% in April, in comparison to 1.93% in the previous month. The 12- month increase of the IGP-DI and IPA-DI fell after having increased for eleven consecutive months, totaling 32.37% and 42.65%, respectively.
@@ -14,15 +18,19 @@
 
 8. Core IPC-Br inflation calculated under the symmetric trimmed-mean method registered a 1.2% increase in April. In 12 months, core IPC-Br inflation accumulated a 11.37% increase.
 
-9. In May, the positive effects of the exchange rate appreciation on inflation are likely to increase, particularly on wholesale prices, as signaled by recent previews of the IGP-M. With respect to consumer prices, tradable goods will also benefit from the exchange rate appreciation, and in conjunction with the fall of perishable food and fuel prices will contribute to the downward trend of inflation. However, upward pressures from clothing prices and electricity tariffs (due to both increase of household electricity and implementation of public light tariffs) will prevent this effect from being more pronounced. Assessment of Inflation Trends
+9. In May, the positive effects of the exchange rate appreciation on inflation are likely to increase, particularly on wholesale prices, as signaled by recent previews of the IGP-M. With respect to consumer prices, tradable goods will also benefit from the exchange rate appreciation, and in conjunction with the fall of perishable food and fuel prices will contribute to the downward trend of inflation. However, upward pressures from clothing prices and electricity tariffs (due to both increase of household electricity and implementation of public light tariffs) will prevent this effect from being more pronounced.
 
-10. The identified shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumes the following hypothesis: a. Estimated price adjustments for gasoline in 2003 are around 6%, including the reduction at the beginning of May. The projection for the readjustment of the price of bottled cooking gas for 2003 increased to 4.5%, due to the 4.13% increase in April. b. With respect to household electricity tariffs, estimated readjustments decreased again as a result of the exchange rate appreciation, reaching 23.7% for 2003. This rate could be lower, were it not for the charges of public lighting in several capitals, including Curitiba, São Paulo, Fortaleza, Recife, Belo Horizonte, Goiânia and some municipalities of greater Rio de Janeiro. c. Regulated prices, which had a 28.6% weight in the April IPCA, are forecast to increase 14.9% in
+Assessment of Inflation Trends
 
-2003. Despite the increase of in the projection for bottled cooking gas, the decrease of gasoline 2 prices, the exchange rate appreciation and the consequent reassessment of electricity price readjustment resulted in a 0.4 p.p. fall from the April projections for regulated prices. d. The projection for the 6-month spread over the Selic rate, following the specification of the VAR model using the Selic and swap rates on the eve of the Copom meeting was 80 b.p. for 4Q03, gradually rising to 150 b.p. at the end of 2004.
+10. The identified shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations assumes the following hypothesis: a. Estimated price adjustments for gasoline in 2003 are around 6%, including the reduction at the beginning of May. The projection for the readjustment of the price of bottled cooking gas for 2003 increased to 4.5%, due to the 4.13% increase in April. b. With respect to household electricity tariffs, estimated readjustments decreased again as a result of the exchange rate appreciation, reaching 23.7% for 2003. This rate could be lower, were it not for the charges of public lighting in several capitals, including Curitiba, São Paulo, Fortaleza, Recife, Belo Horizonte, Goiânia and some municipalities of greater Rio de Janeiro. c. Regulated prices, which had a 28.6% weight in the April IPCA, are forecast to increase 14.9% in 2003. Despite the increase of in the projection for bottled cooking gas, the decrease of gasoline 2 prices, the exchange rate appreciation and the consequent reassessment of electricity price readjustment resulted in a 0.4 p.p. fall from the April projections for regulated prices. d. The projection for the 6-month spread over the Selic rate, following the specification of the VAR model using the Selic and swap rates on the eve of the Copom meeting was 80 b.p. for 4Q03, gradually rising to 150 b.p. at the end of 2004.
 
-11. Regarding fiscal policy, it is assumed that the public sector will accomplish the primary surplus target for this year and the following two years (4.25% of the GDP). The other related assumptions established in the April Copom meeting were maintained.
+11. Regarding fiscal policy, it is assumed that the public sector will accomplish the primary surplus target for this year and the following two years (4.25% of the GDP). The other related assumptions established in the
 
-12. Considering the baseline scenario hypotheses, including a steady interest rate at 26.5% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting, inflation is projected above the adjusted target of 8.5% for 2003. Monetary Policy Decision
+April Copom meeting were maintained.
+
+12. Considering the baseline scenario hypotheses, including a steady interest rate at 26.5% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting, inflation is projected above the adjusted target of 8.5% for 2003.
+
+Monetary Policy Decision
 
 13. Inflation remains on a downward trend. Wholesale price inflation has been decreasing more than consumer price inflation. There is evidence that the dynamics of the two groups of prices have been different. At the wholesale level, the exchange rate appreciation and the normalization of the supply of perishable food have been the main factors underlying the decrease in inflation.
 
@@ -42,7 +50,9 @@
 
 21. As a result, the Copom decided, unanimously, to maintain the target for the Over-Selic rate at 26.5% p.a.
 
-22. At the closing of the meeting, it was announced that the Copom would meet again on June 17, for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in the Communiqué 10,187, of October 2, 2002. 4 Summary of Data Analyzed by the Copom Economic Activity
+22. At the closing of the meeting, it was announced that the Copom would meet again on June 17, for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in the Communiqué 10,187, of October 2, 2002. 4 Summary of Data Analyzed by the Copom
+
+Economic Activity
 
 23. Carnival holidays in March reduced the number of working days to 19, compared to 20 days in the previous month and in March 2002. As a result, the comparisons of production and sales data contain statistical distortions that have not been eliminated by the usual seasonal adjustment. The March 2003 results are underestimated the same way that data in February was overestimated.
 
@@ -66,11 +76,15 @@
 
 33. Data on real sales and hours worked in the manufacturing sector released by the CNI also indicated a decrease of industrial activity during the first quarter. Although the accumulated data in the quarter posted positive growth compared to the same period last year (7,4% and 2,4%, respectively), they were lower by 2.5% and 1% in relation to the data observed in the last quarter of 2003. Installed capacity utilization reached 79.8% in March, s.a., compared to 80.2% recorded in the same month of 2002.
 
-34. Other indicators related to industrial performance showed positive results in April. Production of corrugated paperboard grew 11.3% month-on-month, s.a., according to the data released by the ABPO. Gross steel production increased 2.5% month-on-month, according to data released by the IBS. Labor Market
+34. Other indicators related to industrial performance showed positive results in April. Production of corrugated paperboard grew 11.3% month-on-month, s.a., according to the data released by the ABPO. Gross steel production increased 2.5% month-on-month, according to data released by the IBS.
+
+Labor Market
 
 35. Legally registered employment increased 0.2% month-on-month in April, s.a., and 3.3% in the first four- months compared to the same period of 2002, according to the Ministry of Labor and Employment. According to the new methodology for the IBGE’s employment survey, the unemployment rate in the six main metropolitan areas reached 12.1% in March, compared to 11.6% in February, despite the increase of 0.1% in the number of employed workers in the same period.
 
-36. The IBGE also verified an increase in informal work in the last twelve months. While the number of formal employees increased 3.3% between March of 2002 and March of 2003, the number of informal employees grew 9.3%. In addition, according to the PME, the average real wage of employed workers fell by 4.9% compared to the same month of 2002. In the industrial sector, according to the CNI, the real payroll in March was 7.7% lower than in March 2002. Credit and Delinquency Rates
+36. The IBGE also verified an increase in informal work in the last twelve months. While the number of formal employees increased 3.3% between March of 2002 and March of 2003, the number of informal employees grew 9.3%. In addition, according to the PME, the average real wage of employed workers fell by 4.9% compared to the same month of 2002. In the industrial sector, according to the CNI, the real payroll in March was 7.7% lower than in March 2002.
+
+Credit and Delinquency Rates
 
 37. Total non-earmarked bank credit decreased 0.4% in April, with the largest decline in the corporate portfolio as a result of the effects of the 13.8% exchange rate appreciation on dollar-indexed loans. Domestically funded credit to companies grew 1%, driven mostly by the increase of corporate overdraft accounts and working capital loans. The results indicate that companies have been choosing short-term debt in order to recompose cash flows. ACC operations grew 1.7%, mirroring the robust performance of the export sector and the progressive normalization of external commercial lines. Credit to individuals increased 2.2%, highlighting larger demand for short-term credits.
 
@@ -78,7 +92,9 @@
 
 39. The delinquency rate on non-earmarked bank credits increase to 8.8% in April from 8.7% in March. For individuals the rate remained at 15.7% while for companies it increased 0.1 p.p. to 4.6%.
 
-40. Regarding default rates on retail credit, there was a slight improvement in April. ACSP data showed that the number of new delinquency registrations and the amount of cancelled registrations fell 13.2% and 8.1%, respectively, compared to the previous month, reducing the net delinquency rate to 7%, compared to 7.2% in March. The volume of returned checks fell from 5.9% of the total settled in March to 5.6% in April. External Environment
+40. Regarding default rates on retail credit, there was a slight improvement in April. ACSP data showed that the number of new delinquency registrations and the amount of cancelled registrations fell 13.2% and 8.1%, respectively, compared to the previous month, reducing the net delinquency rate to 7%, compared to 7.2% in March. The volume of returned checks fell from 5.9% of the total settled in March to 5.6% in April.
+
+External Environment
 
 41. GDP in the Euro Area and Japan remained stable in 1Q2003 compared to the previous quarter, while in the US GDP growth (1.6% annualized) was lower than expected. 6
 
@@ -90,13 +106,17 @@
 
 45. The inflation shows signs of falling in the main economies. In the US, consumer price indices in April registered the largest fall in nineteen months, fostering the perception that deflation risks are increasing. The weakening of the dollar may decrease this perception, and contribute to an improvement in the activity and a reduction of the US trade deficit. However, the appreciation of the euro increases the risks of deflation and recession in Europe.
 
-46. Central banks decided to keep interest rates unaltered in their last meetings. Official interest rates remain at their lowest levels of the last four decades in the US (1.25%), the Euro area (2.5%), and the UK (3.75%). In Japan, they have been zero since 1999. Foreign Sector
+46. Central banks decided to keep interest rates unaltered in their last meetings. Official interest rates remain at their lowest levels of the last four decades in the US (1.25%), the Euro area (2.5%), and the UK (3.75%). In Japan, they have been zero since 1999.
+
+Foreign Sector
 
 47. The trade surplus reached US$1.7 billion in April, accumulating US$5.5 billion in the first four months of 2003, basically due to the performance of exports which have grown sharply, while imports remained stable.
 
 48. Exports reached US$5.7 billion in April and US$20.8 billion year-to-date, increasing 23.1% in the month and 25.6% in the first four months compared to 2002. Imports decreased 3.6% in April, reaching US$4 billion, and increased 1.8% in the first four months of the year, reaching US$15.3 billion, compared to 2002.
 
-49. Current account showed a deficit of US$966 million in April, 50.9% less than in the same month of 2002. The deficit in the services and income account reached US$2.9 billion, not completely compensated by the positive results of the trade balance (US$1.7 billion) and unilateral transfers (US$205 million). The 12- month current account deficit reached 0.74% of GDP in April. Monetary Market and Open Market Operations
+49. Current account showed a deficit of US$966 million in April, 50.9% less than in the same month of 2002. The deficit in the services and income account reached US$2.9 billion, not completely compensated by the positive results of the trade balance (US$1.7 billion) and unilateral transfers (US$205 million). The 12- month current account deficit reached 0.74% of GDP in April.
+
+Monetary Market and Open Market Operations
 
 50. After the last Copom meeting, the yield curve shifted downwards, mainly for maturities over 6 months, increasing the negative slope of the curve.  A decline in sovereign country risk, appreciation of the exchange rate, deceleration of inflation and market expectations of a larger reduction of inflation in the second half of the year contributed to this movement. On May 20th, the spreads of 6-month and 1-year rates were –204 b.p. and –293 b.p. respectively, compared to –166 b.p. and –179 b.p. on April 23rd.
 
@@ -108,4 +128,4 @@
 
 54. In the same period, the Central Bank intervened weekly in the open market through 1-week, 2-week, and 1- month repo operations, and conducted daily liquidity management operations with maturities of 2 working days. These operations withdrew excess liquidity of R$52.8 billion on average.
 
-55. As a result of the appreciation of the real, domestic securitized public debt fell by R$5.3 billion (-0.8%) in April, while the share linked to the dollar decreased to 30.4% from 34.7%. 8 Acronyms ABPO Brazilian Corrugated Board Association ACSP São Paulo Trade Association b.p. basis points CNI National Confederation of Industry Fecomércio-SP São Paulo State’s Federation of Commerce GDP Gross Domestic Product IBGE Brazilian Institute of Geography and Statistics IBS Brazilian Steel Institute IGP–DI General Price Index – Domestic Supply IGP–M General Price Index – Market IIC Consumer Intentions Index INCC National Index of Civil Construction IPA Wholesale Price Index IPC–BR Consumer Price Index – Brazil IPCA Consumer Price Index - Extended LFT National Treasury Bills (floating) LTN National Treasury Bills (fixed rate) OPEC Organization of the Petroleum Exporting Countries p.a. per annum p.p. percentage point PME Monthly Employment Survey s.a. seasonally adjusted SARS Severe Acute Respiratory Syndrome VAR Vector AutoRegressive 9
+55. As a result of the appreciation of the real, domestic securitized public debt fell by R$5.3 billion (-0.8%) in April, while the share linked to the dollar decreased to 30.4% from 34.7%. 8 

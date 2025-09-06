@@ -1,6 +1,12 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Economic Developments
+
 1. In January, the IPCA rose 0.59%, up from 0.36% in December. The increase was due to acceleration in both regulated price inflation (up 0.58%), especially transportation, and market price inflation (up 0.60%), particularly fuel alcohol and sugar. The rise was mainly due to seasonal and one-off pressures, not representing a risk to convergence of inflation to the targets set by the National Monetary Council (CMN). The IPCA diffusion index remained stable at 59%. Inflation is expected to decelerate in February, in spite of seasonal tuition fees adjustments, and will likely be somewhat lower than the rate expected when the January meeting was held.
 
-2. Together with headline inflation, core inflation measures also accelerated in January, despite not interrupting the recent downward trend. Core inflation by exclusion of household food items and regulated prices, smoothed and non-smoothed trimmed means rose 0.87%, 0.61% and 0.61%, respectively, compared to 0.30%, 0.43% and 0.33% in December. Although January cores were higher than in January 2005, 12-month trailing figures dropped. Available indicators signal that February cores might remain steady, just as preliminary figures for March indicate some decline. 1
+2. Together with headline inflation, core inflation measures also accelerated in January, despite not interrupting the recent downward trend. Core inflation by exclusion of household food items and regulated prices, smoothed and non-smoothed trimmed means rose 0.87%, 0.61% and 0.61%, respectively, compared to 0.30%, 0.43% and 0.33% in December. Although January cores were higher than in January 2005, 12-month trailing figures dropped. Available indicators signal that February cores might remain steady, just as preliminary figures for
+
+March indicate some decline. 1
 
 3. After rising to 0.72% in January from 0.07% in December, the General Price Index (IGP-DI) declined in February to –0.06%, maintaining a downward trend in terms of 12-month trailing figures. The January increase was due to acceleration of the wholesale price component (IPA-DI), which grew 0.81% (versus –0.14% in December). In February, the IGP-DI decline was favored by IPA-DI contraction to –0.12%, as industrial and agricultural prices decelerated. In the twelve months through February, IGP-DI and IPA-DI stood at 1.15% and –0.75%, respectively, while industrial and agricultural IPA registered 1.40% and –7.07%. After one-off rises in January, there are consistent signs of accommodation in wholesale price inflation, with potential positive spillover effects on consumer prices in the coming quarters. As emphasized in recent Minutes, continuity and strength of this pass-through will depend on demand conditions and price-setters’ expectations for future inflation.
 
@@ -22,25 +28,19 @@
 
 12. At the start of January, Brazilian sovereign risk reached levels below 300 basis points for the first time, reflecting improved fundamentals, particularly robust trade surpluses, together with adequate consolidated public sector primary surpluses, continued disinflation, accumulation of international reserves and a better pubic debt profile. Recently, the call on Brady Bonds outstanding, and the exemption of the withholding tax on foreign investments in local public debt securities contributed to reduce the Embi+ Brazil to close to 200 basis points. On the other hand, uncertainties to future monetary policy in advanced economies resulted in upward pressures on interest rates, with potential impact over capital flows to emerging markets. However, Copom continues to assign a low probability to a significant deterioration in international financial markets that could affect Brazilian external financing conditions, as the economy is increasingly resilience to external shocks.
 
-13. In January, international oil prices reached the highest levels since beginning of September. In February, prices declined slightly, but remained at high levels. This need not prompt significant domestic inflationary pressures, due to the adjustment in fuel prices in mid-September. The recent reduction in the share of ethanol in gasoline may drive fuel prices up, though they may bounce back throughout the year. Copom maintains a scenario in which there is no change to domestic oil prices in 2006. Nevertheless, given the uncertainties, international oil prices remain a key concern to future inflation dynamics, because of the pass-through to domestic prices as well as the influence on market expectations. Assessment of Inflation Trends
+13. In January, international oil prices reached the highest levels since beginning of September. In February, prices declined slightly, but remained at high levels. This need not prompt significant domestic inflationary pressures, due to the adjustment in fuel prices in mid-September. The recent reduction in the share of ethanol in gasoline may drive fuel prices up, though they may bounce back throughout the year. Copom maintains a scenario in which there is no change to domestic oil prices in 2006. Nevertheless, given the uncertainties, international oil prices remain a key concern to future inflation dynamics, because of the pass-through to domestic prices as well as the influence on market expectations.
 
-14. Inflation shocks and their impacts were reassessed according to newly available information. Assumptions are as follows:
+Assessment of Inflation Trends
 
-a) Projections for gasoline and bottled gas prices adjustments in 2006 remained unchanged at 0%;
-
-b) Fixed line telephone rates are projected to go up 3.1%, as against 2.5% considered in January. On the opposite direction, household electricity projection is down from 4.2% to 3.6%;
-
-c) For all regulated prices, and considering their composition change discussed in the December Inflation Report, the Copom maintained the 4.6% adjustment projection for 2006. These items, according to the weights released by the IBGE in January, represent 33.33% of the total IPCA; 3
-
-d) The projection for regulated prices inflation in 2007, based on the endogenous determination model, remained at 6.2%. This model considers the effects of seasonal components, of the exchange rate, of market prices inflation and of the IGP;
-
-e) The projection for the six-month spread over the Selic rate, using a Vector Autoregressive model based on the Selic and swap rates on the eve of the Copom meeting, increased from an average of –124 basis points in the first quarter of 2006 to 50 basis points in the last quarter of 2007.
+14. Inflation shocks and their impacts were reassessed according to newly available information. Assumptions are as follows: a) Projections for gasoline and bottled gas prices adjustments in 2006 remained unchanged at 0%; b) Fixed line telephone rates are projected to go up 3.1%, as against 2.5% considered in January. On the opposite direction, household electricity projection is down from 4.2% to 3.6%; c) For all regulated prices, and considering their composition change discussed in the December Inflation Report, the Copom maintained the 4.6% adjustment projection for 2006. These items, according to the weights released by the IBGE in January, represent 33.33% of the total IPCA; 3 d) The projection for regulated prices inflation in 2007, based on the endogenous determination model, remained at 6.2%. This model considers the effects of seasonal components, of the exchange rate, of market prices inflation and of the IGP; e) The projection for the six-month spread over the Selic rate, using a Vector Autoregressive model based on the Selic and swap rates on the eve of the Copom meeting, increased from an average of –124 basis points in the first quarter of 2006 to 50 basis points in the last quarter of 2007.
 
 15. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of GDP in 2006 and 2007 will be achieved. The related assumptions considered in the previous meeting were maintained.
 
 16. Inflation expectations remain anchored at the 4.5% target established by the CMN for the year. Since the January Copom meeting, median IPCA inflation expectations for 2006, compiled by the BCB’s Investor Relations Group, slightly decreased to 4.56% from 4.59%. As mentioned in prior Copom Minutes, this fact suggests that the recent monetary policy stance has both contained short-term inflationary pressures and contributed to the consolidation of a more favorable longer-term macroeconomic scenario.
 
-17. The 2006 inflation forecast under the benchmark scenario – which assumes the maintenance of the Selic rate at 17.25% and the exchange rate at R$/US$ 2.15 during the forecast period - decreased relative to the forecast presented in the January meeting, remaining below the 4.5% inflation target for the year. The forecast based on the market scenario – which incorporates the consensus exchange rate and Selic rate trajectories on the eve of the meeting – continued above the target for the year, despite lower than the January forecast. For 2007, the benchmark forecast remained below the 4.5% inflation target, but increased compared to January. On the other hand, the forecast under the market scenario increased, remaining above the inflation target. Monetary Policy Decision
+17. The 2006 inflation forecast under the benchmark scenario – which assumes the maintenance of the Selic rate at 17.25% and the exchange rate at R$/US$ 2.15 during the forecast period - decreased relative to the forecast presented in the January meeting, remaining below the 4.5% inflation target for the year. The forecast based on the market scenario – which incorporates the consensus exchange rate and Selic rate trajectories on the eve of the meeting – continued above the target for the year, despite lower than the January forecast. For 2007, the benchmark forecast remained below the 4.5% inflation target, but increased compared to January. On the other hand, the forecast under the market scenario increased, remaining above the inflation target.
+
+Monetary Policy Decision
 
 18. The Copom reaffirms the view that current and expected inflation demonstrate that the monetary stance adopted since September 2004 has contained short-term inflationary pressures and consolidated a more favorable long-term macroeconomic environment. Economic activity has recovered momentum at a pace consistent with supply conditions, such that it will not trigger significant inflationary pressures. In addition, despite continued volatility in international financial markets and the persistence of high oil prices, the external environment remains favorable, particularly with regard to Brazilian external financing conditions. Therefore, a benign inflation environment continues to evolve. As in the January meeting, the Committee emphasizes that the main challenge for monetary policy is to ensure the consolidation of these favorable developments.
 
@@ -72,7 +72,9 @@ e) The projection for the six-month spread over the Selic rate, using a Vector A
 
 32. The IPCA-15 diffusion index (measuring the number of items in the IPCA-15 registering price increases) stood at 51.4% in February, down from 64.6% in January.
 
-33. Consumer inflation tends to decrease in March, still favored by the recent behavior of food prices, and the completion of the one-off factors that pressured inflation in the first two months of the year – particularly transportation costs and school fees readjustments. Economic Activity
+33. Consumer inflation tends to decrease in March, still favored by the recent behavior of food prices, and the completion of the one-off factors that pressured inflation in the first two months of the year – particularly transportation costs and school fees readjustments.
+
+Economic Activity
 
 34. GDP recovered in the fourth quarter of 2005, with a quarter-on-quarter seasonally adjusted expansion of 0.8%. In the year, GDP grew by 2.3%, favored by expansions of 2.5% in industry, 2% in services and 0.8% in agriculture. All aggregate demand components expanded on a annual basis, with increases of 3.1% in household consumption, 11.6% in exports, 9.5% in imports and 1.6% in both government consumption and gross fixed capital formation. Domestic demand contributed 1.5 p.p. to the GDP expansion, while external demand contributed 0.8 p.p.
 
@@ -90,21 +92,29 @@ e) The projection for the six-month spread over the Selic rate, using a Vector A
 
 41. CNI manufacturing data showed increases of 1.2% and 2.2%, respectively, in real industrial sales and hours worked in December, on a month-on-month seasonally adjusted basis. In 2005, these indicators increased 6 2.0% and 4.5%, respectively. Installed capacity utilization reached a seasonally adjusted 81.5% in December, up 0.7 p.p. relative to November. Without seasonal adjustments, installed capacity utilization reached 79,8%, 1.8 p.p. below the level posted in December 2004. In 2005, average installed capacity utilization decreased 1.1%, compared to 2004.
 
-42. Industrial leading indicators point to the continuity of industrial growth in January, albeit at a more moderate rate compared to December. Both corrugated cardboard shipments and energy consumption increased a month- on-month seasonally adjusted 1.2% in January. Data related to heavy trucks traffic in highways increased 0.1% in the same comparison basis. Surveys and Expectations
+42. Industrial leading indicators point to the continuity of industrial growth in January, albeit at a more moderate rate compared to December. Both corrugated cardboard shipments and energy consumption increased a month- on-month seasonally adjusted 1.2% in January. Data related to heavy trucks traffic in highways increased 0.1% in the same comparison basis.
 
-43. The Fecomercio-SP survey registered a month-on-month 4.6% increase in consumer confidence in February. The monthly result was due to the improvements of 6.8% and 1.1% in consumer expectations and current economic conditions, respectively. However, consumer confidence was 6.2% below the level registered in February 2005.
+Surveys and Expectations
+
+43. The Fecomercio-SP survey registered a month-on-month 4.6% increase in consumer confidence in February. The monthly result was due to the improvements of 6.8% and 1.1% in consumer expectations and current economic conditions, respectively. However, consumer confidence was 6.2% below the level registered in
+
+February 2005.
 
 44. According to FGV, consumer confidence reached 108.2 in February, declining 2.1% relative to previous month, but still 4.6% above that of December 2005. Current situation perception and expectations contracted by 3.3% and 1.4%, respectively.
 
 45. According to FGV’s quarterly industrial survey, the manufacturing activity is expected to slowdown at the start of 2006. Global demand for manufacturing goods is considered “strong” or “weak” by 8% and 22% of participants, respectively, in comparison to 14% and 21% in the last survey. Inventory adjustments started in July 2005 have continued, and are considered almost adequate now. Expectations for the coming months deteriorated relative to those of the same period of 2005; however, they improved in relation to the last survey. Overall business outlook is considered better, but employment is expected to decline significantly.
 
-46. The CNI quarterly business survey showed results similar to the FGV´s survey regarding inventories, business current situation, expectations and foreign sales expansion. The surveys presented a different perspective for employment, as CNI data point to faster job expansion. Labor Market
+46. The CNI quarterly business survey showed results similar to the FGV´s survey regarding inventories, business current situation, expectations and foreign sales expansion. The surveys presented a different perspective for employment, as CNI data point to faster job expansion.
+
+Labor Market
 
 47. According to the Ministry of Labor and Employment, 86.616 new jobs were created in the formal market in January, spread among all activity sectors. On a month-on-month seasonally adjusted basis, formal employment increased 0.40%, mainly driven by the 1.2% expansion in civil construction.
 
 48. According to the IBGE´s survey in the six main metropolitan regions of the country, the unemployment rate increased to 9.2% in January, compared to 8.3% in December, reflecting seasonal factors, such as the reduction in temporary jobs. The unemployment rate declined 1 p.p. compared to January 2005. The number of employed workers decreased to 20 million in January (around 230 thousand below the previous month), while the labor force remained stable at 22 million people. Real average earnings were estimated at R$985.90 in January, with a 1.2% month-on-month contraction, but 2.3% above January 2005.
 
-49. According to the BCB’s seasonal adjustment of the CNI series, real industrial payrolls and industrial employment expanded by 0.6% and 0.2%, respectively, in December, for yearly expansions of 8.1% and 4.2%, respectively. Credit and Delinquency Rates
+49. According to the BCB’s seasonal adjustment of the CNI series, real industrial payrolls and industrial employment expanded by 0.6% and 0.2%, respectively, in December, for yearly expansions of 8.1% and 4.2%, respectively.
+
+Credit and Delinquency Rates
 
 50. Non-earmarked credit, used as reference for interest rates, grew 0.9% in January. Credit operations with individuals rose 3.2%. Corporate credit operations with domestic funding declined 0.8%, while externally funded operations decreased 1.8%. Payroll-deducted credit to individuals rose 2.3%. 7
 
@@ -112,13 +122,17 @@ e) The projection for the six-month spread over the Selic rate, using a Vector A
 
 52. Delinquency rates for non-earmarked credit (loans in arrears for more than ninety days) increased to 4.4% in January, from 4.2% in December. Delinquency rates for corporate credit operations increased 0.2 p.p., reaching 2.2%, while credit operations with individuals increased to 6.9% in January up from 6.7% in December.
 
-53. Net delinquency rate for retail credit, measured by the ACSP, stood at 6.1% in February, up from 4.8% in January, due to the 2.4% increase of new registers, and the 4.4% fall of cancelled registers. External Environment
+53. Net delinquency rate for retail credit, measured by the ACSP, stood at 6.1% in February, up from 4.8% in January, due to the 2.4% increase of new registers, and the 4.4% fall of cancelled registers.
+
+External Environment
 
 54. Recent indicators of activity in the main economies confirmed a robust expansionary trend for 2006, despite the expected upward adjustment in interest rates. The prices of commodities remain at elevated levels, especially metals, due to the rising global demand. International liquidity remains high, with subdued risk aversion.
 
 55. After a sharp fall and high volatility, oil prices started to recover in January as a result of geopolitical tensions. Oil futures contracts have promptly reacted to U.S. data on oil inventories, pointing to an upward price trend in the year, above US$ 60/barrel.
 
-56. Overall inflation indicators increased in January, especially producer price inflation, driven by the rises in energy prices. However, underlying inflation indices in several countries remained under control, and inflation expectations are well anchored. In Japan, inflation has reflected the remarkable performance of the economy since the end of last year. The consumer price core measure reached a record high in January, suggesting that deflation is no longer a concern and that the Bank of Japan might change its monetary stance. Foreign trade and international reserves
+56. Overall inflation indicators increased in January, especially producer price inflation, driven by the rises in energy prices. However, underlying inflation indices in several countries remained under control, and inflation expectations are well anchored. In Japan, inflation has reflected the remarkable performance of the economy since the end of last year. The consumer price core measure reached a record high in January, suggesting that deflation is no longer a concern and that the Bank of Japan might change its monetary stance.
+
+Foreign trade and international reserves
 
 57. In the year through February, external trade results confirmed the ongoing expansion. The trade surplus reached US$5.7 billion in the year and US$45.5 billion in twelve months, while total external trade totaled US$30.4 billion and US$196.8billion, respectively, in the same periods.
 
@@ -126,9 +140,13 @@ e) The projection for the six-month spread over the Selic rate, using a Vector A
 
 59. Imports totaled US$5.9 billion in February, a record high for the month, with a 19% increase in daily average terms compared to the same month of 2005. All import categories expanded in the period, with highlights to the 26.3% increase in capital goods imports and 25.8% in consumer goods, 25.9% for non-durable goods and 25.7% for durable goods, all measured in daily averages compared to the same period last year.
 
-60. At the end of February, international reserves totaled US$57.4 billion, an expansion of US$496 million compared to the previous month. Money Market and Open Market Operations
+60. At the end of February, international reserves totaled US$57.4 billion, an expansion of US$496 million compared to the previous month.
 
-61. In the period following the January Copom meeting, the yield curve shifted downwards for all tenors. The short end of the yield curve was mainly driven by the Copom decision and by the release of several lower-than- expected inflation results. At the long end of the yield curve, the downshift was driven by: the announcement of the 8 buyback of public sector external debt by the Treasury; the issue of a Provisional Measure that exempts the withholding tax on foreign investments in local public debt securities; and the improvement of risk evaluation of the Brazilian long-term debt in local and foreign currency by a rating agency. At the beginning of March, long-term interest rates reverted part of downward trend, due to the increased volatility in international markets, driven mainly by the expected increases of U.S. interest rates. Between January 18 and March 8, one-, three-, and six-month and the one-, two-, and three-year interest rates fell 0.87 p.p., 091 p.p., 0.90 p.p., 0.82 p.p., 0.52 p.p. and 0.42 p.p, respectively. Real interest rates measured by the differential between the one-year forward nominal interest rate and smoothed twelve-month ahead inflation expectations decreased to 10.29% on March 8 from 10.89% on January 18.
+Money Market and Open Market Operations
+
+61. In the period following the January Copom meeting, the yield curve shifted downwards for all tenors. The short end of the yield curve was mainly driven by the Copom decision and by the release of several lower-than- expected inflation results. At the long end of the yield curve, the downshift was driven by: the announcement of the 8 buyback of public sector external debt by the Treasury; the issue of a Provisional Measure that exempts the withholding tax on foreign investments in local public debt securities; and the improvement of risk evaluation of the Brazilian long-term debt in local and foreign currency by a rating agency. At the beginning of March, long-term interest rates reverted part of downward trend, due to the increased volatility in international markets, driven mainly by the expected increases of U.S. interest rates. Between January 18 and March 8, one-, three-, and six-month and the one-, two-, and three-year interest rates fell 0.87 p.p., 091 p.p., 0.90 p.p., 0.82 p.p., 0.52 p.p. and 0.42 p.p, respectively. Real interest rates measured by the differential between the one-year forward nominal interest rate and smoothed twelve-month ahead inflation expectations decreased to 10.29% on March 8 from 10.89% on
+
+January 18.
 
 62. In its open market operations, the BCB conducted three- and five-month weekly fixed rate repo operations, as well as shorter-term repo operations (24 of which were overnight lendings, and 7 of which were overnight borrowings). The BCB also conducted daily liquidity management operations with tenure up to two working days. The excess liquidity sterilized from the banking reserves market via operations with tenors of three and five months averaged R$55.3 billion, of which R$47.9 billion were five-month operations. Operations with tenors less than thirty days, including the daily liquidity management operations, averaged R$5.4 billion, lending.
 

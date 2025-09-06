@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. While most goods and services in the consumer basket decelerated in March, consumer price inflation remained high mainly due to isolated price increases (specifically certain regulated prices). In particular, Broad National Consumer Price Index (IPCA) inflation was virtually unchanged in March compared to February, due to the aforementioned acceleration of some regulated prices. Wholesale agricultural prices also increased, reflecting the effects of the drought on grain harvests.
 
 2. In March, the IPCA rose 0.61%, compared to 0.59% in February. The accumulated increase in the quarter reached 1.79%, and in the twelve months through March totaled 7.54%. Regulated prices rose 1.29% in the month and accounted for 0.38 p.p. of the monthly change in the IPCA, driven by adjustments to urban bus fares in São Paulo and Porto Alegre (contributing 0.25 p.p.), and water and sewage in six capital cities (contributing 0.08 p.p.). Market prices rose 0.33% (versus 0.77% in February), accounting for the remaining 0.23 p.p. of the IPCA monthly 1 change. Education, which increased 0.4% in March compared to 5.3% in February, contributed significantly to the deceleration in market prices.
@@ -12,23 +16,19 @@
 
 7. IPC-Br core inflation, calculated by the Getúlio Vargas Foundation (FGV) under the symmetric trimmed means method, reached 0.49% in March from 0.36% in February, for a cumulative twelve-month increase of 5.68%.
 
-8. The IPCA diffusion index fell for the second consecutive month, reaching 63.9% in March (64.6% in February and 73.2% in January). Assessment of Inflation Trends
+8. The IPCA diffusion index fell for the second consecutive month, reaching 63.9% in March (64.6% in
 
-9. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations used the following assumptions:
+February and 73.2% in January).
 
-a) The projection for the adjustment of both gasoline and bottled gas prices for 2005 remained unchanged at 0%;
+Assessment of Inflation Trends
 
-b) Projections for adjustments of fixed telephone rates for 2005 fell to 7.9% from 8.7% as of the previous meeting, while projections for adjustments of household electricity increased to 10.8% from 9.5%;
-
-c) For all regulated prices, which represented a total weight of 29.4% in the March IPCA, a 7.2% increase is projected for 2005 (0.3 p.p above the prior projection);
-
-d) The projection for regulated price adjustments in 2006, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the change in the IGP-DI, stands at 5.1%;
-
-e) The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Selic and the swap rates on the eve of the Copom meeting, increases from 34 basis points in the second quarter of 2005 to 44 basis points in the last quarter of 2006. 2
+9. The inflation shocks and their impacts were reassessed according to newly available information. The scenario considered in the simulations used the following assumptions: a) The projection for the adjustment of both gasoline and bottled gas prices for 2005 remained unchanged at 0%; b) Projections for adjustments of fixed telephone rates for 2005 fell to 7.9% from 8.7% as of the previous meeting, while projections for adjustments of household electricity increased to 10.8% from 9.5%; c) For all regulated prices, which represented a total weight of 29.4% in the March IPCA, a 7.2% increase is projected for 2005 (0.3 p.p above the prior projection); d) The projection for regulated price adjustments in 2006, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market price inflation, and the change in the IGP-DI, stands at 5.1%; e) The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Selic and the swap rates on the eve of the Copom meeting, increases from 34 basis points in the second quarter of 2005 to 44 basis points in the last quarter of 2006. 2
 
 10. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of GDP for 2005 and 2006 will be achieved. The related assumptions considered in the March Copom meeting were maintained.
 
-11. Assuming the maintenance of the Selic rate at 19.25% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.60), the IPCA inflation rate was projected above the 5.1% objective for 2005, but below the 4.5% central target for 2006. Using the consensus Selic rate and exchange rate projections compiled by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation was also projected above the 2005 objective and above the 2006 central target. Monetary Policy Decision
+11. Assuming the maintenance of the Selic rate at 19.25% p.a. and the exchange rate at the level prevailing on the eve of the Copom meeting (R$/US$2.60), the IPCA inflation rate was projected above the 5.1% objective for 2005, but below the 4.5% central target for 2006. Using the consensus Selic rate and exchange rate projections compiled by the BCB’s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation was also projected above the 2005 objective and above the 2006 central target.
+
+Monetary Policy Decision
 
 12. IPCA inflation rose 0.61% in March, virtually unchanged compared to the two previous months. The March IPCA was significantly influenced by adjustments in urban bus fares and water and sewage fees. On the other hand, the impact of the annual adjustment of school tuition fees dissipated, and as a result, market prices decelerated, especially non-tradables. Even though inflation remained at a level similar to that of January and February, a reduction in the number of items registering price increases occurred, as had happened in February.
 
@@ -58,9 +58,7 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 25. Under the benchmark scenario – which assumes the maintenance of the Selic rate at 19.25% p.a. and the exchange rate at R$/US$ 2.60 during the forecast period – projected inflation rose in comparison to the March meeting projection, standing above the 5.1% objective for the year. The deterioration was due to a range of factors, such as the revision of estimates for regulated price changes in 2005, which resulted mainly in an upward adjustment to April inflation estimates. The forecasts based on the market scenario – which incorporates the consensus exchange rate and Selic rate trajectories on the eve of the Copom meeting – exceeded the benchmark scenario forecast, and also rose relative to the previous month, due to the same reasons stated for the benchmark scenario. For 2006, the inflation forecasts declined, with the benchmark scenario forecast below the target established by the National Monetary Council (CMN) for the year, and the market scenario forecast above the target. The improvement in projections for 2006 reflects the longer time horizon for the consolidation of the effects of the monetary tightening process begun in September 2004.
 
-26. The Copom also analyzed inflation forecasts for the 12-month periods ending in March, June and September of 2006. The results for these periods will be more responsive to current monetary policy decisions than those of calendar year 2005, and the available inflation projections are more reliable than those for calendar year
-
-2006. The benchmark scenario forecast for the twelve-month period ending in March 2006 is above the value interpolated from the 5.1% inflation objective for 2005 and the 4.5% target for 2006. This forecast is also above the forecast made at the March meeting. On the other hand, the benchmark scenario forecasts for the twelve-month periods ending in June and September are below the inflation target path for these periods. The forecast for the twelve-month period ending in June is the same of that made at the March meeting, while the forecast for the twelve-month period ending in September is below the estimate made at that time.
+26. The Copom also analyzed inflation forecasts for the 12-month periods ending in March, June and September of 2006. The results for these periods will be more responsive to current monetary policy decisions than those of calendar year 2005, and the available inflation projections are more reliable than those for calendar year 2006. The benchmark scenario forecast for the twelve-month period ending in March 2006 is above the value interpolated from the 5.1% inflation objective for 2005 and the 4.5% target for 2006. This forecast is also above the forecast made at the March meeting. On the other hand, the benchmark scenario forecasts for the twelve-month periods ending in June and September are below the inflation target path for these periods. The forecast for the twelve-month period ending in June is the same of that made at the March meeting, while the forecast for the twelve-month period ending in September is below the estimate made at that time.
 
 27. The Committee reaffirms that, as stated in the February and March Minutes, the effects of the monetary tightening begun last September are already influencing first quarter inflation results as well as future inflation expectations. Economic activity continues to expand, although at a slower pace and more in line with supply conditions, so that there are no significant pressures on inflation. However, as in the March meeting, the Copom identified some factors that heightened the risks to inflation convergence with the target path. These risks are associated with the persistence of some isolated pressures on current inflation and the deterioration in the external 5 environment, given the persistence of high oil prices and the possibility of ongoing volatility in international capital markets.
 
@@ -68,7 +66,9 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 29. Due to the short-term risks and their persistence in recent months, the Copom assessed that just maintaining rates for a sufficiently long time at the level established in the March meeting would not ensure inflation convergence to the target path. Thus, the Committee's members unanimously decided to increase the Selic rate target to 19.50% p.a., without bias, and closely follow the inflation outlook until the next meeting, to then define the next steps in the monetary policy strategy implemented since September. As highlighted in the March Copom Minutes, the monetary authority must remain ready to adapt the pace and magnitude of the interest rate adjustment process to the prevailing circumstances, in case of an exacerbation of the inflation risk factors.
 
-30. At the conclusion of the meeting, it was announced that the Copom will reconvene on May 17 for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 6 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+30. At the conclusion of the meeting, it was announced that the Copom will reconvene on May 17 for technical presentations, and on the following day to discuss the monetary policy decision, as established in Communiqué 12,631 of October 29, 2004. 6 SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 31. Seasonally adjusted retail sales fell 3.2% in February, month-on-month, according to the IBGE nationwide survey. Among all sectors included in the index, only furniture and appliance sales expanded in the period (0.7%). Autos, motorcycle and spare parts sales, which are not included in the general index, declined 4.8%. Despite the negative February result, sales increased in the first two months of the year, although showing signs of accommodation. Still under the effects of the high increase in December sales, the three-month moving average reached a record level in February and expanded 8.9% in the last twelve months.
 
@@ -88,13 +88,17 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 39. CNI manufacturing data showed an increase of 1% in real industrial sales and a decline of 0.2% in hours worked in February, on a month-on-month seasonally adjusted basis. Compared to the same month of 2004, real industrial sales and hours worked increased 5.9% and 7.2%, respectively. Installed capacity utilization reached 81.9% in February, with a 0.3% decline in the month-on-month seasonally adjusted series, and an increase of 1.1% compared to the same month of 2004.
 
-40. Leading indicators for the industrial sector suggest some recovery in March compared to February. Particularly notable are the strong growth rates in automotive production, the highest level since January 1979, and the strong growth of corrugated cardboard shipments. Labor Market
+40. Leading indicators for the industrial sector suggest some recovery in March compared to February. Particularly notable are the strong growth rates in automotive production, the highest level since January 1979, and the strong growth of corrugated cardboard shipments.
+
+Labor Market
 
 41. In February, formal employment rose 0.2% (seasonally adjusted, month-on-month) according to the Ministry of Labor and Employment. Compared to the same month of 2004, there was a 6.2% expansion in formal employment, with the creation of 1,473 thousand jobs, led by manufacturing.
 
 42. According to the IBGE survey in the six main metropolitan regions of the country, the unemployment rate reached 10.6% in February, versus 10.2% in January and 12% in February last year. The increase in unemployment was seasonal, with a 5.0% monthly increase in the number of unemployed individuals and a 0.3% decline in the number of employed individuals. The labor force, estimated at 21.7 million individuals, increased 0.2% in February.
 
-43. In the industrial sector, according to the CNI indices seasonally adjusted by the BCB, employment rose 0.2% and real payrolls were unchanged in February, on a month-on-month basis. Compared to the same month of 2004, real payroll and employed workers grew 8.1% and 6.8%, respectively. Credit and Delinquency Rates
+43. In the industrial sector, according to the CNI indices seasonally adjusted by the BCB, employment rose 0.2% and real payrolls were unchanged in February, on a month-on-month basis. Compared to the same month of 2004, real payroll and employed workers grew 8.1% and 6.8%, respectively.
+
+Credit and Delinquency Rates
 
 44. Non-earmarked credit grew 2.1% in March. Credit operations with individuals increased 3.5%, driven mainly by the expansion in personal credit, as a result of the increase in payroll-deducted loans. Corporate credit with domestic funding expanded by 0.9%, while corporate credit with external funding increased 1.9%.
 
@@ -102,7 +106,9 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 46. The default rate on non-earmarked credit (considering payments delinquent for 15 days or more) stood at 12.7% in March, a 0.3 p.p. increase month-on-month. The corporate default rate rose to 3.8% in March from 3.7% in February.
 
-47. The retail sales default rate measured by the ACSP declined to 6.4% in March, from 7.0% in February, roughly the same level of March last year (6.5%). The number of new negative registers rose 21.6%, while the number of cancelled registrations increased 23.2%. In the year to March, the average default rate stood at 6.0%, versus 6.1% in the first quarter of 2004. The number of returned checks, compared to the total number of checks, reached 6.3% in March, the highest rate ever. External Environment
+47. The retail sales default rate measured by the ACSP declined to 6.4% in March, from 7.0% in February, roughly the same level of March last year (6.5%). The number of new negative registers rose 21.6%, while the number of cancelled registrations increased 23.2%. In the year to March, the average default rate stood at 6.0%, versus 6.1% in the first quarter of 2004. The number of returned checks, compared to the total number of checks, reached 6.3% in March, the highest rate ever.
+
+External Environment
 
 48. Global economic growth was robust in 2004, presenting the highest rate in the last fifteen years, driven by the United States and China. For 2005, the forecast is for lower, but sustained growth; however, projections point to less evenly distributed growth across countries. The United States and China will continue to lead the global expansion, whereas Japan and the Euro Area are expected to post more moderate growth.
 
@@ -112,7 +118,9 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 51. Despite the pressures from commodity price increases, especially metals and oil, there has not been an acceleration of inflation in the main economies, with consumer price indices remaining within the limits established by the monetary authorities.
 
-52. In the international financial markets, yields on 10-year U.S. Treasuries fell in late-March (after rising in late-January), with significant volatility in the period. The moves in U.S. Treasuries affected emerging market debt, which recorded volatility and relative deterioration at the beginning of April. Foreign Trade and Balance of Payments
+52. In the international financial markets, yields on 10-year U.S. Treasuries fell in late-March (after rising in late-January), with significant volatility in the period. The moves in U.S. Treasuries affected emerging market debt, which recorded volatility and relative deterioration at the beginning of April.
+
+Foreign Trade and Balance of Payments
 
 53. In March, the Brazilian trade balance posted record highs – on monthly, year-through-March accumulated, and twelve-month accumulated bases. In the month, the trade balance posted a US$3.3 billion surplus. Exports and imports rose 22.0% and 15.5%, respectively, compared to March 2004 daily averages, to reach US$9.3 billion and US$5.9 billion. In twelve months, the trade balance and total external trade reached US$35.9 billion and US$167.1 billion, respectively. In the first eleven working days of April, the trade balance totaled US$2.3 billion, with exports and imports growing by 42.0% and 12.2%, respectively, compared to April 2004 daily averages.
 
@@ -120,7 +128,9 @@ e) The projection for the 6-month spread over the Selic rate, following the spec
 
 55. Import growth in March and in the first quarter of 2005 was broadly disseminated, with notable increases in imports of fuel and lubricants (41.6%), capital goods (27.4%), non-durable consumer goods (26.6%), and raw- material and intermediate goods (17.5%), compared to the daily averages of the same period of 2004.
 
-56. International reserves increased US$2.9 billion in March, to US$62.0 billion, while adjusted net reserves stood at US$39.5 billion, recording a US$4.7 billion increase compared to the same period of 2004. Money Market and Open Market Operations
+56. International reserves increased US$2.9 billion in March, to US$62.0 billion, while adjusted net reserves stood at US$39.5 billion, recording a US$4.7 billion increase compared to the same period of 2004.
+
+Money Market and Open Market Operations
 
 57. After the March Copom meeting, the yield curve shifted upward in response to the Committee decision, rising inflation expectations, and concerns regarding the external outlook. The upward shift was partially reversed, especially in the short end, by the release of both the March Copom Minutes and the IPCA-15 result. However, the subsequent release of higher-than-expected headline and core inflation results put pressure on future interest rates, while IBGE’s announcement of production and retail sales data put opposite pressure on rates. The volatility in the external outlook and the increase in risk-aversion also affected the long end of the yield curve. As a result, the increase of the yield curve between the March and April meetings was higher in the long end of the yield curve. Between March 16 and April 20, 1-month and 6-month interest rates increased by 0.39 p.p. and 0.48 p.p., respectively, while 1-year, 2-year and the 3-year rates increased by 0.58 p.p., 0.68 p.p. and 0.85 p.p., respectively. In the same period, the real interest rate measured by the ratio between the one-year nominal interest rate and the 12-month-ahead inflation expectations reached 12.86% from 12.42%. 9
 

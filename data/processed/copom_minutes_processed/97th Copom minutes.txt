@@ -1,3 +1,7 @@
+The members of the Monetary Policy Committee analyzed the recent performance of and prospects for the Brazilian and international economies under the monetary policy framework, which is designed to comply with the inflation targets established by the government.
+
+Recent Evolution of Inflation
+
 1. In May, the main inflation indicators increased, mainly due to specific pressures on fresh food prices, harshly affected by climate adversities. The Broad National Consumer Price Index (IPCA) rose 0.51%, compared to a 0.37% increase in April, accumulating a 2.75% change in the year up to May. The IPCA change in the last twelve months stood at 5.15%, the lowest variation since the adoption of the inflation-targeting regime in 1999.
 
 2. The General Price Index (IGP-DI) rose by 1.46% in May, compared to 1.15% in April, totaling a 5.54% change in the first five months of 2004. The IGP-DI acceleration was due not only to wholesale-prices inflation (1.71%), but also to stronger pressures from consumer prices (0.71%) and construction industry costs (1.83%). The variation of the IGP-DI and of the Wholesale Price Index (IPA-DI) in the last twelve months to May stood at 7.97% and 8.76%, respectively. 1
@@ -14,15 +18,17 @@
 
 8. The IPC-Br core inflation measure, calculated by the Getúlio Vargas Foundation (FGV) under the symmetric trimmed-mean method, stood at 0.57% in May, accumulating 6.64% in 12 months.
 
-9. In June, inflation should be influenced by the increase in the prices of gasoline (the readjustment to consumers, effective since June 15th, is expected to average 4.5%) and of fuel-alcohol, still recovering from the significant price decrease that took place from February to April. Food prices are also expected to continue affecting inflation, especially meat and dairy products, due to the beginning of the inter-harvest period. As to the wholesale, besides the agricultural price pressures, some deceleration in the industrial price variation is expected, apart from fuel. Assessment of Inflation Trends
+9. In June, inflation should be influenced by the increase in the prices of gasoline (the readjustment to consumers, effective since June 15th, is expected to average 4.5%) and of fuel-alcohol, still recovering from the significant price decrease that took place from February to April. Food prices are also expected to continue affecting inflation, especially meat and dairy products, due to the beginning of the inter-harvest period. As to the wholesale, besides the agricultural price pressures, some deceleration in the industrial price variation is expected, apart from fuel.
+
+Assessment of Inflation Trends
 
 10. The identified shocks and their impacts were reassessed according to new available information. The scenario considered in the simulations assumes the following hypotheses: a. The projections for the evolution of gasoline and bottled cooking gas prices in 2004 were maintained at 9.5% and 6.9%, respectively; b. The projections for household electricity prices were maintained at 11% for 2004. Yet, for fixed telephone prices, the Copom revised the adjustment estimate to 6.1% for the year, 0.6 p.p. lower than in the previous meeting; c. Regarding all regulated prices, with a total weight of 28.6% in the May IPCA, a 7.7% rise is projected, the same as in the previous meeting; 2 d. The projection for the readjustment of all regulated prices for 2005, following the model of endogenous determination, which takes into account seasonal components, the exchange rate, market prices inflation and the IGP-DI change, was maintained at 6.0%; e. The projection for the 6-month spread over the Selic rate, following the specification of a Vector Autoregressive model based on the Selic and the swap rates on the eve of the Copom meeting, increases from 39 basis points in the second quarter of 2004 to 60 basis points in the fourth quarter of 2005.
 
 11. Regarding fiscal policy, it is assumed that the consolidated public sector primary surplus target of 4.25% of the GDP for 2004 and the following two years will be achieved. The related assumptions considered in the previous meeting were maintained.
 
-12. Considering the benchmark scenario hypotheses, including the maintenance of the Over-Selic rate at 16.0% p.a. and the exchange rate at the level observed on the eve of the Copom meeting (R$3.10), the IPCA inflation was projected above the 5.5% target for 2004 and below the 4.5% target for 2005. According to the market scenario, which takes into account the consensus exchange rate and Over-Selic rate as surveyed by the BCB´s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation is projected above the central targets for both 2004 and
+12. Considering the benchmark scenario hypotheses, including the maintenance of the Over-Selic rate at 16.0% p.a. and the exchange rate at the level observed on the eve of the Copom meeting (R$3.10), the IPCA inflation was projected above the 5.5% target for 2004 and below the 4.5% target for 2005. According to the market scenario, which takes into account the consensus exchange rate and Over-Selic rate as surveyed by the BCB´s Investor Relations Group (Gerin) on the eve of the Copom meeting, inflation is projected above the central targets for both 2004 and 2005.
 
-2005. Monetary Policy Decision
+Monetary Policy Decision
 
 13. In May, the IPCA inflation edged up in comparison to April but it did not deviate from market consensus. Similar to previous months, the strongest pressure stemmed from market prices. For the second consecutive month, tradable prices presented a higher increase than non-tradable prices. An unusual feature was the unfavorable trend in food prices. Other national consumer-price indices also edged up in May, like the IPC-DI (up 0.71% from 0.31% in April). Wholesale inflation also increased but, contrary to previous months, the main pressure stemmed from agriculture prices, while industrial prices changes decelerated. The pass-through of wholesale prices to consumer prices remains below usual. Wholesale-industrial prices should continue to decelerate due to the recent trend of commodity prices. Agriculture prices, however, represent an important source of pressure over inflation in the short run, larger than the seasonal pattern at this time of the year.
 
@@ -46,9 +52,7 @@
 
 23. Since the meeting in April, the Copom has assessed inflation prospects based on the assumption of a low degree of persistence of the first quarter inflation, as observed in previous years when there was a seasonal relief in market prices inflation in the second and third quarters. Considering the inflation in April and May, and the non-usual increase of market-prices inflation in May, the Copom assessed with greater emphasis the inflation projections made without the assumption of low persistence. Inflation projections in the benchmark scenario, based on an unchanged Over- Selic rate at 16.0% and the exchange rate at R$3.10/US$ throughout the projection horizon, point out to an inflation rate above the target of 5.5% for 2004 and below the target of 4.5% for 2005. In the market scenario, which takes into account the exchange rate and Over-Selic rate expected by the market on the eve of the Copom meeting, inflation projections remain above the targets for 2004 and 2005. Compared to May, there was a slight increase in the projections for 2004 in both scenarios, basically caused by the higher inflation expectations for 2004 and 2005.
 
-24. As in the previous meeting, the Copom also considered the inflation projections for the next 12 months, corresponding to the second half of 2004 and the first half of 2005. This is a period when inflation outcomes will be more sensitive to monetary decisions taken in the next few months, and at the same time, it presents more reliable inflation projections than the ones already available for
-
-2005. Projected inflation for this 12-month period, on both the benchmark and market scenarios, remains within the central targets established by the National Monetary Council for 2004 and 2005.
+24. As in the previous meeting, the Copom also considered the inflation projections for the next 12 months, corresponding to the second half of 2004 and the first half of 2005. This is a period when inflation outcomes will be more sensitive to monetary decisions taken in the next few months, and at the same time, it presents more reliable inflation projections than the ones already available for 2005. Projected inflation for this 12-month period, on both the benchmark and market scenarios, remains within the central targets established by the National Monetary Council for 2004 and 2005.
 
 25. In an inflation-targeting regime, the Central Bank policy-making process is based on the assessment of different scenarios for the most important variables affecting inflation dynamics. The current uncertainties concerning the external scenario have been responsible for a short-term volatility that tends to increase inflation uncertainty. As a consequence, the coordination of private agent's inflation expectations became more difficult. The inflation rate increase in the short-term, caused by either seasonal factors or financial assets prices volatility, should not contaminate private expectations for longer periods. Like in the previous meeting, the Committee assessed that the macroeconomics perspectives for the medium-term are still favorable. In the short-term, however, inflation expectations have become a relatively more important risk factor than in the last month.
 
@@ -56,7 +60,9 @@
 
 27. As a result, the Committee decided, unanimously, to maintain the target for the Over-Selic rate at 16.0% p.a., without bias.
 
-28. At the closing of the meeting, it was announced that the Copom would meet again on July 21, for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in Communiqué 11,516, of October 15, 2003. 5 SUMMARY OF DATA ANALYZED BY THE COPOM Economic Activity
+28. At the closing of the meeting, it was announced that the Copom would meet again on July 21, for technical presentations and on the following day, in order to discuss the monetary policy decision, as established in Communiqué 11,516, of October 15, 2003. 5 SUMMARY OF DATA ANALYZED BY THE COPOM
+
+Economic Activity
 
 29. Retail sales continued to expand in April, according to the IBGE’s retail survey. Sales and nominal revenues increased 9.9% and 9.2%, respectively, in comparison to April 2003. In the year up to April, sales and nominal revenues rose 8.0% and 9.6%, respectively.
 
@@ -70,19 +76,25 @@
 
 34. In April, the National Industry Confederation (CNI) recorded a 3.7% increase in real sales and a 1.9% increase in worked hours, in comparison to March, seasonally adjusted. Compared to the first four months of 2003, real sales and worked hours increased 13.6% and 2.8%, respectively. The level of capacity utilization declined 0.1% month-on-month in April, but increased 1.3% in the year up to April, compared to the same period of 2003.
 
-35. The car industry produced 177,000 vehicles in May, up 3.9% compared to April and 7.7% above May 2003, seasonally adjusted. In the year up to May, output increased 12.1%, and domestic sales and exports expanded 18.7% and 4.2%, respectively, compared to the same period of the previous year. Labor Market
+35. The car industry produced 177,000 vehicles in May, up 3.9% compared to April and 7.7% above May 2003, seasonally adjusted. In the year up to May, output increased 12.1%, and domestic sales and exports expanded 18.7% and 4.2%, respectively, compared to the same period of the previous year.
+
+Labor Market
 
 36. The formal employment index increased 0.4% month-on-month in April (seasonally adjusted), and 3.9% year-on-year, according to the Ministry of Labor and Employment. In 2004, there has been an expansion of 2.3% in formal employment, compared to December 2003. The data indicate that hiring has increased at a higher pace outside large urban areas, where employment increased 2.7% in the year up to April, whereas in the main metropolitan areas the growth rate stood at 1.9%.
 
 37. The unemployment rate measured by IBGE in 6 metropolitan areas increased to 13.1% in April, despite the 0.7% increase in the number of employed workers. In April, the labor force rose 1%, 6 and the number of unemployed increased 3.2%. Also in April, IBGE recorded a 0.7% fall in average real earnings, compared to March.
 
-38. According to CNI seasonally adjusted data, employed workers and real payroll in the industrial sector remained stable in April, compared to the previous month. For the January-April period, real payroll and employed workers increased 7.1% and 0.4%, respectively, compared to the same period of 2003. Credit and Delinquency Rates
+38. According to CNI seasonally adjusted data, employed workers and real payroll in the industrial sector remained stable in April, compared to the previous month. For the January-April period, real payroll and employed workers increased 7.1% and 0.4%, respectively, compared to the same period of 2003.
+
+Credit and Delinquency Rates
 
 39. Non-earmarked credit operations grew 3.6% in May. Corporate credit with external and domestic funding increased 2.3% and 7.6%, respectively, while individuals credit outstanding increased 2.5% in May.
 
 40. The average interest rate on non-earmarked credit registered a decrease of 0.5 p.p. in May, reaching 44.2% p.a. The result was due to a decline of 0.9 p.p. in the average lending rates to individuals, to 62.4% p.a., while the average rate to companies presented a slight increase of 0.1p.p. to 30.0% p.a. The decrease in the average interest rate to individuals reflected mainly an increase of credit operations with payroll-deducted repayments.
 
-41. Regarding delinquency in the retail sector, there was an increase of 11.6% in the number of cancelled files and stability in the number of new registers in May, compared to the previous month. As a consequence, the net default rate, measured by ACSP, decreased to 5.1% in May from 6.4% in April. The average default rate in the first 5 months of the year stood at 6.0%, 0.5 p.p. lower than the level observed in the same period of 2003. External Environment
+41. Regarding delinquency in the retail sector, there was an increase of 11.6% in the number of cancelled files and stability in the number of new registers in May, compared to the previous month. As a consequence, the net default rate, measured by ACSP, decreased to 5.1% in May from 6.4% in April. The average default rate in the first 5 months of the year stood at 6.0%, 0.5 p.p. lower than the level observed in the same period of 2003.
+
+External Environment
 
 42. World economic growth has continued to gain momentum, despite the geopolitical risks. In Japan, GDP growth was revised upwards in the last two quarters. Meanwhile, other indicators have been confirming the economic rebound, mainly boosted by the vigorous regional trade. In the U.S., the latest economic indicators have ratified economic expansion, particularly those related to the labor market. Recovery in Europe, however, has persisted sluggish.
 
@@ -90,11 +102,17 @@
 
 44. Market volatility has decreased in the latest few weeks. However, adjustments in financial prices continue, anticipating the effects of the expected rise in the US fed funds and the measures adopted by the Chinese government to reduce the country growth pace. Markets have stabilized in emerging economies, giving way to a slight recovery of the stock markets and an appreciation of the currencies against the U.S. dollar. The dollar has continued to appreciate against strong currencies, in spite of the fiscal and trade deficits experienced by the U.S. economy.
 
-45. Commodities prices fell in May, but the upward trend prevailing until the end of March has kept prices above their historical average. Oil price pressures continued up to the beginning of June, mainly as a result of political tensions in the Middle East and of high global demand. In order to+ help preventing prices from moving upwards, OPEC decided to increase production from July 1st by 2 million barrels/day, which may be supplemented by other 500 thousand barrels/day from August on. 7 Foreign Trade and Balance of Payments
+45. Commodities prices fell in May, but the upward trend prevailing until the end of March has kept prices above their historical average. Oil price pressures continued up to the beginning of June, mainly as a result of political tensions in the Middle East and of high global demand. In order to+ help preventing prices from moving upwards, OPEC decided to increase production from July 1st by 2 million barrels/day, which may be supplemented by other 500 thousand barrels/day from
+
+August on. 7
+
+Foreign Trade and Balance of Payments
 
 46. The Brazilian trade balance posted a US$3.1 billion surplus in May, when the total external trade reached US$12.8 billion. Exports and imports increased 24.6% and 25.1%, respectively, compared to the May 2003 daily averages. In the first two weeks of June (8 working days), the trade surplus totaled US$1.3 billion, with exports and imports increasing by 44.9% and 48.6%, respectively, compared to the average figures of June 2003.
 
-47. In May, the current account registered a US$1.4 billion surplus, accumulating a US$2.4 billion surplus in the year. In the period, the trade balance posted a US$11.2 billion surplus while the services and income account presented a US$10.2 billion deficit. Net FDI inflows reached US$207 million in May, accumulating US$3.3 billion in the year, equivalent to the amount registered in the same period of last year. At the end of May, international reserves reached US$50.5 billion, while net reserves stood at US$22.2 billion (IMF concept). Money Market and Open Market Operations
+47. In May, the current account registered a US$1.4 billion surplus, accumulating a US$2.4 billion surplus in the year. In the period, the trade balance posted a US$11.2 billion surplus while the services and income account presented a US$10.2 billion deficit. Net FDI inflows reached US$207 million in May, accumulating US$3.3 billion in the year, equivalent to the amount registered in the same period of last year. At the end of May, international reserves reached US$50.5 billion, while net reserves stood at US$22.2 billion (IMF concept).
+
+Money Market and Open Market Operations
 
 48. Over the past weeks, there has been high volatility in the yield curves. From the last Copom meeting, the 3-month and 6-month rates have increased 0.21 p.p. and 0.11 p.p. respectively, influenced by the revision of inflation expectations. On the other hand, the 1-year and 2-year rates have decreased 0.16 p.p. and 0.62 p.p. respectively.
 
