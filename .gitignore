@@ -1,6 +1,6 @@
 
 data/econ/
-data/future_interest_rate/
+data/future_interest_rates/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
